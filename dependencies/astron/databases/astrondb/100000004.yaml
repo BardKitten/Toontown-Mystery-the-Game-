@@ -1,0 +1,12 @@
+id: 100000004
+class: Account
+fields:
+  ACCOUNT_AV_SET: "[0, 100000005, 0, 0, 0, 0]"
+  ESTATE_ID: 0
+  ACCOUNT_AV_SET_DEL: "[]"
+  CREATED: "\"Mon Sep 07 08:35:44 2015\""
+  LAST_LOGIN: "\"Mon Sep 07 08:40:37 2015\""
+  ACCOUNT_ID: "\"Moonman\""
+  ACCESS_LEVEL: 700
+  LAST_LOGIN_TS: 1441629638
+  CHAT_SETTINGS: "[1, 1]"

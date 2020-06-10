@@ -1,0 +1,55 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x19FD9A30>}
+__handleAvatarChooserDone: 100000046, 'Super Duck', ('fsl', 'ms', 's', 'm', (0.3, 0.96, 0.4, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.96, 0.4, 1.0), (0.3, 0.96, 0.4, 1.0), 0, 7, 0, 7, 0, 17), 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x15351770>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x15351670>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+spec = {'parentEntId': 10037, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10660, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10661, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 20058, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10662, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10030, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10023, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10032, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10036, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10034, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10663, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None

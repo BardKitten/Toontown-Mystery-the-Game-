@@ -1,0 +1,210 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1D0DB7D8>}
+__handleAvatarChooserDone: 100000168, 'Coe', ('fss', 'ss', 's', 'm', (0.0, 0.4, 0.64, 1.0), (1.0, 1.0, 1.0, 1.0), (0.0, 0.4, 0.64, 1.0), (0.0, 0.4, 0.64, 1.0), 19, 10, 13, 10, 1, 11), 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+### newVec3 =  LVector3f(-1.99998, 6.3, 1.5)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0.375)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0)
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+hit! 0.742228150368
+hit! 0.304347455502
+hit! 0.893256604671
+hit! 0.957946360111
+hit! 0.837028026581
+hit! 0.403663873672
+hit! 0.982182085514
+hit! 0.46923622489
+--not hard enough: 0.392199277878
+--not hard enough: 0.430083245039
+hit! 0.604033052921
+hit! 0.96867442131
+hit! 0.217988371849
+hit! 0.32768574357
+hit! 0.876927375793
+hit! 0.385482281446
+hit! 0.882518410683
+hit! 0.504740059376
+hit! 0.98315423727
+hit! 0.900782167912
+hit! 0.168851599097
+hit! 0.984770953655
+hit! 0.380012124777
+hit! 0.634865045547
+--not hard enough: -0.372504383326
+--not hard enough: -0.0853918492794
+--not hard enough: -0.469253927469
+--not hard enough: 0.425676137209
+--not hard enough: -0.563812196255
+hit! 0.927584946156
+hit! 0.721026837826
+hit! 0.849623024464
+hit! 0.474706351757
+hit! 0.857411980629
+hit! 0.670591115952
+hit! 0.924507200718
+hit! 0.359112471342
+hit! 0.969512939453
+--not hard enough: -0.0301948841661
+hit! 0.743505716324
+hit! 0.932244837284
+hit! 0.886849939823
+--not hard enough: 0.0161583181471
+--not hard enough: 0.317947208881
+hit! 0.992850422859
+hit! 0.965892910957
+hit! 0.586972415447
+--not hard enough: -0.874266088009
+hit! 0.89321154356
+--not hard enough: -0.195127725601
+hit! 0.881435334682
+--not hard enough: -0.0403274409473
+hit! 0.795643925667
+--not hard enough: -0.621960103512
+--not hard enough: 0.423463344574
+hit! 0.508131742477
+hit! 0.54496628046
+hit! 0.878971576691
+hit! 0.693605601788
+--not hard enough: -0.0191711857915
+--not hard enough: -0.089004971087
+hit! 0.935450136662
+hit! 0.95626026392
+hit! 0.302720993757
+hit! 0.970787525177
+hit! 0.996003389359
+hit! 0.898311018944
+hit! 0.857963681221
+hit! 0.480267643929
+hit! 0.842894375324
+hit! 0.0198303479701
+hit! 0.997692286968
+hit! 0.587750613689
+hit! 0.965771913528
+hit! 0.999039053917
+hit! 0.466579049826
+hit! 0.990371584892
+hit! 0.878718674183
+hit! 0.851903676987
+hit! 0.0713517069817
+--not hard enough: -0.664119720459
+--not hard enough: -0.198681861162
+--not hard enough: -0.284817636013
+hit! 0.947475969791
+hit! 0.779112279415
+hit! 0.83846193552
+hit! 0.941099047661
+hit! 0.61341303587
+hit! 0.974478185177
+hit! 0.958820581436
+hit! 0.114653274417
+hit! 0.997202336788
+--not hard enough: 0.468065232038
+--not hard enough: -0.70768392086
+hit! 0.832605063915
+hit! 0.970951199532
+--not hard enough: 0.372473746538
+--not hard enough: -0.631274342537
+hit! 0.999727785587
+hit! 0.950189113617
+hit! 0.999939680099
+hit! 0.811325728893
+hit! 0.99495613575
+--not hard enough: -0.826683402061
+hit! 0.658873081207
+hit! 0.467507719994
+hit! 0.410074412823
+hit! 0.965761959553
+hit! 0.946227252483
+hit! 0.959584355354
+hit! 0.868704497814
+hit! 0.408461689949
+hit! 0.970548987389
+--not hard enough: 0.0452153235674
+--not hard enough: -0.505076944828
+hit! 0.68726837635
+hit! 0.773613393307
+hit! 0.959324479103
+--not hard enough: -0.439566075802
+hit! 0.603778958321
+hit! 0.988272607327
+--not hard enough: 0.0290040690452
+--not hard enough: -0.31533062458
+hit! 0.918601334095
+hit! 0.82373636961
+hit! 0.699629366398
+hit! 0.390416622162
+hit! 0.975442409515
+hit! 0.808693945408
+hit! 0.730704069138
+hit! 0.551240384579
+hit! 0.950456380844
+hit! 0.945531129837
+hit! 0.610242009163
+hit! 0.292972803116
+hit! 0.934228181839
+hit! 0.891909360886
+hit! 0.873294174671
+hit! 0.886863529682
+hit! 0.593425929546
+hit! 0.992540538311
+hit! 0.973630726337
+hit! 0.839893460274
+hit! 0.599520623684
+hit! 0.897224724293
+hit! 0.107149653137
+hit! 0.816872775555
+hit! 0.526991665363
+hit! 0.837082803249
+--not hard enough: -0.557770848274
+hit! 0.443930357695
+hit! 0.798555612564
+hit! 0.948558390141
+hit! 0.934634566307
+--not hard enough: -0.549971342087
+hit! 0.70424425602
+hit! 0.961970031261
+hit! 0.416362643242
+hit! 0.573127448559
+hit! 0.426301896572
+hit! 0.236212730408
+hit! 0.991412639618
+hit! 0.466377705336
+hit! 0.438652664423
+--not hard enough: -0.18057590723
+hit! 0.890030503273
+hit! 0.836856424809
+hit! 0.497186422348
+hit! 0.627811968327
+hit! 0.736566185951
+hit! 0.910444974899
+hit! 0.963462114334
+hit! 0.911379933357
+hit! 0.937054634094
+hit! 0.776435256004
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna

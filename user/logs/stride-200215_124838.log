@@ -1,0 +1,207 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x161CE4B8>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+### newVec3 =  LVector3f(2.00002, 11.3, 1.5)
+### newVec3 =  LVector3f(2.00002, 11.3, 0)
+### newVec3 =  LVector3f(2.00002, 11.3, 0.375)
+### newVec3 =  LVector3f(2.00002, 11.3, 0)
+### newVec3 =  LVector3f(2.00002, 6.30001, 1.5)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0.375)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0)
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+### newVec3 =  LVector3f(2.00002, 6.30001, 1.5)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0.375)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0)
+### newVec3 =  LVector3f(2.00002, 11.3, 1.5)
+### newVec3 =  LVector3f(2.00002, 11.3, 0)
+### newVec3 =  LVector3f(2.00002, 11.3, 0.375)
+### newVec3 =  LVector3f(2.00002, 11.3, 0)
+### newVec3 =  LVector3f(2.00002, 11.3, 1.5)
+### newVec3 =  LVector3f(2.00002, 11.3, 0)
+### newVec3 =  LVector3f(2.00002, 11.3, 0.375)
+### newVec3 =  LVector3f(2.00002, 11.3, 0)
+--not hard enough: -0.143871456385
+hit! 0.400761574507
+--not hard enough: 0.026865825057
+hit! 0.667644917965
+hit! 0.92315351963
+hit! 0.58004707098
+hit! 0.759731292725
+hit! 0.828525781631
+hit! 0.895058453083
+hit! 0.269156813622
+hit! 0.851223647594
+hit! 0.784547686577
+hit! 0.707525312901
+hit! 0.642583072186
+hit! 0.653190135956
+hit! 0.800610661507
+hit! 0.484800189734
+hit! 0.205451592803
+hit! 0.786426484585
+hit! 0.882173001766
+hit! 0.219954699278
+--not hard enough: -0.0424358360469
+hit! 0.914332687855
+hit! 0.903889477253
+hit! 0.60294598341
+hit! 0.776686608791
+hit! 0.676354169846
+hit! 0.357234209776
+hit! 0.950144052505
+hit! 0.801581382751
+hit! 0.471592396498
+hit! 0.613219261169
+hit! 0.963528513908
+hit! 0.711071610451
+hit! 0.965426206589
+hit! 0.932050168514
+hit! 0.902955770493
+hit! 0.921685516834
+hit! 0.534040272236
+hit! 0.854290664196
+hit! 0.995253920555
+hit! 0.67966735363
+hit! 0.461775124073
+hit! 0.682577669621
+hit! 0.76127576828
+hit! 0.856506943703
+hit! 0.532977283001
+--not hard enough: -0.84282463789
+hit! 0.947038769722
+hit! 0.56603628397
+hit! 0.926382184029
+--not hard enough: -0.264934122562
+hit! 0.997150659561
+hit! 0.980157136917
+hit! 0.925687968731
+hit! 0.724745512009
+hit! 0.961469233036
+hit! 0.948888599873
+hit! 0.743192076683
+--not hard enough: -0.255664229393
+hit! 0.99555939436
+hit! 0.764994978905
+hit! 0.265133351088
+hit! 0.404882222414
+hit! 0.775011658669
+hit! 0.871534466743
+hit! 0.187243714929
+hit! 0.879285573959
+hit! 0.925755858421
+hit! 0.886377394199
+hit! 0.741095066071
+hit! 0.960648536682
+--not hard enough: -0.139593735337
+hit! 0.888104379177
+hit! 0.719590425491
+--not hard enough: -0.198213174939
+hit! 0.883118867874
+hit! 0.950726032257
+hit! 0.926924645901
+hit! 0.653510332108
+hit! 0.86314201355
+hit! 0.881872475147
+hit! 0.700313568115
+hit! 0.507700800896
+hit! 0.98231112957
+hit! 0.772369086742
+--not hard enough: -0.470667034388
+hit! 0.976951301098
+hit! 0.79578346014
+hit! 0.427020192146
+hit! 0.502176463604
+hit! 0.623218178749
+hit! 0.490068256855
+hit! 0.697322785854
+hit! 0.650778770447
+hit! 0.685807168484
+hit! 0.924489378929
+hit! 0.959856569767
+hit! 0.146246805787
+hit! 0.948978960514
+hit! 0.567403435707
+hit! 0.972652733326
+hit! 0.947489440441
+hit! 0.75966668129
+hit! 0.862115800381
+hit! 0.952752590179
+hit! 0.475915551186
+hit! 0.984994053841
+hit! 0.946639895439
+hit! 0.801549017429
+hit! 0.983348727226
+hit! 0.855439305305
+hit! 0.674733936787
+hit! 0.821066379547
+hit! 0.577845990658
+hit! 0.88122266531
+hit! 0.956145048141
+--not hard enough: -0.0792110189795
+hit! 0.709779143333
+hit! 0.499538809061
+hit! 0.854714810848
+--not hard enough: -0.00101692101452
+hit! 0.971253454685
+--not hard enough: -0.182104587555
+--not hard enough: -0.257203280926
+hit! 0.939390420914
+hit! 0.9860637784
+hit! 0.980662047863
+hit! 0.806694030762
+hit! 0.925733029842
+hit! 0.994276463985
+hit! 0.807325422764
+hit! 0.821127474308
+hit! 0.957779824734
+hit! 0.880092740059
+hit! 0.14901933074
+hit! 0.8014960289
+hit! 0.987190783024
+hit! 0.576015949249
+hit! 0.993967592716
+hit! 0.857896208763
+--not hard enough: -0.471078783274
+hit! 0.838187813759
+hit! 0.84935092926
+hit! 0.892556369305
+hit! 0.882184386253
+hit! 0.955884575844
+hit! 0.918482124805
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna

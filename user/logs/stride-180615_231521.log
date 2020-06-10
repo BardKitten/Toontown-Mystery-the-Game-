@@ -1,0 +1,50 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1BB29B20>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+hit! 0.557659506798
+hit! 0.834604203701
+hit! 0.977926492691
+hit! 0.877089560032
+hit! 0.900682628155
+hit! 0.588074266911
+hit! 0.918403089046
+hit! 0.986883938313
+hit! 0.472775787115
+hit! 0.973805427551
+hit! 0.84624761343
+hit! 0.545674741268
+hit! 0.714695811272
+hit! 0.913557946682
+hit! 0.87245875597
+hit! 0.871897339821
+hit! 0.734830856323
+hit! 0.837426483631
+hit! 0.942276537418
+hit! 0.807418346405
+hit! 0.969542920589
+hit! 0.38730275631
+hit! 0.558835864067
+hit! 0.437370151281
+hit! 0.588591456413
+--not hard enough: 0.0866219326854
+--not hard enough: -0.135111093521
+hit! 0.890291512012
+hit! 0.994477927685
+hit! 0.909114062786
+hit! 0.804952025414
+hit! 0.83057975769
+hit! 0.924720346928
+hit! 0.585274100304
+hit! 0.813141286373

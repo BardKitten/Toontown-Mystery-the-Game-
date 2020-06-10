@@ -1,0 +1,479 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1A14C9B8>}
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2100.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_5.5/dna/storage_estate.pdna
+Reading DNA file... phase_5.5/dna/estate_1.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Exception occurred while processing Func-wrtReparentTo-6032 of movie-track-with-cam-401004864:
+movie-track-with-cam-401004864:
+  0.000 movie-track-with-cam-401004864 {
+  0.000   movie-track-401004864 {
+  0.000     Sequence-6240 {
+  0.000       toon-attacks {
+  0.000         Sequence-6264 {
+  0.000           Sequence-6242 {
+  0.000             Parallel-6244 {
+  0.000             }
+  0.000           }
+  0.000           Parallel-6246 {
+  0.000             Parallel-6251 {
+  0.000               Sequence-6248 {
+  0.000                 *Func-positionDollar-6022
+  0.000                 *Func-wrtReparentTo-6023
+  0.000                 *Actor-1dollar-2018 dur 3
+  3.000                 Sequence-6247 {
+  3.000                   Wait dur 0.0952381
+  3.095                   *Actor-1dollar-2019 dur 0.0333333
+  3.128                   Wait dur 0.0952381
+  3.223                   *Actor-1dollar-2020 dur 0.0333333
+  3.256                   Wait dur 0.0952381
+  3.351                   *Actor-1dollar-2021 dur 0.0333333
+  3.384                   Wait dur 0.0952381
+  3.479                   *Actor-1dollar-2022 dur 0.0333333
+  3.512                   Wait dur 0.0952381
+  3.607                   *Actor-1dollar-2023 dur 0.0333333
+  3.640                   Wait dur 0.0952381
+  3.735                   *Actor-1dollar-2024 dur 0.0333333
+  3.768                   Wait dur 0.0952381
+  3.863                   *Actor-1dollar-2025 dur 0.0333333
+  3.896                   Wait dur 0.0952381
+  3.991                   *Actor-1dollar-2026 dur 0.0333333
+  4.024                   Wait dur 0.0952381
+  4.119                   *Actor-1dollar-2027 dur 0.0333333
+  4.152                   Wait dur 0.0952381
+  4.247                   *Actor-1dollar-2028 dur 0.0333333
+  4.280                   Wait dur 0.0952381
+  4.375                   *Actor-1dollar-2029 dur 0.0333333
+  4.408                   Wait dur 0.0952381
+  4.503                   *Actor-1dollar-2030 dur 0.0333333
+  4.536                   Wait dur 0.0952381
+  4.631                   *Actor-1dollar-2031 dur 0.0333333
+  4.664                   Wait dur 0.0952381
+  4.759                   *Actor-1dollar-2032 dur 0.0333333
+  4.792                   Wait dur 0.0952381
+  4.887                   *Actor-1dollar-2033 dur 0.0333333
+  4.920                   Wait dur 0.0952381
+  5.015                   *Actor-1dollar-2034 dur 0.0333333
+  5.048                   Wait dur 0.0952381
+  5.143                   *Actor-1dollar-2035 dur 0.0333333
+  5.176                   Wait dur 0.0952381
+  5.271                   *Actor-1dollar-2036 dur 0.0333333
+  5.304                   Wait dur 0.0952381
+  5.399                   *Actor-1dollar-2037 dur 0.0333333
+  5.432                   Wait dur 0.0952381
+  5.527                   *Actor-1dollar-2038 dur 0.0333333
+  5.560                   Wait dur 0.0952381
+  5.655                   *Actor-1dollar-2039 dur 0.0333333
+  5.688                 }
+  5.688                 LerpPosInterval-2869: pos from -2 0.2 0 to 0 -10 7 dur 0.2
+  5.888                 *Func-removeProp-6024
+  5.888               }
+  0.000               Sequence-6249 {
+  0.000                 *Func-showProps-6025
+  0.000                 *Actor-fishing-pole-2040 dur 6.58333
+  6.583                 *Func-removeProps-6026
+  6.583               }
+  0.000               Sequence-6250 {
+  0.000                 *Func-headsUp-6027
+  0.000                 *Actor-battlecast-2041 dur 6.54167
+  6.542                 *Func-loop-6028
+  6.542               }
+  0.000               Sequence-6252 {
+  0.000                 *Func-loop-6029
+  0.000                 Wait dur 3.5
+  3.500                 Parallel-6254 {
+  3.500                   Sequence-6253 {
+  3.500                     *Func-safeWrtReparentTo-6030
+  3.500                     Wait
+  3.500                     LerpPosInterval-2870: pos from -2 5.3 0 to -2 6.2 0 dur 1.4
+  4.900                     *Func-safeWrtReparentTo-6031
+  4.900                   }
+  3.500                   *Actor-reach-2042 dur 3.5
+  7.000                 }
+  7.000                 *Func-wrtReparentTo-6032
+  7.000                 *Func-setPos-6033
+  7.000                 *Func-wrtReparentTo-6034
+  7.000                 *Func-loop-6035
+  7.000                 *Func-lureSuit-6036
+  7.000                 Sequence-6255 {
+  7.000                   *Func-reparentTrap-6037
+  7.000                   Parallel-6260 {
+  7.000                     Sequence-6256 {
+  7.000                       Wait dur 0.1
+  7.100                       LerpPosInterval-2871: pos to -2 -2.4 -0.35 dur 0.1
+  7.200                     }
+  7.000                     Sequence-6257 {
+  7.000                       *Actor-banana-2043 dur 1.275
+  8.275                       Wait dur 1.1
+  9.375                       LerpScaleInterval-2872: scale to 0.01 0.01 0.01 dur 1
+ 10.375                     }
+  7.000                     *Actor-slip-backward-2044 dur 4.66667
+  7.000                     Sequence-6258 {
+  7.000                       Wait dur 0.5
+  7.500                       *Func-showHpText-6038 (!oe)
+  7.500                       *Func-updateHealthBar-6039
+  7.500                     }
+  7.000                     Sequence-6259 {
+  7.000                       *Sound-1219 dur 0.55
+  7.550                       *Sound-1220 dur 1.85469
+  9.405                     }
+ 11.667                   }
+ 11.667                   *Func-removeTrap-6040
+ 11.667                   *Func-unlureSuit-6041
+ 11.667                   Parallel-6262 {
+ 11.667                     Sequence-6261 {
+ 11.667                       *Func-setHpr-6042
+ 11.667                       *Actor-walk-2045 dur 0.5
+ 12.167                       *Func-loop-6043
+ 12.167                     }
+ 11.667                     LerpPosInterval-2873: pos to -2 5.3 0 dur 0.5
+ 12.167                   }
+ 12.167                   *Func-loop-6044
+ 12.167                 }
+ 12.167               }
+  0.000               Sequence-6263 {
+  0.000                 Wait dur 0.5
+  0.500                 *Sound-1221 dur 5.40735
+  5.907               }
+ 12.167             }
+ 12.167           }
+ 12.167           Parallel-6245 {
+ 12.167             Parallel-6243 {
+ 12.167             }
+ 12.167           }
+ 12.167         }
+ 12.167       }
+ 12.167       suit-attacks {
+ 12.167         Sequence-6286 {
+ 12.167           Parallel-6278 {
+ 12.167             Sequence-6266 {
+ 12.167               Wait dur 1e-006
+ 12.167               *Func-setChatAbsolute-6049
+ 12.167               *Func-reparentTrap-6050
+ 12.167               *Func-headsUp-6051
+ 12.167               *Actor-rubber-stamp-2046 dur 4.625
+ 16.792               *Func-setHpr-6052
+ 16.792               *Func-returnTrapToSuit-6053
+ 16.792               *Func-clearChat-6054
+ 16.792             }
+ 12.167             Parallel-6276 {
+ 12.167               Sequence-6270 {
+ 12.167                 *Func-headsUp-6071
+ 12.167                 Sequence-6271 {
+ 12.167                   Wait dur 1.9
+ 14.067                   Parallel-6272 {
+ 14.067                     Sequence-6273 {
+ 14.067                       *Actor-sidestep-right-2047 dur 4.41667
+ 18.484                       *Func-loop-6072
+ 18.484                     }
+ 14.067                     Sequence-6274 {
+ 14.067                       Wait dur 0.5
+ 14.567                       *Sound-1222 dur 0.600816
+ 15.168                     }
+ 18.484                   }
+ 18.484                   *Func-loop-6073
+ 18.484                 }
+ 18.484               }
+ 12.167               Sequence-6275 {
+ 12.167                 Wait dur 2.4
+ 14.567                 *Func-indicateMissed-6074
+ 14.567               }
+ 18.484             }
+ 12.167             Sequence-6268 {
+ 12.167               *Func-__showProp-6057
+ 12.167               LerpScaleInterval-2876: scale to 1 1 1 dur 0.5
+ 12.667               Wait dur 2.6
+ 15.267               *Func-needRestoreRenderProp-6058
+ 15.267               *Func-reparentTo-6059
+ 15.267               *Func-setScale-6060
+ 15.267               *Func-setPosHpr-6061
+ 15.267               *Func-setP-6062
+ 15.267               *Func-setR-6063
+ 15.267               Sequence-6269 {
+ 15.267                 *Func-needRestoreRenderProp-6064
+ 15.267                 *Func-wrtReparentTo-6065
+ 15.267                 *LerpPosInterval-2877 dur 0.5
+ 15.767                 *Func-removeProp-6066
+ 15.767                 *Func-clearRenderProp-6067
+ 15.767               }
+ 15.767               *Func-removeProp-6068
+ 15.767               *Func-clearRenderProp-6069
+ 15.767               Wait dur 0.3
+ 16.067               LerpScaleInterval-2878: scale to 0.01 0.01 0.01 dur 0.5
+ 16.567               *Func-removeProp-6070
+ 16.567             }
+ 12.167             Sequence-6267 {
+ 12.167               Wait dur 1e-006
+ 12.167               *Func-__showProp-6055
+ 12.167               LerpScaleInterval-2874: scale from 0.01 0.01 0.01 to 1 1 1 dur 0.5
+ 12.667               Wait dur 3.2
+ 15.867               LerpScaleInterval-2875: scale to 0.01 0.01 0.01 dur 0.5
+ 16.367               *Func-removeProp-6056
+ 16.367             }
+ 12.167             Sequence-6277 {
+ 12.167               Wait dur 1.3
+ 13.467               *Sound-1223 dur 1.1
+ 14.567             }
+ 18.484           }
+ 18.484           *Func-loop-6085
+ 18.484           Sequence-6285 {
+ 18.484             *Func-headsUp-6083
+ 18.484             *Func-loop-6084
+ 18.484           }
+ 18.484         }
+ 18.484         Sequence-6301 {
+ 18.484           Parallel-6296 {
+ 18.484             Sequence-6287 {
+ 18.484               Wait dur 1e-006
+ 18.484               *Func-setChatAbsolute-6086
+ 18.484               *Func-reparentTrap-6087
+ 18.484               *Func-headsUp-6088
+ 18.484               *Actor-pickpocket-2048 dur 4.16667
+ 22.651               *Func-setHpr-6089
+ 22.651               *Func-returnTrapToSuit-6090
+ 22.651               *Func-clearChat-6091
+ 22.651             }
+ 18.484             Parallel-6295 {
+ 18.484               Sequence-6289 {
+ 18.484                 *Func-headsUp-6094
+ 18.484                 Sequence-6290 {
+ 18.484                   Wait dur 0.01
+ 18.494                   Parallel-6291 {
+ 18.494                     Sequence-6292 {
+ 18.494                       *Actor-sidestep-left-2049 dur 3.625
+ 22.119                       *Func-loop-6095
+ 22.119                     }
+ 18.494                     Sequence-6293 {
+ 18.494                       Wait dur 0.5
+ 18.994                       *Sound-1224 dur 0.574694
+ 19.569                     }
+ 22.119                   }
+ 22.119                   *Func-loop-6096
+ 22.119                 }
+ 22.119               }
+ 18.484               Sequence-6294 {
+ 18.484                 Wait dur 0.51
+ 18.994                 *Func-indicateMissed-6097
+ 18.994               }
+ 22.119             }
+ 22.651           }
+ 22.651           *Func-loop-6105
+ 22.651           Sequence-6300 {
+ 22.651             *Func-headsUp-6103
+ 22.651             *Func-loop-6104
+ 22.651           }
+ 22.651         }
+ 22.651       }
+ 22.651       *Func-__handleMovieDone-6106
+ 22.651     }
+ 22.651   }
+  0.000   Sequence-6302 {
+  0.000     Sequence-6241 {
+  0.000       toon-attacks-cam {
+  0.000         Sequence-6265 {
+  0.000           toonGroupShot {
+  0.000             *Func-setPosHpr-6045
+  0.000             Wait
+  0.000           }
+  0.000           allGroupLowShot {
+  0.000             *Func-setPosHpr-6046
+  0.000             Wait dur 3
+  3.000           }
+  3.000           allGroupLowShot {
+  3.000             *Func-setPosHpr-6047
+  3.000             Wait dur 9.167
+ 12.167           }
+ 12.167           toonGroupShot {
+ 12.167             *Func-setPosHpr-6048
+ 12.167             Wait
+ 12.167           }
+ 12.167         }
+ 12.167       }
+ 12.167       suit-attacks-cam {
+ 12.167         Parallel-6284 {
+ 12.167           Sequence-6279 {
+ 12.167             Sequence-6282 {
+ 12.167               Sequence-6280 {
+ 12.167                 *Func-setPos-6075
+ 12.167                 *Func-focusCameraBetweenPoints-6076
+ 12.167                 Wait dur 3.2
+ 15.367               }
+ 15.367               Sequence-6281 {
+ 15.367                 *Func-setPos-6077
+ 15.367                 *Func-focusCameraBetweenPoints-6078
+ 15.367                 Wait dur 3.117
+ 18.484               }
+ 18.484             }
+ 18.484           }
+ 12.167           Sequence-6283 {
+ 12.167             *Func-hide-6079
+ 12.167             Wait dur 1.05
+ 13.217             *Func-setText-6080
+ 13.217             *Func-show-6081
+ 13.217             Wait dur 2.45
+ 15.667             *Func-hide-6082
+ 15.667           }
+ 18.484         }
+ 18.484         Parallel-6299 {
+ 18.484           Sequence-6297 {
+ 18.484             allGroupLowShot {
+ 18.484               *Func-setPosHpr-6098
+ 18.484               Wait dur 2.7
+ 21.184             }
+ 21.184           }
+ 18.484           Sequence-6298 {
+ 18.484             *Func-hide-6099
+ 18.484             Wait dur 1.05
+ 19.534             *Func-setText-6100
+ 19.534             *Func-show-6101
+ 19.534             Wait dur 2.45
+ 21.984             *Func-hide-6102
+ 21.984           }
+ 21.984         }
+ 21.984       }
+ 21.984     }
+ 21.984   }
+ 22.651 }
+
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 2665, in windowEvent
+    self.userExit()
+  File "toontown\toonbase\ToonBase.py", line 400, in userExit
+    self.cr.dumpAllSubShardObjects()
+  File "toontown\distributed\ToontownClientRepository.py", line 556, in dumpAllSubShardObjects
+    self.deleteObject(doId)
+  File "toontown\distributed\ToontownClientRepository.py", line 906, in deleteObject
+    obj.deleteOrDelay()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 199, in deleteOrDelay
+    self.disableAnnounceAndDelete()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 202, in disableAnnounceAndDelete
+    self.disableAndAnnounce()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 228, in disableAndAnnounce
+    self.disable()
+  File "toontown\battle\DistributedBattleBldg.py", line 52, in disable
+    DistributedBattleBase.DistributedBattleBase.disable(self)
+  File "toontown\battle\DistributedBattleBase.py", line 133, in disable
+    self.cleanupBattle()
+  File "toontown\battle\DistributedBattleBase.py", line 145, in cleanupBattle
+    self.fsm.requestFinalState()
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 151, in requestFinalState
+    self.request(self.getFinalState().getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 246, in request
+    assert not self.__internalStateInFlux
+AssertionError
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 2665, in windowEvent
+    self.userExit()
+  File "toontown\toonbase\ToonBase.py", line 400, in userExit
+    self.cr.dumpAllSubShardObjects()
+  File "toontown\distributed\ToontownClientRepository.py", line 556, in dumpAllSubShardObjects
+    self.deleteObject(doId)
+  File "toontown\distributed\ToontownClientRepository.py", line 906, in deleteObject
+    obj.deleteOrDelay()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 199, in deleteOrDelay
+    self.disableAnnounceAndDelete()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 202, in disableAnnounceAndDelete
+    self.disableAndAnnounce()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 228, in disableAndAnnounce
+    self.disable()
+  File "toontown\battle\DistributedBattleBldg.py", line 52, in disable
+    DistributedBattleBase.DistributedBattleBase.disable(self)
+  File "toontown\battle\DistributedBattleBase.py", line 133, in disable
+    self.cleanupBattle()
+  File "toontown\battle\DistributedBattleBase.py", line 145, in cleanupBattle
+    self.fsm.requestFinalState()
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 151, in requestFinalState
+    self.request(self.getFinalState().getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 246, in request
+    assert not self.__internalStateInFlux
+AssertionError

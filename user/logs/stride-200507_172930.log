@@ -1,0 +1,154 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1757A670>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x12EEA930>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x12EEAEB0>
+chooseFireOpenShot <function allGroupLowShot at 0x12EEA670>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x12EEAEB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x12EEA7F0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x12EEAEB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x12EEA7F0>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x12EEAEF0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x12EEA930>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x12EEA7F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x12EEA930>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x12EEA7F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x12EEA930>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x12EEAEF0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x12EEA7F0>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x12EEAEF0>
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x12EEA7F0>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x12EEA7F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x12EEA930>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x12EEAEF0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x12EEA8F0>
+chooseFireOpenShot <function allGroupLowShot at 0x12EEA670>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x12EEA7F0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x12EEAEB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x12EEA8F0>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x12EEA7F0>
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+chooseFireOpenShot <function allGroupLowShot at 0x12EEA670>
+chooseFireOpenShot <function allGroupLowShot at 0x12EEA670>
+chooseFireOpenShot <function allGroupLowShot at 0x12EEA670>
+chooseFireOpenShot <function allGroupLowShot at 0x12EEA670>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 11.3, 1.5)
+### newVec3 =  LVector3f(2, 11.3, 0)
+### newVec3 =  LVector3f(2, 11.3, 0.375)
+### newVec3 =  LVector3f(2, 11.3, 0)
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x12EEA930>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x12EEAEB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)

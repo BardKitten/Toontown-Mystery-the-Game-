@@ -1,0 +1,63 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x19A2EAD0>}
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_5.5/dna/storage_estate.pdna
+Reading DNA file... phase_5.5/dna/estate_1.pdna
+adjusting item index -1
+exiting due to lack of items
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+### newVec3 =  LVector3f(-1.99998, 6.3, 1.5)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0.375)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0)
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x19A2EAD0>}
+__handleAvatarChooserDone: 100000001, 'Super Goopy', ('css', 'ls', 's', 'm', (0.69, 0.15, 0.15, 1.0), (1.0, 1.0, 1.0, 1.0), (0.69, 0.15, 0.15, 1.0), (0.69, 0.15, 0.15, 1.0), 10, 12, 0, 12, 7, 16), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x19A2EAD0>}
+__handleAvatarChooserDone: 100000001, 'Super Goopy', ('css', 'ls', 's', 'm', (0.69, 0.15, 0.15, 1.0), (1.0, 1.0, 1.0, 1.0), (0.69, 0.15, 0.15, 1.0), (0.69, 0.15, 0.15, 1.0), 10, 12, 0, 12, 7, 16), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna

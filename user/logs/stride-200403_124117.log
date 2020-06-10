@@ -1,0 +1,24 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\python\lib\runpy.py", line 162, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "C:\Panda3D-1.10.0\python\lib\runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "C:\Users\Cool Cat\Documents\ToontownMystery2.0\ToontownMystery 2.0\toontown\toonbase\ToontownStart.py", line 176, in <module>
+    from toontown.distributed import ToontownClientRepository
+  File "toontown\distributed\ToontownClientRepository.py", line 35, in <module>
+    from toontown.makeatoon import MakeAToon
+  File "toontown\makeatoon\MakeAToon.py", line 21, in <module>
+    from toontown.toon import LocalToon
+  File "toontown\toon\LocalToon.py", line 30, in <module>
+    from toontown.quest import QuestMap
+  File "toontown\quest\QuestMap.py", line 9, in <module>
+    from toontown.suit import SuitPlannerBase
+  File "toontown\suit\SuitPlannerBase.py", line 326
+    0),
+     ^
+SyntaxError: invalid syntax

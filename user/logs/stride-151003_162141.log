@@ -1,0 +1,85 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x19E8C760>}
+__handleAvatarChooserDone: 100000001, 'Super Goopy', ('css', 'ls', 's', 'm', (0.69, 0.15, 0.15, 1.0), (1.0, 1.0, 1.0, 1.0), (0.69, 0.15, 0.15, 1.0), (0.69, 0.15, 0.15, 1.0), 10, 12, 0, 12, 7, 16), 1
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1222, in handleDatagram
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1156, in handleMessageType
+    self.handleGenerateWithRequiredOtherOwner(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 754, in handleGenerateWithRequiredOtherOwner
+    self.handleAvatarResponseMsg(doId, di)
+  File "toontown\distributed\ToontownClientRepository.py", line 314, in handleAvatarResponseMsg
+    localAvatar.initInterface()
+  File "toontown\toon\LocalToon.py", line 343, in initInterface
+    self.statPage.load()
+  File "toontown\shtiker\StatPage.py", line 16, in load
+    self.rows = [self.createRow(pos) for pos in ((-0.8, 0, 0.435), (0.08, 0, 0.435))]
+  File "toontown\shtiker\StatPage.py", line 49, in createRow
+    row = DirectLabel(parent=self, relief=None, text_align=TextNode.ALeft, text='', text_scale=0.045, text_wordwrap=16, text_font=ToontownGlobals.getChalkFont(), text_fg=(1, 1, 1, 1), image='phase_3/maps/stat_board.png', image_scale=(0.42, 0, 0.6), image_pos=(0.35, 0, -0.45))
+  File "C:\Panda3D-1.10.0\direct\gui\DirectLabel.py", line 39, in __init__
+    self.initialiseoptions(DirectLabel)
+  File "C:\Panda3D-1.10.0\direct\gui\DirectGuiBase.py", line 241, in initialiseoptions
+    func()
+  File "C:\Panda3D-1.10.0\direct\gui\DirectFrame.py", line 180, in setImage
+    sort = DGG.IMAGE_SORT_INDEX)
+  File "C:\Panda3D-1.10.0\direct\gui\DirectGuiBase.py", line 561, in createcomponent
+    widget = widgetClass(*widgetArgs, **kw)
+  File "C:\Panda3D-1.10.0\direct\gui\OnscreenImage.py", line 48, in __init__
+    self.setImage(image, parent = parent, sort = sort)
+  File "C:\Panda3D-1.10.0\direct\gui\OnscreenImage.py", line 105, in setImage
+    tex = loader.loadTexture(image)
+  File "toontown\toonbase\ToontownLoader.py", line 86, in loadTexture
+    ret = Loader.Loader.loadTexture(self, texturePath, alphaPath, okMissing=okMissing)
+  File "C:\Panda3D-1.10.0\direct\showbase\Loader.py", line 623, in loadTexture
+    raise IOError, message
+IOError: Could not load texture: phase_3/maps/stat_board.png
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1222, in handleDatagram
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1156, in handleMessageType
+    self.handleGenerateWithRequiredOtherOwner(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 754, in handleGenerateWithRequiredOtherOwner
+    self.handleAvatarResponseMsg(doId, di)
+  File "toontown\distributed\ToontownClientRepository.py", line 314, in handleAvatarResponseMsg
+    localAvatar.initInterface()
+  File "toontown\toon\LocalToon.py", line 343, in initInterface
+    self.statPage.load()
+  File "toontown\shtiker\StatPage.py", line 16, in load
+    self.rows = [self.createRow(pos) for pos in ((-0.8, 0, 0.435), (0.08, 0, 0.435))]
+  File "toontown\shtiker\StatPage.py", line 49, in createRow
+    row = DirectLabel(parent=self, relief=None, text_align=TextNode.ALeft, text='', text_scale=0.045, text_wordwrap=16, text_font=ToontownGlobals.getChalkFont(), text_fg=(1, 1, 1, 1), image='phase_3/maps/stat_board.png', image_scale=(0.42, 0, 0.6), image_pos=(0.35, 0, -0.45))
+  File "C:\Panda3D-1.10.0\direct\gui\DirectLabel.py", line 39, in __init__
+    self.initialiseoptions(DirectLabel)
+  File "C:\Panda3D-1.10.0\direct\gui\DirectGuiBase.py", line 241, in initialiseoptions
+    func()
+  File "C:\Panda3D-1.10.0\direct\gui\DirectFrame.py", line 180, in setImage
+    sort = DGG.IMAGE_SORT_INDEX)
+  File "C:\Panda3D-1.10.0\direct\gui\DirectGuiBase.py", line 561, in createcomponent
+    widget = widgetClass(*widgetArgs, **kw)
+  File "C:\Panda3D-1.10.0\direct\gui\OnscreenImage.py", line 48, in __init__
+    self.setImage(image, parent = parent, sort = sort)
+  File "C:\Panda3D-1.10.0\direct\gui\OnscreenImage.py", line 105, in setImage
+    tex = loader.loadTexture(image)
+  File "toontown\toonbase\ToontownLoader.py", line 86, in loadTexture
+    ret = Loader.Loader.loadTexture(self, texturePath, alphaPath, okMissing=okMissing)
+  File "C:\Panda3D-1.10.0\direct\showbase\Loader.py", line 623, in loadTexture
+    raise IOError, message
+IOError: Could not load texture: phase_3/maps/stat_board.png

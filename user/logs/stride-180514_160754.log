@@ -1,0 +1,157 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1980BB98>}
+__handleAvatarChooserDone: 100000045, 'Doggy', ('dss', 'ms', 's', 'm', (0.83, 0.5, 0.29, 1.0), (1.0, 1.0, 1.0, 1.0), (0.83, 0.5, 0.29, 1.0), (0.83, 0.5, 0.29, 1.0), 17, 5, 0, 5, 5, 27), 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 2665, in windowEvent
+    self.userExit()
+  File "toontown\toonbase\ToonBase.py", line 402, in userExit
+    self.cr.loginFSM.request('shutdown')
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 302, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 302, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 213, in exit
+    apply(self.__exitFunc, argList)
+  File "toontown\hood\ToonHood.py", line 93, in exitTownLoader
+    self.loader.unload()
+  File "toontown\town\DGTownLoader.py", line 21, in unload
+    TownLoader.TownLoader.unload(self)
+  File "toontown\town\TownLoader.py", line 82, in unload
+    self.townBattle.cleanup()
+  File "toontown\town\TownBattle.py", line 150, in cleanup
+    panel.cleanup()
+  File "toontown\town\TownBattleCogPanel.py", line 26, in cleanup
+    self.cleanupHead()
+  File "toontown\town\TownBattleCogPanel.py", line 38, in cleanupHead
+    if self.suitHead:
+AttributeError: 'TownBattleCogPanel' object has no attribute 'suitHead'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 2665, in windowEvent
+    self.userExit()
+  File "toontown\toonbase\ToonBase.py", line 402, in userExit
+    self.cr.loginFSM.request('shutdown')
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 302, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 302, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 213, in exit
+    apply(self.__exitFunc, argList)
+  File "toontown\hood\ToonHood.py", line 93, in exitTownLoader
+    self.loader.unload()
+  File "toontown\town\DGTownLoader.py", line 21, in unload
+    TownLoader.TownLoader.unload(self)
+  File "toontown\town\TownLoader.py", line 82, in unload
+    self.townBattle.cleanup()
+  File "toontown\town\TownBattle.py", line 150, in cleanup
+    panel.cleanup()
+  File "toontown\town\TownBattleCogPanel.py", line 26, in cleanup
+    self.cleanupHead()
+  File "toontown\town\TownBattleCogPanel.py", line 38, in cleanupHead
+    if self.suitHead:
+AttributeError: 'TownBattleCogPanel' object has no attribute 'suitHead'

@@ -1,0 +1,12 @@
+id: 100000132
+class: Account
+fields:
+  ACCOUNT_AV_SET: "[0, 100000133, 0, 0, 0, 0]"
+  ESTATE_ID: 0
+  ACCOUNT_AV_SET_DEL: "[]"
+  CREATED: "\"Fri Aug 24 20:28:48 2018\""
+  LAST_LOGIN: "\"Fri Aug 24 20:36:08 2018\""
+  ACCOUNT_ID: "\"popopo\""
+  ACCESS_LEVEL: 700
+  LAST_LOGIN_TS: 1535157368
+  CHAT_SETTINGS: "[1, 1]"

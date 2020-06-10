@@ -1,0 +1,1092 @@
+{"_time": "2018-06-17 02:14:03Eastern Daylight Time", "type": "log-opened", "sender": "EventLogger", "msg": "Log opened upon Event Logger startup."}
+{"_time": "2018-06-17 02:14:20Eastern Daylight Time", "type": "client-connected", "sender": "Client:1000000000", "remote_address": "71.11.76.198:53678", "local_address": "192.168.0.2:7199"}
+{"_time": "2018-06-17 02:14:52Eastern Daylight Time", "type": "client-disconnected", "sender": "Client:1000000000"}
+{"_time": "2018-06-17 02:15:01Eastern Daylight Time", "type": "client-connected", "sender": "Client:1000000001", "remote_address": "71.11.76.198:53682", "local_address": "192.168.0.2:7199"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000054, "_2": "2000|18"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000060, "_2": "2000|14"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000066, "_2": "2000|16"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000072, "_2": "2000|21"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000078, "_2": "2000|13"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000107, "_2": "2100|1"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000113, "_2": "2100|2"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000118, "_2": "2100|3"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000124, "_2": "2100|4"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000130, "_2": "2100|5"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000136, "_2": "2100|6"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000141, "_2": "2100|7"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000147, "_2": "2100|10"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000153, "_2": "2100|11"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000158, "_2": "2100|16"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000164, "_2": "2100|18"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000170, "_2": "2100|17"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000176, "_2": "2100|21"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000182, "_2": "2100|24"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000188, "_2": "2100|25"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000194, "_2": "2100|26"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000200, "_2": "2100|29"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000206, "_2": "2100|32"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000212, "_2": "2100|33"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000218, "_2": "2100|38"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000223, "_2": "2100|57"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000229, "_2": "2100|39"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000235, "_2": "2100|43"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000241, "_2": "2100|44"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000247, "_2": "2100|49"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000253, "_2": "2100|60"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000259, "_2": "2100|52"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000264, "_2": "2100|53"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000269, "_2": "2100|55"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000275, "_2": "2100|54"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000281, "_2": "2100|56"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000287, "_2": "2100|59"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000293, "_2": "2100|61"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000299, "_2": "2100|67"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000305, "_2": "2100|63"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000310, "_2": "2100|62"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000316, "_2": "2100|64"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000322, "_2": "2100|66"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000328, "_2": "2100|65"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000334, "_2": "2100|69"}
+{"_time": "2018-06-17 02:15:32Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000340, "_2": "2100|70"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000355, "_2": "2200|1"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000360, "_2": "2200|4"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000365, "_2": "2200|5"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000371, "_2": "2200|8"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000377, "_2": "2200|43"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000382, "_2": "2200|44"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000387, "_2": "2200|11"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000393, "_2": "2200|12"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000399, "_2": "2200|13"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000405, "_2": "2200|14"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000410, "_2": "2200|16"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000416, "_2": "2200|48"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000421, "_2": "2200|17"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000427, "_2": "2200|20"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000433, "_2": "2200|39"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000439, "_2": "2200|25"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000444, "_2": "2200|27"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000450, "_2": "2200|28"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000456, "_2": "2200|30"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000462, "_2": "2200|29"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000468, "_2": "2200|31"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000473, "_2": "2200|32"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000479, "_2": "2200|33"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000485, "_2": "2200|34"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000491, "_2": "2200|35"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000497, "_2": "2200|47"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000502, "_2": "2200|41"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000507, "_2": "2200|40"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000522, "_2": "2300|1"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000528, "_2": "2300|2"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000534, "_2": "2300|3"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000539, "_2": "2300|4"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000545, "_2": "2300|39"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000551, "_2": "2300|41"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000556, "_2": "2300|37"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000562, "_2": "2300|9"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000568, "_2": "2300|14"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000573, "_2": "2300|36"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000578, "_2": "2300|5"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000583, "_2": "2300|34"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000589, "_2": "2300|29"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000595, "_2": "2300|30"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000601, "_2": "2300|18"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000607, "_2": "2300|31"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000613, "_2": "2300|21"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000618, "_2": "2300|22"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000624, "_2": "2300|33"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000629, "_2": "2300|24"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000634, "_2": "2300|23"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000713, "_2": "1000|8"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000739, "_2": "1100|26"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000745, "_2": "1100|2"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000751, "_2": "1100|4"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000757, "_2": "1100|6"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000763, "_2": "1100|8"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000769, "_2": "1100|20"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000775, "_2": "1100|9"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000781, "_2": "1100|27"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000787, "_2": "1100|12"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000793, "_2": "1100|13"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000799, "_2": "1100|14"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000805, "_2": "1100|15"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000811, "_2": "1100|16"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000817, "_2": "1100|17"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000823, "_2": "1100|19"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000829, "_2": "1100|21"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000835, "_2": "1100|22"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000841, "_2": "1100|28"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000847, "_2": "1100|24"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000862, "_2": "1200|25"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000868, "_2": "1200|3"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000874, "_2": "1200|6"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000880, "_2": "1200|5"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000886, "_2": "1200|7"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000892, "_2": "1200|26"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000898, "_2": "1200|9"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000904, "_2": "1200|10"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000910, "_2": "1200|11"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000916, "_2": "1200|12"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000922, "_2": "1200|14"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000928, "_2": "1200|13"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000934, "_2": "1200|27"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000940, "_2": "1200|17"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000946, "_2": "1200|18"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000952, "_2": "1200|19"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000958, "_2": "1200|20"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000964, "_2": "1200|21"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000970, "_2": "1200|23"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000976, "_2": "1200|24"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000982, "_2": "1200|1"}
+{"_time": "2018-06-17 02:15:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000988, "_2": "1200|16"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000994, "_2": "1200|28"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001009, "_2": "1300|30"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001015, "_2": "1300|29"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001021, "_2": "1300|31"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001027, "_2": "1300|2"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001033, "_2": "1300|32"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001039, "_2": "1300|4"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001045, "_2": "1300|5"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001051, "_2": "1300|6"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001057, "_2": "1300|7"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001063, "_2": "1300|8"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001069, "_2": "1300|9"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001075, "_2": "1300|10"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001081, "_2": "1300|11"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001087, "_2": "1300|14"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001093, "_2": "1300|13"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001099, "_2": "1300|15"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001105, "_2": "1300|33"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001111, "_2": "1300|18"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001117, "_2": "1300|19"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001123, "_2": "1300|20"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001129, "_2": "1300|21"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001135, "_2": "1300|23"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001141, "_2": "1300|24"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001147, "_2": "1300|25"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001153, "_2": "1300|26"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001159, "_2": "1300|34"}
+{"_time": "2018-06-17 02:15:34Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001165, "_2": "1300|28"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001221, "_2": "5000|3"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001247, "_2": "5100|2"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001253, "_2": "5100|1"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001259, "_2": "5100|3"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001265, "_2": "5100|5"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001271, "_2": "5100|4"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001277, "_2": "5100|6"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001283, "_2": "5100|7"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001289, "_2": "5100|8"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001295, "_2": "5100|9"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001301, "_2": "5100|11"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001307, "_2": "5100|10"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001313, "_2": "5100|26"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001319, "_2": "5100|13"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001325, "_2": "5100|15"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001331, "_2": "5100|25"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001337, "_2": "5100|16"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001343, "_2": "5100|17"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001349, "_2": "5100|18"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001355, "_2": "5100|19"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001361, "_2": "5100|20"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001367, "_2": "5100|21"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001373, "_2": "5100|22"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001379, "_2": "5100|23"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001385, "_2": "5100|24"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001400, "_2": "5200|25"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001406, "_2": "5200|26"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001412, "_2": "5200|27"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001418, "_2": "5200|1"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001424, "_2": "5200|2"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001430, "_2": "5200|3"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001436, "_2": "5200|4"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001442, "_2": "5200|5"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001448, "_2": "5200|6"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001454, "_2": "5200|7"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001460, "_2": "5200|9"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001466, "_2": "5200|11"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001472, "_2": "5200|12"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001478, "_2": "5200|13"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001484, "_2": "5200|14"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001490, "_2": "5200|15"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001496, "_2": "5200|16"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001502, "_2": "5200|17"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001508, "_2": "5200|18"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001514, "_2": "5200|19"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001520, "_2": "5200|20"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001526, "_2": "5200|21"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001532, "_2": "5200|8"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001538, "_2": "5200|10"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001553, "_2": "5300|33"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001559, "_2": "5300|35"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001565, "_2": "5300|36"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001571, "_2": "5300|15"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001577, "_2": "5300|17"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001583, "_2": "5300|27"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001589, "_2": "5300|28"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001595, "_2": "5300|9"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001601, "_2": "5300|30"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001607, "_2": "5300|19"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001613, "_2": "5300|21"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001619, "_2": "5300|5"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001625, "_2": "5300|11"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001631, "_2": "5300|10"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001637, "_2": "5300|26"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001643, "_2": "5300|37"}
+{"_time": "2018-06-17 02:15:37Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001649, "_2": "5300|4"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001742, "_2": "4000|6"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001768, "_2": "4100|3"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001774, "_2": "4100|4"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001780, "_2": "4100|6"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001786, "_2": "4100|7"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001792, "_2": "4100|45"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001798, "_2": "4100|14"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001804, "_2": "4100|17"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001810, "_2": "4100|18"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001816, "_2": "4100|19"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001822, "_2": "4100|22"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001828, "_2": "4100|23"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001834, "_2": "4100|26"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001840, "_2": "4100|48"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001846, "_2": "4100|28"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001852, "_2": "4100|31"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001858, "_2": "4100|32"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001864, "_2": "4100|58"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001870, "_2": "4100|49"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001875, "_2": "4100|35"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001881, "_2": "4100|52"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001887, "_2": "4100|37"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001893, "_2": "4100|42"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001899, "_2": "4100|41"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001905, "_2": "4100|5"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001911, "_2": "4100|12"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001917, "_2": "4100|10"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001923, "_2": "4100|9"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001929, "_2": "4100|11"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001935, "_2": "4100|55"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001941, "_2": "4100|15"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001947, "_2": "4100|46"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001952, "_2": "4100|54"}
+{"_time": "2018-06-17 02:15:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001958, "_2": "4100|57"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001964, "_2": "4100|25"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001970, "_2": "4100|56"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001975, "_2": "4100|29"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001981, "_2": "4100|30"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001987, "_2": "4100|53"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001992, "_2": "4100|38"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401001998, "_2": "4100|39"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002013, "_2": "4200|1"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002019, "_2": "4200|3"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002025, "_2": "4200|2"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002031, "_2": "4200|4"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002037, "_2": "4200|5"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002043, "_2": "4200|32"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002049, "_2": "4200|10"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002055, "_2": "4200|13"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002061, "_2": "4200|38"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002067, "_2": "4200|37"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002073, "_2": "4200|23"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002079, "_2": "4200|24"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002085, "_2": "4200|27"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002091, "_2": "4200|29"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002097, "_2": "4200|30"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002103, "_2": "4200|31"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002109, "_2": "4200|9"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002115, "_2": "4200|7"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002121, "_2": "4200|12"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002127, "_2": "4200|36"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002133, "_2": "4200|34"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002138, "_2": "4200|16"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002144, "_2": "4200|19"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002150, "_2": "4200|20"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002156, "_2": "4200|22"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002162, "_2": "4200|35"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002168, "_2": "4200|25"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002174, "_2": "4200|28"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002180, "_2": "4200|33"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002185, "_2": "4200|18"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002191, "_2": "4200|17"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002206, "_2": "4300|1"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002212, "_2": "4300|3"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002218, "_2": "4300|20"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002223, "_2": "4300|4"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002229, "_2": "4300|7"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002235, "_2": "4300|21"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002241, "_2": "4300|27"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002247, "_2": "4300|28"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002253, "_2": "4300|9"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002259, "_2": "4300|12"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002264, "_2": "4300|17"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002270, "_2": "4300|19"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002276, "_2": "4300|29"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002282, "_2": "4300|35"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002288, "_2": "4300|36"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002294, "_2": "4300|41"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002300, "_2": "4300|68"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002305, "_2": "4300|38"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002311, "_2": "4300|40"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002317, "_2": "4300|42"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002323, "_2": "4300|49"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002328, "_2": "4300|48"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002334, "_2": "4300|53"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002340, "_2": "4300|50"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002346, "_2": "4300|52"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002352, "_2": "4300|54"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002358, "_2": "4300|55"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002364, "_2": "4300|56"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002369, "_2": "4300|72"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002375, "_2": "4300|70"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002381, "_2": "4300|62"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002387, "_2": "4300|67"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002393, "_2": "4300|71"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002399, "_2": "4300|43"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002404, "_2": "4300|44"}
+{"_time": "2018-06-17 02:15:40Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002410, "_2": "4300|45"}
+{"_time": "2018-06-17 02:15:43Eastern Daylight Time", "type": "client-disconnected", "sender": "Client:1000000001"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002473, "_2": "3000|9"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002499, "_2": "3100|1"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002505, "_2": "3100|2"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002511, "_2": "3100|5"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002516, "_2": "3100|7"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002522, "_2": "3100|8"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002528, "_2": "3100|50"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002534, "_2": "3100|11"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002540, "_2": "3100|10"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002546, "_2": "3100|12"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002552, "_2": "3100|13"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002558, "_2": "3100|14"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002564, "_2": "3100|15"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002570, "_2": "3100|51"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002576, "_2": "3100|17"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002582, "_2": "3100|18"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002588, "_2": "3100|21"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002594, "_2": "3100|22"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002599, "_2": "3100|23"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002605, "_2": "3100|24"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002611, "_2": "3100|25"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002617, "_2": "3100|29"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002623, "_2": "3100|27"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002629, "_2": "3100|30"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002635, "_2": "3100|34"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002641, "_2": "3100|35"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002647, "_2": "3100|36"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002653, "_2": "3100|37"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002659, "_2": "3100|38"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002665, "_2": "3100|48"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002671, "_2": "3100|49"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002677, "_2": "3100|41"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002683, "_2": "3100|20"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002689, "_2": "3100|42"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002695, "_2": "3100|43"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002701, "_2": "3100|53"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002707, "_2": "3100|44"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002713, "_2": "3100|47"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002728, "_2": "3200|2"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002734, "_2": "3200|3"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002739, "_2": "3200|37"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002745, "_2": "3200|5"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002751, "_2": "3200|6"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002757, "_2": "3200|8"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002763, "_2": "3200|7"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002769, "_2": "3200|36"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002775, "_2": "3200|11"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002780, "_2": "3200|10"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002786, "_2": "3200|12"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002792, "_2": "3200|15"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002798, "_2": "3200|16"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002804, "_2": "3200|18"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002810, "_2": "3200|19"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002816, "_2": "3200|21"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002822, "_2": "3200|22"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002828, "_2": "3200|34"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002834, "_2": "3200|23"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002840, "_2": "3200|24"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002846, "_2": "3200|25"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002852, "_2": "3200|26"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002858, "_2": "3200|29"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002863, "_2": "3200|38"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002869, "_2": "3200|30"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002875, "_2": "3200|31"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002881, "_2": "3200|32"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002887, "_2": "3200|35"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002893, "_2": "3200|13"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002899, "_2": "3200|28"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002905, "_2": "3200|17"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002919, "_2": "3300|10"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002925, "_2": "3300|6"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002931, "_2": "3300|30"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002937, "_2": "3300|28"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002943, "_2": "3300|12"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002949, "_2": "3300|21"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002955, "_2": "3300|15"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002961, "_2": "3300|26"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002967, "_2": "3300|23"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002973, "_2": "3300|29"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002979, "_2": "3300|13"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002985, "_2": "3300|16"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002991, "_2": "3300|8"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401002997, "_2": "3300|25"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003003, "_2": "3300|14"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003009, "_2": "3300|18"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003015, "_2": "3300|19"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003021, "_2": "3300|17"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003027, "_2": "3300|11"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003033, "_2": "3300|9"}
+{"_time": "2018-06-17 02:15:44Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003039, "_2": "3300|27"}
+{"_time": "2018-06-17 02:15:45Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003045, "_2": "3300|20"}
+{"_time": "2018-06-17 02:15:45Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003051, "_2": "3300|24"}
+{"_time": "2018-06-17 02:15:45Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003057, "_2": "3300|7"}
+{"_time": "2018-06-17 02:15:46Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000988, "_2": "1200|16|m|3"}
+{"_time": "2018-06-17 02:15:46Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000799, "_2": "1100|14|c|2"}
+{"_time": "2018-06-17 02:15:46Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000989, "_2": ""}
+{"_time": "2018-06-17 02:15:46Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000800, "_2": ""}
+{"_time": "2018-06-17 02:15:46Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001123, "_2": "1300|20|l|4"}
+{"_time": "2018-06-17 02:15:46Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001124, "_2": ""}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003119, "_2": "9000|1"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003125, "_2": "9000|3"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003131, "_2": "9000|6"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003157, "_2": "9100|1"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003163, "_2": "9100|2"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003169, "_2": "9100|4"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003175, "_2": "9100|5"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003181, "_2": "9100|7"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003187, "_2": "9100|8"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003193, "_2": "9100|9"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003199, "_2": "9100|13"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003204, "_2": "9100|16"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003210, "_2": "9100|17"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003216, "_2": "9100|19"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003222, "_2": "9100|20"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003228, "_2": "9100|22"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003234, "_2": "9100|25"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003240, "_2": "9100|26"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003246, "_2": "9100|27"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003252, "_2": "9100|28"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003258, "_2": "9100|29"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003264, "_2": "9100|30"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003270, "_2": "9100|33"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003275, "_2": "9100|36"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003281, "_2": "9100|34"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003287, "_2": "9100|40"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003293, "_2": "9100|39"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003299, "_2": "9100|42"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003305, "_2": "9100|43"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003311, "_2": "9100|44"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003317, "_2": "9100|45"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003323, "_2": "9100|47"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003329, "_2": "9100|49"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003335, "_2": "9100|50"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003341, "_2": "9100|51"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003347, "_2": "9100|31"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003362, "_2": "9200|52"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003368, "_2": "9200|3"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003374, "_2": "9200|41"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003380, "_2": "9200|4"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003386, "_2": "9200|36"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003392, "_2": "9200|27"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003398, "_2": "9200|9"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003404, "_2": "9200|5"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003410, "_2": "9200|6"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003416, "_2": "9200|55"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003421, "_2": "9200|40"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003427, "_2": "9200|7"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003433, "_2": "9200|53"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003439, "_2": "9200|11"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003445, "_2": "9200|10"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003451, "_2": "9200|44"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003457, "_2": "9200|25"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003463, "_2": "9200|13"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003469, "_2": "9200|37"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003475, "_2": "9200|12"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003481, "_2": "9200|16"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003487, "_2": "9200|38"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003493, "_2": "9200|54"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003499, "_2": "9200|14"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003505, "_2": "9200|59"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003511, "_2": "9200|17"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003517, "_2": "9200|18"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003523, "_2": "9200|15"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003529, "_2": "9200|21"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003535, "_2": "9200|20"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003541, "_2": "9200|8"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003547, "_2": "9200|19"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003553, "_2": "9200|22"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003568, "_2": "9300|26"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003574, "_2": "9300|2"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003580, "_2": "9300|4"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003586, "_2": "9300|6"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003592, "_2": "9300|8"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003598, "_2": "9300|20"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003604, "_2": "9300|9"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003610, "_2": "9300|27"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003616, "_2": "9300|12"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003622, "_2": "9300|13"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003628, "_2": "9300|14"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003634, "_2": "9300|15"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003640, "_2": "9300|16"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003646, "_2": "9300|17"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003652, "_2": "9300|19"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003658, "_2": "9300|21"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003664, "_2": "9300|22"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003670, "_2": "9300|28"}
+{"_time": "2018-06-17 02:15:47Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003676, "_2": "9300|24"}
+{"_time": "2018-06-17 02:15:50Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001508, "_2": "5200|18|c|4"}
+{"_time": "2018-06-17 02:15:50Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001349, "_2": "5100|18|s|3"}
+{"_time": "2018-06-17 02:15:50Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001509, "_2": ""}
+{"_time": "2018-06-17 02:15:50Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001350, "_2": ""}
+{"_time": "2018-06-17 02:15:50Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001613, "_2": "5300|21|s|3"}
+{"_time": "2018-06-17 02:15:50Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001583, "_2": "5300|27|s|5"}
+{"_time": "2018-06-17 02:15:50Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001614, "_2": ""}
+{"_time": "2018-06-17 02:15:50Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001584, "_2": ""}
+{"_time": "2018-06-17 02:15:52Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002103, "_2": "4200|31|m|3"}
+{"_time": "2018-06-17 02:15:52Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002191, "_2": "4200|17|m|4"}
+{"_time": "2018-06-17 02:15:52Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001975, "_2": "4100|29|s|2"}
+{"_time": "2018-06-17 02:15:52Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001911, "_2": "4100|12|m|1"}
+{"_time": "2018-06-17 02:15:52Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002104, "_2": ""}
+{"_time": "2018-06-17 02:15:52Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002192, "_2": ""}
+{"_time": "2018-06-17 02:15:52Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001976, "_2": ""}
+{"_time": "2018-06-17 02:15:52Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001912, "_2": ""}
+{"_time": "2018-06-17 02:15:52Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002300, "_2": "4300|68|c|4"}
+{"_time": "2018-06-17 02:15:52Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002276, "_2": "4300|29|l|4"}
+{"_time": "2018-06-17 02:15:52Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002294, "_2": "4300|41|c|4"}
+{"_time": "2018-06-17 02:15:52Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002277, "_2": ""}
+{"_time": "2018-06-17 02:15:52Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002295, "_2": ""}
+{"_time": "2018-06-17 02:15:56Eastern Daylight Time", "type": "client-connected", "sender": "Client:1000000002", "remote_address": "71.11.76.198:53684", "local_address": "192.168.0.2:7199"}
+{"_time": "2018-06-17 02:15:56Eastern Daylight Time", "type": "accountLogin", "sender": "AIR:1000000", "_1": 1000000002, "_2": 100000022, "_3": "sarge"}
+{"_time": "2018-06-17 02:15:56Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002576, "_2": "3100|17|c|4"}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002528, "_2": "3100|50|c|3"}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002617, "_2": "3100|29|c|3"}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002647, "_2": "3100|36|c|4"}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002577, "_2": ""}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002529, "_2": ""}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002618, "_2": ""}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002648, "_2": ""}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002943, "_2": "3300|12|l|4"}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003021, "_2": "3300|17|l|5"}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002858, "_2": "3200|29|m|5"}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002816, "_2": "3200|21|s|4"}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002979, "_2": "3300|13|l|5"}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002798, "_2": "3200|16|c|3"}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003027, "_2": "3300|11|l|1"}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002944, "_2": ""}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003022, "_2": ""}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002817, "_2": ""}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002980, "_2": ""}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002799, "_2": ""}
+{"_time": "2018-06-17 02:15:57Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003028, "_2": ""}
+{"_time": "2018-06-17 02:15:59Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003329, "_2": "9100|49|m|1"}
+{"_time": "2018-06-17 02:15:59Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003299, "_2": "9100|42|l|5"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003199, "_2": "9100|13|m|1"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003228, "_2": "9100|22|l|5"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003335, "_2": "9100|50|m|4"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003330, "_2": ""}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003300, "_2": ""}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003229, "_2": ""}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003336, "_2": ""}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003463, "_2": "9200|13|m|5"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003469, "_2": "9200|37|m|5"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003416, "_2": "9200|55|m|5"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003433, "_2": "9200|53|m|4"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003374, "_2": "9200|41|m|5"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003464, "_2": ""}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003470, "_2": ""}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003434, "_2": ""}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003375, "_2": ""}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003646, "_2": "9300|17|l|1"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003568, "_2": "9300|26|l|1"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003658, "_2": "9300|21|l|1"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003598, "_2": "9300|20|l|1"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003670, "_2": "9300|28|l|1"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003640, "_2": "9300|16|l|5"}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003647, "_2": ""}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003569, "_2": ""}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003659, "_2": ""}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003599, "_2": ""}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003671, "_2": ""}
+{"_time": "2018-06-17 02:16:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003641, "_2": ""}
+{"_time": "2018-06-17 02:16:04Eastern Daylight Time", "type": "avatarChosen", "sender": "AIR:1000000", "_1": 100000023, "_2": 100000022}
+{"_time": "2018-06-17 02:16:14Eastern Daylight Time", "type": "questTier", "sender": "AIR:401000000", "_1": 100000023, "_2": "50"}
+{"_time": "2018-06-17 02:16:19Eastern Daylight Time", "type": "client-connected", "sender": "Client:1000000003", "remote_address": "127.0.0.1:63065", "local_address": "127.0.0.1:7199"}
+{"_time": "2018-06-17 02:16:20Eastern Daylight Time", "type": "accountLogin", "sender": "AIR:1000000", "_1": 1000000003, "_2": 100000014, "_3": "jedi"}
+{"_time": "2018-06-17 02:16:28Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001141, "_2": "1300|24|l|1"}
+{"_time": "2018-06-17 02:16:28Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001142, "_2": ""}
+{"_time": "2018-06-17 02:16:30Eastern Daylight Time", "type": "avatarChosen", "sender": "AIR:1000000", "_1": 100000070, "_2": 100000014}
+{"_time": "2018-06-17 02:16:36Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001930, "_2": ""}
+{"_time": "2018-06-17 02:16:44Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002695, "_2": "3100|43|c|2"}
+{"_time": "2018-06-17 02:16:44Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002696, "_2": ""}
+{"_time": "2018-06-17 02:16:47Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002061, "_2": "4200|38|m|3"}
+{"_time": "2018-06-17 02:16:47Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002062, "_2": ""}
+{"_time": "2018-06-17 02:16:49Eastern Daylight Time", "type": "questTier", "sender": "AIR:401000000", "_1": 100000070, "_2": "50"}
+{"_time": "2018-06-17 02:16:56Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001608, "_2": ""}
+{"_time": "2018-06-17 02:17:15Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002665, "_2": "3100|48|c|4"}
+{"_time": "2018-06-17 02:17:15Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002666, "_2": ""}
+{"_time": "2018-06-17 02:17:15Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "hp 183", "_6": "Set your HP to: 183"}
+{"_time": "2018-06-17 02:17:18Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "togglegm", "_6": null}
+{"_time": "2018-06-17 02:17:20Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "tp cfo", "_6": null}
+{"_time": "2018-06-17 02:17:20Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002899, "_2": "3200|28|m|4"}
+{"_time": "2018-06-17 02:17:21Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002900, "_2": ""}
+{"_time": "2018-06-17 02:17:22Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000835, "_2": "1100|22|c|3"}
+{"_time": "2018-06-17 02:17:22Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000836, "_2": ""}
+{"_time": "2018-06-17 02:17:22Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "teleport", "_6": null}
+{"_time": "2018-06-17 02:17:22Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001379, "_2": "5100|23|s|3"}
+{"_time": "2018-06-17 02:17:22Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001380, "_2": ""}
+{"_time": "2018-06-17 02:17:23Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001479, "_2": ""}
+{"_time": "2018-06-17 02:17:26Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "goto", "_6": null}
+{"_time": "2018-06-17 02:17:26Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003317, "_2": "9100|45|m|4"}
+{"_time": "2018-06-17 02:17:26Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003318, "_2": ""}
+{"_time": "2018-06-17 02:17:29Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001981, "_2": "4100|30|s|2"}
+{"_time": "2018-06-17 02:17:29Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001982, "_2": ""}
+{"_time": "2018-06-17 02:17:41Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "run", "_6": null}
+{"_time": "2018-06-17 02:17:43Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002823, "_2": ""}
+{"_time": "2018-06-17 02:17:43Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "ghost", "_6": "Ghost mode is enabled."}
+{"_time": "2018-06-17 02:17:52Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001033, "_2": "1300|32|c|2"}
+{"_time": "2018-06-17 02:17:52Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001034, "_2": ""}
+{"_time": "2018-06-17 02:17:52Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "ghost", "_6": "Ghost mode is disabled."}
+{"_time": "2018-06-17 02:17:54Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001572, "_2": ""}
+{"_time": "2018-06-17 02:17:57Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "run", "_6": null}
+{"_time": "2018-06-17 02:17:59Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "hp 183", "_6": "Set your HP to: 183"}
+{"_time": "2018-06-17 02:18:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003499, "_2": "9200|14|m|5"}
+{"_time": "2018-06-17 02:18:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003500, "_2": ""}
+{"_time": "2018-06-17 02:18:01Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003210, "_2": "9100|17|c|5"}
+{"_time": "2018-06-17 02:18:01Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003211, "_2": ""}
+{"_time": "2018-06-17 02:18:08Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "system In cbhq", "_6": null}
+{"_time": "2018-06-17 02:18:09Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002144, "_2": "4200|19|m|2"}
+{"_time": "2018-06-17 02:18:09Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002145, "_2": ""}
+{"_time": "2018-06-17 02:18:09Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001081, "_2": "1300|11|l|2"}
+{"_time": "2018-06-17 02:18:09Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001082, "_2": ""}
+{"_time": "2018-06-17 02:18:09Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "run", "_6": null}
+{"_time": "2018-06-17 02:18:15Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "ghost", "_6": "Ghost mode is enabled."}
+{"_time": "2018-06-17 02:18:16Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001308, "_2": ""}
+{"_time": "2018-06-17 02:18:19Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "ghost", "_6": "Ghost mode is disabled."}
+{"_time": "2018-06-17 02:18:20Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "hp 183", "_6": "Set your HP to: 183"}
+{"_time": "2018-06-17 02:18:24Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003287, "_2": "9100|40|c|4"}
+{"_time": "2018-06-17 02:18:24Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003288, "_2": ""}
+{"_time": "2018-06-17 02:18:25Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000811, "_2": "1100|16|c|1"}
+{"_time": "2018-06-17 02:18:25Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000812, "_2": ""}
+{"_time": "2018-06-17 02:18:34Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002334, "_2": "4300|53|l|3"}
+{"_time": "2018-06-17 02:18:34Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002335, "_2": ""}
+{"_time": "2018-06-17 02:18:41Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "run", "_6": null}
+{"_time": "2018-06-17 02:18:51Eastern Daylight Time", "type": "boarding_go", "sender": "AIR:401000000", "_1": 12100, "_2": "401003833; Sending avatars [100000070, 100000023]"}
+{"_time": "2018-06-17 02:18:51Eastern Daylight Time", "type": "boarding_elevator", "sender": "AIR:401000000", "_1": 12100, "_2": "401003833; Sending avatars [100000070, 100000023]"}
+{"_time": "2018-06-17 02:18:51Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001117, "_2": "1300|19|l|2"}
+{"_time": "2018-06-17 02:18:51Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001118, "_2": ""}
+{"_time": "2018-06-17 02:18:54Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002043, "_2": "4200|32|m|1"}
+{"_time": "2018-06-17 02:18:54Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002044, "_2": ""}
+{"_time": "2018-06-17 02:18:55Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "skipcfo", "_6": "Skipping the first round..."}
+{"_time": "2018-06-17 02:18:56Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003511, "_2": "9200|17|m|3"}
+{"_time": "2018-06-17 02:18:56Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003512, "_2": ""}
+{"_time": "2018-06-17 02:19:05Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Lol"}
+{"_time": "2018-06-17 02:19:08Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003652, "_2": "9300|19|l|1"}
+{"_time": "2018-06-17 02:19:08Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003653, "_2": ""}
+{"_time": "2018-06-17 02:19:12Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22000, "_2": "100000023|Toon-up|-1|[100000070, 100000023]"}
+{"_time": "2018-06-17 02:19:13Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001407, "_2": ""}
+{"_time": "2018-06-17 02:19:13Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "."}
+{"_time": "2018-06-17 02:19:17Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003586, "_2": "9300|6|l|5"}
+{"_time": "2018-06-17 02:19:17Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003587, "_2": ""}
+{"_time": "2018-06-17 02:19:20Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002264, "_2": "4300|17|c|4"}
+{"_time": "2018-06-17 02:19:20Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002265, "_2": ""}
+{"_time": "2018-06-17 02:19:21Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001343, "_2": "5100|17|s|3"}
+{"_time": "2018-06-17 02:19:21Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001344, "_2": ""}
+{"_time": "2018-06-17 02:19:24Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002594, "_2": "3100|22|c|3"}
+{"_time": "2018-06-17 02:19:29Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000862, "_2": "1200|25|m|2"}
+{"_time": "2018-06-17 02:19:29Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000863, "_2": ""}
+{"_time": "2018-06-17 02:19:32Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003003, "_2": "3300|14|l|5"}
+{"_time": "2018-06-17 02:19:32Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003004, "_2": ""}
+{"_time": "2018-06-17 02:19:42Eastern Daylight Time", "type": "bossBattle", "sender": "AIR:401000000", "_1": 401004168, "_2": "m|BattleThree|[100000070, 100000023]|1"}
+{"_time": "2018-06-17 02:19:47Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002659, "_2": "3100|38|c|3"}
+{"_time": "2018-06-17 02:19:47Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002660, "_2": ""}
+{"_time": "2018-06-17 02:19:48Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003611, "_2": ""}
+{"_time": "2018-06-17 02:19:59Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002739, "_2": "3200|37|m|3"}
+{"_time": "2018-06-17 02:19:59Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002740, "_2": ""}
+{"_time": "2018-06-17 02:20:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002150, "_2": "4200|20|m|2"}
+{"_time": "2018-06-17 02:20:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002151, "_2": ""}
+{"_time": "2018-06-17 02:20:02Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003623, "_2": ""}
+{"_time": "2018-06-17 02:20:22Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001899, "_2": "4100|41|s|1"}
+{"_time": "2018-06-17 02:20:22Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001900, "_2": ""}
+{"_time": "2018-06-17 02:20:25Eastern Daylight Time", "type": "bossBattle", "sender": "AIR:401000000", "_1": 401004186, "_2": "m|BattleOne|[100000070, 100000023]|4"}
+{"_time": "2018-06-17 02:20:27Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "the lag begins"}
+{"_time": "2018-06-17 02:20:33Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003051, "_2": "3300|24|l|5"}
+{"_time": "2018-06-17 02:20:33Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003052, "_2": ""}
+{"_time": "2018-06-17 02:20:41Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003342, "_2": ""}
+{"_time": "2018-06-17 02:20:43Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "I wonder why."}
+{"_time": "2018-06-17 02:21:19Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001326, "_2": ""}
+{"_time": "2018-06-17 02:21:23Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001566, "_2": ""}
+{"_time": "2018-06-17 02:21:35Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002713, "_2": "3100|47|c|3"}
+{"_time": "2018-06-17 02:21:35Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002714, "_2": ""}
+{"_time": "2018-06-17 02:21:44Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001887, "_2": "4100|37|m|1"}
+{"_time": "2018-06-17 02:21:44Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001888, "_2": ""}
+{"_time": "2018-06-17 02:21:47Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000781, "_2": "1100|27|c|2"}
+{"_time": "2018-06-17 02:21:47Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000782, "_2": ""}
+{"_time": "2018-06-17 02:21:51Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000964, "_2": "1200|21|m|2"}
+{"_time": "2018-06-17 02:21:51Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000965, "_2": ""}
+{"_time": "2018-06-17 02:22:07Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002792, "_2": "3200|15|m|5"}
+{"_time": "2018-06-17 02:22:07Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002793, "_2": ""}
+{"_time": "2018-06-17 02:22:11Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003046, "_2": ""}
+{"_time": "2018-06-17 02:22:12Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003505, "_2": "9200|59|m|4"}
+{"_time": "2018-06-17 02:22:12Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003506, "_2": ""}
+{"_time": "2018-06-17 02:22:24Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "immortal", "_6": "Toggled immortal mode ON for Master Cool Cat"}
+{"_time": "2018-06-17 02:22:29Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003628, "_2": "9300|14|l|5"}
+{"_time": "2018-06-17 02:22:29Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003629, "_2": ""}
+{"_time": "2018-06-17 02:22:50Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "You lagging as much?"}
+{"_time": "2018-06-17 02:22:56Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "yes"}
+{"_time": "2018-06-17 02:23:01Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003575, "_2": ""}
+{"_time": "2018-06-17 02:23:04Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001864, "_2": "4100|58|s|2"}
+{"_time": "2018-06-17 02:23:04Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001865, "_2": ""}
+{"_time": "2018-06-17 02:23:20Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "it takes like 2 seconds to leave the cran"}
+{"_time": "2018-06-17 02:23:30Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001577, "_2": "5300|17|s|1"}
+{"_time": "2018-06-17 02:23:30Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001578, "_2": ""}
+{"_time": "2018-06-17 02:23:31Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003475, "_2": "9200|12|m|5"}
+{"_time": "2018-06-17 02:23:31Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003476, "_2": ""}
+{"_time": "2018-06-17 02:23:34Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001538, "_2": "5200|10|l|4"}
+{"_time": "2018-06-17 02:23:34Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001539, "_2": ""}
+{"_time": "2018-06-17 02:23:35Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "Then i get hit twice for some reason"}
+{"_time": "2018-06-17 02:23:37Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003015, "_2": "3300|19|l|4"}
+{"_time": "2018-06-17 02:23:37Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003016, "_2": ""}
+{"_time": "2018-06-17 02:23:49Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "UGH"}
+{"_time": "2018-06-17 02:23:51Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001319, "_2": "5100|13|l|3"}
+{"_time": "2018-06-17 02:23:51Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001320, "_2": ""}
+{"_time": "2018-06-17 02:23:54Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002091, "_2": "4200|29|m|3"}
+{"_time": "2018-06-17 02:23:54Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002092, "_2": ""}
+{"_time": "2018-06-17 02:24:07Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002852, "_2": "3200|26|l|5"}
+{"_time": "2018-06-17 02:24:07Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002853, "_2": ""}
+{"_time": "2018-06-17 02:24:12Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003275, "_2": "9100|36|m|3"}
+{"_time": "2018-06-17 02:24:12Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003276, "_2": ""}
+{"_time": "2018-06-17 02:24:19Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003440, "_2": ""}
+{"_time": "2018-06-17 02:24:22Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003386, "_2": "9200|36|m|4"}
+{"_time": "2018-06-17 02:24:22Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003387, "_2": ""}
+{"_time": "2018-06-17 02:24:27Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001514, "_2": "5200|19|s|3"}
+{"_time": "2018-06-17 02:24:27Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001515, "_2": ""}
+{"_time": "2018-06-17 02:24:30Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000416, "_2": "2200|48|m|2"}
+{"_time": "2018-06-17 02:24:38Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "????"}
+{"_time": "2018-06-17 02:24:44Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003311, "_2": "9100|44|s|5"}
+{"_time": "2018-06-17 02:24:44Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003312, "_2": ""}
+{"_time": "2018-06-17 02:24:48Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Wow"}
+{"_time": "2018-06-17 02:24:48Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002635, "_2": "3100|34|c|4"}
+{"_time": "2018-06-17 02:24:48Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002636, "_2": ""}
+{"_time": "2018-06-17 02:24:54Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002241, "_2": "4300|27|l|3"}
+{"_time": "2018-06-17 02:24:54Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002242, "_2": ""}
+{"_time": "2018-06-17 02:24:56Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Cruel"}
+{"_time": "2018-06-17 02:25:10Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "ooooooo"}
+{"_time": "2018-06-17 02:25:26Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Your doing better now at least"}
+{"_time": "2018-06-17 02:25:32Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "kinda"}
+{"_time": "2018-06-17 02:25:36Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "i got used to it a bit lol"}
+{"_time": "2018-06-17 02:25:45Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000287, "_2": "2100|59|s|1"}
+{"_time": "2018-06-17 02:25:45Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000288, "_2": ""}
+{"_time": "2018-06-17 02:26:24Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003039, "_2": "3300|27|l|4"}
+{"_time": "2018-06-17 02:26:25Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003040, "_2": ""}
+{"_time": "2018-06-17 02:26:31Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002841, "_2": ""}
+{"_time": "2018-06-17 02:26:36Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001502, "_2": "5200|17|l|2"}
+{"_time": "2018-06-17 02:26:36Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001503, "_2": ""}
+{"_time": "2018-06-17 02:26:38Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002870, "_2": ""}
+{"_time": "2018-06-17 02:26:53Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "?"}
+{"_time": "2018-06-17 02:26:55Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002938, "_2": ""}
+{"_time": "2018-06-17 02:26:57Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "lol my goon vanished"}
+{"_time": "2018-06-17 02:27:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000940, "_2": "1200|17|m|3"}
+{"_time": "2018-06-17 02:27:00Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000941, "_2": ""}
+{"_time": "2018-06-17 02:27:04Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "It went to me lol"}
+{"_time": "2018-06-17 02:27:08Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "weird"}
+{"_time": "2018-06-17 02:27:10Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000486, "_2": ""}
+{"_time": "2018-06-17 02:27:12Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000847, "_2": "1100|24|c|1"}
+{"_time": "2018-06-17 02:27:12Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000848, "_2": ""}
+{"_time": "2018-06-17 02:27:20Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000904, "_2": "1200|10|m|1"}
+{"_time": "2018-06-17 02:27:20Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000905, "_2": ""}
+{"_time": "2018-06-17 02:27:23Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003347, "_2": "9100|31|m|5"}
+{"_time": "2018-06-17 02:27:23Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003348, "_2": ""}
+{"_time": "2018-06-17 02:27:35Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000335, "_2": ""}
+{"_time": "2018-06-17 02:27:47Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Wow lol"}
+{"_time": "2018-06-17 02:28:03Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "The safes stay grabbed for too long for some reaso"}
+{"_time": "2018-06-17 02:28:10Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Goons do 3 - 40"}
+{"_time": "2018-06-17 02:28:22Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Wow"}
+{"_time": "2018-06-17 02:28:27Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "ooo"}
+{"_time": "2018-06-17 02:28:38Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003523, "_2": "9200|15|m|3"}
+{"_time": "2018-06-17 02:28:38Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003524, "_2": ""}
+{"_time": "2018-06-17 02:28:47Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002218, "_2": "4300|20|l|1"}
+{"_time": "2018-06-17 02:29:08Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "wait wot"}
+{"_time": "2018-06-17 02:29:09Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "UGH"}
+{"_time": "2018-06-17 02:29:16Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "he was stunned for me"}
+{"_time": "2018-06-17 02:29:21Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Lol"}
+{"_time": "2018-06-17 02:29:23Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "everything kinda froze but still"}
+{"_time": "2018-06-17 02:29:37Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "lol"}
+{"_time": "2018-06-17 02:29:55Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Oops"}
+{"_time": "2018-06-17 02:30:15Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "omg"}
+{"_time": "2018-06-17 02:30:20Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "the jumping"}
+{"_time": "2018-06-17 02:31:01Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "My goon almost got destroyed."}
+{"_time": "2018-06-17 02:31:34Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22000, "_2": "100000023|Toon-up|80|[100000070, 100000023]"}
+{"_time": "2018-06-17 02:32:04Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000213, "_2": ""}
+{"_time": "2018-06-17 02:32:06Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Phew"}
+{"_time": "2018-06-17 02:32:30Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22000, "_2": "100000023|Toon-up|40|[100000023]"}
+{"_time": "2018-06-17 02:33:37Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Woah"}
+{"_time": "2018-06-17 02:34:02Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "AW"}
+{"_time": "2018-06-17 02:34:06Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22000, "_2": "100000023|Toon-up|-1|[100000023]"}
+{"_time": "2018-06-17 02:34:16Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "OH COME ON"}
+{"_time": "2018-06-17 02:35:02Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22000, "_2": "100000023|Toon-up|-1|[100000023]"}
+{"_time": "2018-06-17 02:35:08Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "when the lag almost kills you o_o"}
+{"_time": "2018-06-17 02:35:12Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Lol"}
+{"_time": "2018-06-17 02:35:40Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "OH COME ON"}
+{"_time": "2018-06-17 02:36:25Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "IOMGOG"}
+{"_time": "2018-06-17 02:36:29Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22000, "_2": "100000023|Toon-up|-1|[100000023]"}
+{"_time": "2018-06-17 02:37:52Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22000, "_2": "100000023|Toon-up|-1|[100000023]"}
+{"_time": "2018-06-17 02:37:57Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "hp 8", "_6": "Set your HP to: 8"}
+{"_time": "2018-06-17 02:38:01Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22000, "_2": "100000023|Toon-up|-1|[100000023]"}
+{"_time": "2018-06-17 02:38:16Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "loool im so bad"}
+{"_time": "2018-06-17 02:38:16Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "UGH"}
+{"_time": "2018-06-17 02:38:29Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22000, "_2": "100000023|Toon-up|-1|[100000023]"}
+{"_time": "2018-06-17 02:38:32Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "COME ON YOU STUPID PIECE OF JUNK BOSS!"}
+{"_time": "2018-06-17 02:38:49Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "", "_6": "Did you mean help"}
+{"_time": "2018-06-17 02:38:58Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "I just ran through the cfo"}
+{"_time": "2018-06-17 02:39:20Eastern Daylight Time", "type": "bossBattle", "sender": "AIR:401000000", "_1": 401004168, "_2": "m|Victory|[100000070, 100000023]|1"}
+{"_time": "2018-06-17 02:39:24Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Wow."}
+{"_time": "2018-06-17 02:39:28Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "oh thank god lol"}
+{"_time": "2018-06-17 02:39:30Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "That was way easier than last time."}
+{"_time": "2018-06-17 02:39:36Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "for you lol"}
+{"_time": "2018-06-17 02:39:38Eastern Daylight Time", "type": "cogSuit", "sender": "AIR:401000000", "_1": 100000070, "_2": "2|7|49"}
+{"_time": "2018-06-17 02:39:38Eastern Daylight Time", "type": "cogSuit", "sender": "AIR:401000000", "_1": 100000023, "_2": "2|7|49"}
+{"_time": "2018-06-17 02:39:46Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "No, remember we quit?"}
+{"_time": "2018-06-17 02:39:46Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22000, "_2": "100000023|Toon-up|-1|[100000023]"}
+{"_time": "2018-06-17 02:39:50Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Last time."}
+{"_time": "2018-06-17 02:39:54Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "kind of"}
+{"_time": "2018-06-17 02:39:57Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Lol"}
+{"_time": "2018-06-17 02:41:06Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "i wonder if the cog gallery still crashes you"}
+{"_time": "2018-06-17 02:41:14Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "oh"}
+{"_time": "2018-06-17 02:41:20Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "All the sellbots are amanda rose"}
+{"_time": "2018-06-17 02:41:24Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "LOL"}
+{"_time": "2018-06-17 02:41:26Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "allsummons", "_6": "Lots of summons!"}
+{"_time": "2018-06-17 02:41:30Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "I was too lazy to fix that lol"}
+{"_time": "2018-06-17 02:41:32Eastern Daylight Time", "type": "cogSummoned", "sender": "AIR:401000000", "_1": 100000023, "_2": "waiterinvasion|27|9000"}
+{"_time": "2018-06-17 02:41:47Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "LOl"}
+{"_time": "2018-06-17 02:41:48Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "waiters"}
+{"_time": "2018-06-17 02:41:56Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Maybe check out the vp"}
+{"_time": "2018-06-17 02:42:01Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "oh boy "}
+{"_time": "2018-06-17 02:42:04Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "that should be good"}
+{"_time": "2018-06-17 02:42:07Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 9000, "_2": "100000023|Toon-up|-1|[100000023]"}
+{"_time": "2018-06-17 02:42:25Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "inventory restock 6", "_6": "Inventory restocked."}
+{"_time": "2018-06-17 02:42:27Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "inventory restock", "_6": "Inventory restocked."}
+{"_time": "2018-06-17 02:42:44Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "?"}
+{"_time": "2018-06-17 02:42:46Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Elevator"}
+{"_time": "2018-06-17 02:43:03Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "cheeseyeffect 6", "_6": null}
+{"_time": "2018-06-17 02:43:13Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "I reduced the elevator time for soloers lol."}
+{"_time": "2018-06-17 02:43:23Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "cheeseyeffect 6", "_6": null}
+{"_time": "2018-06-17 02:43:29Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "CheesyEffect", "_6": "Magic word cheesyEffect requires at least 1 arguments"}
+{"_time": "2018-06-17 02:43:35Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "I wish the colors would change during the Cog battl"}
+{"_time": "2018-06-17 02:43:39Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Battles."}
+{"_time": "2018-06-17 02:43:48Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "cheesyEffect 6", "_6": "Set Greerghh's cheesy effect to: 6"}
+{"_time": "2018-06-17 02:43:51Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Lol"}
+{"_time": "2018-06-17 02:43:56Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "I should change the quotes."}
+{"_time": "2018-06-17 02:43:59Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "lol"}
+{"_time": "2018-06-17 02:44:04Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "cheesyEffect 5", "_6": "Set Greerghh's cheesy effect to: 5"}
+{"_time": "2018-06-17 02:44:06Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Unless it's like it is lol since I was soling."}
+{"_time": "2018-06-17 02:44:07Eastern Daylight Time", "type": "bossBattle", "sender": "AIR:401000000", "_1": 401005541, "_2": "s|BattleOne|[100000070, 100000023]|3007"}
+{"_time": "2018-06-17 02:44:09Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Soloing."}
+{"_time": "2018-06-17 02:44:15Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "WAITERS"}
+{"_time": "2018-06-17 02:44:18Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22002, "_2": "100000023|Toon-up|-1|[100000023]"}
+{"_time": "2018-06-17 02:44:46Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "This was a good time lol"}
+{"_time": "2018-06-17 02:44:50Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "LOL"}
+{"_time": "2018-06-17 02:44:52Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "lol"}
+{"_time": "2018-06-17 02:45:02Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "I like the music"}
+{"_time": "2018-06-17 02:45:07Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22002, "_2": "100000023|Toon-up|40|[100000023]"}
+{"_time": "2018-06-17 02:45:07Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "It's from tti."}
+{"_time": "2018-06-17 02:45:15Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "my laff is bugging out"}
+{"_time": "2018-06-17 02:45:26Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "maxhp 171", "_6": "Set your max HP to: 171"}
+{"_time": "2018-06-17 02:45:27Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "unlimitedgags", "_6": "Toggled unlimited gags ON for Master Cool Cat"}
+{"_time": "2018-06-17 02:45:30Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "hp 143", "_6": "Set your HP to: 143"}
+{"_time": "2018-06-17 02:45:31Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "Inventory restock", "_6": "Inventory restocked."}
+{"_time": "2018-06-17 02:45:35Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "Inventory restock 6", "_6": "Inventory restocked."}
+{"_time": "2018-06-17 02:46:11Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "hp 100", "_6": "Set your HP to: 100"}
+{"_time": "2018-06-17 02:46:19Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "A lot of Cogs."}
+{"_time": "2018-06-17 02:46:21Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22002, "_2": "100000023|Toon-up|80|[100000023]"}
+{"_time": "2018-06-17 02:46:25Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "sos 50 barnacle bessie", "_6": "Greerghh was given 50 barnacle bessie SOS cards."}
+{"_time": "2018-06-17 02:47:08Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "gotta add the tremor animation to em"}
+{"_time": "2018-06-17 02:47:09Eastern Daylight Time", "type": "client-disconnected", "sender": "Client:1000000002"}
+{"_time": "2018-06-17 02:47:09Eastern Daylight Time", "type": "client-exception", "sender": "AIR:401000000", "_1": 100000023, "_2": "toontown.toon.NPCFriendPanel:12, toontown.toon.NPCFriendPanel:173, toontown.toon.NPCFriendPanel:77, toontown.town.TownBattleSOSPanel:198, TypeError: newToonFromProperties() takes exactly 15 arguments (14 given)"}
+{"_time": "2018-06-17 02:47:09Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 100000023, "_2": ""}
+{"_time": "2018-06-17 02:47:09Eastern Daylight Time", "type": "battleCogsDefeated", "sender": "AIR:401000000", "_1": 401004257, "_2": "|22001"}
+{"_time": "2018-06-17 02:47:09Eastern Daylight Time", "type": "battleCogsDefeated", "sender": "AIR:401000000", "_1": 401005576, "_2": "1mh12,1nd7,1mh8,2nd6|22002"}
+{"_time": "2018-06-17 02:47:26Eastern Daylight Time", "type": "client-connected", "sender": "Client:1000000004", "remote_address": "71.11.76.198:53780", "local_address": "192.168.0.2:7199"}
+{"_time": "2018-06-17 02:47:27Eastern Daylight Time", "type": "accountLogin", "sender": "AIR:1000000", "_1": 1000000004, "_2": 100000022, "_3": "sarge"}
+{"_time": "2018-06-17 02:47:33Eastern Daylight Time", "type": "avatarChosen", "sender": "AIR:1000000", "_1": 100000027, "_2": 100000022}
+{"_time": "2018-06-17 02:47:42Eastern Daylight Time", "type": "questTier", "sender": "AIR:401000000", "_1": 100000027, "_2": "50"}
+{"_time": "2018-06-17 02:47:59Eastern Daylight Time", "type": "avatarUnload", "sender": "AIR:1000000", "_1": 100000027}
+{"_time": "2018-06-17 02:47:59Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 100000027, "_2": ""}
+{"_time": "2018-06-17 02:48:02Eastern Daylight Time", "type": "bossBattle", "sender": "AIR:401000000", "_1": 401005541, "_2": "s|Victory|[100000070]|3007"}
+{"_time": "2018-06-17 02:48:02Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "killvp", "_6": "Killed VP."}
+{"_time": "2018-06-17 02:48:04Eastern Daylight Time", "type": "avatarChosen", "sender": "AIR:1000000", "_1": 100000023, "_2": 100000022}
+{"_time": "2018-06-17 02:48:09Eastern Daylight Time", "type": "cogSuit", "sender": "AIR:401000000", "_1": 100000070, "_2": "3|7|49"}
+{"_time": "2018-06-17 02:48:13Eastern Daylight Time", "type": "questTier", "sender": "AIR:401000000", "_1": 100000023, "_2": "50"}
+{"_time": "2018-06-17 02:48:20Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 11000, "_2": "100000023|Toon-up|-1|[100000023]"}
+{"_time": "2018-06-17 02:48:50Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "collisionsoff", "_6": null}
+{"_time": "2018-06-17 02:48:56Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "collisionson", "_6": null}
+{"_time": "2018-06-17 02:49:04Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "collisionsoff", "_6": null}
+{"_time": "2018-06-17 02:49:47Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "collisionson", "_6": null}
+{"_time": "2018-06-17 02:49:50Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "hi"}
+{"_time": "2018-06-17 02:49:55Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Okay then"}
+{"_time": "2018-06-17 02:49:56Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "Lol"}
+{"_time": "2018-06-17 02:50:05Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "skipvp", "_6": "Skipping the first round..."}
+{"_time": "2018-06-17 02:50:16Eastern Daylight Time", "type": "bossBattle", "sender": "AIR:401000000", "_1": 401005756, "_2": "s|BattleThree|[100000070, 100000023]|2126"}
+{"_time": "2018-06-17 02:50:25Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "givePies 4 -1", "_6": null}
+{"_time": "2018-06-17 02:51:06Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "LOl"}
+{"_time": "2018-06-17 02:51:10Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "oof"}
+{"_time": "2018-06-17 02:51:42Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "gkdfhgjknbvc"}
+{"_time": "2018-06-17 02:52:28Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "o p e n"}
+{"_time": "2018-06-17 02:52:42Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "ooo\\"}
+{"_time": "2018-06-17 02:53:13Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "togglegm", "_6": null}
+{"_time": "2018-06-17 02:53:51Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "lol"}
+{"_time": "2018-06-17 02:54:06Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "WOAH"}
+{"_time": "2018-06-17 02:54:11Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "?"}
+{"_time": "2018-06-17 02:54:48Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "WHYWB"}
+{"_time": "2018-06-17 02:55:36Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "jgyhkmnbm"}
+{"_time": "2018-06-17 02:57:19Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "okay"}
+{"_time": "2018-06-17 02:57:50Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "kuhjkhjk"}
+{"_time": "2018-06-17 02:58:20Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "lol"}
+{"_time": "2018-06-17 02:58:56Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "OW"}
+{"_time": "2018-06-17 02:59:36Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "WHAT THE"}
+{"_time": "2018-06-17 02:59:57Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "kjkj"}
+{"_time": "2018-06-17 03:00:02Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "jfghjkt7645r"}
+{"_time": "2018-06-17 03:00:27Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "he didnt even go back"}
+{"_time": "2018-06-17 03:01:09Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "';lkjhgf456u6"}
+{"_time": "2018-06-17 03:01:11Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "Ic ant"}
+{"_time": "2018-06-17 03:01:51Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "lol"}
+{"_time": "2018-06-17 03:02:13Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "He got up as soon as he got stunned"}
+{"_time": "2018-06-17 03:02:16Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22003, "_2": "100000070|Toon-up|-1|[100000023, 100000070]"}
+{"_time": "2018-06-17 03:02:19Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "hp 13", "_6": "Set your HP to: 13"}
+{"_time": "2018-06-17 03:02:28Eastern Daylight Time", "type": "suspicious", "sender": "AIR:401000000", "_1": 100000023, "_2": "hitBoss from unknown avatar"}
+{"_time": "2018-06-17 03:02:32Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000023, "_2": "ye greened me"}
+{"_time": "2018-06-17 03:02:38Eastern Daylight Time", "type": "client-disconnected", "sender": "Client:1000000003"}
+{"_time": "2018-06-17 03:02:38Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 100000070, "_2": ""}
+{"_time": "2018-06-17 03:02:38Eastern Daylight Time", "type": "battleCogsDefeated", "sender": "AIR:401000000", "_1": 401004258, "_2": "|22001"}
+{"_time": "2018-06-17 03:03:53Eastern Daylight Time", "type": "questTier", "sender": "AIR:401000000", "_1": 100000023, "_2": "50"}
+{"_time": "2018-06-17 03:03:58Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "quests list", "_6": "CurrentQuests: [10103]"}
+{"_time": "2018-06-17 03:04:05Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "quests progress 10103 200", "_6": "Set QuestID 10103 progress to 200"}
+{"_time": "2018-06-17 03:04:05Eastern Daylight Time", "type": "questTier", "sender": "AIR:401000000", "_1": 100000023, "_2": "50"}
+{"_time": "2018-06-17 03:04:05Eastern Daylight Time", "type": "questTier", "sender": "AIR:401000000", "_1": 100000023, "_2": "50"}
+{"_time": "2018-06-17 03:04:29Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "trophy", "_6": "Did you mean trophyScore"}
+{"_time": "2018-06-17 03:04:33Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "trophyScore 9999", "_6": "Greerghh's trophy score has been set to: 9999"}
+{"_time": "2018-06-17 03:04:39Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "trophyScore 99", "_6": "Greerghh's trophy score has been set to: 99"}
+{"_time": "2018-06-17 03:04:46Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "trophyScore 100", "_6": "Greerghh's trophy score has been set to: 100"}
+{"_time": "2018-06-17 03:05:56Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:06Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog~catalog", "_6": null}
+{"_time": "2018-06-17 03:06:07Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:07Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:07Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:07Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:07Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:07Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:08Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:08Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:08Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:08Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:08Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:08Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:09Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:09Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:09Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:09Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:09Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:09Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:10Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:10Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:10Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:10Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:10Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:11Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:11Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:11Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:11Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:11Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:12Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:12Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:12Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:12Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog~catalog", "_6": null}
+{"_time": "2018-06-17 03:06:12Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:13Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:13Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:13Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:13Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:13Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:14Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:14Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:14Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:14Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:14Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:15Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:15Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:15Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:15Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:15Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:15Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:16Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog~catalog", "_6": null}
+{"_time": "2018-06-17 03:06:16Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:16Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:17Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:17Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:17Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:17Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:17Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:17Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:18Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:18Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:18Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:18Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:18Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:19Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:19Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:19Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:20Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:20Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:20Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:20Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:20Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:20Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:21Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:21Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:21Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:21Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:22Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:22Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:22Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:22Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:22Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:23Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:23Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:23Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:06:23Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "catalog", "_6": null}
+{"_time": "2018-06-17 03:07:04Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000618, "_2": "2300|22|s|3"}
+{"_time": "2018-06-17 03:07:04Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000619, "_2": ""}
+{"_time": "2018-06-17 03:14:22Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000377, "_2": "2200|43|s|1"}
+{"_time": "2018-06-17 03:21:35Eastern Daylight Time", "type": "resistanceChat", "sender": "AIR:401000000", "_1": 22004, "_2": "100000023|Jellybeans|2400|[100000023]"}
+{"_time": "2018-06-17 03:23:12Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "collisionsoff", "_6": null}
+{"_time": "2018-06-17 03:26:52Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000023, "_2": 700, "_3": 100000023, "_4": 700, "_5": "collisionson", "_6": null}
+{"_time": "2018-06-17 03:27:02Eastern Daylight Time", "type": "client-lost", "sender": "Client:1000000004", "reason": "An existing connection was forcibly closed by the remote host"}
+{"_time": "2018-06-17 03:27:02Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 100000023, "_2": ""}
+{"_time": "2018-06-17 03:43:55Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000474, "_2": ""}
+{"_time": "2018-06-17 05:13:33Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000218, "_2": "2100|38|l|2"}
+{"_time": "2018-06-17 06:41:02Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000194, "_2": "2100|26|m|1"}
+{"_time": "2018-06-17 06:41:02Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000195, "_2": ""}
+{"_time": "2018-06-17 06:49:18Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000170, "_2": "2100|17|c|1"}
+{"_time": "2018-06-17 06:49:18Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000171, "_2": ""}
+{"_time": "2018-06-17 06:57:00Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000153, "_2": "2100|11|m|2"}
+{"_time": "2018-06-17 07:16:34Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000568, "_2": "2300|14|s|1"}
+{"_time": "2018-06-17 07:37:29Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000242, "_2": ""}
+{"_time": "2018-06-17 08:16:21Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000546, "_2": ""}
+{"_time": "2018-06-17 09:17:58Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000300, "_2": ""}
+{"_time": "2018-06-17 10:08:29Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000165, "_2": ""}
+{"_time": "2018-06-17 10:27:02Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000294, "_2": ""}
+{"_time": "2018-06-17 10:48:12Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000247, "_2": "2100|49|l|1"}
+{"_time": "2018-06-17 10:48:12Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000248, "_2": ""}
+{"_time": "2018-06-17 12:15:34Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000259, "_2": "2100|52|s|1"}
+{"_time": "2018-06-17 13:35:40Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000189, "_2": ""}
+{"_time": "2018-06-17 13:46:19Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000340, "_2": "2100|70|m|1"}
+{"_time": "2018-06-17 13:46:19Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000341, "_2": ""}
+{"_time": "2018-06-17 13:55:30Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000176, "_2": "2100|21|c|1"}
+{"_time": "2018-06-17 13:55:30Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000177, "_2": ""}
+{"_time": "2018-06-17 14:16:03Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003433, "_2": "9200|53"}
+{"_time": "2018-06-17 14:16:06Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003199, "_2": "9100|13"}
+{"_time": "2018-06-17 14:19:14Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003270, "_2": "9100|33|c|5"}
+{"_time": "2018-06-17 14:19:33Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003329, "_2": "9100|49"}
+{"_time": "2018-06-17 14:25:18Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000310, "_2": "2100|62|l|1"}
+{"_time": "2018-06-17 14:25:18Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000311, "_2": ""}
+{"_time": "2018-06-17 14:26:40Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003324, "_2": ""}
+{"_time": "2018-06-17 14:27:25Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003553, "_2": "9200|22|m|3"}
+{"_time": "2018-06-17 14:27:26Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003554, "_2": ""}
+{"_time": "2018-06-17 14:27:39Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003469, "_2": "9200|37"}
+{"_time": "2018-06-17 14:43:52Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003469, "_2": "9200|37|l|4"}
+{"_time": "2018-06-17 14:43:52Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401033591, "_2": ""}
+{"_time": "2018-06-17 14:44:10Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401003463, "_2": "9200|13"}

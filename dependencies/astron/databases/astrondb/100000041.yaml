@@ -1,0 +1,12 @@
+id: 100000041
+class: Account
+fields:
+  ACCOUNT_AV_SET: "[0, 0, 100000042, 0, 0, 0]"
+  ESTATE_ID: 0
+  ACCOUNT_AV_SET_DEL: "[]"
+  CREATED: "\"Wed Mar 28 14:58:11 2018\""
+  LAST_LOGIN: "\"Wed Mar 28 14:58:11 2018\""
+  ACCOUNT_ID: "\"Da derp QUEEN\""
+  ACCESS_LEVEL: 700
+  LAST_LOGIN_TS: 1522263492
+  CHAT_SETTINGS: "[1, 1]"

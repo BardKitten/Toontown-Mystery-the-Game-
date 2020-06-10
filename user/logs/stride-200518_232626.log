@@ -1,0 +1,68 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x182F59B8>}
+__handleAvatarChooserDone: 100000223, 'Piggy', ('sls', 'ms', 's', 'm', (0.0, 0.63, 0.51, 1.0), (1.0, 1.0, 1.0, 1.0), (0.0, 0.63, 0.51, 1.0), (0.0, 0.63, 0.51, 1.0), 17, 8, 0, 8, 4, 15), 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.10.0\direct\gui\DirectEntry.py", line 178, in commandFunc
+    apply(self['command'], [self.get()] + self['extraArgs'])
+  File "toontown\chat\TTChatInputWhiteList.py", line 100, in sendChat
+    ChatInputWhiteListFrame.sendChat(self, self.chatEntry.get())
+  File "otp\chat\ChatInputWhiteListFrame.py", line 115, in sendChat
+    self.sendChatBySwitch(text)
+  File "otp\chat\ChatInputWhiteListFrame.py", line 130, in sendChatBySwitch
+    self.sendChatByData(text)
+  File "toontown\chat\TTChatInputWhiteList.py", line 110, in sendChatByData
+    base.talkAssistant.sendOpenTalk(text)
+  File "otp\chat\TalkAssistant.py", line 542, in sendOpenTalk
+    if base.cr.wantMagicWords and len(message) > 0 and message[0] == ToontownGlobals.MagicWordInvokerPrefix:
+AttributeError: 'ToontownClientRepository' object has no attribute 'wantMagicWords'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.10.0\direct\gui\DirectEntry.py", line 178, in commandFunc
+    apply(self['command'], [self.get()] + self['extraArgs'])
+  File "toontown\chat\TTChatInputWhiteList.py", line 100, in sendChat
+    ChatInputWhiteListFrame.sendChat(self, self.chatEntry.get())
+  File "otp\chat\ChatInputWhiteListFrame.py", line 115, in sendChat
+    self.sendChatBySwitch(text)
+  File "otp\chat\ChatInputWhiteListFrame.py", line 130, in sendChatBySwitch
+    self.sendChatByData(text)
+  File "toontown\chat\TTChatInputWhiteList.py", line 110, in sendChatByData
+    base.talkAssistant.sendOpenTalk(text)
+  File "otp\chat\TalkAssistant.py", line 542, in sendOpenTalk
+    if base.cr.wantMagicWords and len(message) > 0 and message[0] == ToontownGlobals.MagicWordInvokerPrefix:
+AttributeError: 'ToontownClientRepository' object has no attribute 'wantMagicWords'

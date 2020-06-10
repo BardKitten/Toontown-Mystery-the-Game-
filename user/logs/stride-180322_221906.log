@@ -1,0 +1,175 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x199E2328>}
+__handleAvatarChooserDone: 100000015, 'Super Bear', ('bss', 'ms', 's', 'm', (0.64, 0.35, 0.26, 1.0), (1.0, 1.0, 1.0, 1.0), (0.64, 0.35, 0.26, 1.0), (0.64, 0.35, 0.26, 1.0), 111, 27, 98, 27, 7, 10), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_BR.pdna
+Reading DNA file... phase_8/dna/storage_BR_sz.pdna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x15511C70>
+chooseFireOpenShot <function allGroupLowShot at 0x155119B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x15511C30>
+chooseFireOpenShot <function allGroupLowShot at 0x155119B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x15511B30>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x155121F0>
+chooseFireOpenShot <function allGroupLowShot at 0x155119B0>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x15511B30>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x15511C70>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x15511B30>
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x15511C30>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x15511B30>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x15511B30>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x15511B30>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_BR.pdna
+Reading DNA file... phase_8/dna/storage_BR_sz.pdna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+__handleAvatarChooserDone: 100000015, 'Super Bear', ('bss', 'ms', 's', 'm', (0.64, 0.35, 0.26, 1.0), (1.0, 1.0, 1.0, 1.0), (0.64, 0.35, 0.26, 1.0), (0.64, 0.35, 0.26, 1.0), 111, 27, 98, 27, 7, 10), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+__handleAvatarChooserDone: 100000015, 'Super Bear', ('bss', 'ms', 's', 'm', (0.64, 0.35, 0.26, 1.0), (1.0, 1.0, 1.0, 1.0), (0.64, 0.35, 0.26, 1.0), (0.64, 0.35, 0.26, 1.0), 111, 27, 98, 27, 7, 10), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+__handleAvatarChooserDone: 100000015, 'Super Bear', ('bss', 'ms', 's', 'm', (0.64, 0.35, 0.26, 1.0), (1.0, 1.0, 1.0, 1.0), (0.64, 0.35, 0.26, 1.0), (0.64, 0.35, 0.26, 1.0), 111, 27, 98, 27, 7, 10), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+chooseFireOpenShot <function avatarBehindShot at 0x15511DB0>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x15511B30>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+hit! 0.510236740112
+hit! 0.981828868389
+hit! 0.815675497055
+hit! 0.89526373148
+hit! 0.740134596825
+--not hard enough: 0.484555512667
+hit! 0.983419597149
+hit! 0.939079165459
+hit! 0.953290224075
+hit! 0.943786144257
+hit! 5.70157165924e-09
+hit! 0.751471161842
+hit! 0.535552084446
+--not hard enough: -0.000312791176839
+hit! 0.844849705696
+hit! 0.842757284641
+hit! 0.939328968525
+hit! 0.593829631805
+--not hard enough: -0.101430498064
+hit! 0.710559666157
+hit! 0.904584288597
+hit! 0.945582985878
+hit! 0.97647446394
+hit! 0.991454780102
+hit! 0.482690662146
+hit! 0.697523355484
+hit! 0.944328248501
+--not hard enough: -0.186556890607
+hit! 0.867291212082
+hit! 0.645697772503
+hit! 0.409969836473
+hit! 0.86562204361
+hit! 0.953015327454
+hit! 0.531808912754
+hit! 0.98474240303
+hit! 0.27293241024
+hit! 0.211871996522
+hit! 0.223136141896
+hit! 0.476819604635
+hit! 0.415365308523
+hit! 0.199951708317
+hit! 0.352282047272
+hit! 0.866635322571
+hit! 0.848854780197
+hit! 0.456641882658
+--not hard enough: -0.0268517415971
+hit! 0.668441653252
+hit! 0.810430943966
+hit! 0.825402498245
+hit! 0.968150556087
+hit! 0.32522174716
+hit! 0.394460707903
+hit! 0.974051296711
+hit! 0.789566099644
+hit! 0.89512783289
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')

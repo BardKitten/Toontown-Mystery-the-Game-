@@ -1,0 +1,195 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{402000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x187FA738>, 401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x187FA760>, 404000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x187FA5A8>, 403000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x187FA6E8>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10037, 'pos': LPoint3f(0, 0, 0)}
+h = None
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+spec = {'parentEntId': 10660, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10661, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(-2, 6.29999, 1.5)
+### newVec3 =  LVector3f(-2, 6.29999, 0)
+### newVec3 =  LVector3f(-2, 6.29999, 0.375)
+### newVec3 =  LVector3f(-2, 6.29999, 0)
+spec = {'parentEntId': 20058, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10662, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10030, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10023, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2, 6.29999, 1.5)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+### newVec3 =  LVector3f(2, 6.29999, 0.375)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+spec = {'parentEntId': 10023, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10032, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10032, 'pos': LPoint3f(0, 0, 0)}
+h = None
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+hit! 0.8586845994
+hit! 0.311229079962
+hit! 0.989583194256
+hit! 0.492712646723
+hit! 0.517682433128
+hit! 0.995351433754
+--not hard enough: 0.0355950556695
+hit! 0.161585554481
+hit! 0.923963367939
+--not hard enough: -0.0207692179829
+hit! 0.793792366982
+--not hard enough: -0.0300429221243
+hit! 0.757739782333
+hit! 0.808253884315
+hit! 0.998750865459
+hit! 0.806809604168
+hit! 0.690931558609
+hit! 0.496061056852
+hit! 0.781116425991
+hit! 0.994637727737
+hit! 0.89536434412
+hit! 0.840237081051
+hit! 0.864979326725
+hit! 0.713424742222
+hit! 0.669953584671
+hit! 0.330453157425
+hit! 0.805412232876
+hit! 0.968843221664
+hit! 0.564912557602
+hit! 0.829586207867
+hit! 0.468584805727
+hit! 0.580785751343
+hit! 0.953701257706
+--not hard enough: -0.284101307392
+hit! 0.879690825939
+--not hard enough: -0.709223508835
+hit! 0.373983085155
+--not hard enough: -0.00709744822234
+hit! 0.360000520945
+hit! 0.500221431255
+hit! 0.689976334572
+hit! 0.259223431349
+--not hard enough: -0.381354302168
+hit! 0.93543368578
+hit! 0.71444439888
+hit! 0.839580774307
+hit! 0.989251434803
+--not hard enough: 0.0996498316526
+hit! 0.896809279919
+hit! 0.479700565338
+hit! 0.841107785702
+hit! 0.969318211079
+hit! 0.735526144505
+hit! 0.944623351097
+hit! 0.247116550803
+hit! 0.965080022812
+--not hard enough: -0.979695558548
+hit! 0.875554263592
+hit! 0.933792591095
+--not hard enough: -0.118074476719
+hit! 0.915315806866
+hit! 0.727970540524
+hit! 0.817068397999
+hit! 0.633565247059
+hit! 0.673191130161
+hit! 0.902802765369
+--not hard enough: -0.878628015518
+hit! 0.392982959747
+hit! 0.956482589245
+hit! 0.822330117226
+hit! 0.789307713509
+hit! 0.992778241634
+hit! 0.889526426792
+hit! 0.733074426651
+hit! 0.701731383801
+hit! 0.977855920792
+hit! 0.916781902313
+hit! 0.723001539707
+hit! 0.296119898558
+hit! 0.719691097736
+hit! 0.798460245132
+hit! 0.963474333286
+hit! 0.185452654958
+hit! 0.375603377819
+hit! 0.620120465755
+hit! 0.964671552181
+hit! 0.904576480389
+hit! 0.997267901897
+hit! 0.720406353474
+hit! 0.922551929951
+hit! 0.610832154751
+hit! 0.762057781219
+hit! 0.752700984478
+hit! 0.946474969387
+hit! 0.641545653343
+hit! 0.477074503899
+hit! 0.89008551836
+hit! 0.861274659634
+hit! 0.971914172173
+hit! 0.88366818428
+hit! 0.639426410198
+hit! 0.855955243111
+--not hard enough: 0.199882268906
+hit! 0.751653850079
+hit! 0.745867609978
+hit! 0.893487215042
+hit! 0.646772384644
+hit! 0.724550008774
+hit! 0.877727985382
+hit! 0.191797271371
+hit! 0.413262724876
+hit! 0.694455981255
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna

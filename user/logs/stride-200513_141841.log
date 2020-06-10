@@ -1,0 +1,60 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x18E85670>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_DD.pdna
+Reading DNA file... phase_6/dna/storage_DD_sz.pdna
+Reading DNA file... phase_6/dna/donalds_dock_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 110000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Pattern [6, 1, 1, 2, 6, 2, 0, 0] Place 0 Type 6
+Pattern [6, 1, 1, 2, 6, 2, 0, 0] Place 1 Type 1
+Pattern [6, 1, 1, 2, 6, 2, 0, 0] Place 2 Type 1
+Pattern [6, 1, 1, 2, 6, 2, 0, 0] Place 3 Type 2
+Pattern [6, 1, 1, 2, 6, 2, 0, 0] Place 4 Type 6
+Pattern [6, 1, 1, 2, 6, 2, 0, 0] Place 5 Type 2
+Pattern [6, 1, 1, 2, 6, 2, 0, 0] Place 6 Type 0
+Pattern [6, 1, 1, 2, 6, 2, 0, 0] Place 7 Type 0
+Pattern [6, 1, 1, 2, 6, 2, 0, 0] Place 0 Type 6
+Pattern [6, 1, 1, 2, 6, 2, 0, 0] Place 1 Type 1
+Pattern [2, 1, 2, 6, 0, 6, 0, 1] Place 0 Type 2
+Pattern [2, 1, 2, 6, 0, 6, 0, 1] Place 1 Type 1
+Pattern [2, 1, 2, 6, 0, 6, 0, 1] Place 2 Type 2
+Pattern [2, 1, 2, 6, 0, 6, 0, 1] Place 3 Type 6
+Pattern [2, 1, 2, 6, 0, 6, 0, 1] Place 4 Type 0
+Pattern [2, 1, 2, 6, 0, 6, 0, 1] Place 5 Type 6
+Pattern [2, 1, 2, 6, 0, 6, 0, 1] Place 6 Type 0
+Pattern [2, 1, 2, 6, 0, 6, 0, 1] Place 7 Type 1
+Pattern [2, 1, 2, 6, 0, 6, 0, 1] Place 0 Type 2
+Pattern [0, 2, 0, 6, 2, 1, 1, 6, 5, 5] Place 0 Type 0
+Pattern [0, 2, 0, 6, 2, 1, 1, 6, 5, 5] Place 1 Type 2
+Pattern [0, 2, 0, 6, 2, 1, 1, 6, 5, 5] Place 2 Type 0
+Pattern [0, 2, 0, 6, 2, 1, 1, 6, 5, 5] Place 3 Type 6
+Pattern [0, 2, 0, 6, 2, 1, 1, 6, 5, 5] Place 4 Type 2
+Pattern [0, 2, 0, 6, 2, 1, 1, 6, 5, 5] Place 5 Type 1
+Pattern [0, 2, 0, 6, 2, 1, 1, 6, 5, 5] Place 6 Type 1
+Pattern [0, 2, 0, 6, 2, 1, 1, 6, 5, 5] Place 7 Type 6
+Pattern [0, 2, 0, 6, 2, 1, 1, 6, 5, 5] Place 8 Type 5
+Pattern [0, 2, 0, 6, 2, 1, 1, 6, 5, 5] Place 9 Type 5
+Pattern [0, 2, 0, 6, 2, 1, 1, 6, 5, 5] Place 0 Type 0
+Pattern [0, 2, 0, 6, 2, 1, 1, 6, 5, 5] Place 1 Type 2
+Pattern [0, 5, 1, 0, 5, 6, 1, 6] Place 0 Type 0
+Pattern [0, 5, 1, 0, 5, 6, 1, 6] Place 1 Type 5
+Pattern [0, 5, 1, 0, 5, 6, 1, 6] Place 2 Type 1
+Pattern [0, 5, 1, 0, 5, 6, 1, 6] Place 3 Type 0
+Pattern [0, 5, 1, 0, 5, 6, 1, 6] Place 4 Type 5
+spec = {'parentEntId': 110400, 'pos': LPoint3f(0, 0, 0)}
+h = None

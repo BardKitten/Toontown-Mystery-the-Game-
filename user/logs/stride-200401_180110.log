@@ -1,0 +1,19 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\python\lib\runpy.py", line 162, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "C:\Panda3D-1.10.0\python\lib\runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "C:\Users\Cool Cat\Documents\ToontownMystery2.0\ToontownMystery 2.0\toontown\toonbase\ToontownStart.py", line 176, in <module>
+    from toontown.distributed import ToontownClientRepository
+  File "toontown\distributed\ToontownClientRepository.py", line 19, in <module>
+    from otp.distributed import OTPClientRepository
+  File "otp\distributed\OTPClientRepository.py", line 13, in <module>
+    from otp.avatar.DistributedPlayer import DistributedPlayer
+  File "otp\avatar\DistributedPlayer.py", line 10, in <module>
+    from otp.chat import ChatGarbler, TalkAssistant
+  File "otp\chat\TalkAssistant.py", line 9, in <module>
+    from otp.chat.TalkHandle import TalkHandle
+ImportError: No module named TalkHandle

@@ -1,0 +1,12 @@
+id: 100000164
+class: Account
+fields:
+  ACCOUNT_AV_SET: "[0, 100000165, 0, 0, 0, 0]"
+  ESTATE_ID: 0
+  ACCOUNT_AV_SET_DEL: "[]"
+  CREATED: "\"Mon Jun 03 19:55:28 2019\""
+  LAST_LOGIN: "\"Mon Jun 03 19:55:28 2019\""
+  ACCOUNT_ID: "\"imahotdog909\""
+  ACCESS_LEVEL: 700
+  LAST_LOGIN_TS: 1559606128
+  CHAT_SETTINGS: "[1, 1]"

@@ -1,0 +1,55 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1872C760>}
+__handleAvatarChooserDone: 100000104, 'Princess Star', ('css', 'md', 's', 'f', (0.99, 0.89, 0.32, 1.0), (1.0, 1.0, 1.0, 1.0), (0.99, 0.89, 0.32, 1.0), (0.99, 0.89, 0.32, 1.0), 6, 22, 6, 22, 7, 26), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Laser Field initCollisionGeom
+Laser Field initCollisionGeom
+CollisionEntry:
+  from render/Princess Star-100000104/camFloorRayNode/ccRay2Node
+  into render/stage401004459/ZoneEntity-0/-PandaNode/LB_Zone03a_egg/Collsion/stageFloorColl0 []
+  at -2 -6.2 -0.0356667
+  normal -0.000961985 0.000458579 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Princess Star-100000104/camFloorRayNode/ccRay2Node
+  into render/stage401004459/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at -3.4 38.6736 0.179488
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Princess Star-100000104/camFloorRayNode/ccRay2Node
+  into render/stage401004459/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at -3.68596 51.4779 4.95179
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Princess Star-100000104/camFloorRayNode/ccRay2Node
+  into render/stage401004459/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl2 []
+  at 29.532 111.23 4.95065
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None

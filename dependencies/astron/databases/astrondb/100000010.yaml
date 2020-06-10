@@ -1,0 +1,14 @@
+id: 100000010
+class: DistributedEstate
+fields:
+  setEstateType: (0)
+  setLastEpochTimeStamp: (0)
+  setRentalTimeStamp: (0)
+  setRentalType: (0)
+  setSlot0ToonId: (0)
+  setSlot1ToonId: (100000012)
+  setSlot1Garden: (<0000>)
+  setSlot2ToonId: (0)
+  setSlot3ToonId: (0)
+  setSlot4ToonId: (0)
+  setSlot5ToonId: (0)

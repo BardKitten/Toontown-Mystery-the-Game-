@@ -1,0 +1,243 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{406000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17F71530>, 407000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17F714B8>, 401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17F71760>, 402000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17F716E8>, 404000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17F715D0>, 403000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17F71670>, 405000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17F71468>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+hit! 0.699967622757
+hit! 0.753053545952
+hit! 0.625293374062
+hit! 0.98985850811
+hit! 0.333351224661
+hit! 0.40323355794
+hit! 0.822240889072
+hit! 0.947635233402
+hit! 0.957532286644
+hit! 0.73515611887
+hit! 0.806842088699
+hit! 0.942322432995
+--not hard enough: -0.525450825691
+hit! 0.977505862713
+hit! 0.926722228527
+--not hard enough: -0.00430470705032
+hit! 0.63606351614
+hit! 0.740369200706
+hit! 0.828207731247
+hit! 0.99136030674
+hit! 0.879733800888
+hit! 0.715791404247
+hit! 0.315097570419
+--not hard enough: -0.747137367725
+hit! 0.91335529089
+hit! 0.622903764248
+hit! 0.877902448177
+hit! 0.156729891896
+hit! 0.48761883378
+hit! 0.339372932911
+hit! 0.91397356987
+hit! 0.38291105628
+hit! 0.82684981823
+hit! 0.38238722086
+hit! 0.984445214272
+hit! 0.900682389736
+hit! 0.914272785187
+hit! 0.995627880096
+hit! 0.89618653059
+hit! 0.926316380501
+hit! 0.938026607037
+hit! 0.990061938763
+hit! 0.269237220287
+hit! 0.956730425358
+--not hard enough: -0.149986863136
+hit! 0.710714578629
+hit! 0.912698447704
+--not hard enough: -0.126512691379
+hit! 0.871558308601
+--not hard enough: 0.00669910851866
+hit! 0.80038189888
+hit! 0.947168469429
+--not hard enough: -0.0204503536224
+hit! 0.928171217442
+hit! 0.42909643054
+hit! 0.99086856842
+hit! 0.976165354252
+hit! 0.655277192593
+hit! 0.987792313099
+hit! 0.903173327446
+--not hard enough: -0.725794315338
+hit! 0.700801789761
+hit! 0.796461880207
+hit! 0.989477992058
+hit! 0.638701558113
+hit! 0.809250414371
+hit! 0.769785583019
+hit! 0.40519747138
+hit! 0.402689278126
+hit! 0.564300298691
+--not hard enough: -0.0716410279274
+hit! 0.879530906677
+hit! 0.845324456692
+hit! 0.775382697582
+hit! 0.820258915424
+hit! 0.724723219872
+hit! 0.403312444687
+hit! 0.953704297543
+--not hard enough: -0.0226528253406
+hit! 0.551605165005
+hit! 0.377195477486
+hit! 0.563566029072
+hit! 0.916989266872
+hit! 0.892216622829
+hit! 0.421672552824
+hit! 0.963424026966
+hit! 0.936117947102
+hit! 0.762621641159
+hit! 0.997937858105
+hit! 0.388726204634
+hit! 0.85783624649
+hit! 0.629429280758
+hit! 0.968240499496
+--not hard enough: 0.00363288074732
+hit! 0.635080695152
+hit! 0.675247788429
+hit! 0.715662240982
+hit! 0.201885104179
+hit! 0.881637871265
+hit! 0.862112998962
+hit! 0.473020225763
+hit! 0.689828693867
+hit! 0.459651172161
+hit! 0.606193900108
+--not hard enough: -0.0422683209181
+hit! 0.371387004852
+hit! 0.867939710617
+hit! 0.517590522766
+hit! 0.592917978764
+hit! 0.458693444729
+hit! 0.37312746048
+--not hard enough: -0.167646571994
+hit! 0.763780117035
+hit! 0.856168866158
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10037, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10661, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 20058, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10663, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+chooseFireOpenShot <function allGroupLowShot at 0x13A7EE70>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x13A81030>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna

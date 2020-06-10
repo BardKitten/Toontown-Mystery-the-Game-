@@ -1,0 +1,70 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x15D5E5A8>}
+__handleAvatarChooserDone: 100000181, 'Boris', ('csl', 'ls', 's', 'm', (0.64, 0.35, 0.26, 1.0), (1.0, 1.0, 1.0, 1.0), (0.64, 0.35, 0.26, 1.0), (0.64, 0.35, 0.26, 1.0), 8, 27, 5, 27, 3, 27), 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_DD.pdna
+Reading DNA file... phase_6/dna/storage_DD_sz.pdna
+Reading DNA file... phase_6/dna/donalds_dock_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x1127C8F0>
+chooseFireOpenShot <function allGroupLowShot at 0x1127C630>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function allGroupLowShot at 0x1127C630>
+chooseFireOpenShot <function allGroupLowShot at 0x1127C630>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarBehindShot at 0x1127CA30>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1127C7B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function allGroupLowShot at 0x1127C630>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x1127CEB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x1127C8B0>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x1127CEB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x1127C8F0>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1127C7B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarBehindShot at 0x1127CA30>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x1127CEB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1127C7B0>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1127C7B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1127C7B0>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1127C7B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x1127C8B0>
+chooseFireOpenShot <function allGroupLowShot at 0x1127C630>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarBehindShot at 0x1127CA30>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x1127CE70>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x1127C8F0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x1127CE70>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.

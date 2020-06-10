@@ -1,0 +1,56 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1712F620>}
+__handleAvatarChooserDone: 100000181, 'Boris', ('csl', 'ls', 's', 'm', (0.64, 0.35, 0.26, 1.0), (1.0, 1.0, 1.0, 1.0), (0.64, 0.35, 0.26, 1.0), (0.64, 0.35, 0.26, 1.0), 8, 27, 5, 27, 3, 27), 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10002, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10010, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10007, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10013, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10040, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10005, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10002, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2, 6.29999, 1.5)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+### newVec3 =  LVector3f(2, 6.29999, 0.375)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+spec = {'parentEntId': 10005, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2, 6.29999, 1.5)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+### newVec3 =  LVector3f(2, 6.29999, 0.375)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+entered wait for zone redirect
+entered wait for set zone response - 2

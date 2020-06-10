@@ -1,0 +1,116 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1BA30BC0>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (0.54, 0.28, 0.75, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x17593A30>
+chooseFireOpenShot <function allGroupLowShot at 0x175938B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x17593B30>
+chooseFireOpenShot <function allGroupLowShot at 0x175938B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(2.00002, 6.30001, 1.5)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0.375)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0)
+### newVec3 =  LVector3f(2.00002, 6.30001, 1.5)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0.375)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0)
+### newVec3 =  LVector3f(-1.99998, 11.3, 1.5)
+### newVec3 =  LVector3f(-1.99998, 11.3, 0)
+### newVec3 =  LVector3f(-1.99998, 11.3, 0.375)
+### newVec3 =  LVector3f(-1.99998, 11.3, 0)
+### newVec3 =  LVector3f(2.00002, 6.30001, 1.5)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0.375)
+### newVec3 =  LVector3f(2.00002, 6.30001, 0)
+hit! 0.937391102314
+hit! 0.677623331547
+hit! 0.804595828056
+hit! 0.258090227842
+hit! 0.805968999863
+hit! 0.991209328175
+hit! 0.91323953867
+--not hard enough: -0.405735403299
+hit! 0.499437510967
+hit! 0.973527252674
+hit! 0.873525500298
+hit! 0.705867886543
+hit! 0.973324179649
+hit! 0.752317726612
+hit! 0.961317360401
+hit! 0.966193020344
+hit! 0.868989169598
+hit! 0.815652668476
+hit! 0.459908694029
+hit! 0.428302764893
+hit! 0.772919654846
+hit! 0.889103353024
+hit! 0.900462031364
+hit! 0.511246144772
+hit! 0.996517658234
+hit! 0.928646326065
+hit! 0.908599197865
+hit! 0.967508971691
+hit! 0.659210324287
+hit! 0.998241484165
+hit! 0.855026245117
+hit! 0.51991635561
+--not hard enough: -0.0525303073227
+hit! 0.653262913227
+hit! 0.733844399452
+hit! 0.543906629086
+hit! 0.162212073803
+hit! 0.617044746876
+--not hard enough: 0.0281096659601
+hit! 0.829100370407
+hit! 0.536511719227
+hit! 0.855925798416
+hit! 0.89055109024
+hit! 0.977136313915
+hit! 0.265535503626
+hit! 0.968545079231
+--not hard enough: 0.0583103075624
+hit! 0.22694209218
+hit! 0.979257762432
+hit! 0.996192455292
+hit! 0.971903264523
+hit! 0.29434722662
+hit! 0.588463246822
+hit! 0.923847615719
+hit! 0.869330585003
+hit! 0.545958042145
+hit! 0.250535726547
+hit! 0.934541225433
+hit! 0.554456710815
+hit! 0.885141193867
+hit! 0.946226477623
+hit! 0.859225749969
+hit! 0.743900537491
+hit! 0.535344660282
+hit! 0.277592092752
+hit! 0.94152623415
+--not hard enough: -0.1551207304
+hit! 0.727434754372
+hit! 0.777605950832
+hit! 0.971426844597
+hit! 0.942404270172
+hit! 0.849132835865
+hit! 0.199873521924
+hit! 0.263415813446
+hit! 0.865366518497

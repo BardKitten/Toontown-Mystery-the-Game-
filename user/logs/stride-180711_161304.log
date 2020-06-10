@@ -1,0 +1,100 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1D089C10>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (0.54, 0.28, 0.75, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_MM.pdna
+Reading DNA file... phase_6/dna/storage_MM_sz.pdna
+Reading DNA file... phase_6/dna/minnies_melody_land_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+hit! 0.949420154095
+hit! 0.865216672421
+hit! 0.633678495884
+hit! 0.996251165867
+hit! 0.774829685688
+hit! 0.862293064594
+hit! 0.72815912962
+hit! 0.375873297453
+hit! 0.250254094601
+hit! 0.52202796936
+hit! 0.870986282825
+hit! 0.209543734789
+hit! 0.365354537964
+hit! 0.684562504292
+hit! 0.989828467369
+hit! 0.906225681305
+hit! 0.390515208244
+hit! 0.964182019234
+hit! 0.344035804272
+hit! 0.972445130348
+hit! 0.87937361002
+hit! 0.465275287628
+hit! 0.817254185677
+hit! 0.975374341011
+hit! 0.961653113365
+hit! 0.856392145157
+hit! 0.939359366894
+hit! 0.920593798161
+hit! 0.46090734005
+hit! 0.803341805935
+hit! 0.997640073299
+hit! 0.995643675327
+hit! 0.918752789497
+hit! 0.429887205362
+hit! 0.670727729797
+hit! 0.848608791828
+hit! 0.302868008614
+hit! 0.909393906593
+hit! 0.681495666504
+hit! 0.984148681164
+hit! 0.998500525951
+hit! 0.994299471378
+hit! 0.908004283905
+--not hard enough: 0.171290352941
+hit! 0.146140128374
+hit! 0.866211652756
+hit! 0.869630038738
+hit! 0.787831962109
+hit! 0.414052158594
+--not hard enough: -0.0637194737792
+hit! 0.703998684883
+hit! 0.99589073658
+hit! 0.293863266706
+--not hard enough: -0.261023789644
+hit! 0.616663455963
+hit! 0.911251962185
+hit! 0.345858603716
+hit! 0.601605415344
+hit! 0.785809636116
+hit! 0.922654688358
+hit! 0.926860272884
+hit! 0.744810283184
+hit! 0.806271255016
+hit! 0.970572113991
+hit! 0.783957898617
+hit! 0.843250215054
+hit! 0.980916678905
+hit! 0.824532449245
+hit! 0.935222089291
+hit! 0.846497833729
+hit! 0.928485155106

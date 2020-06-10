@@ -1,0 +1,258 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x161CF4B8>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function allGroupLowShot at 0x11A4AF70>
+chooseFireOpenShot <function allGroupLowShot at 0x11A4AF70>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function allGroupLowShot at 0x11A4AF70>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x11A4E7F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Exception occurred while processing remove-death-suit of movie-track-with-cam-401005898:
+movie-track-with-cam-401005898:
+  0.000 movie-track-with-cam-401005898 {
+  0.000   movie-track-401005898 {
+  0.000     Sequence-7351 {
+  0.000       toon-attacks {
+  0.000         Sequence-7382 {
+  0.000           Sequence-7353 {
+  0.000             Parallel-7355 {
+  0.000             }
+  0.000           }
+  0.000           Parallel-7357 {
+  0.000             Parallel-7360 {
+  0.000               Sequence-7358 {
+  0.000                 Wait dur 0.6
+  0.600                 *Func-showProps-7112
+  0.600                 *Actor-hypno-goggles-1098 dur 2.2
+  2.800                 *Func-removeProps-7113
+  2.800               }
+  0.000               Sequence-7359 {
+  0.000                 *Actor-hypnotize-1099 dur 5.04167
+  5.042                 *Func-loop-7114
+  5.042               }
+  0.000               Sequence-7361 {
+  0.000                 *Func-loop-7115
+  0.000                 Wait dur 1.6
+  1.600                 *Actor-hypnotized-1100 dur 3.1
+  4.700                 *Func-setPos-7116
+  4.700                 *Func-loop-7117
+  4.700                 *Func-lureSuit-7118
+  4.700                 Sequence-7362 {
+  4.700                   *Func-reparentTrap-7119
+  4.700                   Parallel-7371 {
+  4.700                     *Actor-tnt-1101 dur 2
+  4.700                     Sequence-7365 {
+  4.700                       *Actor-flail-1103 dur 0.7
+  5.400                       *Actor-flail-1104 dur 0.741667
+  6.142                       *Actor-neutral-1105 dur 0.4
+  6.542                       *Actor-flail-1106 dur 0.141667
+  6.684                       Parallel-7366 {
+  6.684                         LerpPosHprInterval-8826: pos from 15 0 3 to 0 -8.6 16.5 hpr from 89 0 0 to 0 30 0 dur 0.4
+  6.684                         *Func-needRestoreColor-7124
+  6.684                         *Func-setColorScale-7125
+  6.684                         *Func-reparentTo-7126
+  6.684                         *Actor-flail-1107 dur 0.4
+  6.684                         LerpPosInterval-8827: pos from 0 2.4 0 to 0 5 17 dur 0.3
+  7.084                       }
+  7.084                       Parallel-7368 {
+  7.084                         Sequence-7367 {
+  7.084                           Wait dur 0.3
+  7.384                           LerpPosHprInterval-8828: pos from 0 -8.6 16.5 to 0 -8.6 16.5 hpr from 0 30 0 to 0 -61 0 dur 0.5
+  7.884                         }
+  7.084                         *Actor-slip-backward-1108 dur 4.125
+  7.084                         LerpPosInterval-8829: pos from 0 5 17 to 0 5 0 dur 0.7
+ 11.209                       }
+ 11.209                       *Func-clearColorScale-7127
+ 11.209                       *Func-cleanup-7128
+ 11.209                       *Func-clearRestoreColor-7129
+ 11.209                     }
+  4.700                     Sequence-7369 {
+  4.700                       Wait dur 2.3
+  7.000                       *Func-showHpText-7130 (!oe)
+  7.000                       *Func-updateHealthBar-7131
+  7.000                     }
+  4.700                     Sequence-7364 {
+  4.700                       Wait dur 2.3
+  7.000                       Sequence-7363 {
+  7.000                         *Func-reparentTo-7120
+  7.000                         *Func-setPos-7121
+  7.000                         *Func-setScale-7122
+  7.000                         *Actor-kapow-1102 dur 0.666667
+  7.667                         *Func-removeProp-7123
+  7.667                       }
+  7.667                     }
+  4.700                     Sequence-7370 {
+  4.700                       *Sound-733 dur 2
+  6.700                       *Sound-734 dur 0.6
+  7.300                     }
+ 11.209                   }
+ 11.209                   *Func-removeTrap-7132
+ 11.209                   *Func-unlureSuit-7133
+ 11.209                   Parallel-7373 {
+ 11.209                     Sequence-7372 {
+ 11.209                       *Func-setHpr-7134
+ 11.209                       *Actor-walk-1109 dur 0.5
+ 11.709                       *Func-loop-7135
+ 11.709                     }
+ 11.209                     LerpPosInterval-8830: pos from 0 5 0 to 0 5 0 dur 0.5
+ 11.709                   }
+ 11.709                   *Func-loop-7136
+ 11.709                 }
+ 11.709                 Parallel-7379 {
+ 11.709                   Sequence-7374 {
+ 11.709                     *Func-debug-7137
+ 11.709                     *Func-insertReviveSuit-7138
+ 11.709                     *Func-debug-7139
+ 11.709                     *Actor-lose-1110 dur 6
+ 17.709                     *Func-debug-7140
+ 17.709                     *remove-death-suit
+ 17.709                     *Func-debug-7141
+ 17.709                     *Func-loop-7142
+ 17.709                   }
+ 11.709                   Sequence-7375 {
+ 11.709                     Wait dur 0.8
+ 12.509                     *Sound-735 dur 1.2
+ 13.709                     *Sound-736 dur 3
+ 16.709                     *Sound-737 dur 1.85469
+ 18.564                   }
+ 11.709                   gears1Track {
+ 11.709                     Wait dur 2.1
+ 13.809                     *Particle-130 dur 4.3
+ 18.109                   }
+ 11.709                   gears2MTrack {
+ 11.709                     Sequence-7376 {
+ 11.709                       Wait dur 5.4
+ 17.109                       Sequence-7377 {
+ 17.109                         *Func-reparentTo-7143
+ 17.109                         *Func-setPos-7144
+ 17.109                         *Func-setScale-7145
+ 17.109                         Wait dur 0.6
+ 17.709                         *Func-removeProp-7146
+ 17.709                       }
+ 17.709                     }
+ 12.409                     *Particle-131 dur 5.7
+ 16.909                     *Particle-132 dur 1.2
+ 17.109                     *Particle-133 dur 1
+ 18.109                   }
+ 11.709                   toonMTrack {
+ 11.709                     Sequence-7378 {
+ 11.709                       Wait dur 1
+ 12.709                       *Actor-duck-1111 dur 3.75
+ 16.459                       *Actor-duck-1112 dur 1.95
+ 18.409                       *Func-loop-7147
+ 18.409                     }
+ 18.409                   }
+ 18.564                 }
+ 18.564               }
+  0.000               Sequence-7380 {
+  0.000                 *Func-safeWrtReparentTo-7148
+  0.000                 Wait dur 3.3
+  3.300                 LerpPosInterval-8831: pos from 0 5 0 to 0 2.4 0 dur 0.7
+  4.000                 *Func-safeWrtReparentTo-7149
+  4.000               }
+  0.000               Sequence-7381 {
+  0.000                 Wait dur 0.5
+  0.500                 *Sound-738 dur 2.82122
+  3.321               }
+ 18.564             }
+ 18.564           }
+ 18.564           Parallel-7356 {
+ 18.564             Parallel-7354 {
+ 18.564             }
+ 18.564           }
+ 18.564         }
+ 18.564       }
+ 18.564       *Func-__handleMovieDone-7154
+ 18.564     }
+ 18.564   }
+  0.000   Sequence-7384 {
+  0.000     Sequence-7352 {
+  0.000       toon-attacks-cam {
+  0.000         Sequence-7383 {
+  0.000           toonGroupShot {
+  0.000             *Func-setPosHpr-7150
+  0.000             Wait
+  0.000           }
+  0.000           allGroupLowShot {
+  0.000             *Func-setPosHpr-7151
+  0.000             Wait dur 3
+  3.000           }
+  3.000           allGroupLowShot {
+  3.000             *Func-setPosHpr-7152
+  3.000             Wait dur 15.564
+ 18.564           }
+ 18.564           toonGroupShot {
+ 18.564             *Func-setPosHpr-7153
+ 18.564             Wait
+ 18.564           }
+ 18.564         }
+ 18.564       }
+ 18.564     }
+ 18.564   }
+ 18.564 }
+
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 1829, in __ivalLoop
+    IntervalManager.ivalMgr.step()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 94, in step
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 122, in __doPythonCallbacks
+    self.ivals[index].privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "toontown\battle\MovieUtil.py", line 202, in removeReviveSuit
+    suit.healthBar.show()
+AttributeError: SuitHealthBar instance has no attribute 'show'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 1829, in __ivalLoop
+    IntervalManager.ivalMgr.step()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 94, in step
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 122, in __doPythonCallbacks
+    self.ivals[index].privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "toontown\battle\MovieUtil.py", line 202, in removeReviveSuit
+    suit.healthBar.show()
+AttributeError: SuitHealthBar instance has no attribute 'show'

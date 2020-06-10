@@ -1,0 +1,406 @@
+TTLocalizer: Running in language: English
+
+OTPLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading suits...
+Preloading Toon heads...
+Preloading Toon heads...
+Preloading avatars...
+
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17B26558>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x182A6558>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_BR.pdna
+Reading DNA file... phase_8/dna/storage_BR_sz.pdna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.pdna
+__handleAvatarChooserDone: 100000161, 'Roscoe Pillowphew', ('css', 'ms', 's', 'm', (0.55, 0.82, 0.32, 1.0), (1.0, 1.0, 1.0, 1.0), (0.55, 0.82, 0.32, 1.0), (0.55, 0.82, 0.32, 1.0), 104, 27, 91, 27, 5, 15), 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_BR.pdna
+Reading DNA file... phase_8/dna/storage_BR_sz.pdna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_GS.pdna
+Reading DNA file... phase_6/dna/storage_GS_sz.pdna
+Reading DNA file... phase_6/dna/goofy_speedway_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_DD.pdna
+Reading DNA file... phase_6/dna/storage_DD_sz.pdna
+Reading DNA file... phase_6/dna/donalds_dock_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_OZ.pdna
+Reading DNA file... phase_6/dna/storage_OZ_sz.pdna
+Reading DNA file... phase_6/dna/outdoor_zone_sz.pdna
+TIMER startTime 3705
+SET TABLE STATE
+ GETTING 2 None 0
+SET TABLE STATE
+ GETTING 2 None 0
+SET TABLE STATE
+ GETTING 2 None 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 110000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Pattern [1, 6, 2, 6, 0, 1, 2, 0] Place 0 Type 1
+Pattern [1, 6, 2, 6, 0, 1, 2, 0] Place 1 Type 6
+Pattern [1, 6, 2, 6, 0, 1, 2, 0] Place 2 Type 2
+Pattern [1, 6, 2, 6, 0, 1, 2, 0] Place 3 Type 6
+Pattern [1, 6, 2, 6, 0, 1, 2, 0] Place 4 Type 0
+Pattern [1, 6, 2, 6, 0, 1, 2, 0] Place 5 Type 1
+Pattern [1, 6, 2, 6, 0, 1, 2, 0] Place 6 Type 2
+Pattern [6, 0, 1, 6, 1, 0] Place 0 Type 6
+Pattern [6, 0, 1, 6, 1, 0] Place 1 Type 0
+Pattern [6, 0, 1, 6, 1, 0] Place 2 Type 1
+Pattern [6, 0, 1, 6, 1, 0] Place 3 Type 6
+Pattern [6, 0, 1, 6, 1, 0] Place 4 Type 1
+Pattern [6, 0, 1, 6, 1, 0] Place 5 Type 0
+Pattern [6, 0, 1, 6, 1, 0] Place 0 Type 6
+Pattern [6, 0, 1, 6, 1, 0] Place 1 Type 0
+Pattern [6, 0, 1, 6, 1, 0] Place 2 Type 1
+Pattern [6, 0, 1, 6, 1, 0] Place 3 Type 6
+Pattern [6, 0, 1, 6, 1, 0] Place 4 Type 1
+Pattern [6, 0, 1, 6, 1, 0] Place 5 Type 0
+Pattern [6, 0, 1, 6, 1, 0] Place 0 Type 6
+Pattern [6, 0, 1, 6, 1, 0] Place 1 Type 0
+Pattern [6, 0, 1, 6, 1, 0] Place 2 Type 1
+Pattern [6, 0, 1, 6, 1, 0] Place 3 Type 6
+Pattern [6, 0, 1, 6, 1, 0] Place 4 Type 1
+Pattern [6, 0, 1, 6, 1, 0] Place 5 Type 0
+Pattern [6, 0, 1, 6, 1, 0] Place 0 Type 6
+Pattern [6, 0, 1, 6, 1, 0] Place 1 Type 0
+Pattern [6, 0, 1, 6, 1, 0] Place 2 Type 1
+Pattern [6, 0, 1, 6, 1, 0] Place 3 Type 6
+Pattern [6, 0, 1, 6, 1, 0] Place 4 Type 1
+Pattern [6, 0, 1, 6, 1, 0] Place 5 Type 0
+Pattern [6, 0, 1, 6, 1, 0] Place 0 Type 6
+Pattern [6, 0, 1, 6, 1, 0] Place 1 Type 0
+Pattern [6, 0, 1, 6, 1, 0] Place 2 Type 1
+Pattern [6, 0, 1, 6, 1, 0] Place 3 Type 6
+Pattern [6, 0, 1, 6, 1, 0] Place 4 Type 1
+Pattern [6, 0, 1, 6, 1, 0] Place 5 Type 0
+Pattern [6, 0, 1, 6, 1, 0] Place 0 Type 6
+Pattern [6, 0, 1, 6, 1, 0] Place 1 Type 0
+Pattern [6, 0, 1, 6, 1, 0] Place 2 Type 1
+Pattern [6, 0, 1, 6, 1, 0] Place 3 Type 6
+Pattern [6, 0, 1, 6, 1, 0] Place 4 Type 1
+Pattern [6, 0, 1, 6, 1, 0] Place 5 Type 0
+Pattern [6, 0, 1, 6, 1, 0] Place 0 Type 6
+Pattern [7, 7] Place 0 Type 7
+Pattern [7, 7] Place 1 Type 7
+Pattern [7, 7] Place 0 Type 7
+Pattern [7, 7] Place 1 Type 7
+Pattern [7, 7] Place 0 Type 7
+Pattern [7, 7] Place 1 Type 7
+Pattern [7, 7] Place 0 Type 7
+Pattern [7, 7] Place 1 Type 7
+Pattern [7, 7] Place 0 Type 7
+Pattern [7, 7] Place 1 Type 7
+Pattern [6, 2, 6, 1, 2, 0, 1, 0] Place 0 Type 6
+Pattern [6, 2, 6, 1, 2, 0, 1, 0] Place 1 Type 2
+Pattern [6, 2, 6, 1, 2, 0, 1, 0] Place 2 Type 6
+Pattern [6, 2, 6, 1, 2, 0, 1, 0] Place 3 Type 1
+Pattern [6, 2, 6, 1, 2, 0, 1, 0] Place 4 Type 2
+Pattern [6, 2, 6, 1, 2, 0, 1, 0] Place 5 Type 0
+Pattern [6, 2, 6, 1, 2, 0, 1, 0] Place 6 Type 1
+Pattern [6, 2, 6, 1, 2, 0, 1, 0] Place 7 Type 0
+spec = {'parentEntId': 110400, 'pos': LPoint3f(0, 0, 0)}
+h = None
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x134C81B0>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x134C8770>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x134C8070>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x134C8730>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+spec = {'parentEntId': 110200, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2, 6.29999, 1.5)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+### newVec3 =  LVector3f(2, 6.29999, 0.375)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+Pattern [2, 1, 6, 1, 0, 6, 0, 2] Place 0 Type 2
+Pattern [2, 1, 6, 1, 0, 6, 0, 2] Place 1 Type 1
+Pattern [2, 1, 6, 1, 0, 6, 0, 2] Place 2 Type 6
+Pattern [2, 1, 6, 1, 0, 6, 0, 2] Place 3 Type 1
+Pattern [2, 1, 6, 1, 0, 6, 0, 2] Place 4 Type 0
+Pattern [2, 1, 6, 1, 0, 6, 0, 2] Place 5 Type 6
+Pattern [2, 1, 6, 1, 0, 6, 0, 2] Place 6 Type 0
+Pattern [2, 1, 6, 1, 0, 6, 0, 2] Place 7 Type 2
+Pattern [2, 1, 6, 1, 0, 6, 0, 2] Place 0 Type 2
+Pattern [2, 1, 6, 1, 0, 6, 0, 2] Place 1 Type 1
+Pattern [2, 1, 6, 1, 0, 6, 0, 2] Place 2 Type 6
+Pattern [7, 7] Place 0 Type 7
+Pattern [7, 7] Place 1 Type 7
+Pattern [7, 7] Place 0 Type 7
+Pattern [7, 7] Place 1 Type 7
+Pattern [7, 7] Place 0 Type 7
+Pattern [7, 7] Place 1 Type 7
+Pattern [7, 7] Place 0 Type 7
+Pattern [7, 7] Place 1 Type 7
+Pattern [7, 7] Place 0 Type 7
+Pattern [7, 7] Place 1 Type 7
+Pattern [7, 7] Place 0 Type 7
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 0 Type 1
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 1 Type 1
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 2 Type 5
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 3 Type 6
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 4 Type 0
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 5 Type 0
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 6 Type 2
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 7 Type 6
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 8 Type 2
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 9 Type 5
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 0 Type 1
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 1 Type 1
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 2 Type 5
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 3 Type 6
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 4 Type 0
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 5 Type 0
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 6 Type 2
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 7 Type 6
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 8 Type 2
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 9 Type 5
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 0 Type 1
+Pattern [1, 1, 5, 6, 0, 0, 2, 6, 2, 5] Place 1 Type 1
+Pattern [5, 2, 2, 6, 5, 6] Place 0 Type 5
+Pattern [5, 2, 2, 6, 5, 6] Place 1 Type 2
+Pattern [5, 2, 2, 6, 5, 6] Place 2 Type 2
+Pattern [5, 2, 2, 6, 5, 6] Place 3 Type 6
+Pattern [5, 2, 2, 6, 5, 6] Place 4 Type 5
+Pattern [5, 2, 2, 6, 5, 6] Place 5 Type 6
+Pattern [5, 2, 2, 6, 5, 6] Place 0 Type 5
+spec = {'parentEntId': 110400, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 110000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2, 6.29993, 1.5)
+### newVec3 =  LVector3f(2, 6.29993, 0)
+### newVec3 =  LVector3f(2, 6.29993, 0.375)
+### newVec3 =  LVector3f(2, 6.29993, 0)
+Pattern [8, 8, 7, 7] Place 0 Type 8
+Pattern [8, 8, 7, 7] Place 1 Type 8
+Pattern [8, 8, 7, 7] Place 2 Type 7
+Pattern [8, 8, 7, 7] Place 3 Type 7
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 0 Type 0
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 1 Type 5
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 2 Type 1
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 3 Type 0
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 4 Type 6
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 5 Type 1
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 6 Type 6
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 7 Type 5
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 8 Type 2
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 9 Type 2
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 0 Type 0
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 1 Type 5
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 2 Type 1
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 3 Type 0
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 4 Type 6
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 5 Type 1
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 6 Type 6
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 7 Type 5
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 8 Type 2
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 9 Type 2
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 0 Type 0
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 1 Type 5
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 2 Type 1
+Pattern [0, 5, 1, 0, 6, 1, 6, 5, 2, 2] Place 3 Type 0
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 0 Type 0
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 1 Type 5
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 2 Type 0
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 3 Type 2
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 4 Type 1
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 5 Type 2
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 6 Type 5
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 7 Type 1
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 0 Type 0
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 1 Type 5
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 2 Type 0
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 3 Type 2
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 4 Type 1
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 5 Type 2
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 6 Type 5
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 7 Type 1
+Pattern [0, 5, 0, 2, 1, 2, 5, 1] Place 0 Type 0
+Pattern [2, 2, 0, 0, 1, 1] Place 0 Type 2
+Pattern [2, 2, 0, 0, 1, 1] Place 1 Type 2
+Pattern [2, 2, 0, 0, 1, 1] Place 2 Type 0
+Pattern [2, 2, 0, 0, 1, 1] Place 3 Type 0
+spec = {'parentEntId': 110400, 'pos': LPoint3f(0, 0, 0)}
+h = None
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_DD.pdna
+Reading DNA file... phase_6/dna/storage_DD_sz.pdna
+Reading DNA file... phase_6/dna/donalds_dock_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10037, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10030, 'pos': LPoint3f(0, 0, 0)}
+h = None
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+spec = {'parentEntId': 10023, 'pos': LPoint3f(0, 0, 0)}
+h = None
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17B26558>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10036, 'pos': LPoint3f(0, 0, 0)}
+h = None
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17B26558>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10036, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10032, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Exception occurred while processing Func-sendStompToon-9298 of Stomper-401006482:
+Stomper-401006482:
+  0.000 Stomper-401006482 {
+  0.000   Sequence-8640 {
+  0.000     Sequence-8639 {
+  0.000       *LerpFunctionInterval-motionFunc-83 dur 4
+  4.000     }
+  4.000     *Func-__startSmokeTask-9297
+  4.000     *Func-sendStompToon-9298
+  4.000   }
+  0.000   Sequence-8641 {
+  0.000     Wait dur 4
+  4.000     *Func-playSfx-9299
+  4.000   }
+  0.000   *LerpFunctionInterval-adjustShadowScale-84 dur 4
+  4.000 }
+
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 1829, in __ivalLoop
+    IntervalManager.ivalMgr.step()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 94, in step
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 122, in __doPythonCallbacks
+    self.ivals[index].privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "toontown\coghq\DistributedStomper.py", line 198, in sendStompToon
+    messenger.send(self.crushMsg)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\coghq\DistributedStomper.py", line 346, in checkSquashedToon
+    self.level.b_setOuch(self.damage, 'Squish')
+  File "otp\level\DistributedLevel.py", line 517, in b_setOuch
+    self.d_setOuch(penalty)
+  File "otp\level\DistributedLevel.py", line 521, in d_setOuch
+    self.sendUpdate('setOuch', [penalty])
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 359, in sendUpdate
+    fieldName, sendToId or self.doId, args)
+ValueError: Value out of range on field: setOuch[2000]
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 1829, in __ivalLoop
+    IntervalManager.ivalMgr.step()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 94, in step
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 122, in __doPythonCallbacks
+    self.ivals[index].privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "toontown\coghq\DistributedStomper.py", line 198, in sendStompToon
+    messenger.send(self.crushMsg)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\coghq\DistributedStomper.py", line 346, in checkSquashedToon
+    self.level.b_setOuch(self.damage, 'Squish')
+  File "otp\level\DistributedLevel.py", line 517, in b_setOuch
+    self.d_setOuch(penalty)
+  File "otp\level\DistributedLevel.py", line 521, in d_setOuch
+    self.sendUpdate('setOuch', [penalty])
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 359, in sendUpdate
+    fieldName, sendToId or self.doId, args)
+ValueError: Value out of range on field: setOuch[2000]

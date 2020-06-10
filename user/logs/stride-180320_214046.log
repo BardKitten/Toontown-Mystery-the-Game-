@@ -1,0 +1,289 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x198233A0>}
+__handleAvatarChooserDone: 100000015, 'Super Bear', ('bsl', 'ms', 's', 'm', (0.64, 0.35, 0.26, 1.0), (1.0, 1.0, 1.0, 1.0), (0.64, 0.35, 0.26, 1.0), (0.64, 0.35, 0.26, 1.0), 111, 27, 98, 27, 7, 10), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+chooseFireOpenShot <function allGroupLowShot at 0x15343870>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x153440B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x15343B30>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x153439F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x15343B30>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x153439F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x15343AF0>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x153440F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function avatarBehindShot at 0x15343C70>
+chooseFireOpenShot <function allGroupLowShot at 0x15343870>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x15343AF0>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x153439F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x153439F0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x153440B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x153439F0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x153440B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x15343AF0>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x153439F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_DD.pdna
+Reading DNA file... phase_6/dna/storage_DD_sz.pdna
+Reading DNA file... phase_6/dna/donalds_dock_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x153439F0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x153440B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+chooseFireOpenShot <function allGroupLowShot at 0x15343870>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x153440F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x15343AF0>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x153440F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarBehindShot at 0x15343C70>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x153440B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_BR.pdna
+Reading DNA file... phase_8/dna/storage_BR_sz.pdna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+hit! 0.503353178501
+--not hard enough: -0.168836206198
+hit! 0.841935634613
+hit! 0.583978831768
+hit! 0.148070633411
+hit! 0.999510228634
+hit! 0.431517124176
+hit! 0.983661293983
+hit! 0.994183540344
+hit! 0.743897020817
+hit! 0.902908444405
+hit! 0.940317869186
+hit! 0.511566281319
+hit! 0.683066546917
+hit! 0.742450833321
+hit! 0.417614787817
+hit! 0.968061864376
+hit! 0.99183678627
+hit! 0.219825699925
+hit! 0.940581560135
+hit! 0.780113816261
+hit! 0.996984183788
+hit! 0.978194177151
+hit! 0.983874976635
+hit! 0.572650432587
+hit! 0.999343574047
+hit! 0.500913798809
+hit! 0.972941339016
+hit! 0.742307841778
+hit! 0.232855275273
+hit! 0.569809675217
+hit! 0.785113990307
+hit! 0.995909690857
+hit! 0.985895991325
+--not hard enough: -0.424515277147
+hit! 0.995191514492
+hit! 0.749204218388
+hit! 0.994727432728
+hit! 0.776866853237
+hit! 0.345347702503
+hit! 0.667042195797
+hit! 0.833361744881
+hit! 0.955241918564
+hit! 0.617383778095
+hit! 0.780757546425
+hit! 0.837647914886
+hit! 0.505969822407
+hit! 0.987049818039
+hit! 0.999514102936
+--not hard enough: -0.515376031399
+hit! 0.654752075672
+hit! 0.643324434757
+hit! 0.969494402409
+hit! 0.414609700441
+--not hard enough: 0.0648308694363
+hit! 0.959799647331
+hit! 0.648073792458
+hit! 0.390306293964
+hit! 0.240295246243
+hit! 0.774618566036
+hit! 0.854388296604
+hit! 0.966316342354
+hit! 0.719335794449
+hit! 0.804511725903
+hit! 0.577488780022
+hit! 0.938110172749
+hit! 0.699792861938
+hit! 0.669373929501
+hit! 0.69726729393
+hit! 0.9160836339
+hit! 0.806281149387
+hit! 0.977296948433
+hit! 0.331945717335
+--not hard enough: -0.32572928071
+hit! 0.629722058773
+--not hard enough: -0.128288403153
+hit! 0.995074570179
+hit! 0.98721987009
+hit! 0.927049338818
+hit! 0.994634866714
+hit! 0.984426736832
+hit! 0.36764973402
+hit! 0.370376378298
+hit! 0.995986163616
+hit! 0.606466412544
+hit! 0.590050697327
+hit! 0.985855937004
+hit! 0.99008077383
+--not hard enough: 0.0947063043714
+hit! 0.994282662868
+hit! 0.284102737904
+hit! 0.407242387533
+hit! 0.602088451385
+hit! 0.688100278378
+hit! 0.849360466003
+hit! 0.824079871178
+hit! 0.911757230759
+hit! 0.671037018299
+hit! 0.987432897091
+hit! 0.993046700954
+hit! 0.969443798065
+hit! 0.889871180058
+hit! 0.990565896034
+hit! 0.426083028316
+hit! 0.526039540768
+hit! 0.983644783497
+hit! 0.989264249802
+hit! 0.0623087398708
+hit! 0.930347621441
+hit! 0.895416557789
+hit! 0.697723090649
+hit! 0.171621575952
+--not hard enough: -0.476676493883
+hit! 0.995495915413
+hit! 0.981731951237
+hit! 0.908079445362
+hit! 0.955227613449
+hit! 0.438664972782
+hit! 0.880875051022
+hit! 0.871465146542
+hit! 0.851203262806
+hit! 0.911123394966
+hit! 0.885732829571
+hit! 0.760472178459
+hit! 0.270567715168
+hit! 0.662859201431
+hit! 0.961352169514
+hit! 0.977267503738
+--not hard enough: 0.0795271769166
+hit! 0.998553037643
+hit! 0.76630628109
+hit! 0.264680743217
+hit! 0.568160772324
+--not hard enough: -0.000634452211671
+hit! 0.995830416679
+hit! 0.886226773262
+hit! 0.599609553814
+hit! 0.994913876057
+hit! 0.945025742054
+hit! 0.240338727832
+hit! 0.738401472569
+hit! 0.568274199963
+hit! 0.961106956005
+--not hard enough: 0.313305437565
+hit! 0.625308811665
+--not hard enough: 0.473902225494
+hit! 0.73965293169
+hit! 0.574146449566
+hit! 0.931436419487
+hit! 0.771540701389
+hit! 0.28474470973
+hit! 0.782163441181
+--not hard enough: 8.77603056892e-08
+hit! 0.817338645458
+hit! 0.857860743999
+hit! 0.914613425732
+--not hard enough: 0.354017496109
+hit! 0.915412664413
+hit! 0.361676484346
+hit! 0.832485735416
+hit! 0.668047904968
+--not hard enough: 0.399836331606
+hit! 0.731544196606
+hit! 0.847434401512
+hit! 0.392404049635
+hit! 0.815928399563
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna

@@ -1,0 +1,125 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1B809B20>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+### newVec3 =  LVector3f(2.00002, 11.3, 1.5)
+### newVec3 =  LVector3f(2.00002, 11.3, 0)
+### newVec3 =  LVector3f(2.00002, 11.3, 0.375)
+### newVec3 =  LVector3f(2.00002, 11.3, 0)
+hit! 0.968638598919
+hit! 0.883446156979
+--not hard enough: -0.226491004229
+hit! 0.157616212964
+hit! 0.983855128288
+hit! 0.121749438345
+hit! 0.720220506191
+hit! 0.503604829311
+hit! 0.228467702866
+hit! 0.896997988224
+hit! 0.991322934628
+hit! 0.308921337128
+hit! 0.883315503597
+hit! 0.695316255093
+hit! 0.776960015297
+--not hard enough: 0.0170521382242
+hit! 0.496679514647
+hit! 0.968534231186
+hit! 0.905812680721
+hit! 0.988093316555
+hit! 0.770296990871
+hit! 0.93293172121
+hit! 0.814486682415
+hit! 0.786196291447
+hit! 0.679474174976
+hit! 0.297309786081
+hit! 0.161661803722
+hit! 0.965743839741
+hit! 0.983428299427
+hit! 0.804703950882
+hit! 0.988467931747
+hit! 0.964494466782
+hit! 0.741451919079
+hit! 0.53738451004
+hit! 0.504175126553
+hit! 0.810194969177
+hit! 0.869656741619
+hit! 0.78005439043
+hit! 0.996189653873
+hit! 0.810417354107
+hit! 0.842366158962
+hit! 0.397093862295
+hit! 0.823309719563
+hit! 0.925367593765
+hit! 0.656517207623
+hit! 0.765350818634
+hit! 0.699087023735
+hit! 0.244492456317
+hit! 0.985365509987
+--not hard enough: 0.0659390240908
+hit! 0.988088190556
+hit! 0.839940071106
+hit! 0.527981281281
+hit! 0.210492879152
+hit! 0.900276958942
+hit! 0.450497686863
+hit! 0.947946071625
+hit! 0.580211997032
+hit! 0.844204843044
+--not hard enough: -0.194236978889
+hit! 0.809557080269
+hit! 0.497377842665
+hit! 0.813533186913
+hit! 0.929918289185
+hit! 0.94171410799
+hit! 0.796062707901
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x173CABB0>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x173CAAB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(-2, 11.3, 1.5)
+### newVec3 =  LVector3f(-2, 11.3, 0)
+### newVec3 =  LVector3f(-2, 11.3, 0.375)
+### newVec3 =  LVector3f(-2, 11.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)

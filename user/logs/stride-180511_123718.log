@@ -1,0 +1,17 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\python\lib\runpy.py", line 162, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "C:\Panda3D-1.10.0\python\lib\runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "C:\Users\Jedi\Downloads\ToontownAwesome 4.0\toontown\toonbase\ToontownStart.py", line 184, in <module>
+    from toontown.suit import Suit
+  File "toontown\suit\Suit.py", line 8, in <module>
+    from toontown.suit import SuitGlobals
+  File "toontown\suit\SuitGlobals.py", line 2, in <module>
+    from toontown.suit import SuitDNA
+  File "toontown\suit\SuitDNA.py", line 72
+    'ac']
+       ^
+SyntaxError: invalid syntax

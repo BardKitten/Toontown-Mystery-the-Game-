@@ -1,0 +1,36 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1810AB20>}
+__handleAvatarChooserDone: 100000012, 'Teh Scarface {Drunk Staff}', ('dss', 'ms', 's', 'm', (0.78, 0.18, 0.18, 1.0), (1.0, 1.0, 1.0, 1.0), (0.78, 0.18, 0.18, 1.0), (0.78, 0.18, 0.18, 1.0), 11, 27, 0, 27, 7, 13), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_5.5/dna/storage_estate.pdna
+Reading DNA file... phase_5.5/dna/estate_1.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+avid: 100000012, gender: m
+current top = 11,27,0,27 and  bot = 7,13,
+topsList = []
+bottomsList = []
+avid: 100000012, gender: m
+current top = 11,27,0,27 and  bot = 7,13,
+topsList = []
+bottomsList = []
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna

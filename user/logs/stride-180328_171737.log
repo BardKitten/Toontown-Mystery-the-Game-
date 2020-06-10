@@ -1,0 +1,60 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x19998760>}
+__handleAvatarChooserDone: 100000015, 'King Bear', ('bss', 'ms', 's', 'm', (0.64, 0.35, 0.26, 1.0), (1.0, 1.0, 1.0, 1.0), (0.64, 0.35, 0.26, 1.0), (0.64, 0.35, 0.26, 1.0), 111, 27, 98, 27, 7, 10), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+hit! 0.421940982342
+hit! 0.974312484264
+hit! 0.7563560009
+hit! 0.969782352448
+hit! 0.965071439743
+hit! 0.516552209854
+hit! 0.72399699688
+hit! 0.862028181553
+hit! 0.509708583355
+--not hard enough: 0.230452477932
+hit! 0.542814910412
+hit! 0.794433057308
+hit! 0.609086751938
+hit! 0.815033614635
+hit! 0.901505827904
+hit! 0.908316850662
+--not hard enough: 0.420020133257
+--not hard enough: -0.0665326490998
+hit! 0.964957416058
+--not hard enough: -0.222270652652
+hit! 0.465975493193
+hit! 0.817181229591
+hit! 0.760303735733
+hit! 0.551795601845
+hit! 0.963958978653
+hit! 0.946829080582
+hit! 0.44882145524
+--not hard enough: -0.732326626778
+hit! 0.825288057327
+hit! 0.928757369518
+hit! 0.865070223808
+hit! 0.830168545246
+hit! 0.61629140377
+hit! 0.980423808098
+hit! 0.912929832935
+hit! 0.995163440704
+hit! 0.583727061749
+--not hard enough: 0.168283849955
+--not hard enough: -0.337804526091
+hit! 0.762492060661
+hit! 0.154313370585

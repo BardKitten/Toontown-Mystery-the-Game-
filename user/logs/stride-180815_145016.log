@@ -1,0 +1,697 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1D092BC0>}
+__handleAvatarChooserDone: 100000097, 'Captain Skip', ('fsl', 'ls', 's', 'm', (0.8, 0.49, 0.19, 1.0), (1.0, 1.0, 1.0, 1.0), (0.8, 0.49, 0.19, 1.0), (0.8, 0.49, 0.19, 1.0), 14, 12, 10, 12, 7, 10), 5
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10030, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 20058, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2100.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2100.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2100.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2100.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Exception occurred while processing Func-__handleBuildingRewardDone-11588 of movie-reward-track-with-cam-401008412:
+movie-reward-track-with-cam-401008412:
+  0.000 movie-reward-track-with-cam-401008412 {
+  0.000   movie-reward-track-401008412 {
+  0.000     Sequence-9501 {
+  0.000       Parallel-9509 {
+  0.000         Sequence-9503 {
+  0.000           *Func-show-11371
+  0.000           *Func-setOnscreenChatForced-11372
+  0.000           *Func-_setupSkipListen-11373
+  0.000           *Func-_teardownSkipListen-11580
+  0.000           *Func-_setupSkipListen-11581
+  0.000           Sequence-9506 {
+  0.000             *Func-initGagFrame-11374
+  0.000             Wait dur 1
+  1.000             *Func-showTrackIncLabel-11375
+  1.000             *Func-incrementExp-11376
+  1.000             Wait dur 0.1
+  1.100             *Func-incrementExp-11377
+  1.100             Wait dur 0.1
+  1.200             *Func-incrementExp-11378
+  1.200             Wait dur 0.1
+  1.300             *Func-incrementExp-11379
+  1.300             Wait dur 0.1
+  1.400             *Func-incrementExp-11380
+  1.400             Wait dur 0.1
+  1.500             *Func-incrementExp-11381
+  1.500             Wait dur 0.1
+  1.600             *Func-incrementExp-11382
+  1.600             Wait dur 0.1
+  1.700             *Func-incrementExp-11383
+  1.700             Wait dur 0.1
+  1.800             *Func-incrementExp-11384
+  1.800             Wait dur 0.1
+  1.900             *Func-incrementExp-11385
+  1.900             Wait dur 0.1
+  2.000             *Func-incrementExp-11386
+  2.000             Wait dur 0.1
+  2.100             *Func-incrementExp-11387
+  2.100             Wait dur 0.1
+  2.200             *Func-incrementExp-11388
+  2.200             Wait dur 0.1
+  2.300             *Func-incrementExp-11389
+  2.300             Wait dur 0.1
+  2.400             *Func-incrementExp-11390
+  2.400             Wait dur 0.1
+  2.500             *Func-incrementExp-11391
+  2.500             Wait dur 0.1
+  2.600             *Func-incrementExp-11392
+  2.600             Wait dur 0.1
+  2.700             *Func-incrementExp-11393
+  2.700             Wait dur 0.1
+  2.800             *Func-incrementExp-11394
+  2.800             Wait dur 0.1
+  2.900             *Func-incrementExp-11395
+  2.900             Wait dur 0.1
+  3.000             *Func-incrementExp-11396
+  3.000             Wait dur 0.1
+  3.100             *Func-incrementExp-11397
+  3.100             Wait dur 0.1
+  3.200             *Func-incrementExp-11398
+  3.200             Wait dur 0.1
+  3.300             *Func-incrementExp-11399
+  3.300             Wait dur 0.1
+  3.400             *Func-incrementExp-11400
+  3.400             Wait dur 0.1
+  3.500             *Func-incrementExp-11401
+  3.500             Wait dur 0.1
+  3.600             *Func-incrementExp-11402
+  3.600             Wait dur 0.1
+  3.700             *Func-incrementExp-11403
+  3.700             Wait dur 0.1
+  3.800             *Func-incrementExp-11404
+  3.800             Wait dur 0.1
+  3.900             *Func-incrementExp-11405
+  3.900             Wait dur 0.1
+  4.000             *Func-incrementExp-11406
+  4.000             Wait dur 0.1
+  4.100             *Func-incrementExp-11407
+  4.100             Wait dur 0.1
+  4.200             *Func-incrementExp-11408
+  4.200             Wait dur 0.1
+  4.300             *Func-incrementExp-11409
+  4.300             Wait dur 0.1
+  4.400             *Func-incrementExp-11410
+  4.400             Wait dur 0.1
+  4.500             *Func-incrementExp-11411
+  4.500             Wait dur 0.1
+  4.600             *Func-incrementExp-11412
+  4.600             Wait dur 0.1
+  4.700             *Func-incrementExp-11413
+  4.700             Wait dur 0.1
+  4.800             *Func-incrementExp-11414
+  4.800             Wait dur 0.1
+  4.900             *Func-incrementExp-11415
+  4.900             Wait dur 0.1
+  5.000             *Func-incrementExp-11416
+  5.000             Wait dur 0.1
+  5.100             *Func-incrementExp-11417
+  5.100             Wait dur 0.1
+  5.200             *Func-incrementExp-11418
+  5.200             Wait dur 0.1
+  5.300             *Func-incrementExp-11419
+  5.300             Wait dur 0.1
+  5.400             *Func-incrementExp-11420
+  5.400             Wait dur 0.1
+  5.500             *Func-incrementExp-11421
+  5.500             Wait dur 0.1
+  5.600             *Func-incrementExp-11422
+  5.600             Wait dur 0.1
+  5.700             *Func-incrementExp-11423
+  5.700             Wait dur 0.1
+  5.800             *Func-incrementExp-11424
+  5.800             Wait dur 0.1
+  5.900             *Func-incrementExp-11425
+  5.900             Wait dur 0.1
+  6.000             *Func-incrementExp-11426
+  6.000             Wait dur 0.1
+  6.100             *Func-incrementExp-11427
+  6.100             Wait dur 0.1
+  6.200             *Func-incrementExp-11428
+  6.200             Wait dur 0.1
+  6.300             *Func-incrementExp-11429
+  6.300             Wait dur 0.1
+  6.400             *Func-incrementExp-11430
+  6.400             Wait dur 0.1
+  6.500             *Func-incrementExp-11431
+  6.500             Wait dur 0.1
+  6.600             *Func-incrementExp-11432
+  6.600             Wait dur 0.1
+  6.700             *Func-incrementExp-11433
+  6.700             Wait dur 0.1
+  6.800             *Func-incrementExp-11434
+  6.800             Wait dur 0.1
+  6.900             *Func-resetBarColor-11435
+  6.900             Wait dur 0.1
+  7.000             *Func-showTrackIncLabel-11436
+  7.000             *Func-incrementExp-11437
+  7.000             Wait dur 0.1
+  7.100             *Func-incrementExp-11438
+  7.100             Wait dur 0.1
+  7.200             *Func-incrementExp-11439
+  7.200             Wait dur 0.1
+  7.300             *Func-incrementExp-11440
+  7.300             Wait dur 0.1
+  7.400             *Func-incrementExp-11441
+  7.400             Wait dur 0.1
+  7.500             *Func-incrementExp-11442
+  7.500             Wait dur 0.1
+  7.600             *Func-incrementExp-11443
+  7.600             Wait dur 0.1
+  7.700             *Func-incrementExp-11444
+  7.700             Wait dur 0.1
+  7.800             *Func-incrementExp-11445
+  7.800             Wait dur 0.1
+  7.900             *Func-incrementExp-11446
+  7.900             Wait dur 0.1
+  8.000             *Func-incrementExp-11447
+  8.000             Wait dur 0.1
+  8.100             *Func-incrementExp-11448
+  8.100             Wait dur 0.1
+  8.200             *Func-incrementExp-11449
+  8.200             Wait dur 0.1
+  8.300             *Func-incrementExp-11450
+  8.300             Wait dur 0.1
+  8.400             *Func-incrementExp-11451
+  8.400             Wait dur 0.1
+  8.500             *Func-incrementExp-11452
+  8.500             Wait dur 0.1
+  8.600             *Func-incrementExp-11453
+  8.600             Wait dur 0.1
+  8.700             *Func-incrementExp-11454
+  8.700             Wait dur 0.1
+  8.800             *Func-incrementExp-11455
+  8.800             Wait dur 0.1
+  8.900             *Func-incrementExp-11456
+  8.900             Wait dur 0.1
+  9.000             *Func-incrementExp-11457
+  9.000             Wait dur 0.1
+  9.100             *Func-incrementExp-11458
+  9.100             Wait dur 0.1
+  9.200             *Func-incrementExp-11459
+  9.200             Wait dur 0.1
+  9.300             *Func-incrementExp-11460
+  9.300             Wait dur 0.1
+  9.400             *Func-incrementExp-11461
+  9.400             Wait dur 0.1
+  9.500             *Func-incrementExp-11462
+  9.500             Wait dur 0.1
+  9.600             *Func-incrementExp-11463
+  9.600             Wait dur 0.1
+  9.700             *Func-incrementExp-11464
+  9.700             Wait dur 0.1
+  9.800             *Func-incrementExp-11465
+  9.800             Wait dur 0.1
+  9.900             *Func-incrementExp-11466
+  9.900             Wait dur 0.1
+ 10.000             *Func-incrementExp-11467
+ 10.000             Wait dur 0.1
+ 10.100             *Func-incrementExp-11468
+ 10.100             Wait dur 0.1
+ 10.200             *Func-incrementExp-11469
+ 10.200             Wait dur 0.1
+ 10.300             *Func-incrementExp-11470
+ 10.300             Wait dur 0.1
+ 10.400             *Func-incrementExp-11471
+ 10.400             Wait dur 0.1
+ 10.500             *Func-incrementExp-11472
+ 10.500             Wait dur 0.1
+ 10.600             *Func-incrementExp-11473
+ 10.600             Wait dur 0.1
+ 10.700             *Func-incrementExp-11474
+ 10.700             Wait dur 0.1
+ 10.800             *Func-incrementExp-11475
+ 10.800             Wait dur 0.1
+ 10.900             *Func-incrementExp-11476
+ 10.900             Wait dur 0.1
+ 11.000             *Func-incrementExp-11477
+ 11.000             Wait dur 0.1
+ 11.100             *Func-incrementExp-11478
+ 11.100             Wait dur 0.1
+ 11.200             *Func-incrementExp-11479
+ 11.200             Wait dur 0.1
+ 11.300             *Func-incrementExp-11480
+ 11.300             Wait dur 0.1
+ 11.400             *Func-incrementExp-11481
+ 11.400             Wait dur 0.1
+ 11.500             *Func-incrementExp-11482
+ 11.500             Wait dur 0.1
+ 11.600             *Func-incrementExp-11483
+ 11.600             Wait dur 0.1
+ 11.700             *Func-incrementExp-11484
+ 11.700             Wait dur 0.1
+ 11.800             *Func-incrementExp-11485
+ 11.800             Wait dur 0.1
+ 11.900             *Func-incrementExp-11486
+ 11.900             Wait dur 0.1
+ 12.000             *Func-incrementExp-11487
+ 12.000             Wait dur 0.1
+ 12.100             *Func-incrementExp-11488
+ 12.100             Wait dur 0.1
+ 12.200             *Func-incrementExp-11489
+ 12.200             Wait dur 0.1
+ 12.300             *Func-incrementExp-11490
+ 12.300             Wait dur 0.1
+ 12.400             *Func-incrementExp-11491
+ 12.400             Wait dur 0.1
+ 12.500             *Func-incrementExp-11492
+ 12.500             Wait dur 0.1
+ 12.600             *Func-incrementExp-11493
+ 12.600             Wait dur 0.1
+ 12.700             *Func-incrementExp-11494
+ 12.700             Wait dur 0.1
+ 12.800             *Func-incrementExp-11495
+ 12.800             Wait dur 0.1
+ 12.900             *Func-incrementExp-11496
+ 12.900             Wait dur 0.1
+ 13.000             *Func-incrementExp-11497
+ 13.000             Wait dur 0.1
+ 13.100             *Func-incrementExp-11498
+ 13.100             Wait dur 0.1
+ 13.200             *Func-incrementExp-11499
+ 13.200             Wait dur 0.1
+ 13.300             *Func-incrementExp-11500
+ 13.300             Wait dur 0.1
+ 13.400             *Func-resetBarColor-11501
+ 13.400             Wait dur 0.1
+ 13.500             *Func-showTrackIncLabel-11502
+ 13.500             *Func-incrementExp-11503
+ 13.500             Wait dur 0.1
+ 13.600             *Func-incrementExp-11504
+ 13.600             Wait dur 0.1
+ 13.700             *Func-incrementExp-11505
+ 13.700             Wait dur 0.1
+ 13.800             *Func-incrementExp-11506
+ 13.800             Wait dur 0.1
+ 13.900             *Func-incrementExp-11507
+ 13.900             Wait dur 0.1
+ 14.000             *Func-incrementExp-11508
+ 14.000             Wait dur 0.1
+ 14.100             *Func-incrementExp-11509
+ 14.100             Wait dur 0.1
+ 14.200             *Func-incrementExp-11510
+ 14.200             Wait dur 0.1
+ 14.300             *Func-incrementExp-11511
+ 14.300             Wait dur 0.1
+ 14.400             *Func-incrementExp-11512
+ 14.400             Wait dur 0.1
+ 14.500             *Func-incrementExp-11513
+ 14.500             Wait dur 0.1
+ 14.600             *Func-incrementExp-11514
+ 14.600             Wait dur 0.1
+ 14.700             *Func-incrementExp-11515
+ 14.700             Wait dur 0.1
+ 14.800             *Func-incrementExp-11516
+ 14.800             Wait dur 0.1
+ 14.900             *Func-incrementExp-11517
+ 14.900             Wait dur 0.1
+ 15.000             *Func-incrementExp-11518
+ 15.000             Wait dur 0.1
+ 15.100             *Func-incrementExp-11519
+ 15.100             Wait dur 0.1
+ 15.200             *Func-incrementExp-11520
+ 15.200             Wait dur 0.1
+ 15.300             *Func-incrementExp-11521
+ 15.300             Wait dur 0.1
+ 15.400             *Func-incrementExp-11522
+ 15.400             Wait dur 0.1
+ 15.500             *Func-incrementExp-11523
+ 15.500             Wait dur 0.1
+ 15.600             *Func-incrementExp-11524
+ 15.600             Wait dur 0.1
+ 15.700             *Func-incrementExp-11525
+ 15.700             Wait dur 0.1
+ 15.800             *Func-incrementExp-11526
+ 15.800             Wait dur 0.1
+ 15.900             *Func-incrementExp-11527
+ 15.900             Wait dur 0.1
+ 16.000             *Func-incrementExp-11528
+ 16.000             Wait dur 0.1
+ 16.100             *Func-incrementExp-11529
+ 16.100             Wait dur 0.1
+ 16.200             *Func-incrementExp-11530
+ 16.200             Wait dur 0.1
+ 16.300             *Func-incrementExp-11531
+ 16.300             Wait dur 0.1
+ 16.400             *Func-incrementExp-11532
+ 16.400             Wait dur 0.1
+ 16.500             *Func-incrementExp-11533
+ 16.500             Wait dur 0.1
+ 16.600             *Func-incrementExp-11534
+ 16.600             Wait dur 0.1
+ 16.700             *Func-incrementExp-11535
+ 16.700             Wait dur 0.1
+ 16.800             *Func-incrementExp-11536
+ 16.800             Wait dur 0.1
+ 16.900             *Func-incrementExp-11537
+ 16.900             Wait dur 0.1
+ 17.000             *Func-incrementExp-11538
+ 17.000             Wait dur 0.1
+ 17.100             *Func-incrementExp-11539
+ 17.100             Wait dur 0.1
+ 17.200             *Func-incrementExp-11540
+ 17.200             Wait dur 0.1
+ 17.300             *Func-incrementExp-11541
+ 17.300             Wait dur 0.1
+ 17.400             *Func-incrementExp-11542
+ 17.400             Wait dur 0.1
+ 17.500             *Func-incrementExp-11543
+ 17.500             Wait dur 0.1
+ 17.600             *Func-incrementExp-11544
+ 17.600             Wait dur 0.1
+ 17.700             *Func-incrementExp-11545
+ 17.700             Wait dur 0.1
+ 17.800             *Func-incrementExp-11546
+ 17.800             Wait dur 0.1
+ 17.900             *Func-incrementExp-11547
+ 17.900             Wait dur 0.1
+ 18.000             *Func-incrementExp-11548
+ 18.000             Wait dur 0.1
+ 18.100             *Func-incrementExp-11549
+ 18.100             Wait dur 0.1
+ 18.200             *Func-incrementExp-11550
+ 18.200             Wait dur 0.1
+ 18.300             *Func-incrementExp-11551
+ 18.300             Wait dur 0.1
+ 18.400             *Func-incrementExp-11552
+ 18.400             Wait dur 0.1
+ 18.500             *Func-incrementExp-11553
+ 18.500             Wait dur 0.1
+ 18.600             *Func-incrementExp-11554
+ 18.600             Wait dur 0.1
+ 18.700             *Func-incrementExp-11555
+ 18.700             Wait dur 0.1
+ 18.800             *Func-incrementExp-11556
+ 18.800             Wait dur 0.1
+ 18.900             *Func-incrementExp-11557
+ 18.900             Wait dur 0.1
+ 19.000             *Func-incrementExp-11558
+ 19.000             Wait dur 0.1
+ 19.100             *Func-incrementExp-11559
+ 19.100             Wait dur 0.1
+ 19.200             *Func-incrementExp-11560
+ 19.200             Wait dur 0.1
+ 19.300             *Func-incrementExp-11561
+ 19.300             Wait dur 0.1
+ 19.400             *Func-incrementExp-11562
+ 19.400             Wait dur 0.1
+ 19.500             *Func-incrementExp-11563
+ 19.500             Wait dur 0.1
+ 19.600             *Func-incrementExp-11564
+ 19.600             Wait dur 0.1
+ 19.700             *Func-resetBarColor-11565
+ 19.700             Wait dur 0.1
+ 19.800             Wait dur 1
+ 20.800             *Func-initQuestFrame-11579
+ 20.800             Wait dur 1
+ 21.800             *Func-setProp-11566
+ 21.800             Wait dur 0.2
+ 22.000             *Func-setProp-11567
+ 22.000             Wait dur 0.2
+ 22.200             *Func-setProp-11568
+ 22.200             Wait dur 0.2
+ 22.400             *Func-setProp-11569
+ 22.400             Wait dur 0.2
+ 22.600             *Func-setProp-11570
+ 22.600             Wait dur 0.2
+ 22.800             *Func-setProp-11571
+ 22.800             Wait dur 0.2
+ 23.000             *Func-setProp-11572
+ 23.000             Wait dur 0.2
+ 23.200             *Func-setProp-11573
+ 23.200             Wait dur 0.2
+ 23.400             *Func-setProp-11574
+ 23.400             Wait dur 0.2
+ 23.600             *Func-setProp-11575
+ 23.600             Wait dur 0.2
+ 23.800             *Func-setProp-11576
+ 23.800             Wait dur 0.2
+ 24.000             *Func-setProp-11577
+ 24.000             *Func-setProp-11578
+ 24.000             Wait dur 0.2
+ 24.200             Wait dur 2
+ 26.200             Wait dur 0.25
+ 26.450           }
+ 26.450           *Func-_teardownSkipListen-11584
+ 26.450           *Func-destroy-11585
+ 26.450           *Func-hide-11586
+ 26.450           *Func-setOnscreenChatForced-11587
+ 26.450           Sequence-9505 {
+ 26.450           }
+ 26.450         }
+  0.000         *Sound-2593 dur 26.45
+ 26.450       }
+ 26.450       *Func-__handleBuildingRewardDone-11588
+ 26.450     }
+ 26.450   }
+  0.000   Sequence-9502 {
+  0.000     Sequence-9504 {
+  0.000       Sequence-9508 {
+  0.000         *Func-chooseRewardShotNow-11583
+  0.000         Wait dur 26.45
+ 26.450       }
+ 26.450     }
+ 26.450   }
+ 26.450 }
+
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 2665, in windowEvent
+    self.userExit()
+  File "toontown\toonbase\ToonBase.py", line 400, in userExit
+    self.cr.dumpAllSubShardObjects()
+  File "toontown\distributed\ToontownClientRepository.py", line 556, in dumpAllSubShardObjects
+    self.deleteObject(doId)
+  File "toontown\distributed\ToontownClientRepository.py", line 906, in deleteObject
+    obj.deleteOrDelay()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 199, in deleteOrDelay
+    self.disableAnnounceAndDelete()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 202, in disableAnnounceAndDelete
+    self.disableAndAnnounce()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 228, in disableAndAnnounce
+    self.disable()
+  File "toontown\battle\DistributedBattleBldg.py", line 52, in disable
+    DistributedBattleBase.DistributedBattleBase.disable(self)
+  File "toontown\battle\DistributedBattleBase.py", line 133, in disable
+    self.cleanupBattle()
+  File "toontown\battle\DistributedBattleBase.py", line 145, in cleanupBattle
+    self.fsm.requestFinalState()
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 151, in requestFinalState
+    self.request(self.getFinalState().getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 302, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 213, in exit
+    apply(self.__exitFunc, argList)
+  File "toontown\battle\DistributedBattleBldg.py", line 208, in exitBuildingReward
+    self.movie.resetReward(finish=1)
+  File "toontown\battle\Movie.py", line 222, in resetReward
+    self.stop()
+  File "toontown\battle\Movie.py", line 366, in stop
+    self.track.finish()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 391, in finish
+    self.privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "toontown\battle\DistributedBattleBldg.py", line 205, in __handleBuildingRewardDone
+    self.fsm.request('Resume')
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 246, in request
+    assert not self.__internalStateInFlux
+AssertionError
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 2665, in windowEvent
+    self.userExit()
+  File "toontown\toonbase\ToonBase.py", line 400, in userExit
+    self.cr.dumpAllSubShardObjects()
+  File "toontown\distributed\ToontownClientRepository.py", line 556, in dumpAllSubShardObjects
+    self.deleteObject(doId)
+  File "toontown\distributed\ToontownClientRepository.py", line 906, in deleteObject
+    obj.deleteOrDelay()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 199, in deleteOrDelay
+    self.disableAnnounceAndDelete()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 202, in disableAnnounceAndDelete
+    self.disableAndAnnounce()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 228, in disableAndAnnounce
+    self.disable()
+  File "toontown\battle\DistributedBattleBldg.py", line 52, in disable
+    DistributedBattleBase.DistributedBattleBase.disable(self)
+  File "toontown\battle\DistributedBattleBase.py", line 133, in disable
+    self.cleanupBattle()
+  File "toontown\battle\DistributedBattleBase.py", line 145, in cleanupBattle
+    self.fsm.requestFinalState()
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 151, in requestFinalState
+    self.request(self.getFinalState().getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 302, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 213, in exit
+    apply(self.__exitFunc, argList)
+  File "toontown\battle\DistributedBattleBldg.py", line 208, in exitBuildingReward
+    self.movie.resetReward(finish=1)
+  File "toontown\battle\Movie.py", line 222, in resetReward
+    self.stop()
+  File "toontown\battle\Movie.py", line 366, in stop
+    self.track.finish()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 391, in finish
+    self.privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "toontown\battle\DistributedBattleBldg.py", line 205, in __handleBuildingRewardDone
+    self.fsm.request('Resume')
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 246, in request
+    assert not self.__internalStateInFlux
+AssertionError

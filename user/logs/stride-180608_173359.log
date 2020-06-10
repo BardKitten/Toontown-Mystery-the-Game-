@@ -1,0 +1,76 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x197F2C60>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+hit! 0.608638584614
+hit! 0.172979190946
+hit! 0.952836453915
+hit! 0.796008706093
+hit! 0.541686952114
+hit! 0.894324541092
+hit! 0.978878080845
+hit! 0.944415509701
+hit! 0.98912614584
+hit! 0.926563084126
+hit! 0.985958814621
+--not hard enough: -0.0813684388995
+--not hard enough: -0.411712139845
+--not hard enough: 0.0561917051673
+--not hard enough: -0.0456837005913
+hit! 0.759431004524
+hit! 0.989144086838
+hit! 0.286523133516
+hit! 0.98315089941
+hit! 0.874681651592
+hit! 0.303725779057
+hit! 0.993572175503
+hit! 0.997770488262
+hit! 0.958970308304
+hit! 0.763622701168
+hit! 0.953539311886
+hit! 0.951092660427
+hit! 0.16709330678
+hit! 0.993602395058
+hit! 0.463824808598
+hit! 0.425664663315
+hit! 0.950115382671
+hit! 0.959389269352
+hit! 0.513778746128
+hit! 0.837354183197
+hit! 0.157901421189
+hit! 0.39097353816
+hit! 0.895526587963
+hit! 0.992679297924
+hit! 0.84390771389
+hit! 0.680415689945
+--not hard enough: -0.35871437192
+hit! 0.841601610184
+hit! 0.304919093847
+hit! 0.243232294917
+hit! 0.992876172066
+hit! 0.899489164352
+hit! 0.987552344799
+hit! 0.88740247488
+hit! 0.0143432701007
+hit! 0.514243066311
+hit! 0.428824752569
+hit! 0.638551235199
+hit! 0.823392808437
+hit! 0.971409022808
+hit! 0.451453149319
+hit! 0.506548583508
+hit! 0.734461545944
+hit! 0.829250991344
+hit! 0.735027611256
+hit! 0.714633703232

@@ -1,0 +1,632 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x161CE4B8>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 110000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Pattern [0, 6, 6, 1, 0, 1] Place 0 Type 0
+Pattern [0, 6, 6, 1, 0, 1] Place 1 Type 6
+Pattern [0, 6, 6, 1, 0, 1] Place 2 Type 6
+Pattern [0, 6, 6, 1, 0, 1] Place 3 Type 1
+Pattern [0, 6, 6, 1, 0, 1] Place 4 Type 0
+Pattern [0, 6, 6, 1, 0, 1] Place 5 Type 1
+Pattern [0, 6, 6, 1, 0, 1] Place 0 Type 0
+Pattern [0, 6, 6, 1, 0, 1] Place 1 Type 6
+Pattern [0, 6, 6, 1, 0, 1] Place 2 Type 6
+Pattern [0, 6, 6, 1, 0, 1] Place 3 Type 1
+Pattern [0, 6, 6, 1, 0, 1] Place 4 Type 0
+Pattern [0, 6, 6, 1, 0, 1] Place 5 Type 1
+Pattern [0, 6, 6, 1, 0, 1] Place 0 Type 0
+Pattern [0, 6, 6, 1, 0, 1] Place 1 Type 6
+Pattern [0, 6, 6, 1, 0, 1] Place 2 Type 6
+Pattern [0, 6, 6, 1, 0, 1] Place 3 Type 1
+Pattern [0, 6, 6, 1, 0, 1] Place 4 Type 0
+Pattern [0, 6, 6, 1, 0, 1] Place 5 Type 1
+Pattern [0, 6, 6, 1, 0, 1] Place 0 Type 0
+Pattern [0, 6, 6, 1, 0, 1] Place 1 Type 6
+Pattern [0, 6, 6, 1, 0, 1] Place 2 Type 6
+Pattern [0, 6, 6, 1, 0, 1] Place 3 Type 1
+Pattern [0, 6, 6, 1, 0, 1] Place 4 Type 0
+Pattern [0, 6, 6, 1, 0, 1] Place 5 Type 1
+Pattern [0, 6, 6, 1, 0, 1] Place 0 Type 0
+Pattern [0, 6, 6, 1, 0, 1] Place 1 Type 6
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 0 Type 0
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 1 Type 2
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 2 Type 6
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 3 Type 1
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 4 Type 1
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 5 Type 5
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 6 Type 5
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 7 Type 6
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 8 Type 2
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 9 Type 0
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 0 Type 0
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 1 Type 2
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 2 Type 6
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 3 Type 1
+Pattern [0, 2, 6, 1, 1, 5, 5, 6, 2, 0] Place 4 Type 1
+Pattern [2, 2, 1, 6, 6, 0, 1, 0] Place 0 Type 2
+Pattern [2, 2, 1, 6, 6, 0, 1, 0] Place 1 Type 2
+Pattern [2, 2, 1, 6, 6, 0, 1, 0] Place 2 Type 1
+Pattern [2, 2, 1, 6, 6, 0, 1, 0] Place 3 Type 6
+Pattern [2, 2, 1, 6, 6, 0, 1, 0] Place 4 Type 6
+Pattern [2, 2, 1, 6, 6, 0, 1, 0] Place 5 Type 0
+Pattern [5, 2, 0, 1, 5, 2, 1, 0] Place 0 Type 5
+Pattern [5, 2, 0, 1, 5, 2, 1, 0] Place 1 Type 2
+spec = {'parentEntId': 110400, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Exception occurred while processing remove-death-suit of movie-track-with-cam-401009170:
+movie-track-with-cam-401009170:
+  0.000 movie-track-with-cam-401009170 {
+  0.000   movie-track-401009170 {
+  0.000     Sequence-1408 {
+  0.000       toon-attacks {
+  0.000         Sequence-1411 {
+  0.000           Parallel-1410 {
+  0.000           }
+  0.000           Parallel-1412 {
+  0.000             Sequence-1413 {
+  0.000               Wait
+  0.000               *Func-headsUp-970
+  0.000               *Actor-throw-93 dur 3.79167
+  3.792               *Func-loop-971
+  3.792               *Func-setHpr-972
+  3.792             }
+  0.000             Sequence-1415 {
+  0.000               Wait
+  0.000               *Func-showProps-973
+  0.000               *Func-__animProp-974
+  0.000               Parallel-1414 {
+  0.000                 LerpScaleInterval-2824: scale from 0.01 0.01 0.01 to 1.5 1.5 1.5 dur 1
+  0.000                 LerpScaleInterval-2825: scale from 0.01 0.01 0.01 to 1.5 1.5 1.5 dur 1
+  1.000               }
+  1.000               *Func-needRestoreRenderProp-976
+  1.000               Wait dur 1.7
+  2.700               *Func-__propPreflightGroup-975
+  2.700               Parallel-1416 {
+  2.700                 Sequence-1417 {
+  2.700                   *Func-reparentCakePart-977
+  2.700                   Parallel-1418 {
+  2.700                     MovieThrow-pieFly: pos from 1.03674 -3.6521 1.60982 to 6.00003 4.40002 8.23 dur 0.3
+  3.000                   }
+  3.000                   *Func-removeProps-978
+  3.000                   *Func-removeProps-979
+  3.000                   *Func-clearRenderProp-983
+  3.000                   *Func-__showProp-980
+  3.000                   *Func-__billboardProp-981
+  3.000                   *Actor-splat-wedding-cake-94 dur 0.416667
+  3.417                   *Func-removeProp-982
+  3.417                 }
+  2.700                 Sequence-1419 {
+  2.700                   *Func-reparentCakePart-984
+  2.700                   Parallel-1420 {
+  2.700                     MovieThrow-pieFly: pos from 1.03674 -3.6521 1.60982 to 1.99997 6.30005 9.34 dur 0.3
+  3.000                   }
+  3.000                   *Func-removeProps-985
+  3.000                   *Func-removeProps-986
+  3.000                   *Func-clearRenderProp-990
+  3.000                   *Func-__showProp-987
+  3.000                   *Func-__billboardProp-988
+  3.000                   *Actor-splat-wedding-cake-95 dur 0.416667
+  3.417                   *Func-removeProp-989
+  3.417                 }
+  2.700                 Sequence-1421 {
+  2.700                   *Func-reparentCakePart-991
+  2.700                   Parallel-1422 {
+  2.700                     MovieThrow-pieFly: pos from 1.03674 -3.6521 1.60982 to -1.99997 6.30005 9.34 dur 0.3
+  3.000                   }
+  3.000                   *Func-removeProps-992
+  3.000                   *Func-removeProps-993
+  3.000                   *Func-clearRenderProp-997
+  3.000                   *Func-__showProp-994
+  3.000                   *Func-__billboardProp-995
+  3.000                   *Actor-splat-wedding-cake-96 dur 0.416667
+  3.417                   *Func-removeProp-996
+  3.417                 }
+  2.700                 Sequence-1423 {
+  2.700                   *Func-reparentCakePart-998
+  2.700                   Parallel-1424 {
+  2.700                     MovieThrow-pieFly: pos from 1.03674 -3.6521 1.60982 to -5.99997 4.40002 9.34 dur 0.3
+  3.000                   }
+  3.000                   *Func-removeProps-999
+  3.000                   *Func-removeProps-1000
+  3.000                   *Func-clearRenderProp-1004
+  3.000                   *Func-__showProp-1001
+  3.000                   *Func-__billboardProp-1002
+  3.000                   *Actor-splat-wedding-cake-97 dur 0.416667
+  3.417                   *Func-removeProp-1003
+  3.417                 }
+  3.417               }
+  3.417             }
+  0.000             Sequence-1425 {
+  0.000               Parallel-1428 {
+  0.000                 Sequence-1426 {
+  0.000                   Wait dur 1
+  1.000                   *Sound-99 dur 2.06367
+  3.064                 }
+  0.000                 Sequence-1427 {
+  0.000                   Wait dur 3
+  3.000                   *Sound-100 dur 0.783673
+  3.784                 }
+  3.784               }
+  3.784             }
+  0.000             Parallel-1429 {
+  0.000               Parallel-1432 {
+  0.000                 Sequence-1430 {
+  0.000                   Wait dur 3
+  3.000                   *Func-showHpText-1005 (!oe)
+  3.000                   *Func-updateHealthBar-1006
+  3.000                   *Actor-pie-small-react-98 dur 2.25
+  5.250                   *Func-loop-1007
+  5.250                 }
+  0.000                 Sequence-1431 {
+  0.000                   Wait dur 3
+  3.000                 }
+  5.250               }
+  0.000               Parallel-1435 {
+  0.000                 Sequence-1433 {
+  0.000                   Wait dur 3
+  3.000                   *Func-showHpText-1008 (!oe)
+  3.000                   *Func-updateHealthBar-1009
+  3.000                   *Actor-pie-small-react-99 dur 2.25
+  5.250                   *Func-loop-1010
+  5.250                 }
+  0.000                 Sequence-1434 {
+  0.000                   Wait dur 3
+  3.000                 }
+  5.250               }
+  0.000               Parallel-1438 {
+  0.000                 Sequence-1436 {
+  0.000                   Wait dur 3
+  3.000                   *Func-showHpText-1011 (!oe)
+  3.000                   *Func-updateHealthBar-1012
+  3.000                   *Actor-pie-small-react-100 dur 2.25
+  5.250                   *Func-loop-1013
+  5.250                 }
+  0.000                 Sequence-1437 {
+  0.000                   Wait dur 3
+  3.000                 }
+  5.250               }
+  0.000               Parallel-1441 {
+  0.000                 Sequence-1439 {
+  0.000                   Wait dur 3
+  3.000                   *Func-showHpText-1014 (!oe)
+  3.000                   *Func-updateHealthBar-1015
+  3.000                   *Actor-pie-small-react-101 dur 2.25
+  5.250                   *Func-loop-1016
+  5.250                 }
+  0.000                 Sequence-1440 {
+  0.000                   Wait dur 3
+  3.000                 }
+  5.250               }
+  5.250             }
+  0.000             Sequence-1442 {
+  0.000               Wait
+  0.000               *Func-headsUp-1017
+  0.000               *Actor-throw-102 dur 3.79167
+  3.792               *Func-loop-1018
+  3.792               *Func-setHpr-1019
+  3.792             }
+  0.000             Sequence-1444 {
+  0.000               Wait
+  0.000               *Func-showProps-1020
+  0.000               *Func-__animProp-1021
+  0.000               Parallel-1443 {
+  0.000                 LerpScaleInterval-2826: scale from 0.01 0.01 0.01 to 1.5 1.5 1.5 dur 1
+  0.000                 LerpScaleInterval-2827: scale from 0.01 0.01 0.01 to 1.5 1.5 1.5 dur 1
+  1.000               }
+  1.000               *Func-needRestoreRenderProp-1023
+  1.000               Wait dur 1.7
+  2.700               *Func-__propPreflightGroup-1022
+  2.700               Parallel-1445 {
+  2.700                 Sequence-1446 {
+  2.700                   *Func-reparentCakePart-1024
+  2.700                   Parallel-1447 {
+  2.700                     MovieThrow-pieFly: pos from -2.27765 -4.21277 1.14202 to 6.00003 4.40002 8.23 dur 0.3
+  3.000                   }
+  3.000                   *Func-removeProps-1025
+  3.000                   *Func-removeProps-1026
+  3.000                   *Func-clearRenderProp-1030
+  3.000                   *Func-__showProp-1027
+  3.000                   *Func-__billboardProp-1028
+  3.000                   *Actor-splat-wedding-cake-103 dur 0.416667
+  3.417                   *Func-removeProp-1029
+  3.417                 }
+  2.700                 Sequence-1448 {
+  2.700                   *Func-reparentCakePart-1031
+  2.700                   Parallel-1449 {
+  2.700                     MovieThrow-pieFly: pos from -2.27765 -4.21277 1.14202 to 1.99997 6.30005 9.34 dur 0.3
+  3.000                   }
+  3.000                   *Func-removeProps-1032
+  3.000                   *Func-removeProps-1033
+  3.000                   *Func-clearRenderProp-1037
+  3.000                   *Func-__showProp-1034
+  3.000                   *Func-__billboardProp-1035
+  3.000                   *Actor-splat-wedding-cake-104 dur 0.416667
+  3.417                   *Func-removeProp-1036
+  3.417                 }
+  2.700                 Sequence-1450 {
+  2.700                   *Func-reparentCakePart-1038
+  2.700                   Parallel-1451 {
+  2.700                     MovieThrow-pieFly: pos from -2.27765 -4.21277 1.14202 to -1.99997 6.30005 9.34 dur 0.3
+  3.000                   }
+  3.000                   *Func-removeProps-1039
+  3.000                   *Func-removeProps-1040
+  3.000                   *Func-clearRenderProp-1044
+  3.000                   *Func-__showProp-1041
+  3.000                   *Func-__billboardProp-1042
+  3.000                   *Actor-splat-wedding-cake-105 dur 0.416667
+  3.417                   *Func-removeProp-1043
+  3.417                 }
+  2.700                 Sequence-1452 {
+  2.700                   *Func-reparentCakePart-1045
+  2.700                   Parallel-1453 {
+  2.700                     MovieThrow-pieFly: pos from -2.27765 -4.21277 1.14202 to -5.99997 4.40002 9.34 dur 0.3
+  3.000                   }
+  3.000                   *Func-removeProps-1046
+  3.000                   *Func-removeProps-1047
+  3.000                   *Func-clearRenderProp-1051
+  3.000                   *Func-__showProp-1048
+  3.000                   *Func-__billboardProp-1049
+  3.000                   *Actor-splat-wedding-cake-106 dur 0.416667
+  3.417                   *Func-removeProp-1050
+  3.417                 }
+  3.417               }
+  3.417             }
+  0.000             Sequence-1454 {
+  0.000               Parallel-1457 {
+  0.000                 Sequence-1455 {
+  0.000                   Wait dur 1
+  1.000                   *Sound-101 dur 2.06367
+  3.064                 }
+  0.000                 Sequence-1456 {
+  0.000                   Wait dur 3
+  3.000                   *Sound-102 dur 0.783673
+  3.784                 }
+  3.784               }
+  3.784             }
+  0.000             Parallel-1458 {
+  0.000               Parallel-1468 {
+  0.000                 Sequence-1459 {
+  0.000                   Wait dur 3
+  3.000                   *Func-showHpText-1052 (!oe)
+  3.000                   *Func-updateHealthBar-1053
+  3.000                   *Actor-pie-small-react-107 dur 2.25
+  5.250                   Parallel-1467 {
+  5.250                     Sequence-1461 {
+  5.250                       *Func-debug-1056
+  5.250                       *Func-insertReviveSuit-1057
+  5.250                       *Func-debug-1058
+  5.250                       *Actor-lose-108 dur 6
+ 11.250                       *Func-debug-1059
+ 11.250                       *remove-death-suit
+ 11.250                       *Func-debug-1060
+ 11.250                       *Func-loop-1061
+ 11.250                     }
+  5.250                     Sequence-1462 {
+  5.250                       Wait dur 0.8
+  6.050                       *Sound-103 dur 1.2
+  7.250                       *Sound-104 dur 3
+ 10.250                       *Sound-105 dur 1.85469
+ 12.105                     }
+  5.250                     gears1Track {
+  5.250                       Wait dur 2.1
+  7.350                       *Particle-36 dur 4.3
+ 11.650                     }
+  5.250                     gears2MTrack {
+  5.250                       Sequence-1463 {
+  5.250                         Wait dur 5.4
+ 10.650                         Sequence-1464 {
+ 10.650                           *Func-reparentTo-1062
+ 10.650                           *Func-setPos-1063
+ 10.650                           *Func-setScale-1064
+ 10.650                           Wait dur 0.6
+ 11.250                           *Func-removeProp-1065
+ 11.250                         }
+ 11.250                       }
+  5.950                       *Particle-37 dur 5.7
+ 10.450                       *Particle-38 dur 1.2
+ 10.650                       *Particle-39 dur 1
+ 11.650                     }
+  5.250                     toonMTrack {
+  5.250                       Sequence-1465 {
+  5.250                         Wait dur 1
+  6.250                         *Actor-duck-109 dur 3.75
+ 10.000                         *Actor-duck-110 dur 1.95
+ 11.950                         *Func-loop-1066
+ 11.950                       }
+  5.250                       Sequence-1466 {
+  5.250                         Wait dur 1
+  6.250                         *Actor-duck-111 dur 3.75
+ 10.000                         *Actor-duck-112 dur 1.95
+ 11.950                         *Func-loop-1067
+ 11.950                       }
+ 11.950                     }
+ 12.105                   }
+ 12.105                 }
+  0.000                 Sequence-1460 {
+  0.000                   Wait dur 3
+  3.000                   Wait dur 0.75
+  3.750                   *Func-showHpText-1054 (!oe)
+  3.750                   *Func-updateHealthBar-1055
+  3.750                 }
+ 12.105               }
+  0.000               Parallel-1478 {
+  0.000                 Sequence-1469 {
+  0.000                   Wait dur 3
+  3.000                   *Func-showHpText-1068 (!oe)
+  3.000                   *Func-updateHealthBar-1069
+  3.000                   *Actor-pie-small-react-113 dur 2.25
+  5.250                   Parallel-1477 {
+  5.250                     Sequence-1471 {
+  5.250                       *Func-debug-1072
+  5.250                       *Func-insertReviveSuit-1073
+  5.250                       *Func-debug-1074
+  5.250                       *Actor-lose-114 dur 6
+ 11.250                       *Func-debug-1075
+ 11.250                       *remove-death-suit
+ 11.250                       *Func-debug-1076
+ 11.250                       *Func-loop-1077
+ 11.250                     }
+  5.250                     Sequence-1472 {
+  5.250                       Wait dur 0.8
+  6.050                       *Sound-106 dur 1.2
+  7.250                       *Sound-107 dur 3
+ 10.250                       *Sound-108 dur 1.85469
+ 12.105                     }
+  5.250                     gears1Track {
+  5.250                       Wait dur 2.1
+  7.350                       *Particle-40 dur 4.3
+ 11.650                     }
+  5.250                     gears2MTrack {
+  5.250                       Sequence-1473 {
+  5.250                         Wait dur 5.4
+ 10.650                         Sequence-1474 {
+ 10.650                           *Func-reparentTo-1078
+ 10.650                           *Func-setPos-1079
+ 10.650                           *Func-setScale-1080
+ 10.650                           Wait dur 0.6
+ 11.250                           *Func-removeProp-1081
+ 11.250                         }
+ 11.250                       }
+  5.950                       *Particle-41 dur 5.7
+ 10.450                       *Particle-42 dur 1.2
+ 10.650                       *Particle-43 dur 1
+ 11.650                     }
+  5.250                     toonMTrack {
+  5.250                       Sequence-1475 {
+  5.250                         Wait dur 1
+  6.250                         *Actor-duck-115 dur 3.75
+ 10.000                         *Actor-duck-116 dur 1.95
+ 11.950                         *Func-loop-1082
+ 11.950                       }
+  5.250                       Sequence-1476 {
+  5.250                         Wait dur 1
+  6.250                         *Actor-duck-117 dur 3.75
+ 10.000                         *Actor-duck-118 dur 1.95
+ 11.950                         *Func-loop-1083
+ 11.950                       }
+ 11.950                     }
+ 12.105                   }
+ 12.105                 }
+  0.000                 Sequence-1470 {
+  0.000                   Wait dur 3
+  3.000                   Wait dur 0.75
+  3.750                   *Func-showHpText-1070 (!oe)
+  3.750                   *Func-updateHealthBar-1071
+  3.750                 }
+ 12.105               }
+  0.000               Parallel-1488 {
+  0.000                 Sequence-1479 {
+  0.000                   Wait dur 3
+  3.000                   *Func-showHpText-1084 (!oe)
+  3.000                   *Func-updateHealthBar-1085
+  3.000                   *Actor-pie-small-react-119 dur 2.25
+  5.250                   Parallel-1487 {
+  5.250                     Sequence-1481 {
+  5.250                       *Func-debug-1088
+  5.250                       *Func-insertReviveSuit-1089
+  5.250                       *Func-debug-1090
+  5.250                       *Actor-lose-120 dur 6
+ 11.250                       *Func-debug-1091
+ 11.250                       *remove-death-suit
+ 11.250                       *Func-debug-1092
+ 11.250                       *Func-loop-1093
+ 11.250                     }
+  5.250                     Sequence-1482 {
+  5.250                       Wait dur 0.8
+  6.050                       *Sound-109 dur 1.2
+  7.250                       *Sound-110 dur 3
+ 10.250                       *Sound-111 dur 1.85469
+ 12.105                     }
+  5.250                     gears1Track {
+  5.250                       Wait dur 2.1
+  7.350                       *Particle-44 dur 4.3
+ 11.650                     }
+  5.250                     gears2MTrack {
+  5.250                       Sequence-1483 {
+  5.250                         Wait dur 5.4
+ 10.650                         Sequence-1484 {
+ 10.650                           *Func-reparentTo-1094
+ 10.650                           *Func-setPos-1095
+ 10.650                           *Func-setScale-1096
+ 10.650                           Wait dur 0.6
+ 11.250                           *Func-removeProp-1097
+ 11.250                         }
+ 11.250                       }
+  5.950                       *Particle-45 dur 5.7
+ 10.450                       *Particle-46 dur 1.2
+ 10.650                       *Particle-47 dur 1
+ 11.650                     }
+  5.250                     toonMTrack {
+  5.250                       Sequence-1485 {
+  5.250                         Wait dur 1
+  6.250                         *Actor-duck-121 dur 3.75
+ 10.000                         *Actor-duck-122 dur 1.95
+ 11.950                         *Func-loop-1098
+ 11.950                       }
+  5.250                       Sequence-1486 {
+  5.250                         Wait dur 1
+  6.250                         *Actor-duck-123 dur 3.75
+ 10.000                         *Actor-duck-124 dur 1.95
+ 11.950                         *Func-loop-1099
+ 11.950                       }
+ 11.950                     }
+ 12.105                   }
+ 12.105                 }
+  0.000                 Sequence-1480 {
+  0.000                   Wait dur 3
+  3.000                   Wait dur 0.75
+  3.750                   *Func-showHpText-1086 (!oe)
+  3.750                   *Func-updateHealthBar-1087
+  3.750                 }
+ 12.105               }
+  0.000               Parallel-1498 {
+  0.000                 Sequence-1489 {
+  0.000                   Wait dur 3
+  3.000                   *Func-showHpText-1100 (!oe)
+  3.000                   *Func-updateHealthBar-1101
+  3.000                   *Actor-pie-small-react-125 dur 2.25
+  5.250                   Parallel-1497 {
+  5.250                     Sequence-1491 {
+  5.250                       *Func-debug-1104
+  5.250                       *Func-insertReviveSuit-1105
+  5.250                       *Func-debug-1106
+  5.250                       *Actor-lose-126 dur 6
+ 11.250                       *Func-debug-1107
+ 11.250                       *remove-death-suit
+ 11.250                       *Func-debug-1108
+ 11.250                       *Func-loop-1109
+ 11.250                     }
+  5.250                     Sequence-1492 {
+  5.250                       Wait dur 0.8
+  6.050                       *Sound-112 dur 1.2
+  7.250                       *Sound-113 dur 3
+ 10.250                       *Sound-114 dur 1.85469
+ 12.105                     }
+  5.250                     gears1Track {
+  5.250                       Wait dur 2.1
+  7.350                       *Particle-48 dur 4.3
+ 11.650                     }
+  5.250                     gears2MTrack {
+  5.250                       Sequence-1493 {
+  5.250                         Wait dur 5.4
+ 10.650                         Sequence-1494 {
+ 10.650                           *Func-reparentTo-1110
+ 10.650                           *Func-setPos-1111
+ 10.650                           *Func-setScale-1112
+ 10.650                           Wait dur 0.6
+ 11.250                           *Func-removeProp-1113
+ 11.250                         }
+ 11.250                       }
+  5.950                       *Particle-49 dur 5.7
+ 10.450                       *Particle-50 dur 1.2
+ 10.650                       *Particle-51 dur 1
+ 11.650                     }
+  5.250                     toonMTrack {
+  5.250                       Sequence-1495 {
+  5.250                         Wait dur 1
+  6.250                         *Actor-duck-127 dur 3.75
+ 10.000                         *Actor-duck-128 dur 1.95
+ 11.950                         *Func-loop-1114
+ 11.950                       }
+  5.250                       Sequence-1496 {
+  5.250                         Wait dur 1
+  6.250                         *Actor-duck-129 dur 3.75
+ 10.000                         *Actor-duck-130 dur 1.95
+ 11.950                         *Func-loop-1115
+ 11.950                       }
+ 11.950                     }
+ 12.105                   }
+ 12.105                 }
+  0.000                 Sequence-1490 {
+  0.000                   Wait dur 3
+  3.000                   Wait dur 0.75
+  3.750                   *Func-showHpText-1102 (!oe)
+  3.750                   *Func-updateHealthBar-1103
+  3.750                 }
+ 12.105               }
+ 12.105             }
+ 12.105           }
+ 12.105         }
+ 12.105       }
+ 12.105       *Func-__handleMovieDone-1120
+ 12.105     }
+ 12.105   }
+  0.000   Sequence-1500 {
+  0.000     Sequence-1409 {
+  0.000       toon-attacks-cam {
+  0.000         Sequence-1499 {
+  0.000           toonGroupShot {
+  0.000             *Func-setPosHpr-1116
+  0.000             Wait
+  0.000           }
+  0.000           suitGroupThreeQuarterLeftBehindShot {
+  0.000             *Func-setPosHpr-1117
+  0.000             Wait dur 3
+  3.000           }
+  3.000           suitGroupThreeQuarterLeftBehindShot {
+  3.000             *Func-setPosHpr-1119
+  3.000             Wait dur 9.105
+ 12.105           }
+ 12.105           toonGroupShot {
+ 12.105             *Func-setPosHpr-1118
+ 12.105             Wait
+ 12.105           }
+ 12.105         }
+ 12.105       }
+ 12.105     }
+ 12.105   }
+ 12.105 }
+
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 1829, in __ivalLoop
+    IntervalManager.ivalMgr.step()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 94, in step
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 122, in __doPythonCallbacks
+    self.ivals[index].privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "toontown\battle\MovieUtil.py", line 202, in removeReviveSuit
+    suit.healthBar.show()
+AttributeError: SuitHealthBar instance has no attribute 'show'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 1829, in __ivalLoop
+    IntervalManager.ivalMgr.step()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 94, in step
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 122, in __doPythonCallbacks
+    self.ivals[index].privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "toontown\battle\MovieUtil.py", line 202, in removeReviveSuit
+    suit.healthBar.show()
+AttributeError: SuitHealthBar instance has no attribute 'show'

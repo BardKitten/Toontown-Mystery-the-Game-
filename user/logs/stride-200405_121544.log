@@ -1,0 +1,165 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x15D56620>}
+__handleAvatarChooserDone: 100000181, 'Boris', ('csl', 'ls', 's', 'm', (0.64, 0.35, 0.26, 1.0), (1.0, 1.0, 1.0, 1.0), (0.64, 0.35, 0.26, 1.0), (0.64, 0.35, 0.26, 1.0), 8, 27, 5, 27, 3, 27), 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(0, 6, 1.5)
+### newVec3 =  LVector3f(0, 6, 0)
+### newVec3 =  LVector3f(0, 6, 0.375)
+### newVec3 =  LVector3f(0, 6, 0)
+spec = {'parentEntId': 10030, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2, 6.29999, 1.5)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+### newVec3 =  LVector3f(2, 6.29999, 0.375)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+spec = {'parentEntId': 10023, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2, 6.29999, 1.5)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+### newVec3 =  LVector3f(2, 6.29999, 0.375)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+spec = {'parentEntId': 10023, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2, 6.29999, 1.5)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+### newVec3 =  LVector3f(2, 6.29999, 0.375)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+spec = {'parentEntId': 10032, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(-1.99997, 6.29996, 1.5)
+### newVec3 =  LVector3f(-1.99997, 6.29996, 0)
+### newVec3 =  LVector3f(-1.99997, 6.29996, 0.375)
+### newVec3 =  LVector3f(-1.99997, 6.29996, 0)
+spec = {'parentEntId': 10032, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10036, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10034, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2, 6.29993, 1.5)
+### newVec3 =  LVector3f(2, 6.29993, 0)
+### newVec3 =  LVector3f(2, 6.29993, 0.375)
+### newVec3 =  LVector3f(2, 6.29993, 0)
+spec = {'parentEntId': 10662, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2.00003, 11.3, 1.5)
+### newVec3 =  LVector3f(2.00003, 11.3, 0)
+### newVec3 =  LVector3f(2.00003, 11.3, 0.375)
+### newVec3 =  LVector3f(2.00003, 11.3, 0)
+### newVec3 =  LVector3f(2.00003, 11.3, 1.5)
+### newVec3 =  LVector3f(2.00003, 11.3, 0)
+### newVec3 =  LVector3f(2.00003, 11.3, 0.375)
+### newVec3 =  LVector3f(2.00003, 11.3, 0)
+### newVec3 =  LVector3f(2.00003, 6.29997, 1.5)
+### newVec3 =  LVector3f(2.00003, 6.29997, 0)
+### newVec3 =  LVector3f(2.00003, 6.29997, 0.375)
+### newVec3 =  LVector3f(2.00003, 6.29997, 0)
+spec = {'parentEntId': 10037, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(-1.99998, 6.29996, 1.5)
+### newVec3 =  LVector3f(-1.99998, 6.29996, 0)
+### newVec3 =  LVector3f(-1.99998, 6.29996, 0.375)
+### newVec3 =  LVector3f(-1.99998, 6.29996, 0)
+spec = {'parentEntId': 10660, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10661, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(-2, 6.29999, 1.5)
+### newVec3 =  LVector3f(-2, 6.29999, 0)
+### newVec3 =  LVector3f(-2, 6.29999, 0.375)
+### newVec3 =  LVector3f(-2, 6.29999, 0)
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1224, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1026, in handlePlayGame
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1164, in handleMessageType
+    self.gotInterestDoneMessage(di)
+  File "otp\distributed\OTPClientRepository.py", line 1188, in gotInterestDoneMessage
+    self.__playBackGenerates(handle)
+  File "otp\distributed\OTPClientRepository.py", line 1300, in __playBackGenerates
+    self.__doGenerate(doId, parentId, zoneId, classId, di, other)
+  File "otp\distributed\OTPClientRepository.py", line 1344, in __doGenerate
+    self.generateWithRequiredOtherFields(dclass, doId, di, parentId, zoneId)
+  File "C:\Panda3D-1.10.0\direct\distributed\ClientRepositoryBase.py", line 313, in generateWithRequiredOtherFields
+    distObj.updateRequiredOtherFields(dclass, di)
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 351, in updateRequiredOtherFields
+    self.announceGenerate()
+  File "toontown\coghq\BattleBlocker.py", line 20, in announceGenerate
+    BasicEntities.DistributedNodePathEntity.announceGenerate(self)
+  File "otp\level\BasicEntities.py", line 123, in announceGenerate
+    DistributedEntity.DistributedEntity.announceGenerate(self)
+  File "otp\level\DistributedEntity.py", line 37, in announceGenerate
+    self.level.onEntityCreate(self.entId)
+  File "otp\level\Level.py", line 190, in onEntityCreate
+    callback()
+  File "toontown\suit\DistributedFactorySuit.py", line 176, in setPath
+    self.reparentTo(self.idealPathNode)
+AssertionError: !is_empty() at line 526 of panda/src/pgraph/nodePath.cxx
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1224, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1026, in handlePlayGame
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1164, in handleMessageType
+    self.gotInterestDoneMessage(di)
+  File "otp\distributed\OTPClientRepository.py", line 1188, in gotInterestDoneMessage
+    self.__playBackGenerates(handle)
+  File "otp\distributed\OTPClientRepository.py", line 1300, in __playBackGenerates
+    self.__doGenerate(doId, parentId, zoneId, classId, di, other)
+  File "otp\distributed\OTPClientRepository.py", line 1344, in __doGenerate
+    self.generateWithRequiredOtherFields(dclass, doId, di, parentId, zoneId)
+  File "C:\Panda3D-1.10.0\direct\distributed\ClientRepositoryBase.py", line 313, in generateWithRequiredOtherFields
+    distObj.updateRequiredOtherFields(dclass, di)
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 351, in updateRequiredOtherFields
+    self.announceGenerate()
+  File "toontown\coghq\BattleBlocker.py", line 20, in announceGenerate
+    BasicEntities.DistributedNodePathEntity.announceGenerate(self)
+  File "otp\level\BasicEntities.py", line 123, in announceGenerate
+    DistributedEntity.DistributedEntity.announceGenerate(self)
+  File "otp\level\DistributedEntity.py", line 37, in announceGenerate
+    self.level.onEntityCreate(self.entId)
+  File "otp\level\Level.py", line 190, in onEntityCreate
+    callback()
+  File "toontown\suit\DistributedFactorySuit.py", line 176, in setPath
+    self.reparentTo(self.idealPathNode)
+AssertionError: !is_empty() at line 526 of panda/src/pgraph/nodePath.cxx

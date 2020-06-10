@@ -1,0 +1,14 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x198264E0>}
+__handleAvatarChooserDone: 100000143, 'Fat Peanut Picklepop', ('csl', 'ss', 's', 'm', (0.28, 0.32, 0.72, 1.0), (1.0, 1.0, 1.0, 1.0), (0.28, 0.32, 0.72, 1.0), (0.28, 0.32, 0.72, 1.0), 111, 27, 0, 27, 5, 14), 5
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_BR.pdna
+Reading DNA file... phase_8/dna/storage_BR_sz.pdna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.pdna

@@ -1,0 +1,64 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1901F7B0>}
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1222, in handleDatagram
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1156, in handleMessageType
+    self.handleGenerateWithRequiredOtherOwner(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 754, in handleGenerateWithRequiredOtherOwner
+    self.handleAvatarResponseMsg(doId, di)
+  File "toontown\distributed\ToontownClientRepository.py", line 314, in handleAvatarResponseMsg
+    localAvatar.initInterface()
+  File "toontown\toon\LocalToon.py", line 343, in initInterface
+    self.statPage.load()
+  File "toontown\shtiker\StatPage.py", line 16, in load
+    self.rows = [self.createRow(pos) for pos in ((-0.8, 0, 0.435), (0.08, 0, 0.435))]
+  File "toontown\shtiker\StatPage.py", line 49, in createRow
+    row = DirectLabel(parent=self, relief=None, text_align=TextNode.ALeft, text='', text_scale=0.045, text_wordwrap=16, text_font=ToontownGlobals.getChalkFont(), text_fg=(1, 1, 1, 1), image='phase_3/maps/stat_board.png', image_scale=(0.42, 0, 0.6), image_pos=(0.35, 0, -0.45))
+  File "otp\otpbase\OTPGlobals.py", line 126, in getChalkFont
+    ChalkFont = loader.loadFont(ChalkFontPath, lineHeight=1.0)
+  File "toontown\toonbase\ToontownLoader.py", line 81, in loadFont
+    ret = Loader.Loader.loadFont(self, *args, **kw)
+  File "C:\Panda3D-1.10.0\direct\showbase\Loader.py", line 506, in loadFont
+    raise IOError, message
+IOError: Could not load font file: phase_3//models//fonts//Chawp.ttf
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1222, in handleDatagram
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1156, in handleMessageType
+    self.handleGenerateWithRequiredOtherOwner(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 754, in handleGenerateWithRequiredOtherOwner
+    self.handleAvatarResponseMsg(doId, di)
+  File "toontown\distributed\ToontownClientRepository.py", line 314, in handleAvatarResponseMsg
+    localAvatar.initInterface()
+  File "toontown\toon\LocalToon.py", line 343, in initInterface
+    self.statPage.load()
+  File "toontown\shtiker\StatPage.py", line 16, in load
+    self.rows = [self.createRow(pos) for pos in ((-0.8, 0, 0.435), (0.08, 0, 0.435))]
+  File "toontown\shtiker\StatPage.py", line 49, in createRow
+    row = DirectLabel(parent=self, relief=None, text_align=TextNode.ALeft, text='', text_scale=0.045, text_wordwrap=16, text_font=ToontownGlobals.getChalkFont(), text_fg=(1, 1, 1, 1), image='phase_3/maps/stat_board.png', image_scale=(0.42, 0, 0.6), image_pos=(0.35, 0, -0.45))
+  File "otp\otpbase\OTPGlobals.py", line 126, in getChalkFont
+    ChalkFont = loader.loadFont(ChalkFontPath, lineHeight=1.0)
+  File "toontown\toonbase\ToontownLoader.py", line 81, in loadFont
+    ret = Loader.Loader.loadFont(self, *args, **kw)
+  File "C:\Panda3D-1.10.0\direct\showbase\Loader.py", line 506, in loadFont
+    raise IOError, message
+IOError: Could not load font file: phase_3//models//fonts//Chawp.ttf

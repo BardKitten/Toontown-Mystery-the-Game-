@@ -1,0 +1,147 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{406000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1680C418>, 401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1680C6C0>, 402000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1680C648>, 404000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1680C508>, 403000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1680C5A8>, 405000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1680C468>}
+__handleAvatarChooserDone: 100000105, 'Sir Dot', ('dss', 'ss', 'm', 'm', (0.99, 0.95, 0.59, 1.0), (1.0, 1.0, 1.0, 1.0), (0.99, 0.95, 0.59, 1.0), (0.99, 0.95, 0.59, 1.0), 14, 12, 10, 12, 6, 27), 0
+__handleAvatarChooserDone: 100000114, 'Stupid Rabbit', ('rll', 'ss', 'l', 'm', (0.99, 0.89, 0.32, 1.0), (1.0, 1.0, 1.0, 1.0), (0.99, 0.89, 0.32, 1.0), (0.99, 0.89, 0.32, 1.0), 10, 1, 0, 1, 4, 18), 3
+__handleAvatarChooserDone: 100000030, "Sarah's Girlfriend", ('mss', 'ls', 's', 'm', (0.99, 0.48, 0.16, 1.0), (1.0, 1.0, 1.0, 1.0), (0.99, 0.48, 0.16, 1.0), (0.99, 0.48, 0.16, 1.0), 17, 0, 0, 0, 6, 4), 1
+__handleAvatarChooserDone: 100000085, 'Boris', ('dss', 'ms', 'l', 'm', (0.3, 0.96, 0.4, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.96, 0.4, 1.0), (0.3, 0.96, 0.4, 1.0), 10, 5, 0, 5, 4, 9), 2
+__handleAvatarChooserDone: 100000135, 'Colonel Wesley', ('pss', 'ms', 'm', 'm', (0.8, 0.49, 0.19, 1.0), (1.0, 1.0, 1.0, 1.0), (0.8, 0.49, 0.19, 1.0), (0.8, 0.49, 0.19, 1.0), 4, 1, 4, 1, 4, 6), 4
+__handleAvatarChooserDone: 100000097, 'Flippy', ('dss', 'ms', 'm', 'm', (0.34, 0.82, 0.95, 1.0), (1.0, 1.0, 1.0, 1.0), (0.34, 0.82, 0.95, 1.0), (0.34, 0.82, 0.95, 1.0), 3, 17, 3, 17, 7, 30), 5
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5100.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5100.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5100.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1680C6C0>}
+__handleAvatarChooserDone: 100000097, 'Flippy', ('dss', 'ms', 'm', 'm', (0.34, 0.82, 0.95, 1.0), (1.0, 1.0, 1.0, 1.0), (0.34, 0.82, 0.95, 1.0), (0.34, 0.82, 0.95, 1.0), 3, 17, 3, 17, 7, 30), 5
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1224, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1026, in handlePlayGame
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1164, in handleMessageType
+    self.gotInterestDoneMessage(di)
+  File "otp\distributed\OTPClientRepository.py", line 1190, in gotInterestDoneMessage
+    self.handleInterestDoneMessage(di)
+  File "C:\Panda3D-1.10.0\direct\distributed\DoInterestManager.py", line 618, in handleInterestDoneMessage
+    messenger.send(event)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\distributed\ToontownDistrictStats.py", line 50, in _CompleteProc
+    messenger.send(event)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\shtiker\ShardPage.py", line 418, in updateScrollList
+    button['text'] = str(groupAvCount[i])
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1224, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1026, in handlePlayGame
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1164, in handleMessageType
+    self.gotInterestDoneMessage(di)
+  File "otp\distributed\OTPClientRepository.py", line 1190, in gotInterestDoneMessage
+    self.handleInterestDoneMessage(di)
+  File "C:\Panda3D-1.10.0\direct\distributed\DoInterestManager.py", line 618, in handleInterestDoneMessage
+    messenger.send(event)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\distributed\ToontownDistrictStats.py", line 50, in _CompleteProc
+    messenger.send(event)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\shtiker\ShardPage.py", line 418, in updateScrollList
+    button['text'] = str(groupAvCount[i])
+IndexError: list index out of range

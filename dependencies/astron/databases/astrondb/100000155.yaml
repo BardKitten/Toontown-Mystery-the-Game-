@@ -1,0 +1,12 @@
+id: 100000155
+class: Account
+fields:
+  ACCOUNT_AV_SET: "[100000156, 0, 0, 0, 0, 0]"
+  ESTATE_ID: 0
+  ACCOUNT_AV_SET_DEL: "[]"
+  CREATED: "\"Mon May 27 15:26:07 2019\""
+  LAST_LOGIN: "\"Tue May 28 22:21:54 2019\""
+  ACCOUNT_ID: "\"The Murray\""
+  ACCESS_LEVEL: 700
+  LAST_LOGIN_TS: 1559096514
+  CHAT_SETTINGS: "[1, 1]"

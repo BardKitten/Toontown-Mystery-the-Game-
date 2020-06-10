@@ -1,0 +1,100 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x199B1788>}
+__handleAvatarChooserDone: 100000015, 'Super Bear', ('bss', 'ms', 's', 'm', (0.64, 0.35, 0.26, 1.0), (1.0, 1.0, 1.0, 1.0), (0.64, 0.35, 0.26, 1.0), (0.64, 0.35, 0.26, 1.0), 111, 27, 98, 27, 7, 10), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.10.0\direct\gui\DirectButton.py", line 103, in commandFunc
+    apply(self['command'], self['extraArgs'])
+  File "toontown\shtiker\ShtikerBook.py", line 183, in goToPage
+    self.setPage(page)
+  File "toontown\shtiker\ShtikerBook.py", line 284, in setPage
+    page.enter()
+  File "toontown\shtiker\SuitPage.py", line 244, in enter
+    self.updatePage()
+  File "toontown\shtiker\SuitPage.py", line 512, in updatePage
+    self.updateCogStatus(dept, type, cogs[index])
+  File "toontown\shtiker\SuitPage.py", line 539, in updateCogStatus
+    self.setPanelStatus(panel, COG_BATTLED)
+  File "toontown\shtiker\SuitPage.py", line 471, in setPanelStatus
+    self.addSuitHead(panel, suitName)
+  File "toontown\shtiker\SuitPage.py", line 392, in addSuitHead
+    panel.head = Suit.attachSuitHead(panel, suitName)
+  File "toontown\suit\Suit.py", line 280, in attachSuitHead
+    suit.setDNA(suitDNA)
+  File "toontown\suit\Suit.py", line 372, in setDNA
+    self.generateSuit()
+  File "toontown\suit\Suit.py", line 398, in generateSuit
+    self.generateHead(head)
+  File "toontown\suit\Suit.py", line 528, in generateHead
+    headTex = loader.loadTexture('phase_' + str(phase) + '/maps/' + self.headTexture)
+  File "toontown\toonbase\ToontownLoader.py", line 86, in loadTexture
+    ret = Loader.Loader.loadTexture(self, texturePath, alphaPath, okMissing=okMissing)
+  File "C:\Panda3D-1.10.0\direct\showbase\Loader.py", line 623, in loadTexture
+    raise IOError, message
+IOError: Could not load texture: phase_4/maps/robber-barron.jpg
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.10.0\direct\gui\DirectButton.py", line 103, in commandFunc
+    apply(self['command'], self['extraArgs'])
+  File "toontown\shtiker\ShtikerBook.py", line 183, in goToPage
+    self.setPage(page)
+  File "toontown\shtiker\ShtikerBook.py", line 284, in setPage
+    page.enter()
+  File "toontown\shtiker\SuitPage.py", line 244, in enter
+    self.updatePage()
+  File "toontown\shtiker\SuitPage.py", line 512, in updatePage
+    self.updateCogStatus(dept, type, cogs[index])
+  File "toontown\shtiker\SuitPage.py", line 539, in updateCogStatus
+    self.setPanelStatus(panel, COG_BATTLED)
+  File "toontown\shtiker\SuitPage.py", line 471, in setPanelStatus
+    self.addSuitHead(panel, suitName)
+  File "toontown\shtiker\SuitPage.py", line 392, in addSuitHead
+    panel.head = Suit.attachSuitHead(panel, suitName)
+  File "toontown\suit\Suit.py", line 280, in attachSuitHead
+    suit.setDNA(suitDNA)
+  File "toontown\suit\Suit.py", line 372, in setDNA
+    self.generateSuit()
+  File "toontown\suit\Suit.py", line 398, in generateSuit
+    self.generateHead(head)
+  File "toontown\suit\Suit.py", line 528, in generateHead
+    headTex = loader.loadTexture('phase_' + str(phase) + '/maps/' + self.headTexture)
+  File "toontown\toonbase\ToontownLoader.py", line 86, in loadTexture
+    ret = Loader.Loader.loadTexture(self, texturePath, alphaPath, okMissing=okMissing)
+  File "C:\Panda3D-1.10.0\direct\showbase\Loader.py", line 623, in loadTexture
+    raise IOError, message
+IOError: Could not load texture: phase_4/maps/robber-barron.jpg

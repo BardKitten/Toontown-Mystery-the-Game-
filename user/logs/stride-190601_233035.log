@@ -1,0 +1,160 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x188A8800>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+hit! 0.641180098057
+hit! 0.97114020586
+hit! 0.753949344158
+hit! 0.919280469418
+hit! 0.836810171604
+hit! 0.605273842812
+hit! 0.95600861311
+hit! 0.612499475479
+hit! 0.858875334263
+hit! 0.465813666582
+--not hard enough: -0.143936559558
+hit! 0.93446046114
+hit! 0.436200112104
+hit! 0.957961857319
+hit! 0.937092602253
+hit! 0.796982765198
+hit! 0.8040843606
+hit! 0.606470525265
+hit! 0.720523953438
+hit! 0.572870612144
+hit! 0.955553591251
+hit! 0.256570637226
+hit! 0.702402412891
+hit! 0.567567944527
+hit! 0.528946876526
+hit! 0.508615374565
+hit! 0.977426886559
+hit! 0.916530609131
+hit! 0.419604212046
+hit! 0.851209402084
+hit! 0.872321367264
+hit! 0.998700082302
+hit! 0.638268530369
+hit! 0.331390947104
+hit! 0.766165137291
+--not hard enough: -0.31105786562
+hit! 0.77734708786
+--not hard enough: -0.0683371052146
+hit! 0.72622013092
+hit! 0.599278092384
+hit! 0.913213908672
+hit! 0.812725067139
+hit! 0.150621831417
+hit! 0.978136956692
+hit! 0.641999900341
+hit! 0.907061576843
+hit! 0.704740643501
+hit! 0.459535121918
+hit! 0.889334142208
+hit! 0.824802577496
+hit! 0.954195678234
+hit! 0.715491712093
+hit! 0.306197077036
+hit! 0.845404088497
+hit! 0.713929951191
+hit! 0.282219439745
+hit! 0.172220721841
+hit! 0.259922474623
+hit! 0.914772450924
+hit! 0.820673882961
+hit! 0.451215207577
+hit! 0.887766063213
+hit! 0.902106225491
+hit! 0.944763541222
+hit! 0.357163071632
+hit! 0.85322034359
+hit! 0.75274425745
+hit! 0.866377413273
+hit! 0.936958551407
+hit! 0.76114565134
+hit! 0.634116888046
+hit! 0.90973931551
+hit! 0.98211812973
+hit! 0.903091311455
+hit! 0.942269027233
+hit! 0.924581885338
+hit! 0.888604342937
+hit! 0.811464548111
+hit! 0.666319549084
+hit! 0.117480836809
+hit! 0.701385319233
+hit! 0.595471322536
+hit! 0.813271641731
+hit! 0.875620126724
+hit! 0.665486514568
+hit! 0.979069054127
+hit! 0.503208756447
+hit! 0.867154598236
+hit! 0.554496526718
+hit! 0.979673981667
+hit! 0.970758020878
+hit! 0.123225264251
+--not hard enough: -0.0936597362161
+hit! 0.704944491386
+hit! 0.505641758442
+hit! 0.95146292448
+hit! 0.856413722038
+hit! 0.946571052074
+hit! 0.858826696873
+hit! 0.184899359941
+--not hard enough: -0.053301949054
+hit! 0.631339848042
+hit! 0.992395997047
+hit! 0.988631367683
+hit! 0.910481035709
+hit! 0.914841234684
+--not hard enough: -0.410591006279
+hit! 0.74730181694
+hit! 0.743150353432
+hit! 0.603765010834
+--not hard enough: 0.0844564586878
+hit! 0.950364530087
+hit! 0.83822953701
+hit! 0.938611268997
+hit! 0.915662527084
+hit! 0.957642734051
+hit! 0.705570220947
+hit! 0.422005325556
+hit! 0.933108329773
+hit! 0.681995391846
+hit! 0.958285689354
+hit! 0.730588316917
+hit! 0.303281664848
+hit! 0.786258161068
+hit! 0.379833161831
+hit! 0.791209936142
+hit! 0.278017550707
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedSmoothNodeBase.py", line 110, in _posHprBroadcast
+    self.d_broadcastPosHpr()
+ValueError: Node position out of range for DC file: render/Master Cool Cat-100000070 pos = -57342.3 57183 0.0376958 hpr = 71.4066 0 0 zoneId = 0
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedSmoothNodeBase.py", line 110, in _posHprBroadcast
+    self.d_broadcastPosHpr()
+ValueError: Node position out of range for DC file: render/Master Cool Cat-100000070 pos = -57342.3 57183 0.0376958 hpr = 71.4066 0 0 zoneId = 0

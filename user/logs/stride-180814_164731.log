@@ -1,0 +1,98 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1B720BC0>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2100.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Exception occurred while processing Func-wrtReparentTo-10216 of Sequence-13077:
+Sequence-13077:
+  0.000 Sequence-13077 {
+  0.000   Sequence-13075 {
+  0.000     Wait dur 0.5
+  0.500     LerpPosInterval-13976: pos from 0 14 4 to 0 14 3.8 dur 0.5
+  1.000     LerpPosInterval-13977: pos from 0 14 3.8 to 0 14 4 dur 0.5
+  1.500     Wait dur 1
+  2.500     LerpPosInterval-13978: pos from 0 14 4 to 0 14 4.2 dur 0.5
+  3.000     LerpPosInterval-13979: pos from 0 14 4.2 to 0 14 4 dur 1
+  4.000   }
+  4.000   Parallel-13076 {
+  4.000     *Sound-1343 dur 2.06367
+  4.000     leftDoorOpen-401014440: pos from 3.5 0 0 to 0 0 0 dur 2
+  4.000     rightDoorOpen-401014440: pos from -3.5 0 0 to 0 0 0 dur 2
+  6.064   }
+  6.064   *Func-wrtReparentTo-10215
+  6.064   *Func-wrtReparentTo-10216
+  6.064   *Func-wrtReparentTo-10217
+  6.064   *Func-wrtReparentTo-10218
+  6.064   *Func-wrtReparentTo-10219
+  6.064   *Func-__handleElevatorDone-10220
+  6.064 }
+
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 1829, in __ivalLoop
+    IntervalManager.ivalMgr.step()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 94, in step
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 117, in __doPythonCallbacks
+    ival.privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "toontown\toon\DistributedToon.py", line 591, in wrtReparentTo
+    DistributedSmoothNode.DistributedSmoothNode.wrtReparentTo(self, parent)
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedSmoothNode.py", line 424, in wrtReparentTo
+    NodePath.wrtReparentTo(self, parent)
+AssertionError: !is_empty() at line 575 of panda/src/pgraph/nodePath.cxx
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 1829, in __ivalLoop
+    IntervalManager.ivalMgr.step()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 94, in step
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 117, in __doPythonCallbacks
+    ival.privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "toontown\toon\DistributedToon.py", line 591, in wrtReparentTo
+    DistributedSmoothNode.DistributedSmoothNode.wrtReparentTo(self, parent)
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedSmoothNode.py", line 424, in wrtReparentTo
+    NodePath.wrtReparentTo(self, parent)
+AssertionError: !is_empty() at line 575 of panda/src/pgraph/nodePath.cxx

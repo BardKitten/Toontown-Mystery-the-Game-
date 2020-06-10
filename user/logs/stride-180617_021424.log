@@ -1,0 +1,189 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1D079B48>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+hit! 0.471355885267
+hit! 0.525249481201
+--not hard enough: -0.0375871993601
+--not hard enough: 0.0422982089221
+hit! 0.714322030544
+hit! 0.81872355938
+hit! 0.883851528168
+hit! 0.600549399853
+--not hard enough: -0.0964849516749
+hit! 0.678401052952
+hit! 0.462467700243
+hit! 0.972202599049
+hit! 0.65566277504
+hit! 0.583265781403
+hit! 0.844539165497
+--not hard enough: 0.0743736103177
+hit! 0.998220443726
+--not hard enough: -0.35191488266
+hit! 0.724959850311
+hit! 0.397079586983
+hit! 0.935395002365
+hit! 0.759027779102
+hit! 0.969204723835
+--not hard enough: -0.565828561783
+--not hard enough: 0.359440028667
+hit! 0.848739564419
+hit! 0.971887052059
+hit! 0.494288682938
+hit! 0.706391572952
+hit! 0.463947236538
+--not hard enough: -0.173822790384
+hit! 0.915442347527
+hit! 0.983228802681
+hit! 0.987810611725
+hit! 0.184165179729
+hit! 0.946315705776
+hit! 0.992617309093
+hit! 0.711299955845
+hit! 0.810716927052
+hit! 0.546784579754
+hit! 0.628020346165
+hit! 0.697331190109
+hit! 0.928380787373
+hit! 0.522608757019
+hit! 0.830498039722
+hit! 0.323217242956
+hit! 0.586193084717
+hit! 0.766419351101
+hit! 0.170084506273
+hit! 0.959512889385
+--not hard enough: 0.0653324648738
+--not hard enough: -0.713133513927
+hit! 0.906300127506
+hit! 0.736310660839
+hit! 0.832047522068
+hit! 0.642763137817
+hit! 0.609668195248
+hit! 0.271773785353
+hit! 0.87009704113
+hit! 0.930046617985
+hit! 0.969434082508
+hit! 0.860802352428
+hit! 0.913214445114
+hit! 0.513996481895
+hit! 0.975750744343
+hit! 0.810205340385
+hit! 0.422815382481
+hit! 0.687617123127
+hit! 0.997986853123
+hit! 0.857873082161
+hit! 0.477544605732
+hit! 0.914055585861
+hit! 0.846575379372
+hit! 0.362566113472
+hit! 0.590678155422
+--not hard enough: 0.0285843387246
+hit! 0.756468176842
+hit! 0.898574411869
+hit! 0.912770271301
+hit! 0.782372713089
+hit! 0.526557505131
+hit! 0.352566897869
+hit! 0.619914472103
+hit! 0.943832218647
+hit! 0.784316658974
+hit! 0.712711334229
+hit! 0.804496228695
+hit! 0.782369911671
+hit! 0.918360352516
+hit! 0.964177846909
+hit! 0.903472065926
+hit! 0.985452234745
+hit! 0.668576180935
+hit! 0.656264483929
+hit! 0.362017542124
+hit! 0.870576024055
+hit! 0.984783649445
+hit! 0.430533885956
+hit! 0.988036751747
+--not hard enough: -0.103297658265
+hit! 0.949657917023
+hit! 0.978375196457
+hit! 0.902473270893
+hit! 0.743734896183
+hit! 0.704648375511
+hit! 0.941578865051
+hit! 0.912506639957
+--not hard enough: -0.702046215534
+hit! 0.698317706585
+hit! 0.887131333351
+hit! 0.713560938835
+hit! 0.943117499352
+hit! 0.686131775379
+hit! 0.572572827339
+hit! 0.526838302612
+hit! 0.267726570368
+hit! 0.834582388401
+hit! 0.949912846088
+hit! 0.906428992748
+hit! 0.958405613899
+--not hard enough: -0.322344303131
+hit! 0.890283644199
+hit! 0.692837417126
+hit! 0.59688192606
+hit! 0.986526489258
+hit! 0.807405650616
+hit! 0.996597230434
+hit! 0.933928310871
+hit! 0.898698985577
+--not hard enough: 0.343411415815
+--not hard enough: -0.145855113864
+--not hard enough: -0.239415615797
+--not hard enough: -0.0464801490307
+--not hard enough: -0.66082316637
+hit! 0.696966052055
+hit! 0.929489910603
+hit! 0.752124965191
+hit! 0.912241756916
+hit! 0.8084602952
+hit! 0.942591547966
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2

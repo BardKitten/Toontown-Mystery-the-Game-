@@ -1,0 +1,430 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1D075BE8>}
+__handleAvatarChooserDone: 100000070, 'Master Cool Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10037, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10661, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10660, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(0, 11, 1.5)
+### newVec3 =  LVector3f(0, 11, 0)
+### newVec3 =  LVector3f(0, 11, 0.375)
+### newVec3 =  LVector3f(0, 11, 0)
+spec = {'parentEntId': 20058, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10662, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10663, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10663, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10663, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10663, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+chooseFireOpenShot <function allGroupLowShot at 0x182C6870>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x182C70B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function allGroupLowShot at 0x182C6870>
+chooseFireOpenShot <function allGroupLowShot at 0x182C6870>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x182C6AF0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x182C70B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(0, 6, 1.5)
+### newVec3 =  LVector3f(0, 6, 0)
+### newVec3 =  LVector3f(0, 6, 0.375)
+### newVec3 =  LVector3f(0, 6, 0)
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Laser Field initCollisionGeom
+Laser Field initCollisionGeom
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007167/ZoneEntity-0/-PandaNode/LB_Zone03a_egg/Collsion/stageFloorColl0 []
+  at 2 -10.9125 -0.0296576
+  normal -0.000961985 0.000458579 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007167/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at 2 39.2734 0.457794
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007167/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at 2 43.5205 -0.0477905
+  normal 0.000133877 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007167/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at 0.472001 51.5364 4.95152
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007167/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl2 []
+  at 31.8042 112.355 4.95338
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007167/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -39.3672 180.708 12.6209
+  normal 0 0.000133877 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007167/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -40.7271 180.411 12.6988
+  normal 0.421613 9.26799e-005 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007167/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -43.6124 179.938 12.621
+  normal 0 0.000133877 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007167/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -54.0716 181.061 17.6199
+  normal 0 6.5559e-005 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007167/ZoneEntity-0/-PandaNode/LB_Zone04a_egg/Z04/collision_lobby/stageFloorColl4 []
+  at -114.259 212.787 17.619
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 100022, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2.00002, 5.3, 1.5)
+### newVec3 =  LVector3f(2.00002, 5.3, 0)
+### newVec3 =  LVector3f(2.00002, 5.3, 0.375)
+### newVec3 =  LVector3f(2.00002, 5.3, 0)
+### newVec3 =  LVector3f(2.00002, 5.3, 1.5)
+### newVec3 =  LVector3f(2.00002, 5.3, 0)
+### newVec3 =  LVector3f(2.00002, 5.3, 0.375)
+### newVec3 =  LVector3f(2.00002, 5.3, 0)
+spec = {'parentEntId': 100020, 'pos': LPoint3f(0, 0, 0)}
+h = None
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x182C6B30>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x182C70F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Laser Field initCollisionGeom
+Laser Field initCollisionGeom
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007847/ZoneEntity-0/-PandaNode/LB_Zone03a_egg/Collsion/stageFloorColl0 []
+  at -1 -10.9125 -0.0325437
+  normal -0.000961985 0.000458579 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007847/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at -1 43.2505 -0.0473881
+  normal 0.000133877 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007847/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at -4.76659 58.4128 4.95186
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007847/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl2 []
+  at 25.6225 112.621 4.95161
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 100020, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007847/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -98.9274 203.78 17.6218
+  normal 0 -0.00029707 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007847/ZoneEntity-0/-PandaNode/LB_Zone04a_egg/Z04/collision_lobby/stageFloorColl4 []
+  at -114.924 209.821 17.619
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 100022, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007847/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -249.253 208.474 17.6267
+  normal 0 -0.0012142 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007847/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -251.559 208.11 18.2954
+  normal 0.420737 -0.00110176 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007847/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -263.05 206.295 22.616
+  normal 0.000218784 -0.000597282 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007847/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl6 []
+  at -326.522 176.864 22.6082
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007847/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at -592.807 175.652 22.6232
+  normal 0 -0.0012142 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007847/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at -595.278 175.435 22.9668
+  normal 0.420737 -0.00110176 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007847/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at -607.414 177.997 27.617
+  normal 0.000218784 -0.000597282 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401007847/ZoneEntity-0/-PandaNode/Z22a/room/collsion/stageFloorColl8 []
+  at -669.804 149.83 27.4877
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(1.99997, 6.29987, 1.5)
+### newVec3 =  LVector3f(1.99997, 6.29987, 0)
+### newVec3 =  LVector3f(1.99997, 6.29987, 0.375)
+### newVec3 =  LVector3f(1.99997, 6.29987, 0)
+Laser Field initCollisionGeom
+Laser Field initCollisionGeom
+CollisionEntry:
+  from render/Master Cool Cat-100000070/camFloorRayNode/ccRay2Node
+  into render/stage401008307/ZoneEntity-0/-PandaNode/LB_Zone03a_egg/Collsion/stageFloorColl0 []
+  at -1 -6.9125 -0.0343778
+  normal -0.000961985 0.000458579 0.999999
+  respect_prev_transform = 0
+
+
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1224, in handleDatagram
+    self.handler(msgType, di)
+  File "toontown\hood\QuietZoneState.py", line 153, in handleWaitForQuietZoneResponse
+    base.cr.handlePlayGame(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1024, in handlePlayGame
+    self.handleDelete(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 900, in handleDelete
+    self.deleteObject(doId)
+  File "toontown\distributed\ToontownClientRepository.py", line 906, in deleteObject
+    obj.deleteOrDelay()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 199, in deleteOrDelay
+    self.disableAnnounceAndDelete()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 202, in disableAnnounceAndDelete
+    self.disableAndAnnounce()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 228, in disableAndAnnounce
+    self.disable()
+  File "toontown\coghq\DistributedStageRoom.py", line 168, in disable
+    DistributedLevel.DistributedLevel.disable(self)
+  File "otp\level\DistributedLevel.py", line 188, in disable
+    self.destroyLevel()
+  File "otp\level\Level.py", line 42, in destroyLevel
+    self.destroyAllEntities()
+  File "otp\level\Level.py", line 87, in destroyAllEntities
+    entity.destroy()
+  File "otp\level\ZoneEntity.py", line 17, in destroy
+    ZoneEntityBase.ZoneEntityBase.destroy(self)
+  File "otp\level\ZoneEntityBase.py", line 13, in destroy
+    Entity.Entity.destroy(self)
+  File "otp\level\Entity.py", line 33, in destroy
+    self.level.onEntityDestroy(self.entId)
+  File "otp\level\Level.py", line 213, in onEntityDestroy
+    messenger.send(self.getEntityDestroyEvent(entId))
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.10.0\direct\showbase\PythonUtil.py", line 93, in _do__call__
+    return self._function(*(self._args + args), **_kargs)
+  File "otp\level\LevelMgr.py", line 38, in handleZoneDestroy
+    self.privAssignZoneIds()
+  File "otp\level\LevelMgr.py", line 45, in privAssignZoneIds
+    zoneId = self.level.zoneIds[i]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1224, in handleDatagram
+    self.handler(msgType, di)
+  File "toontown\hood\QuietZoneState.py", line 153, in handleWaitForQuietZoneResponse
+    base.cr.handlePlayGame(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1024, in handlePlayGame
+    self.handleDelete(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 900, in handleDelete
+    self.deleteObject(doId)
+  File "toontown\distributed\ToontownClientRepository.py", line 906, in deleteObject
+    obj.deleteOrDelay()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 199, in deleteOrDelay
+    self.disableAnnounceAndDelete()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 202, in disableAnnounceAndDelete
+    self.disableAndAnnounce()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 228, in disableAndAnnounce
+    self.disable()
+  File "toontown\coghq\DistributedStageRoom.py", line 168, in disable
+    DistributedLevel.DistributedLevel.disable(self)
+  File "otp\level\DistributedLevel.py", line 188, in disable
+    self.destroyLevel()
+  File "otp\level\Level.py", line 42, in destroyLevel
+    self.destroyAllEntities()
+  File "otp\level\Level.py", line 87, in destroyAllEntities
+    entity.destroy()
+  File "otp\level\ZoneEntity.py", line 17, in destroy
+    ZoneEntityBase.ZoneEntityBase.destroy(self)
+  File "otp\level\ZoneEntityBase.py", line 13, in destroy
+    Entity.Entity.destroy(self)
+  File "otp\level\Entity.py", line 33, in destroy
+    self.level.onEntityDestroy(self.entId)
+  File "otp\level\Level.py", line 213, in onEntityDestroy
+    messenger.send(self.getEntityDestroyEvent(entId))
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.10.0\direct\showbase\PythonUtil.py", line 93, in _do__call__
+    return self._function(*(self._args + args), **_kargs)
+  File "otp\level\LevelMgr.py", line 38, in handleZoneDestroy
+    self.privAssignZoneIds()
+  File "otp\level\LevelMgr.py", line 45, in privAssignZoneIds
+    zoneId = self.level.zoneIds[i]
+IndexError: list index out of range

@@ -1,0 +1,111 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x199B0760>}
+__handleAvatarChooserDone: 100000015, 'Super Bear', ('bss', 'ms', 's', 'm', (0.64, 0.35, 0.26, 1.0), (1.0, 1.0, 1.0, 1.0), (0.64, 0.35, 0.26, 1.0), (0.64, 0.35, 0.26, 1.0), 111, 27, 98, 27, 7, 10), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x154BA730>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x154BACB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x154BA6F0>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x154BACB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarBehindShot at 0x154BA870>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x154BACB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(2, 5.3, 1.5)
+### newVec3 =  LVector3f(2, 5.3, 0)
+### newVec3 =  LVector3f(2, 5.3, 0.375)
+### newVec3 =  LVector3f(2, 5.3, 0)
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x154BA730>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x154BA5F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x154BA730>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x154BACB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\coghq\DistributedCashbotBossCrane.py", line 672, in __hitTrigger
+    self.d_requestControl()
+  File "toontown\coghq\DistributedCashbotBossCrane.py", line 690, in d_requestControl
+    self.sendUpdate('requestControl')
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 362, in sendUpdate
+    assert self.notify.error("sendUpdate failed, because self.cr is not set")
+  File "C:\Panda3D-1.10.0\direct\directnotify\Notifier.py", line 130, in error
+    raise exception(errorString)
+StandardError: sendUpdate failed, because self.cr is not set
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\coghq\DistributedCashbotBossCrane.py", line 672, in __hitTrigger
+    self.d_requestControl()
+  File "toontown\coghq\DistributedCashbotBossCrane.py", line 690, in d_requestControl
+    self.sendUpdate('requestControl')
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 362, in sendUpdate
+    assert self.notify.error("sendUpdate failed, because self.cr is not set")
+  File "C:\Panda3D-1.10.0\direct\directnotify\Notifier.py", line 130, in error
+    raise exception(errorString)
+StandardError: sendUpdate failed, because self.cr is not set

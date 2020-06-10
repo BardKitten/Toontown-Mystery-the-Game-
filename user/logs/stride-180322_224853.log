@@ -1,0 +1,102 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1A9B2328>}
+__handleAvatarChooserDone: 100000025, 'Lily', ('csl', 'md', 's', 'f', (0.89, 0.61, 0.9, 1.0), (1.0, 1.0, 1.0, 1.0), (0.89, 0.61, 0.9, 1.0), (0.89, 0.61, 0.9, 1.0), 99, 26, 0, 26, 0, 8), 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x164E2C70>
+chooseFireOpenShot <function allGroupLowShot at 0x164E29B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+hit! 0.325675010681
+hit! 0.40960508585
+hit! 0.93639010191
+--not hard enough: 0.394229769707
+--not hard enough: -8.1252636619e-08
+hit! 0.87229269743
+hit! 0.925504863262
+hit! 0.929055094719
+hit! 0.828101098537
+--not hard enough: -0.156430050731
+hit! 0.600145101547
+hit! 0.340585589409
+hit! 0.941174387932
+hit! 0.947074532509
+hit! 0.716019570827
+hit! 0.766063868999
+hit! 0.937567770481
+hit! 0.621761500835
+hit! 0.872610330582
+--not hard enough: 0.00654960935935
+hit! 0.639942526817
+hit! 0.309362560511
+hit! 0.887428820133
+hit! 0.979159891605
+hit! 0.87020534277
+hit! 0.494337171316
+hit! 0.889202833176
+hit! 0.751233100891
+hit! 0.978670418262
+hit! 0.910470485687
+hit! 0.251506716013
+hit! 0.948236525059
+hit! 0.985392451286
+hit! 0.977679789066
+hit! 0.978248417377
+hit! 0.546060144901
+hit! 0.980160832405
+hit! 0.187595978379
+hit! 0.919713914394
+hit! 0.930473148823
+hit! 0.661785542965
+hit! 0.791709721088
+hit! 0.909781515598
+hit! 0.879795908928
+hit! 0.918273985386
+hit! 0.566285610199
+hit! 0.728454470634
+hit! 0.936700940132
+hit! 0.966162502766
+hit! 0.945441305637
+hit! 0.98545050621
+hit! 0.746211230755
+hit! 0.80995452404
+--not hard enough: -0.0720566883683
+--not hard enough: -0.140889927745
+hit! 0.907193660736
+--not hard enough: 0.496244192123
+hit! 0.942284762859
+hit! 0.455224573612
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')
+(100000017, 'Reward Panel received an invalid hasUber from an uberList')

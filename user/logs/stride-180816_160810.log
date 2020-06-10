@@ -1,0 +1,286 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1C010BC0>}
+__handleAvatarChooserDone: 100000097, 'Captain Skip', ('fsl', 'ls', 's', 'm', (0.8, 0.49, 0.19, 1.0), (1.0, 1.0, 1.0, 1.0), (0.8, 0.49, 0.19, 1.0), (0.8, 0.49, 0.19, 1.0), 14, 12, 10, 12, 7, 10), 5
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_DD.pdna
+Reading DNA file... phase_6/dna/storage_DD_sz.pdna
+Reading DNA file... phase_6/dna/donalds_dock_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_6/dna/storage_DD_town.pdna
+Reading DNA file... phase_6/dna/donalds_dock_1200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_6/dna/storage_DD_town.pdna
+Reading DNA file... phase_6/dna/donalds_dock_1200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_6/dna/storage_DD_town.pdna
+Reading DNA file... phase_6/dna/donalds_dock_1200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_6/dna/storage_DD_town.pdna
+Reading DNA file... phase_6/dna/donalds_dock_1200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_6/dna/storage_DD_town.pdna
+Reading DNA file... phase_6/dna/donalds_dock_1200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_6/dna/storage_DD_town.pdna
+Reading DNA file... phase_6/dna/donalds_dock_1200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_6/dna/storage_DD_town.pdna
+Reading DNA file... phase_6/dna/donalds_dock_1200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_6/dna/storage_DD_town.pdna
+Reading DNA file... phase_6/dna/donalds_dock_1200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10037, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 20058, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function allGroupLowShot at 0x17B89870>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x17B8A0B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+hit! 0.701567649841
+hit! 0.927452504635
+hit! 0.956662416458
+hit! 0.553502082825
+--not hard enough: -0.450273931026
+hit! 0.310566991568
+hit! 0.986513078213
+hit! 0.868323087692
+hit! 0.765653610229
+hit! 0.429728299379
+hit! 0.696607291698
+hit! 0.517070114613
+hit! 0.527696788311
+--not hard enough: -0.20918302238
+hit! 0.79976952076
+hit! 0.875918924809
+--not hard enough: -0.595606029034
+hit! 0.988090872765
+hit! 0.863382458687
+hit! 0.81737434864
+--not hard enough: 0.00784970074892
+hit! 0.989406764507
+hit! 0.968677461147
+hit! 0.833053410053
+hit! 0.958791673183
+hit! 0.329838097095
+hit! 0.99782127142
+hit! 0.930756747723
+hit! 0.516354739666
+hit! 0.401310831308
+hit! 0.852112293243
+hit! 0.809234380722
+hit! 0.984878718853
+hit! 0.888534963131
+hit! 0.968477189541
+hit! 0.79873073101
+hit! 0.877060592175
+hit! 0.853032410145
+hit! 0.129933655262
+hit! 0.691186904907
+hit! 0.965358555317
+hit! 0.924541056156
+--not hard enough: -0.022302724421
+hit! 0.95100235939
+hit! 0.824358582497
+hit! 0.846259057522
+hit! 0.774707436562
+hit! 0.767243981361
+hit! 0.384031891823
+hit! 0.984448492527
+hit! 0.633322954178
+hit! 0.745665311813
+hit! 0.954307436943
+hit! 0.990306377411
+--not hard enough: -0.908279836178
+hit! 0.655095636845
+hit! 0.565849125385
+hit! 0.96913164854
+hit! 0.466007232666
+hit! 0.425036609173
+hit! 0.864764332771
+hit! 0.989819765091
+hit! 0.38562810421
+hit! 0.706810712814
+hit! 0.838277995586
+hit! 0.757420599461
+hit! 0.937598049641
+hit! 0.976786613464
+hit! 0.892594337463
+hit! 0.32355633378
+hit! 0.418520003557
+hit! 0.564293503761
+hit! 0.919237494469
+hit! 0.820083498955
+hit! 0.820404291153
+hit! 0.845979213715
+--not hard enough: -0.123552650213
+hit! 0.835831344128
+--not hard enough: 0.377922832966
+hit! 0.542461752892
+--not hard enough: -0.0594324804842
+hit! 0.971282184124
+hit! 0.912980139256
+hit! 0.220918312669
+hit! 0.775497078896
+hit! 0.676633179188
+hit! 0.844859480858
+hit! 0.884001195431
+hit! 0.880082428455
+hit! 0.96020424366
+hit! 0.998903810978
+hit! 0.965972781181
+hit! 0.957004249096
+hit! 0.919467747211
+hit! 0.96557444334
+hit! 0.984542787075
+hit! 0.995353937149
+hit! 0.991467297077
+hit! 0.98551428318
+hit! 0.646978855133
+hit! 0.989312589169
+hit! 0.993671417236
+hit! 0.738694965839
+hit! 0.349899917841
+hit! 0.90531206131
+hit! 0.643256664276
+hit! 0.813659131527
+hit! 0.969912171364
+hit! 0.876966118813
+hit! 0.424279421568
+hit! 0.927537560463
+hit! 0.745772719383
+hit! 0.68016898632
+hit! 0.913394212723
+hit! 0.117428503931
+hit! 0.729566812515
+--not hard enough: -0.325892180204
+hit! 0.804986655712
+hit! 0.896329939365
+hit! 0.748531877995
+hit! 0.935085475445
+--not hard enough: -0.636589050293
+hit! 0.860273241997
+hit! 0.959484875202
+hit! 0.384231001139
+hit! 0.286633074284
+hit! 0.936887979507
+--not hard enough: -0.415393024683
+--not hard enough: 0.497824877501
+hit! 0.729066848755
+--not hard enough: -0.466086745262
+hit! 0.877989411354
+hit! 0.831092178822
+hit! 0.375717759132
+hit! 0.950206160545
+hit! 0.515987217426
+hit! 0.728878736496
+hit! 0.861706137657
+hit! 0.394502729177
+hit! 0.882341742516
+hit! 0.618838608265
+hit! 0.806389570236
