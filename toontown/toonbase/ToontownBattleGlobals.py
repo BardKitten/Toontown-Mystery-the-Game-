@@ -101,13 +101,13 @@ AvPropStringsPlural = TTLocalizer.BattleGlobalAvPropStringsPlural
 AvPropAccuracy = (
  (60, 60, 60, 60, 60, 60, 60),
  (0, 0, 0, 0, 0, 0, 0),
- (40, 45, 50, 55, 60, 65, 70),
- (65, 70, 75, 80, 85, 90, 95),
- (50, 55, 60, 65, 70, 75, 80),
  (60, 65, 70, 75, 80, 85, 90),
- (30, 35, 40, 45, 50, 55, 60)
+ (95, 95, 95, 95, 95, 95, 95),
+ (80, 80, 80, 80, 80, 80, 80),
+ (90, 90, 90, 90, 90, 90, 90),
+ (60, 60, 60, 60, 60, 60, 60)
 )
-AvLureBonusAccuracy = (60, 65, 70, 75, 80, 85, 90)
+AvLureBonusAccuracy = (75, 70, 75, 80, 85, 90, 95)
 AvTrackAccStrings = TTLocalizer.BattleGlobalAvTrackAccStrings
 AvPropDamage = (
  ( # Toon-up
@@ -230,7 +230,7 @@ def getFactoryCreditMultiplier(factoryId):
 
 
 def getFactoryMeritMultiplier(factoryId):
-    return 6.0
+    return 4.0
 
 
 def getMintCreditMultiplier(mintId):
