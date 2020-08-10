@@ -121,7 +121,7 @@ tw = (('throw-paper', 'throw-paper', 5),
  ('magic2', 'magic2', 5),
  ('finger-wag', 'finger-wag', 5))
 bc = (('phone', 'phone', 5), ('roll-o-dex', 'roll-o-dex', 5))
-nc = (('phone', 'phone', 3.5), ('glower', 'glower', 5), ('magic1', 'magic1', 5),  ('throw-paper', 'throw-paper', 3.5))
+nc = (('phone', 'phone', 3.5), ('glower', 'glower', 5), ('magic1', 'magic1', 5), ('throw-object', 'throw-object', 3.5),  ('throw-paper', 'throw-paper', 3.5))
 mb = (('pickpocket', 'pickpocket', 5), ('magic1', 'magic1', 5), ('golf-club-swing', 'golf-club-swing', 5))
 ls = (('throw-paper', 'throw-paper', 3.5), ('magic1', 'magic1', 5), ('magic2', 'magic2', 5), ('phone', 'phone', 3.5))
 rb = (('pickpocket', 'pickpocket', 5), ('cigar-smoke', 'cigar-smoke', 8), ('magic1', 'magic1', 5), ('song-and-dance', 'song-and-dance', 8))
