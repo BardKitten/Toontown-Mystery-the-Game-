@@ -118,7 +118,7 @@ mh = (('magic1', 'magic1', 5),
  ('smile', 'smile', 5),
  ('song-and-dance', 'song-and-dance', 8))
 sc = (('throw-paper', 'throw-paper', 3.5), ('watercooler', 'watercooler', 5), ('pickpocket', 'pickpocket', 5))
-pp = (('throw-paper', 'throw-paper', 5), ('effort', 'effort', 5), ('finger-wag', 'finger-wag', 5))
+pp = (('throw-paper', 'throw-paper', 5), ('throw-object', 'throw-object', 5), ('effort', 'effort', 5), ('finger-wag', 'finger-wag', 5))
 tw = (('throw-paper', 'throw-paper', 5),
  ('glower', 'glower', 5),
  ('smile', 'smile', 5),
