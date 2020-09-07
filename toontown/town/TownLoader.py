@@ -23,6 +23,15 @@ from toontown.dna.DNAParser import DNABulkLoader
 
 class TownLoader(StateData.StateData):
     notify = DirectNotifyGlobal.directNotify.newCategory('TownLoader')
+	    
+    zone2music = {
+        ToontownCentral : 'phase_9/audio/bgm/encntr_suit_ttc.mp3',
+	    DonaldsDock : 'phase_9/audio/bgm/encntr_suit_dd.mp3',
+        DaisyGardens : 'phase_9/audio/bgm/encntr_suit_dg.mp3',
+        MinniesMelodyland : 'phase_9/audio/bgm/encntr_suit_mml.mp3',
+        TheBrrrgh : 'phase_9/audio/bgm/encntr_suit_tb.mp3',
+        DonaldsDreamland : 'phase_9/audio/bgm/encntr_suit_ddl.mp3'
+    }
 
     def __init__(self, hood, parentFSMState, doneEvent):
         StateData.StateData.__init__(self, doneEvent)
@@ -53,7 +62,7 @@ class TownLoader(StateData.StateData):
         self.canonicalBranchZone = ZoneUtil.getCanonicalBranchZone(zoneId)
         self.music = base.loadMusic(self.musicFile)
         self.activityMusic = base.loadMusic(self.activityMusicFile)
-        self.battleMusic = base.loadMusic('phase_3.5/audio/bgm/encntr_general_bg_indoor.mp3')
+        self.battleMusic = base.loadMusic(self.zone2music.get(ZoneUtil.getHoodId(zoneId), 'phase_3.5/audio/bgm/encntr_general_bg.mp3'))#'phase_3.5/audio/bgm/encntr_general_bg.ogg'))
         self.townBattle = TownBattle.TownBattle(self.townBattleDoneEvent)
         self.townBattle.load()
 

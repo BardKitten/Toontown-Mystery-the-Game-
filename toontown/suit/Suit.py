@@ -62,16 +62,18 @@ mm = (('stomp', 'stomp', 5),
 ds = (('magic1', 'magic1', 5),
  ('magic2', 'magic2', 5),
  ('throw-paper', 'throw-paper', 5),
+ ('throw-object', 'throw-object', 5),
  ('magic3', 'magic3', 5))
 hh = (('quick-jump', 'jump', 6),
  ('effort', 'effort', 5),
  ('magic2', 'magic2', 5),
  ('stomp', 'stomp', 5),
+ ('speak', 'speak', 5),
  ('finger-wag', 'finger-wag', 5),
  ('magic3', 'magic3', 5),
  ('throw-object', 'throw-object', 5),
  ('throw-paper', 'throw-paper', 5))
-cr = (('pickpocket', 'pickpocket', 5), ('throw-paper', 'throw-paper', 5), ('glower', 'glower', 5))
+cr = (('pickpocket', 'pickpocket', 5), ('magic1', 'magic1', 5), ('throw-paper', 'throw-paper', 5), ('glower', 'glower', 5))
 tbc = (('cigar-smoke', 'cigar-smoke', 8),
  ('glower', 'glower', 5),
  ('magic1', 'magic1', 5),
@@ -80,6 +82,7 @@ tbc = (('cigar-smoke', 'cigar-smoke', 8),
 cc = (('speak', 'speak', 5),
  ('glower', 'glower', 5),
  ('phone', 'phone', 3.5),
+ ('magic2', 'magic2', 5),
  ('stomp', 'stomp', 5))
 tm = (('speak', 'speak', 5),
  ('stomp', 'stomp', 5),
@@ -90,7 +93,7 @@ nd = (('smile', 'smile', 5),
  ('magic1', 'magic1', 5),
  ('smile', 'smile', 5),
  ('magic2', 'magic2', 5))
-gh = (('speak', 'speak', 5), ('magic2', 'magic2', 5), ('stomp', 'stomp', 5), ('throw-paper', 'throw-paper', 5))
+gh = (('speak', 'speak', 5), ('roll-o-dex', 'roll-o-dex', 5), ('magic2', 'magic2', 5), ('stomp', 'stomp', 5), ('throw-paper', 'throw-paper', 5))
 ms = (('smile', 'smile', 5),
  ('throw-object', 'throw-object', 5),
  ('throw-paper', 'throw-paper', 5),
@@ -101,12 +104,13 @@ tf = (('smile', 'smile', 5),
  ('magic1', 'magic1', 5),
  ('throw-paper', 'throw-paper', 5),
  ('throw-object', 'throw-object', 5),
- ('glower', 'glower', 5),
+ ('magic3', 'magic3', 5),
  ('phone', 'phone', 5))
 m = (('speak', 'speak', 5),
  ('magic1', 'magic1', 5),
  ('smile', 'smile', 5),
  ('magic2', 'magic2', 5),
+ ('throw-paper', 'throw-paper', 5),
  ('throw-object', 'throw-object', 5))
 mh = (('magic1', 'magic1', 5),
  ('throw-paper', 'throw-paper', 5),
@@ -158,6 +162,8 @@ le = (('speak', 'speak', 5),
 bw = (('magic1', 'magic1', 5),
  ('song-and-dance', 'song-and-dance', 8),
  ('cigar-smoke', 'cigar-smoke', 8),
+ ('throw-object', 'throw-object', 5),
+ ('throw-paper', 'throw-paper', 5),
  ('magic3', 'magic3', 5),
  ('smile', 'smile', 5),
  ('throw-paper', 'throw-paper', 5))
@@ -248,7 +254,7 @@ def loadDialog(level):
          'COG_VO_question',
          'COG_VO_exclaim']
         for file in SuitDialogFiles:
-            SuitDialogArray.append(base.loadSfx(loadPath + file + '.ogg'))
+            SuitDialogArray.append(base.loadSfx(loadPath + file + '.mp3'))
 
         SuitDialogArray.append(SuitDialogArray[2])
 
