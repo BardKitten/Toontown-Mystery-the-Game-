@@ -140,6 +140,7 @@ b = (('effort', 'effort', 5),
  ('finger-wag', 'finger-wag', 5))
 dt = (('rubber-stamp', 'rubber-stamp', 5),
  ('throw-paper', 'throw-paper', 5),
+ ('throw-object', 'throw-object', 5),
  ('speak', 'speak', 5),
  ('magic2', 'magic2', 5),
  ('roll-o-dex', 'roll-o-dex', 5))
