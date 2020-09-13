@@ -1,0 +1,15 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\python\lib\runpy.py", line 162, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "C:\Panda3D-1.10.0\python\lib\runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "C:\Users\Cool Cat\Documents\GitHub\Toontown-Mystery-the-Game-\toontown\toonbase\ToontownStart.py", line 171, in <module>
+    from toontown.suit import Suit
+  File "toontown\suit\Suit.py", line 5, in <module>
+    from toontown.battle import SuitBattleGlobals
+  File "toontown\battle\SuitBattleGlobals.py", line 209
+    90),
+      ^
+SyntaxError: invalid syntax

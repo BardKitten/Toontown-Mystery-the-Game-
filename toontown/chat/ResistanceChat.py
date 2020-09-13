@@ -29,15 +29,15 @@ resistanceDict = {
         'menuName': TTLocalizer.ResistanceToonupMenu,
         'itemText': TTLocalizer.ResistanceToonupItem,
         'chatText': TTLocalizer.ResistanceToonupChat,
-        'values': [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190, 200, -1],
-        'items': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+        'values': [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, -1],
+        'items': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     },
     RESISTANCE_MONEY: {
         'menuName': TTLocalizer.ResistanceMoneyMenu,
         'itemText': TTLocalizer.ResistanceMoneyItem,
         'chatText': TTLocalizer.ResistanceMoneyChat,
-        'values': [100, 200, 350, 600, 1200, 2400],
-        'items': [0, 1, 2, 3, 4, 5]
+        'values': [100, 200, 350, 600],
+        'items': [0, 1, 2, 3]
     },
     RESISTANCE_RESTOCK: {
         'menuName': TTLocalizer.ResistanceRestockMenu,
@@ -77,8 +77,8 @@ resistanceDict = {
         'menuName': TTLocalizer.ResistanceTicketsMenu,
         'itemText': TTLocalizer.ResistanceTicketsItem,
         'chatText': TTLocalizer.ResistanceTicketsChat,
-        'values': [200, 400, 600, 800, 1200],
-        'items': [0, 1, 2, 3, 4]
+        'values': [200, 400, 600],
+        'items': [0, 1, 2]
     }
 }
 
@@ -103,7 +103,7 @@ def validateId(textId):
         return 0
     if itemIndex >= len(resistanceDict[menuIndex]['values']):
         return 0
-    return 1
+    return 3
 
 
 def getItems(menuIndex):

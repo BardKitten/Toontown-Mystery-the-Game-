@@ -560,12 +560,12 @@ TheBrrrghTrackQuestDict = {GREETING: '',
 QuestDialog_3225 = {QUEST: "Oh, thanks for coming, _avName_!\x07The Cogs in the neighborhood frightened away my delivery person.\x07I don't have anyone to deliver this salad to _toNpcName_!\x07Can you do it for me? Thanks so much!_where_"}
 QuestDialog_2910 = {QUEST: 'Back so soon?\x07Great job on the spring.\x07The final item is a counter weight.\x07Stop by and see _toNpcName_ and bring back whatever you can get._where_'}
 QuestDialogDict = {
- 120: {QUEST: "Good job finding the trolley!\x07By the way, have you met Banker Bob?\x07He has quite a sweet tooth.\x07Why don't you introduce yourself by taking him this candy bar as a gift._where_"},
- 121: {QUEST: "Yum, thank you for the Candy Bar.\x07Say, if you can help me, I'll give you a reward.\x07Those Cogs stole the keys to my safe. Defeat Cogs to find a stolen key.\x07When you find a key, bring it back to me."},
- 130: {QUEST: 'Good job finding the trolley!\x07By the way, I received a package for Professor Pete today.\x07It must be his new chalk he ordered.\x07Can you please take it to him?_where_'},
- 131: {QUEST: 'Oh, thanks for the chalk.\x07What?!?\x07Those Cogs stole my blackboard. Defeat Cogs to find my stolen blackboard.\x07When you find it, bring it back to me.'},
- 140: {QUEST: 'Good job finding the trolley!\x07By the way, I have this friend, Librarian Larry, who is quite a book worm.\x07I picked this book up for him last time I was over in ' + lDonaldsDock + '.\x07Could you take it over to him?_where_'},
- 141: {QUEST: 'Oh, yes, this book almost completes my collection.\x07Let me see...\x07Uh oh...\x07Now where did I put my glasses?\x07I had them just before those Cogs took over my building.\x07Defeat Cogs to find my stolen glasses.'},
+ 120: {QUEST: "Nice job playing D&D!\x07Say, you know, there is this guy named Banker Bob?\x07You see, he hates D&D.\x07Why don't you go and teach him how to play D&D._where_"},
+ 121: {QUEST: "Hi.\x07No, no, D&D STINKS!\x07The Cogs stole my key, UGH! Fight a Cog and get my key.\x07WHAT ARE YOU STANDING THERE FOR!? GET MY KEY YOU NOOB!"},
+ 130: {QUEST: 'Nice job! I am glad you rode the trolley.\x07Hey, say, there is this guy named Moonlight Mimi.\x07She has a school that you can learn some stuff on.\x07Go to her to learn some stuff._where_'},
+ 131: {QUEST: "Hi, welcome to Moonlight Mimi's Highschool!\x07Wait, what?\x07Where is my blackboard??? I swear to Toon, I bet a Cog stole it.\x07No, don't talk to me, get my blackboard and get it right! >:("},
+ 140: {QUEST: "Good job finding the trolley!\x07By the way, I have a Librarian Friend, and well, let's just say, he hates Cookies.\x07I picked this book that was about cookies, and wanted to troll him lol.\x07Could you take it over to him? Thanks._where_"},
+ 141: {QUEST: "Hi there! This is a library!\x07Hey what's this? A book?\x07Ooo, let's see what it is!\x07(Notices that it's a book about cookies)...\x07A BOOK ABOUT COOKIES!? I SAID WE HAVE NO COOKIES! ONLY BOOKS! JUST BOOKS, NO COOKIES!\x07For your punishment, go fight a Cog."},
  142: {QUEST: "Thank you! I have a feeling you will be a great help to everyone around here.\x07By the way, I just received a message from Toon HQ.\x07They forgot to mention a few important concepts. You're needed there!"},
  160: {GREETING: '',
        QUEST: "Ok, now I think you are ready for something more rewarding.\x07If you can defeat 3 Bossbots I'll give you a little bonus.",
@@ -588,47 +588,47 @@ QuestDialogDict = {
  163: {GREETING: '',
        QUEST: "Ok, now I think you are ready for something more rewarding.\x07Come see us after you defeat 3 Sellbots and we'll hook you up.",
        INCOMPLETE_PROGRESS: TheCogs + ' are out in the streets, through the tunnels.',
-       INCOMPLETE_WRONG_NPC: 'Good job defeating those Cogs. Now go to the Toon Headquarters for your next step!',
+       INCOMPLETE_WRONG_NPC: 'Thank you for fighting the Cogs, now for the next step.',
        COMPLETE: QuestsDefaultComplete,
        LEAVING: QuestsDefaultLeaving},
- 164: {QUEST: 'You look like you could use some new gags.\x07Go see %s, maybe he can help you out._where_' % Flippy},
- 165: {QUEST: 'Hi there.\x07Looks like you need to practice training your gags.\x07Every time you hit a Cog with one of your gags, your experience increases.\x07When you get enough experience, you will be able to use an even better gag.\x07Go practice your gags by defeating 4 Cogs.'},
- 166: {QUEST: 'Nice work defeating those Cogs.\x07You know, the Cogs come in four different types.\x07They are Lawbots, Cashbots, Sellbots, and Bossbots.\x07You can tell them apart by their coloring and their name labels.\x07For practice go defeat 4 Bossbots.'},
- 167: {QUEST: 'Nice work defeating those Cogs.\x07You know, the Cogs come in four different types.\x07They are Lawbots, Cashbots, Sellbots, and Bossbots.\x07You can tell them apart by their coloring and their name labels.\x07For practice go defeat 4 Lawbots.'},
- 168: {QUEST: 'Nice work defeating those Cogs.\x07You know, the Cogs come in four different types.\x07They are Lawbots, Cashbots, Sellbots, and Bossbots.\x07You can tell them apart by their coloring and their name labels.\x07For practice go defeat 4 Sellbots.'},
- 169: {QUEST: 'Nice work defeating those Cogs.\x07You know, the Cogs come in four different types.\x07They are Lawbots, Cashbots, Sellbots, and Bossbots.\x07You can tell them apart by their coloring and their name labels.\x07For practice go defeat 4 Cashbots.'},
- 170: {QUEST: 'Nice work, now you know the difference between the 4 types of Cogs.\x07I think you are ready to start training for your third gag track.\x07Go talk to _toNpcName_ to choose your next gag track - he can give you some expert advice._where_'},
- 171: {QUEST: 'Nice work, now you know the difference between the 4 types of Cogs.\x07I think you are ready to start training for your third gag track.\x07Go talk to _toNpcName_ to choose your next gag track - he can give you some expert advice._where_'},
- 172: {QUEST: 'Nice work, now you know the difference between the 4 types of Cogs.\x07I think you are ready to start training for your third gag track.\x07Go talk to _toNpcName_ to choose your next gag track - she can give you some expert advice._where_'},
+ 164: {QUEST: "Hi there, do you want to level up your new gags!?\x07It's easy, just visit %s, and maybe he can help you out._where_" % Flippy},
+ 165: {QUEST: 'Welcome!\x07Hm, it looks like you could use some gag training.\x07Ah yes, my Master used to tell me, the more gags you use, the more xp you get.\x07After a certain amount by the level, you get a new gag!\x07Now how do you do it? Just go and fight 2 simple cogs for now.'},
+ 166: {QUEST: 'Yay! You destroyed them!\x07Oh, that reminds me, Cogs come in 4 types, such as...\x07Fashionbots, Carebots, Defenderbots, and Jurybots.\x07You can tell if you read their labels. NOT THE CAN LABELS! It is a cog tag, not a label you noob!\x07Go fight 2 Jurybots.'},
+ 167: {QUEST: 'Yay! You destroyed them!\x07Oh, that reminds me, Cogs come in 4 types, such as...\x07Fashionbots, Carebots, Defenderbots, and Jurybots.\x07You can tell if you read their labels. NOT THE CAN LABELS! It is a cog tag, not a label you noob!\x07Go fight 2 Defenderbots'},
+ 168: {QUEST: 'Yay! You destroyed them!\x07Oh, that reminds me, Cogs come in 4 types, such as...\x07Fashionbots, Carebots, Defenderbots, and Jurybots.\x07You can tell if you read their labels. NOT THE CAN LABELS! It is a cog tag, not a label you noob!\x07Go fight 2 Fashionbots.'},
+ 169: {QUEST: 'Yay! You destroyed them!\x07Oh, that reminds me, Cogs come in 4 types, such as...\x07Fashionbots, Carebots, Defenderbots, and Jurybots.\x07You can tell if you read their labels. NOT THE CAN LABELS! It is a cog tag, not a label you noob!\x07Go fight 2 Carebots.'},
+ 170: {QUEST: 'Horray! They are gone! Yay!\x07I think you are ready to start training for your third gag track.\x07Go talk to _toNpcName_ to choose your next gag track - he can give you some expert advice._where_'},
+ 171: {QUEST: 'Horray! They are gone! Yay!\x07I think you are ready to start training for your third gag track.\x07Go talk to _toNpcName_ to choose your next gag track - he can give you some expert advice._where_'},
+ 172: {QUEST: 'Horray! They are gone! Yay!\x07I think you are ready to start training for your third gag track.\x07Go talk to _toNpcName_ to choose your next gag track - she can give you some expert advice._where_'},
  175: {GREETING: '',
        QUEST: "Did you know you have your very own Toon house?\x07Clarabelle Cow runs a phone catalog where you can order furniture to decorate your house.\x07You can also buy SpeedChat phrases, clothing, and other fun things!\x07I'll tell Clarabelle to send you your first catalog now.\x07You get a catalog with new items every week!\x07Go to your home and use your phone to call Clarabelle.",
        INCOMPLETE_PROGRESS: 'Go home and use your phone to call Clarabelle.',
        COMPLETE: 'Hope you have fun ordering things from Clarabelle!\x07I just finished redecorating my house. It looks Toontastic!\x07Keep doing ToonTasks to get more rewards!',
        LEAVING: QuestsDefaultLeaving},
  400: {GREETING: '',
-       QUEST: 'Throw and Squirt are great, but you will need more gags to fight higher level Cogs.\x07When you team up with other Toons against the Cogs, you can combine attacks for even more damage.\x07Try different combinations of gags to see what works best.\x07For your next track, choose between Sound and Toonup.\x07Sound is special because when it hits, it damages all Cogs.\x07Toonup lets you heal other Toons in battle.\x07When you are ready to decide, come back here and choose.',
+       QUEST: "Throw and Squirt are great, but it won't be enough to last the game.\x07When you use gags with other Toons, you can create a massive amount of damage combos.\x07You may choose different gags of your choice, however you may have 6 out of 7, so choose wisely.\x07For your next track, choose between Sound and Toonup.\x07Sound is loud, weak alone, but can do a ton of damage if you make combos. And it hits all Cogs.\x07Toonup allows you to heal others, but yourself in battle.\x07I hope you're ready, so get ready to choose!",
        INCOMPLETE_PROGRESS: 'Back so soon?  Okay, are you ready to choose?',
        INCOMPLETE_WRONG_NPC: 'Think about your decision before choosing.',
-       COMPLETE: 'Good decision.  Now before you can use those gags, you must train for them.\x07You must complete a series of ToonTasks for training.\x07Each task will give you a single frame of your gag attack animation.\x07When you collect all 15, you can get the Final Gag Training task that will allow you to use your new gags.\x07You can check your progress in the Shticker Book.',
+       COMPLETE: 'Good decision.  Now you may start training for those tracks.\x07You need to complete 15 tasks in order to get the gag track.\x07Each task will give you a single frame of your gag attack animation.\x07After the 15 training points, you will have access to the final task.\x07Goodluck training! ^^',
        LEAVING: QuestsDefaultLeaving},
  1039: {QUEST: 'Visit _toNpcName_ if you want to get around town more easily._where_'},
  1040: {QUEST: 'Visit _toNpcName_ if you want to get around town more easily._where_'},
  1041: {QUEST: 'Hi!  What brings you here?\x07Everybody uses their portable hole to travel around Toontown.\x07Why, you can teleport to your friends using the Friends List, or to any neighborhood using the map in the Shticker Book.\x07Of course, you have to earn that!\x07Say, I can turn on your teleport access to ' + lToontownCentral + ' if you help out a friend of mine.\x07Seems the Cogs are causing trouble over on Loopy Lane.  Go visit _toNpcName_._where_'},
  1042: {QUEST: 'Hi!  What brings you here?\x07Everybody uses their portable hole to travel around Toontown.\x07Why, you can teleport to your friends using the Friends List, or to any neighborhood using the map in the Shticker Book.\x07Of course, you have to earn that!\x07Say, I can turn on your teleport access to ' + lToontownCentral + ' if you help out a friend of mine.\x07Seems the Cogs are causing trouble over on Loopy Lane.  Go visit _toNpcName_._where_'},
  1043: {QUEST: 'Hi!  What brings you here?\x07Everybody uses their portable hole to travel around Toontown.\x07Why, you can teleport to your friends using the Friends List, or to any neighborhood using the map in the Shticker Book.\x07Of course, you have to earn that!\x07Say, I can turn on your teleport access to ' + lToontownCentral + ' if you help out a friend of mine.\x07Seems the Cogs are causing trouble over on Loopy Lane.  Go visit _toNpcName_._where_'},
- 1044: {QUEST: 'Oh, thanks for stopping by.  I really need some help.\x07As you can see, I have no customers.\x07My secret recipe book is lost and nobody comes to my restaurant anymore.\x07I last saw it just before those Cogs took over my building.\x07Can you help me by recovering four of my famous recipes?',
+ 1044: {QUEST: "Huh!? Who goes there???  Hi, I'm sorry, but I need your help.\x07Look at my place, I have no customers.\x07I had a secret recipe, but that COG DRAWN BARNACLE Plankton stole it!\x07I had it, but, it's gone...\x07There should be a samples of the recipe, please find them. Just fight Cogs.",
         LEAVING: '',
-        INCOMPLETE_PROGRESS: 'Any luck finding my recipes?'},
- 1045: {QUEST: 'Thank you so much!\x07Before long I will have the entire collection and can reopen my restaurant.\x07Oh, I have a note here for you - something about teleport access?\x07It says thanks for helping my friend and to deliver this to Toon Headquarters.\x07Well, thanks indeed - bye!',
+        INCOMPLETE_PROGRESS: 'AHH! Oh, where is my recipe?'},
+ 1045: {QUEST: "Thank you so much!\x07Oh? What's this?\x07(checks my pockets)\x07Oh, it turns out the recipe was in my pocket the whole time! Arghghghghghgh!\x07Go to Toon HQ, cya!",
         LEAVING: '',
-        COMPLETE: 'Ah, yes, says here you have been a great help to some of the fine folks out on Loopy Lane.\x07Says you need teleport access to ' + lToontownCentral + '.\x07Well, consider it done.\x07Now you can teleport back to the playground from almost anywhere in Toontown.\x07Just open your map and click on ' + lToontownCentral + '.'},
- 1046: {QUEST: 'The Cashbots have really been bothering the Funny Money Savings and Loan.\x07Stop by there and see if there is anything you can do._where_'},
- 1047: {QUEST: 'Cashbots have been sneaking into the bank and stealing our machines.\x07Please recover 5 adding machines from Cashbots.\x07To save you from running back and forth, just bring them all back at once.',
+        COMPLETE: "Hi, so you're the guy who can fight huh?\x07It says you need teleport access.\x07Oh yeah, well, I can help.\x07Now you can just teleport to the playground! If you want to of course.\x07Just open your stinking map, and click TTC. ' + lToontownCentral + '."},
+ 1046: {QUEST: 'No, no, no! Not this!\x07THERE is still a problem! Please go to Tickles place._where_'},
+ 1047: {QUEST: 'UGH! I hate theives!\x07Please recover a couple of them from the Carebots.\x07But for more torture, well, idk just fight them.',
         LEAVING: '',
         INCOMPLETE_PROGRESS: 'Still looking for adding machines?'},
- 1048: {QUEST: 'Wow!  Thanks for finding our adding machines.\x07Hm... They look a little damaged.\x07Say, could you take them over to _toNpcName_ over at her shop, "Tickle Machines" on this street?\x07See if she can fix them.',
+ 1048: {QUEST: 'Wow!  Thanks for finding our adding machines.\x07Ugh, of course, piece of junk is damaged.\x07Say, could you take them over to _toNpcName_ over at her shop, "Tickle Machines" on this street?\x07See if she can fix them.',
         LEAVING: ''},
- 1049: {QUEST: "What's that?  Broken adding machines?\x07Cashbots you say?\x07Well, let's have a look see...\x07Yep, gears are stripped, but I'm out of that part...\x07You know what might work - some Cog gears, large ones, from larger Cogs...\x07Level 3 Cog gears should do the trick.  I'll need 2 for each machine, so 10 total.\x07Bring them back all at once and I'll fix em up!",
+ 1049: {QUEST: "What's that?  Broken adding machines?\x07Ugh, they look like a piece of junk.\x07Well, let's have a look see...\x07Yep, it looks like scrap, stall, slow, stickshift, waste gas, rattle, bounces, piece of junk.\x07When you think big, you gotta fight big.\x07-Does stupidity math-.  Ah ha, a couple large cogs should do it!\x07Bring them back all at once and I'll fix em up!",
         LEAVING: '',
         INCOMPLETE_PROGRESS: 'Remember, I need 10 gears to fix the machines.'},
  1053: {QUEST: "Ah yes, that should do the trick indeedy.\x07All fixed now, free of charge.\x07Take these back to Funny Money, and tell 'im I said howdy.",
@@ -2252,68 +2252,68 @@ CheesyEffectHours = 'For the next %(time)s hours, %(effectName)s%(whileIn)s.'
 CheesyEffectDays = 'For the next %(time)s days, %(effectName)s%(whileIn)s.'
 CheesyEffectWhileYouAreIn = ' while you are in %s'
 CheesyEffectExceptIn = ', except in %s'
-SuitFlunky = 'Glasses Man'
+SuitFlunky = 'Red Hander'
 SuitPencilPusher = 'Pencil Head'
-SuitYesman = 'Sally'
-SuitMicromanager = 'Micro\x03manager'
-SuitDownsizer = 'Downsizer'
-SuitHeadHunter = 'Shrink Hunter'
-SuitCorporateRaider = 'Black Pirate'
+SuitYesman = 'Mini Amanda'
+SuitMicromanager = 'Fancy Kitten'
+SuitDownsizer = 'Grey Face'
+SuitHeadHunter = 'Green Doctor'
+SuitCorporateRaider = 'Scaringler'
 SuitTheBigCheese = 'Mozzerella Cheeze'
-SuitColdCaller = 'Black Caller'
-SuitTelemarketer = 'Tele\x03Caller'
-SuitNameDropper = 'Nerd Bot'
-SuitGladHander = 'Mini Spongebob'
+SuitColdCaller = 'Blue Caller'
+SuitTelemarketer = 'Telecaller'
+SuitNameDropper = 'Blackler'
+SuitGladHander = 'Shaker Wizard'
 SuitMoverShaker = 'Scary Dropper'
-SuitTwoFace = 'Black Dropper'
+SuitTwoFace = 'Two-Man'
 SuitTheMingler = 'Spongebob'
 SuitMrHollywood = 'Amanda Rose'
-SuitShortChange = 'Short Change'
-SuitPennyPincher = 'Penny Pincher'
-SuitTightwad = 'Tightwad'
-SuitBeanCounter = 'Money Counter'
+SuitShortChange = 'Conichange'
+SuitPennyPincher = 'Mustacheo'
+SuitTightwad = 'Journei'
+SuitBeanCounter = 'Candace Flynn'
 SuitNumberCruncher = 'Number Man'
-SuitMoneyBags = 'Bigger Tightwad'
+SuitMoneyBags = 'Shiny Mingler'
 SuitLoanShark = 'Baymax'
-SuitRobberBaron = 'Robber Baron'
-SuitBottomFeeder = 'Bottom Feeder'
+SuitRobberBaron = 'Touche Barron'
+SuitBottomFeeder = 'Cute Flunky'
 SuitBloodsucker = 'Vam\x03pire'
-SuitDoubleTalker = 'Double Talker'
-SuitAmbulanceChaser = 'Ambulance Chaser'
-SuitBackStabber = 'Jurier'
-SuitSpinDoctor = 'Black Rider'
+SuitDoubleTalker = 'Sally'
+SuitAmbulanceChaser = 'Microripoff'
+SuitBackStabber = 'Textured Counter'
+SuitSpinDoctor = 'Cog Monkey'
 SuitLegalEagle = 'Black Eagle'
 SuitBigWig = 'Full Wig'
-SuitFlunkyS = 'a Glasses Man'
+SuitFlunkyS = 'a Red Hander'
 SuitPencilPusherS = 'a Pencil Head'
-SuitYesmanS = 'a Sally'
-SuitMicromanagerS = 'a Micromanager'
-SuitDownsizerS = 'a Downsizer'
-SuitHeadHunterS = 'a Shrink Hunter'
-SuitCorporateRaiderS = 'a Black Pirate'
+SuitYesmanS = 'a Mini Amanda'
+SuitMicromanagerS = 'a Fancy Kitten'
+SuitDownsizerS = 'a Grey Face'
+SuitHeadHunterS = 'a Green Doctor'
+SuitCorporateRaiderS = 'a Scaringler'
 SuitTheBigCheeseS = 'a Mozzerella Cheese'
-SuitColdCallerS = 'a Black Caller'
+SuitColdCallerS = 'a Blue Caller'
 SuitTelemarketerS = 'a Telecaller'
-SuitNameDropperS = 'a Nard Bot'
-SuitGladHanderS = 'a Mini Spongebob'
+SuitNameDropperS = 'a Blackler'
+SuitGladHanderS = 'a Shaker Wizard'
 SuitMoverShakerS = 'a Scary Dropper'
-SuitTwoFaceS = 'a Black Dropper'
+SuitTwoFaceS = 'a Two-Man'
 SuitTheMinglerS = 'a Spongebob'
 SuitMrHollywoodS = 'a Amanda Rose'
-SuitShortChangeS = 'a Short Change'
-SuitPennyPincherS = 'a Penny Pincher'
-SuitTightwadS = 'a Tightwad'
-SuitBeanCounterS = 'a Money Counter'
+SuitShortChangeS = 'a Conichange'
+SuitPennyPincherS = 'a Mustacheo'
+SuitTightwadS = 'a Journei'
+SuitBeanCounterS = 'a Candace Flynn'
 SuitNumberCruncherS = 'a Number Man'
-SuitMoneyBagsS = 'a Bigger Tightwad'
+SuitMoneyBagsS = 'a Shiny Mingler'
 SuitLoanSharkS = 'a Baymax'
-SuitRobberBaronS = 'a Robber Baron'
-SuitBottomFeederS = 'a Bottom Feeder'
+SuitRobberBaronS = 'a Touche Baron'
+SuitBottomFeederS = 'a Cute Flunky'
 SuitBloodsuckerS = 'a Vampire'
-SuitDoubleTalkerS = 'a Double Talker'
-SuitAmbulanceChaserS = 'an Ambulance Chaser'
-SuitBackStabberS = 'a Jurier'
-SuitSpinDoctorS = 'a Black Rider'
+SuitDoubleTalkerS = 'a Sally'
+SuitAmbulanceChaserS = 'an Microripoff'
+SuitBackStabberS = 'a Textured Counter'
+SuitSpinDoctorS = 'a Cog Monkey'
 SuitLegalEagleS = 'a Black Eagle'
 SuitBigWigS = 'a Full Wig'
 SuitFlunkyP = 'Glasses Men'
@@ -2561,7 +2561,7 @@ SuitAttackTaunts = {'Audit': ["Can we check this?",
  'Liquidate': ['Ever had shower problems?',
                'Classic Noah Stinks!',
                "This is going to be a light shower."],
- 'MarketCrash': ["This will crash on you, Toon!"
+ 'MarketCrash': ["This will crash on you, Toon!",
                  "Want extra help with your bags?"],
  'MumboJumbo': ['Let me make this perfectly clear.',
                 "Aren't these the words for the Jumbo?",
@@ -4372,7 +4372,7 @@ CagedToonDrop = ["HURRY UP YOU LAME TOONS!!",
  "HURRY UP!!",
  "YOU CAN'T DO IT! YOUR GONNA FAIL!",
  "YOU CAN'T DO IT! YOUR GONNA FAIL!"]
-CagedToonPrepareBattleTwo = "Help Me! The Boss is getting stronger!\x07Just remember, your going to fail!"
+CagedToonPrepareBattleTwo = "Help Me! The Boss is getting stronger!\x07Go on and defeat his next set of Cogs.\x07But before you do, I must say this.\x07Just remember, your going to fail!"
 CagedToonPrepareBattleThree = "What you must do is throw a bunch of pies at the Boss.\x07But don't worry, I got pies that you can use.\x07Just jump up to my cage, and you can get pies.\x07But there is a limit of 15 pies. So you will need to jump back after you run out to restock.\x07Good Luck Toons!"
 BossBattleNeedMorePies = 'Get pies you lame Toon!'
 BossBattleHowToGetPies = 'ARE YOU NEW OR SOMETHING!??!?!??!?!'
@@ -5252,10 +5252,10 @@ NPCToonNames = {20000: 'Tutorial Tom',
  1000: lToonHQ,
  20001: Flippy,
  2001: Flippy,
- 2002: 'Banker Bob',
- 2003: 'Professor Pete',
+ 2002: 'Master Cool Cat',
+ 2003: 'Moonlight Mimi',
  2004: 'Tammy the Tailor',
- 2005: 'Librarian Larry',
+ 2005: 'Roflando',
  2006: 'Clerk Clark',
  2011: 'Clerk Clara',
  2007: lHQOfficerM,
@@ -8204,105 +8204,105 @@ NametagStyleLabel = 'Nametag Style:'
 FishingPoleLabel = 'Fishing Rod:'
 
 BossLocations = {
- 'c': 'Bossbot Clubhouse\nBanquet',
- 'l': "Lawbot Courthouse\nBumpy Bumblebehr's Trial",
- 'm': 'Cashbot Treasury Vault',
- 's': 'Sellbot Towers\nRooftop'
+ 'c': '',
+ 'l': "",
+ 'm': '',
+ 's': ''
 }
 SendCogBossTaunts = {
  's': [
-  "You Will Not Beat Me Sarah Rose!",
-  "You Will Not Beat Me Sarah Rose!",
-  'My army is more powerful than your spells.',
-  "Try all your spells, but they won't work.",
-  "Try all your spells, but they won't work.",
-  'My army is more powerful than your spells.',
-  'I see you, everytime you close your eyes.',
-  'I see you, everytime you close your eyes.',
-  'I see you, everytime you close your eyes.'
+  "",
+  "",
+  '',
+  "",
+  "",
+  '',
+  '',
+  '',
+  ''
  ],
  'm': [
-  "We must do better than the last boss!",
-  "Rob the Toons Bank already!",
-  'These prototypes only costed me one Penny.',
-  "We're talking Money here.",
-  "Mata Hairy is setting up a trap! I know better!",
-  'This texture game is so Awesome!',
-  'You Cogs are going to attack these Toons!',
-  "We will fix up Toontown in no time!",
-  'These Cogs are going to not cost us.'
+  "",
+  "",
+  '',
+  "",
+  "",
+  '',
+  '',
+  "",
+  ''
  ],
  'l': [
-  'Order!',
-  'This will be greater.',
-  'I demand Justice!',
-  'Toontown Stinks! Cogs Rule!',
-  'You Toons are so unimportant now and days.',
-  'I demand you guilty.',
-  "Bah! Don't you tell me how to run a trial!",
-  'I may be blind. But I know how to run a trial.',
-  'Okay, you wanna play smart? I have a better Tactic.'
+  '',
+  '',
+  '',
+  '',
+  '',
+  '',
+  "",
+  'I ',
+  ''
  ]
 }
-VPRampMessage = "Time for Plan B!"
-VPDeathTaunt = "CURSE YOU! SARAH ROSE!"
+VPRampMessage = ""
+VPDeathTaunt = ""
 DirectedAttackBossTaunts = {
  's': [
-  "You will not beat me Sarah!",
-  "Keep on trying your spells, but you can't get to me.",
-  "I'll blast you with my gears.",
-  "I'll attack you, %(toon)s!"
+  "",
+  "K",
+  "",
+  ""
  ],
  'm': [
-  "I'll attack you with my Gears.",
-  'Get out of that Crane! And face me like a Toon!',
-  'We can do this Goons!',
-  '%(toon)s, get over here this instant! Or your grounded!'
+  "",
+  '',
+  '',
+  ''
  ],
  'c': [
-  'These tables are new!!',
-  "Keep squirting all you want, it won't affect me.",
-  'Scram! This is my place!',
-  "I never cared for the Cogs anyway, I'll just attack you myself.!"
+  '',
+  "",
+  '',
+  ""
  ]
 }
 VPSpinMessages = [
- "Can't get me!",
- "My shaking spell will prevent you from getting to me.",
- 'No running away!',
- "Behold, the Shake Spell!"
+ "",
+ "",
+ '',
+ ""
 ]
 JumpBossTaunts = {
  's': [
-  "Time's up!",
-  'Nowhere to run now!!',
-  "Isn't this a powerful jump?",
-  'This is a powerful attack!'
+  "T",
+  '',
+  "",
+  ''
  ],
  'l': [
-  "Get rid of the Toons Cogs!!"
+  ""
  ],
  'm': [
-  "Get rid of those Toons!",
-  'Come on Goons, attack!!',
-  'Do not be afraid, Goons!!',
-  "This will take a bit for you to learn!!"
+  "",
+  '',
+  '',
+  ""
  ]
 }
 CEOSpeech = [
- "Good evening Cogs, it's an honor having you here tonight in the Bossbot Clubhouse.",
- 'I apologize for sending invitations on such short notice, but your presence is urgent.',
- 'Lately, it appears the Toons have created strategies to fight against us.',
- "This is a sign that each day us Cogs are getting weaker, and they're getting stronger.",
- 'I have gathered you all here today not only to state this problem, but to propose an idea.',
- 'This idea is the same one that was mentioned in the meeting 3 weeks ago, as to hire a new department of employees.',
- 'If we were to do such however, they would be more or less assisting over attacking.',
- 'We also can consider the odds that a department would have to be treated special.',
- 'On another note, business operations are higher than ever.',
- 'Because of this, improvement for HQs will be funded.',
- 'And thus we, the Cog Nation, are striving.',
- 'I am very delighted by this news, I just wanted to thank you all for working so hard for this news.',
- "Wait, what's going on? I can't see but I hear explosions."
+ "",
+ '',
+ '',
+ "",
+ '',
+ '',
+ '',
+ '',
+ '',
+ '',
+ '',
+ '',
+ ""
 ] # Len of words + 10
 
 CrateRewardMessage1 = 'Nice! You have earned a crate! It will arrive in your mailbox shortly.'

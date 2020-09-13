@@ -1,0 +1,57 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x193B89B8>}
+__handleAvatarChooserDone: 100000070, 'Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1222, in handleDatagram
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1156, in handleMessageType
+    self.handleGenerateWithRequiredOtherOwner(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 754, in handleGenerateWithRequiredOtherOwner
+    self.handleAvatarResponseMsg(doId, di)
+  File "toontown\distributed\ToontownClientRepository.py", line 298, in handleAvatarResponseMsg
+    localAvatar = LocalToon.LocalToon(self)
+  File "toontown\toon\LocalToon.py", line 72, in __init__
+    chatMgr = ToontownChatManager.ToontownChatManager(cr, self)
+  File "toontown\chat\ToontownChatManager.py", line 37, in __init__
+    self.chatInputSpeedChat = TTChatInputSpeedChat(self)
+  File "toontown\chat\TTChatInputSpeedChat.py", line 344, in __init__
+    self.createSpeedChat()
+  File "toontown\chat\TTChatInputSpeedChat.py", line 412, in createSpeedChat
+    if launcher and not launcher.isTestServer() or __dev__:
+AttributeError: TTSLauncher instance has no attribute 'isTestServer'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1222, in handleDatagram
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1156, in handleMessageType
+    self.handleGenerateWithRequiredOtherOwner(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 754, in handleGenerateWithRequiredOtherOwner
+    self.handleAvatarResponseMsg(doId, di)
+  File "toontown\distributed\ToontownClientRepository.py", line 298, in handleAvatarResponseMsg
+    localAvatar = LocalToon.LocalToon(self)
+  File "toontown\toon\LocalToon.py", line 72, in __init__
+    chatMgr = ToontownChatManager.ToontownChatManager(cr, self)
+  File "toontown\chat\ToontownChatManager.py", line 37, in __init__
+    self.chatInputSpeedChat = TTChatInputSpeedChat(self)
+  File "toontown\chat\TTChatInputSpeedChat.py", line 344, in __init__
+    self.createSpeedChat()
+  File "toontown\chat\TTChatInputSpeedChat.py", line 412, in createSpeedChat
+    if launcher and not launcher.isTestServer() or __dev__:
+AttributeError: TTSLauncher instance has no attribute 'isTestServer'

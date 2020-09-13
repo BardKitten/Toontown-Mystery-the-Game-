@@ -556,8 +556,9 @@ class DistributedSellbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
         self.rope.setTransparency(1)
         self.promotionMusic = base.loadMusic('phase_13/audio/bgm/party_waltz_dance.mp3')
         self.betweenBattleMusic = base.loadMusic('phase_7/audio/bgm/encntr_general_bg_indoor.mp3')
+        self.battleOneMusic = base.loadMusic('phase_9/audio/bgm/VP_round_1.ogg')
         self.battleTwoMusic = base.loadMusic('phase_9/audio/bgm/encntr_toon_disc.mp3')
-        self.battleThreeMusic = base.loadMusic('phase_9/audio/bgm/encntr_head_suit_theme.ogg')
+        self.battleThreeMusic = base.loadMusic('phase_9/audio/bgm/VP_Pie_Round.mp3')
         self.geom.reparentTo(render)
 
     def unloadEnvironment(self):

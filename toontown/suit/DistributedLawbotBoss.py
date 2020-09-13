@@ -383,9 +383,11 @@ class DistributedLawbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
         elevatorModel = loader.loadModel('phase_11/models/lawbotHQ/LB_Elevator')
         elevatorModel.reparentTo(self.elevatorEntrance)
         self.setupElevator(elevatorModel)
-        self.promotionMusic = base.loadMusic('phase_9/audio/bgm/encntr_head_suit_theme.ogg')
+        self.promotionMusic = base.loadMusic('phase_11/audio/bgm/encntr_head_suit_theme.mp3')
         self.betweenBattleMusic = base.loadMusic('phase_9/audio/bgm/encntr_suit_winning.mp3')
+        self.battleOneMusic = base.loadMusic('phase_11/audio/bgm/CJ_round_1.mp3')
         self.battleTwoMusic = base.loadMusic('phase_9/audio/bgm/encntr_suit_winning.mp3')
+        self.battleThreeMusic = base.loadMusic('phase_11/audio/bgm/CJ_scale_round.mp3')
         floor = self.geom.find('**/MidVaultFloor1')
         if floor.isEmpty():
             floor = self.geom.find('**/CR3_Floor')

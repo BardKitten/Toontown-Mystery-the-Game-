@@ -1,4 +1,5 @@
 from SpecImports import *
+import random
 from toontown.toonbase import ToontownGlobals
 CogParent = 110400
 BattleCellId = 0
@@ -13,35 +14,35 @@ CogData = [{'parentEntId': CogParent,
   'behavior': 'stand',
   'path': None,
   'skeleton': 0,
-  'revives': 2},
+  'revives': 4},
  {'parentEntId': CogParent,
   'boss': 0,
-  'level': 14,
+  'level': random.choice([14, 15, 16, 17]),
   'battleCell': BattleCellId,
   'pos': Point3(-2, 0, 0),
   'h': 180,
   'behavior': 'stand',
   'path': None,
   'skeleton': 1,
-  'revives': 1},
+  'revives': random.choice([1, 2, 3, 4])},
  {'parentEntId': CogParent,
   'boss': 0,
-  'level': 15,
+  'level': random.choice([14, 15, 16, 17]),
   'battleCell': BattleCellId,
   'pos': Point3(2, 0, 0),
   'h': 180,
   'behavior': 'stand',
   'path': None,
   'skeleton': 1,
-  'revives': 1},
+  'revives': random.choice([1, 2, 3, 4])},
  {'parentEntId': CogParent,
   'boss': 0,
-  'level': 14,
+  'level': random.choice([14, 15, 16, 17]),
   'battleCell': BattleCellId,
   'pos': Point3(6, 0, 0),
   'h': 180,
   'behavior': 'stand',
   'path': None,
   'skeleton': 1,
-  'revives': 1}]
+  'revives': random.choice([1, 2, 3, 4])}]
 ReserveCogData = []
