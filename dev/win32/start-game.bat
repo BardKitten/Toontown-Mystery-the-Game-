@@ -2,7 +2,7 @@
 
 title Toontown Mystery Game Launcher
 
-echo Press 3 if you want to Join my mini server. Ip is 68.202.254.113
+echo Press 1 if you want to play, or press 3 if you want to play Miniserver.
 echo.
 echo #1 - Localhost
 echo #2 - Dev Server
