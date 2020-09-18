@@ -265,11 +265,11 @@ def loadSkelDialog():
     if len(SkelSuitDialogArray) > 0:
         return
     else:
-        grunt = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_grunt.ogg')
-        murmur = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_murmur.ogg')
-        statement = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_statement.ogg')
-        question = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_question.ogg')
-        exclaim = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_exclaim.ogg')
+        grunt = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_grunt.mp3')
+        murmur = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_murmur.mp3')
+        statement = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_statement.mp3')
+        question = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_question.mp3')
+        exclaim = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_exclaim.mp3')
         SkelSuitDialogArray = [grunt,
          murmur,
          statement,

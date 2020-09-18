@@ -58,66 +58,66 @@ NametagFontNames = (
 NametagLabel = ' Nametag'
 ScreenshotPath = 'user/screenshots/'
 Flippy = 'Flippy'
-lTheBrrrgh = 'The Brrrgh'
+lTheBrrrgh = 'Freezing Area'
 lDaisyGardens = 'Daisy Gardens'
 lDonaldsDock = "Donald's Dock"
 lDonaldsDreamland = "Donald's Dreamland"
 lMinniesMelodyland = "Minnie's Melodyland"
-lToontownCentral = 'Toontown Central'
+lToontownCentral = 'Toontown Playground'
 lToonHQ = 'Toon HQ'
-lSellbotHQ = 'Sellbot HQ'
+lSellbotHQ = 'Fashionbot HQ'
 lGoofySpeedway = 'Goofy Speedway'
 lOutdoorZone = "Chip 'n Dale's Acorn Acres"
 lGolfZone = "Chip 'n Dale's MiniGolf"
 lPartyHood = 'Party Grounds'
 GlobalStreetNames = {20000: ('to', 'on', 'Tutorial Terrace'),
  1000: ('to the', 'in the', 'Playground'),
- 1100: ('to', 'on', 'Barnacle Boulevard'),
- 1200: ('to', 'on', 'Seaweed Street'),
- 1300: ('to', 'on', 'Lighthouse Lane'),
+ 1100: ('to', 'on', 'Barnacle World'),
+ 1200: ('to', 'on', 'Seaweed Area'),
+ 1300: ('to', 'on', 'Light Boat Area'),
  2000: ('to the', 'in the', 'Playground'),
- 2100: ('to', 'on', 'Silly Street'),
- 2200: ('to', 'on', 'Loopy Lane'),
- 2300: ('to', 'on', 'Punchline Place'),
+ 2100: ('to', 'on', 'Daisy Gardens Intro'),
+ 2200: ('to', 'on', 'Mickeys Travel Street'),
+ 2300: ('to', 'on', 'Punch Place'),
  3000: ('to the', 'in the', 'Playground'),
- 3100: ('to', 'on', 'Walrus Way'),
- 3200: ('to', 'on', 'Sleet Street'),
- 3300: ('to', 'on', 'Polar Place'),
+ 3100: ('to', 'on', 'Lil Oldmans Lane'),
+ 3200: ('to', 'on', 'Minnies Lane'),
+ 3300: ('to', 'on', 'Defenderbot Law Lane'),
  4000: ('to the', 'in the', 'Playground'),
- 4100: ('to', 'on', 'Alto Avenue'),
- 4200: ('to', 'on', 'Baritone Boulevard'),
- 4300: ('to', 'on', 'Tenor Terrace'),
+ 4100: ('to', 'on', 'Music Lane'),
+ 4200: ('to', 'on', 'Loud Lane'),
+ 4300: ('to', 'on', 'Quiet Lane'),
  5000: ('to the', 'in the', 'Playground'),
- 5100: ('to', 'on', 'Elm Street'),
- 5200: ('to', 'on', 'Maple Street'),
- 5300: ('to', 'on', 'Oak Street'),
+ 5100: ('to', 'on', 'Flower Lane'),
+ 5200: ('to', 'on', 'Tree Lane'),
+ 5300: ('to', 'on', 'Danger Lane'),
  9000: ('to the', 'in the', 'Playground'),
- 9100: ('to', 'on', 'Lullaby Lane'),
- 9200: ('to', 'on', 'Pajama Place'),
- 9300: ('to', 'on', 'Bedtime Boulevard'),
- 10000: ('to the', 'in the', 'Bossbot HQ Country Club'),
- 10100: ('to the', 'in the', 'Bossbot HQ Lobby'),
- 10200: ('to', 'in', 'The Clubhouse'),
- 10500: ('to', 'in', 'The Front Three'),
- 10600: ('to', 'in', 'The Middle Six'),
- 10700: ('to', 'in', 'The Back Nine'),
- 11000: ('to the', 'in the', 'Sellbot HQ Courtyard'),
- 11100: ('to the', 'in the', 'Sellbot HQ Lobby'),
- 11200: ('to the', 'in the', 'Sellbot Factory'),
- 11500: ('to the', 'in the', 'Sellbot Factory'),
- 11600: ('to the', 'in the', 'Sellbot Megacorp'),
- 12000: ('to the', 'in the', 'Cashbot Train Yard'),
- 12100: ('to the', 'in the', 'Cashbot HQ Lobby'),
- 12500: ('to the', 'in the', 'Cashbot Coin Mint'),
- 12600: ('to the', 'in the', 'Cashbot Dollar Mint'),
- 12700: ('to the', 'in the', 'Cashbot Bullion Mint'),
- 13000: ('to the', 'in the', 'Lawbot HQ Courtyard'),
- 13100: ('to the', 'in the', 'Courthouse Lobby'),
- 13200: ('to the', 'in the', "DA's Office Lobby"),
- 13300: ('to the', 'in the', 'Lawbot A Office'),
- 13400: ('to the', 'in the', 'Lawbot B Office'),
- 13500: ('to the', 'in the', 'Lawbot C Office'),
- 13600: ('to the', 'in the', 'Lawbot D Office')}
+ 9100: ('to', 'on', 'Quiet Lane'),
+ 9200: ('to', 'on', 'ZZZ Street'),
+ 9300: ('to', 'on', 'Bed Lane'),
+ 10000: ('to the', 'in the', 'Pizza CourtHouse'),
+ 10100: ("to the', 'in the', 'Pizzabot HQ"),
+ 10200: ("to', 'in', 'Darth Noah's Lair"),
+ 10500: ('to', 'in', 'Easy Three'),
+ 10600: ('to', 'in', 'Medium Six'),
+ 10700: ('to', 'in', 'Hard Nine'),
+ 11000: ('to the', 'in the', 'Fashionbot Courtyard'),
+ 11100: ('to the', 'in the', 'Fashionbot Lobby'),
+ 11200: ('to the', 'in the', 'Fashionbot Factory'),
+ 11500: ('to the', 'in the', 'Fashionbot Factory'),
+ 11600: ('to the', 'in the', 'Fashionbot Hard Mode'),
+ 12000: ('to the', 'in the', 'Carebot Medical Area'),
+ 12100: ('to the', 'in the', 'Carebot Vault'),
+ 12500: ('to the', 'in the', 'Carebot Waiting Vault'),
+ 12600: ('to the', 'in the', 'Carebot Interior'),
+ 12700: ('to the', 'in the', 'Carebot Final Room'),
+ 13000: ('to the', 'in the', 'Chickenbot Fried Chicken'),
+ 13100: ('to the', 'in the', 'Fried Chicken Order In'),
+ 13200: ('to the', 'in the', "CHICKEN ROOM"),
+ 13300: ('to the', 'in the', 'Chicken Waiting Room'),
+ 13400: ('to the', 'in the', 'Chicken Drive Thru'),
+ 13500: ('to the', 'in the', 'Chicken Dine In'),
+ 13600: ('to the', 'in the', 'Chicken Pay')}
 DonaldsDock = ('to', 'in', lDonaldsDock)
 ToontownCentral = ('to', 'in', lToontownCentral)
 TheBrrrgh = ('to', 'in', lTheBrrrgh)
@@ -127,10 +127,10 @@ OutdoorZone = ('to', 'in', lOutdoorZone)
 FunnyFarm = ('to the', 'in the', 'Funny Farm')
 GoofySpeedway = ('to', 'in', lGoofySpeedway)
 DonaldsDreamland = ('to', 'in', lDonaldsDreamland)
-BossbotHQ = ('to', 'in', 'Bossbot HQ')
-SellbotHQ = ('to', 'in', 'Sellbot HQ')
-CashbotHQ = ('to', 'in', 'Cashbot HQ')
-LawbotHQ = ('to', 'in', 'Lawbot HQ')
+BossbotHQ = ('to', 'in', 'Pizza HQ')
+SellbotHQ = ('to', 'in', 'Fashionbot HQ')
+CashbotHQ = ('to', 'in', 'Medicial HQ')
+LawbotHQ = ('to', 'in', 'Chicken HQ')
 Tutorial = ('to the', 'in the', 'Toon-torial')
 MyEstate = ('to', 'in', 'your house')
 GolfZone = ('to', 'in', lGolfZone)
@@ -140,9 +140,9 @@ Headquarters = 'Headquarters'
 SellbotFrontEntrance = 'Front Entrance'
 SellbotSideEntrance = 'Side Entrance'
 Office = 'Office'
-FactoryNames = {11500: 'Sellbot Cog Factory',
- 11600: 'Sellbot Cog Megacorp',
- 13300: 'Lawbot Cog Office'}
+FactoryNames = {11500: 'Fashionbot Designers Room',
+ 11600: 'Fashionbot Cog Hard Mode',
+ 13300: 'Defenderbot Cog Office'}
 FactoryTypeLeg = 'Leg'
 FactoryTypeArm = 'Arm'
 FactoryTypeTorso = 'Torso'
@@ -157,20 +157,20 @@ lNo = 'No'
 SleepAutoReply = '%s is sleeping right now.'
 lHQOfficerF = 'HQ Officer'
 lHQOfficerM = 'HQ Officer'
-Cog = 'Cog'
-Cogs = 'Cogs'
-ACog = 'a Cog'
-TheCogs = 'The Cogs'
-ASkeleton = 'a Droid'
-Skeleton = 'Droid'
-SkeletonP = 'Droids'
+Cog = 'Robot'
+Cogs = 'Robots'
+ACog = 'a Robot'
+TheCogs = 'The Robots'
+ASkeleton = 'a Skeleton'
+Skeleton = 'Skeleton'
+SkeletonP = 'Skeletons'
 Av2Cog = 'a Version 2.0 Cog'
 v2Cog = 'Version 2.0 Cog'
 v2CogP = 'Version 2.0 Cogs'
-ASkeleton = 'a Droid'
-Foreman = 'Factory Droid'
-ForemanP = 'Factory Droid'
-AForeman = 'a Factory Droid'
+ASkeleton = 'a Skeleton'
+Foreman = 'Factory Skeleton'
+ForemanP = 'Factory Skeleton'
+AForeman = 'a Factory Skeleton'
 CogVP = Cog + ' Boss Fashionhood'
 CogVPs = "Cog Boss Fashionhoods"
 ACogVP = ACog + ' Boss Fashionhood.'
@@ -1868,24 +1868,24 @@ ChatGarblerMonkey = ['ooh', 'ooo', 'ahh']
 ChatGarblerBear = ['growl', 'grrr']
 ChatGarblerPig = ['oink', 'oik', 'snort']
 ChatGarblerDefault = ['blah']
-Bossbot = 'Jurybot'
-Lawbot = 'Defenderbot'
+Bossbot = 'Pizzabot'
+Lawbot = 'Chickenbot'
 Cashbot = 'Carebot'
 Sellbot = 'Fashionbot'
-BossbotS = 'a Defenderbot'
-LawbotS = 'a Jurybot'
+BossbotS = 'a Pizzabot'
+LawbotS = 'a Chickenbot'
 CashbotS = 'a Fashionbot'
 SellbotS = 'a Carebot'
-BossbotP = 'Defenderbots'
-LawbotP = 'Jurybots'
+BossbotP = 'Pizzabots'
+LawbotP = 'Chickenbots'
 CashbotP = 'Carebots'
 SellbotP = 'Fashionbots'
-BossbotSkelS = 'a Jurybot Droid'
-LawbotSkelS = 'a Defenderbot Droid'
+BossbotSkelS = 'a Pizzabot Droid'
+LawbotSkelS = 'a Chickenbot Droid'
 CashbotSkelS = 'a Carebot Droid'
 SellbotSkelS = 'a Fashionbot Droid'
-BossbotSkelP = 'Jurybot Droids'
-LawbotSkelP = 'Defenderbot Droids'
+BossbotSkelP = 'Pizzabot Droids'
+LawbotSkelP = 'Chickenbot Droids'
 CashbotSkelP = 'Carebot Droids'
 SellbotSkelP = 'Fashionbot Droids'
 SkeleRevivePostFix = ' v%s.0'
@@ -1998,16 +1998,16 @@ TeleportPanelUnknownHood = "You don't know how to get to %s!"
 TeleportPanelDenySelf = "You can't go to yourself!"
 TeleportPanelOtherShard = "%(avName)s is in district %(shardName)s, and you're in district %(myShardName)s.  Do you want to switch to %(shardName)s?"
 TeleportPanelBusyShard = '%(avName)s is in a full District.'
-BattleBldgBossTaunt = "I'm the building boss!"
-CogdoBattleBldgBossTaunt = "I don't take meetings with Toons."
+BattleBldgBossTaunt = "I see that you made it to the top floor. Now be ready for sadness."
+CogdoBattleBldgBossTaunt = "Welcome to the Field Office, be doomed!"
 FactoryBossTaunt = "I'm the Designer!"
 FactoryBossBattleTaunt = 'Talk to the Designer.'
 MintBossTaunt = "I'm the Money Maker!"
 MintBossBattleTaunt = 'You need to talk to the Money Maker.'
-StageBossTaunt = "My Justice isn't Blind."
-StageBossBattleTaunt = 'I am above the Law.'
-CountryClubBossTaunt = "I'm the Club President."
-CountryClubBossBattleTaunt = 'You need to talk to the Club President.'
+StageBossTaunt = "I'm the Manager in this office."
+StageBossBattleTaunt = 'Talk to the Manager. He will help you.'
+CountryClubBossTaunt = "I'm the Lair Master."
+CountryClubBossBattleTaunt = 'You need to talk to the Lair Master.'
 ForcedLeaveCountryClubAckMsg = 'The Club President was defeated before you could reach him. You did not recover any Stock Options.'
 ToonHealJokes = [['What goes TICK-TICK-TICK-WOOF?', 'A watchdog! '],
  ['Why do male deer need braces?', "Because they have 'buck teeth'!"],
@@ -2183,10 +2183,10 @@ ToonHealJokes = [['What goes TICK-TICK-TICK-WOOF?', 'A watchdog! '],
  ['What do you get if you cross a railway engine with a stick of gum?', 'A chew-chew train.'],
  ['What would you get if you crossed an elephant with a computer?', 'A big know-it-all.'],
  ['What would you get if you crossed an elephant with a skunk?', 'A big stinker.']]
-MovieHealLaughterMisses = ('hmm',
- 'heh',
- 'ha',
- 'harr harr')
+MovieHealLaughterMisses = ('What.',
+ 'Why.',
+ ':(',
+ ':(')
 MovieHealLaughterHits1 = ('Ha Ha Ha',
  'Hee Hee',
  'Tee Hee',
@@ -2216,20 +2216,20 @@ RewardPanelToonTasks = 'ToonTasks'
 RewardPanelItems = 'Items Recovered'
 RewardPanelMissedItems = 'Items Not Recovered'
 RewardPanelQuestLabel = 'Quest %s'
-RewardPanelCongratsStrings = ['Yeah!',
- 'Congratulations!',
- 'Wow!',
- 'Cool!',
- 'Awesome!',
- 'Toon-tastic!']
+RewardPanelCongratsStrings = ['YAY! YOU DID IT!',
+ 'GROUNDED GROUNDED GROUNDED!',
+ 'SUING!!!!!',
+ 'DORA!!!!',
+ 'HAMBURGERS!!!!!!!!!',
+ 'WEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE!']
 RewardPanelNewGag = 'New %(gagName)s gag for %(avName)s!'
 RewardPanelUberGag = '%(avName)s earned the %(gagName)s gag with %(exp)s experience points!'
 RewardPanelEndTrack = 'Yay! %(avName)s has reached the end of the %(gagName)s Gag Track!'
 RewardPanelMeritsMaxed = 'Maxed'
-RewardPanelMeritBarLabels = ['Stock Options',
- 'Jury Notices',
- 'Cogbucks',
- 'Merits']
+RewardPanelMeritBarLabels = ['Pizza',
+ 'Chicken',
+ 'Medicine',
+ 'Fashion Tickets']
 RewardPanelMeritAlert = 'Ready for promotion!'
 RewardPanelCogPart = 'You gained a Cog disguise part!'
 RewardPanelPromotion = 'Ready for promotion in %s  track!'
@@ -6611,183 +6611,30 @@ TIP_KARTING = 6
 TIP_GOLF = 7
 TipTitle = 'TOON TIP:'
 TipDict = {TIP_NONE: ('',),
- TIP_GENERAL: ('Quickly check your ToonTask progress by holding down the "End" key.',
-               'Quickly check your Gag page by holding down the "Home" key.',
-               'Open your Friends List by pressing the "F7" key.',
-               'Open or close your Shticker Book by pressing the "F8" key.',
-               'You can look up by pressing the "Page Up" key and look down by pressing the "Page Down" key.',
-               'Press the "Control" key to jump.',
-               'Press the "F9" key to take a screenshot, which will be saved in your Toontown Stride folder on your computer.',
-               'You can change your screen resolution, adjust audio, and control other options on the Options Page in the Shticker Book.',
-               "Try on your friend's clothing at the closet in their house.",
-               'You can go to your house using the "Go Home" button on your map.',
-               'Every time you turn in a completed ToonTask your Laff points are automatically refilled.',
-               'You can browse the selection at Clothing Stores even without a clothing ticket.',
-               'Rewards for some ToonTasks allow you to carry more gags and Jellybeans.',
-               'You can have up to 50 friends on your Friends List.',
-               'Some ToonTask rewards let you teleport to playgrounds in Toontown by using the Map Page in the Shticker Book.',
-               'Increase your Laff points in the Playgrounds by collecting treasures like stars and ice cream cones.',
-               'To heal quickly after a battle, go to your estate and play with your Doodle.',
-               'Change to different views of your Toon by pressing the Tab Key.',
-               'Sometimes you can find several different ToonTasks offered for the same reward. Shop around!',
-               'Finding friends with similar ToonTasks is a fun way to progress through the game.',
-               'You never need to save your Toontown progress. The Toontown Stride servers continually save all the necessary information.',
-               'You can whisper to other Toons either by clicking on them or by selecting them from your Friends List.',
-               'Some SpeedChat phrases play emotion animations on your Toon.',
-               'If the area you are in is crowded, try changing Districts. Go to the District Page in the Shticker Book and select a different one.',
-               'If you actively rescue buildings you will get a bronze, silver, or gold star above your Toon.',
-               'If you rescue enough buildings to get a star above your head you may find your name on the blackboard in a Toon HQ.',
-               'Rescued buildings are sometimes recaptured by the Cogs. The only way to keep your star is to go out and rescue more buildings!',
-               'The names of your True Friends will appear in Blue.',
-               'See if you can collect all the fish in Toontown!',
-               'Different ponds hold different fish. Try them all!',
-               'When your fishing bucket is full sell your fish to the Fishermen in the Playgrounds.',
-               'You can sell your fish to the Fishermen or inside Pet Shops.',
-               'Stronger fishing rods catch heavier fish but cost more Jellybeans to use.',
-               'You can purchase stronger fishing rods in the Cattlelog.',
-               'Heavier fish are worth more Jellybeans to the Pet Shop.',
-               'Rare fish are worth more Jellybeans to the Pet Shop.',
-               'You can sometimes find bags of Jellybeans while fishing.',
-               'Some ToonTasks require fishing items out of the ponds.',
-               'Fishing ponds in the Playgrounds have different fish than ponds on the streets.',
-               'Some fish are really rare. Keep fishing until you collect them all!',
-               'The pond at your estate has fish that can only be found there.',
-               'For every 10 species you catch, you will get a fishing trophy!',
-               'You can see what fish you have collected in your Shticker Book.',
-               'Some fishing trophies reward you with a Laff boost.',
-               'Fishing is a good way to earn more Jellybeans.',
-               'Adopt a Doodle at the Pet Shop!',
-               'Pet Shops get new Doodles to sell every day.',
-               'Visit the Pet Shops every day to see what new Doodles they have.',
-               'Different neighborhoods have different Doodles offered for adoption.',
-               "Show off your stylin' ride and turbo-boost your Laff limit at Goofy Speedway.",
-               'Enter Goofy Speedway through the tire-shaped tunnel in Toontown Central Playground.',
-               'Earn Laff points at Goofy Speedway.',
-               'Goofy Speedway has six different race tracks. '),
- TIP_STREET: ('There are four types of Cogs: Lawbots, Cashbots, Sellbots, and Bossbots.',
-              'Each Gag Track has different amounts of accuracy and damage.',
-              'Sound gags will affect all Cogs but will wake up any lured Cogs.',
-              'Defeating Cogs in strategic order can greatly increase your chances of winning battles.',
-              'The Toon-Up Gag Track lets you heal other Toons in battle.',
-              'Gag experience points are doubled during a Cog Invasion!',
-              'Multiple Toons can team up and use the same Gag Track in battle to get bonus Cog damage.',
-              'In battle, gags are used in order from top to bottom as displayed on the Gag Menu.',
-              'The row of circular lights over Cog Building elevators show how many floors will be inside.',
-              'Click on a Cog to see more details.',
-              'Using high level gags against low level Cogs will not earn any experience points.',
-              'A gag that will earn experience has a blue background on the Gag Menu in battle.',
-              'Gag experience is multiplied when used inside Cog Buildings. Higher floors have higher multipliers.',
-              'When a Cog is defeated, each Toon in that round will get credit for the Cog when the battle is over.',
-              'Each street in Toontown has different Cog levels and types.',
-              'Sidewalks are safe from Cogs.',
-              'On the streets, side doors tell knock-knock jokes when approached.',
-              'Some ToonTasks train you for new Gag Tracks.',
-              'Traps are only useful if you or your friends coordinate using Lure in battle.',
-              'Higher level Lures are less likely to miss.',
-              'Lower level gags have a lower accuracy against high level Cogs.',
-              'Cogs cannot attack once they have been lured in battle.',
-              'When you and your friends defeat a Cog building you are rewarded with portraits inside the rescued Toon Building.',
-              'Using a Toon-Up gag on a Toon with a full Laff meter will not earn Toon-Up experience.',
-              'Cogs will be briefly stunned when hit by any gag. This increases the chance that other gags in the same round will hit.',
-              'Drop gags have low chance of hitting, but accuracy is increased when Cogs are first hit by another gag in the same round.',
-              'When you\'ve defeated enough Cogs, use the "Cog Radar" by clicking the Cog icons on the Cog Gallery page in your Shticker Book.',
-              'During a battle, you can tell which Cog your teammates are attacking by looking at the dashes (-) and Xs.',
-              'During a battle, Cogs have a light on them that displays their health; green is healthy, red is nearly destroyed.',
-              'A maximum of four Toons can battle at once.',
-              'On the street, Cogs are more likely to join a fight against multiple Toons than just one Toon.',
-              'The two most difficult Cogs of each type are only found in buildings.',
-              'Drop gags never work against lured Cogs.',
-              'Cogs tend to attack the Toon that has done them the most damage.',
-              'Sound gags do not get bonus damage against lured Cogs.',
-              'If you wait too long to attack a lured Cog, it will wake up. Higher level lures last longer.',
-              'There are fishing ponds on every street in Toontown. Some streets have unique fish.'),
- TIP_MINIGAME: ('After you fill up your Jellybean jar, any Jellybeans you get from Trolley Games automatically spill over into your bank.',
-                'You can use the arrow keys instead of the mouse in the "Match Jaymo" Trolley Game.',
-                'In the Cannon Game you can use the arrow keys to move your cannon and press the "Control" key to fire.',
-                'In the Ring Game, bonus points are awarded when the entire group successfully swims through its rings.',
-                'A perfect game of Match Jaymo will double your points.',
-                'In the Tug-of-War you are awarded more Jellybeans if you play against a tougher Cog.',
-                'Trolley Game difficulty varies by neighborhood; ' + lToontownCentral + ' has the easiest and ' + lDonaldsDreamland + ' has the hardest.',
-                'Certain Trolley Games can only be played in a group.'),
- TIP_COGHQ: ('You must complete your Sellbot Disguise before visiting the V.P.',
-             'You must complete your Cashbot Disguise before visiting the C.F.O.',
-             'You must complete your Lawbot Disguise before visiting the Chief Justice.',
-             'You can jump on Cog Goons to temporarily disable them.',
-             'Collect Cog Merits by defeating Sellbot Cogs in battle.',
-             'Collect Cogbucks by defeating Cashbot Cogs in battle.',
-             'Collect Jury Notices by defeating Lawbot Cogs in battle.',
-             'Collect Stock Options by defeating Bossbot Cogs in battle.',
-             'You get more Merits, Cogbucks, Jury Notices, or Stock Options from higher level Cogs.',
-             'When you collect enough Cog Merits to earn a promotion, go see the Sellbot V.P.!',
-             'When you collect enough Cogbucks to earn a promotion, go see the Cashbot C.F.O.!',
-             'When you collect enough Jury Notices to earn a promotion, go see the Lawbot Chief Justice!',
-             'When you collect enough Stock Options to earn a promotion, go see the Bossbot C.E.O.!',
-             'You can talk like a Cog when you are wearing your Cog Disguise.',
-             'Up to eight Toons can join together to fight the Sellbot V.P.',
-             'Up to eight Toons can join together to fight the Cashbot C.F.O.',
-             'Up to eight Toons can join together to fight the Lawbot Chief Justice.',
-             'Up to eight Toons can join together to fight the Bossbot C.E.O.',
-             'Inside Cog Headquarters follow stairs leading up to find your way.',
-             'Each time you battle through a Sellbot HQ factory, you will gain one part of your Sellbot Cog Disguise.',
-             'You can check the progress of your Cog Disguise in your Shticker Book.',
-             'You can check your promotion progress on your Disguise Page in your Shticker Book.',
-             'Make sure you have full gags and a full Laff Meter before going to Cog Headquarters.',
-             'As you get promoted, your Cog disguise updates.',
-             'You must defeat the ' + Foreman + ' to recover a Sellbot Cog Disguise part.',
-             "Earn Cashbot disguise suit parts as rewards for completing ToonTasks in Donald's Dreamland.",
-             'Cashbots manufacture and distribute their currency, Cogbucks, in three Mints - Coin, Dollar and Bullion.',
-             'Wait until the C.F.O. is dizzy to throw a safe, or he will use it as a helmet! Hit the helmet with another safe to knock it off.',
-             'Earn Lawbot disguise suit parts as rewards for completing ToonTasks for Professor Flake.',
-             "It pays to be puzzled: the virtual Cogs in Lawbot HQ won't reward you with Jury Notices."),
- TIP_ESTATE: ('Doodles can understand some SpeedChat phrases. Try them!',
-              'Use the "Pet" SpeedChat menu to ask your Doodle to do tricks.',
-              "You can teach Doodles tricks with training lessons from Clarabelle's Cattlelog.",
-              'Reward your Doodle for doing tricks.',
-              "If you visit a friend's estate, your Doodle will come too.",
-              'Feed your Doodle a Jellybean when it is hungry.',
-              'Click on a Doodle to get a menu where you can Feed, Scratch, and Call him.',
-              'Doodles love company. Invite your friends over to play!',
-              'All Doodles have unique personalities.',
-              'You can return your Doodle and adopt a new one at the Pet Shops.',
-              'When a Doodle performs a trick, the Toons around it heal.',
-              'Doodles become better at tricks with practice. Keep at it!',
-              'More advanced Doodle tricks heal Toons faster.',
-              'Experienced Doodles can perform more tricks before getting tired.',
-              'You can see a list of nearby Doodles in your Friends List.',
-              "Purchase furniture from Clarabelle's Cattlelog to decorate your house.",
-              'The bank inside your house holds extra Jellybeans.',
-              'The closet inside your house holds extra clothes.',
-              "Go to your friend's house and try on his clothes.",
-              "Purchase better fishing rods from Clarabelle's Cattlelog.",
-              'Call Clarabelle using the phone inside your house.',
-              'Clarabelle sells a larger closet that holds more clothing.',
-              'Make room in your closet before using a Clothing Ticket.',
-              'Clarabelle sells everything you need to decorate your house.',
-              'Check your mailbox for deliveries after ordering from Clarabelle.',
-              "Clothing from Clarabelle's Cattlelog takes one hour to be delivered.",
-              "Wallpaper and flooring from Clarabelle's Cattlelog take one hour to be delivered.",
-              "Furniture from Clarabelle's Cattlelog takes a full day to be delivered.",
-              'Store extra furniture in your attic.',
-              'You will get a notice from Clarabelle when a new Cattlelog is ready.',
-              'You will get a notice from Clarabelle when a Cattlelog delivery arrives.',
-              'New Cattlelogs are delivered each week.',
-              'Look for limited-edition holiday items in the Cattlelog.',
-              'Move unwanted furniture to the trash can.',
-              'Some fish, like the Holey Mackerel, are more commonly found in Toon Estates.',
-              'You can invite your friends to your Estate using SpeedChat.',
-              'Did you know the color of your house matches the color of your Pick-A-Toon panel?'),
- TIP_KARTING: ("Buy a Roadster, TUV, or Cruiser kart in Goofy's Auto Shop.",
-               "Customize your kart with decals, rims and more in Goofy's Auto Shop.",
-               'Earn tickets by kart racing at Goofy Speedway.',
-               "Tickets are the only currency accepted at Goofy's Auto Shop.",
-               'Tickets are required as deposits to race.',
-               'A special page in the Shticker Book allows you to customize your kart.',
-               'A special page in the Shticker Book allows you to view records on each track.',
-               'A special page in the Shticker Book allows you to display trophies.',
-               'Screwball Stadium is the easiest track at Goofy Speedway.',
-               'Airborne Acres has the most hills and jumps of any track at Goofy Speedway.',
-               'Blizzard Boulevard is the most challenging track at Goofy Speedway.'),
- TIP_GOLF: ('Press the Tab key to see a top view of the golf course.', 'Press the Up Arrow key to point yourself towards the golf hole.', 'Swinging the club is just like throwing a pie.')}
+ TIP_GENERAL: ('The Pizzabots go up to level 20.',
+               'The Chickenbots go up to level 18.',
+               'Carebots go up to level 16.',
+               'Fashionbots go up to 15.',
+               'If you need any guidence, ask Master Cool Cat.',
+               'Use ~maxtoon to max your Toon.',
+               "Use ~unlimitedgags so you don't lose your gags if you use one.",
+               "~immortal helps so you don't go sad by the Cogs.",
+               "~unites restocks your unites for you.",
+               '~fires gets you pinkslips.',
+               "The Cog facilities are random, don't expect them to be easy.",
+               'There is a chance for 2.0s and 3.0s to be in facilities, be aware!',
+               'The gags have been balenced, but the Cogs have been balenced too.',
+               'The game has been modified so well that you can experience a new game.'),
+ TIP_STREET: ('There are four types of Cogs: Chickenbots, Carebots, Fashionbots, and Pizzabots.'),
+ TIP_MINIGAME: ('THERE IS NOTHING TO SEE HERE!!!!!!!!!!!!!!!!!!!!!!!!!!'),
+ TIP_COGHQ: ('You must complete your Fashionbot Disguise before visiting the Fashion Designer.',
+             'You must complete your Carebot Disguise before visiting the C.F.O.',
+             'You must complete your Pizzabot Disguise before visiting Darth Noah.',
+             'You must complete your Chickenbot Disguise before visiting the Chief.',
+             "The bosses have their own challenge, enjoy them. ^-^"),
+ TIP_ESTATE: ("DOODLES ARE THE BEST! GO BUY ONE OR YOU'RE A HEARTLESS DOODLE HATER!!!!!!!!!!!!!!!!!! >:("),
+ TIP_KARTING: ("Buy a kart, get out there, AND RACE!"),
+ TIP_GOLF: ('GROUNDED GROUNDED GROUNDED GROUNDED GROUNDED!')}
 FishGenusNames = {0: 'Balloon Fish',
  2: 'Cat Fish',
  4: 'Clown Fish',
@@ -6887,14 +6734,14 @@ CogPartNames = ('Upper Left Leg',
  'Lower Right Arm',
  'Right Hand')
 CogPartNamesSimple = ('Upper Torso',)
-SellbotLegFactorySpecMainEntrance = 'Front Entrance'
+SellbotLegFactorySpecMainEntrance = 'Factory Entrance'
 SellbotLegFactorySpecLobby = 'Lobby'
-SellbotLegFactorySpecLobbyHallway = 'Lobby Hallway'
+SellbotLegFactorySpecLobbyHallway = 'Gag Room'
 SellbotLegFactorySpecGearRoom = 'Gear Room'
 SellbotLegFactorySpecBoilerRoom = 'Boiler Room'
-SellbotLegFactorySpecEastCatwalk = 'East Catwalk'
-SellbotLegFactorySpecPaintMixer = 'Paint Mixer'
-SellbotLegFactorySpecPaintMixerStorageRoom = 'Paint Mixer Storage Room'
+SellbotLegFactorySpecEastCatwalk = 'East Pathway Catwalk'
+SellbotLegFactorySpecPaintMixer = 'Paint & Gag Mixer Room'
+SellbotLegFactorySpecPaintMixerStorageRoom = 'Paint Mixer Gag Room'
 SellbotLegFactorySpecWestSiloCatwalk = 'West Silo Catwalk'
 SellbotLegFactorySpecPipeRoom = 'Pipe Room'
 SellbotLegFactorySpecDuctRoom = 'Duct Room'
@@ -6946,20 +6793,20 @@ FishBingoHelpBingo = 'Bingo!'
 FishBingoHelpBlockout = 'Blockout!.  Mark the entire card to win.  You are competing against all the other ponds for a huge jackpot!'
 FishBingoOfferToSellFish = 'Your fish bucket is full. Would you like to sell your fish?'
 FishBingoJackpotWin = 'Win %s Jellybeans!'
-ResistanceToonupMenu = 'Toon-up'
-ResistanceToonupItem = '%s Toon-up'
-ResistanceToonupItemMax = 'Max'
-ResistanceToonupChat = 'Toons of the World, Toon-up!'
-ResistanceRestockMenu = 'Gag-up'
-ResistanceRestockItem = 'Gag-up %s'
-ResistanceRestockItemAll = 'All'
-ResistanceRestockChat = 'Toons of the World, Gag-up!'
-ResistanceMeritsMenu = 'Merits'
-ResistanceMeritsItem = 'Merit-up %s'
-ResistanceMeritsChat = 'Toons of the World, Merit-up!'
-ResistanceMoneyMenu = 'Jellybeans'
-ResistanceMoneyItem = '%s Jellybeans'
-ResistanceMoneyChat = 'Toons of the World, Spend Wisely!'
+ResistanceToonupMenu = 'Heals'
+ResistanceToonupItem = '%s Heals'
+ResistanceToonupItemMax = 'Full'
+ResistanceToonupChat = 'Toons of the World, Heal Up!'
+ResistanceRestockMenu = 'Restock'
+ResistanceRestockItem = 'Restock %s'
+ResistanceRestockItemAll = 'EVERYTHING YOU GOT!!!!!!!!!!!!'
+ResistanceRestockChat = 'Toons of the World, Restock!'
+ResistanceMeritsMenu = 'Promotions'
+ResistanceMeritsItem = 'Promotions %s'
+ResistanceMeritsChat = 'Toons of the World, PROMOTIONS!!'
+ResistanceMoneyMenu = 'Money'
+ResistanceMoneyItem = '%s Money'
+ResistanceMoneyChat = 'Toons of the World, FINANCIAL STUFF!!'
 ResistanceTicketsMenu = 'Tickets'
 ResistanceTicketsItem = '%s Tickets'
 ResistanceTicketsChat = 'Toons of the World, Go Race!'
@@ -7263,9 +7110,9 @@ WitnessToonSomeJurors = 'Cool! There are %d Toons in the jury!'
 WitnessToonAllJurors = 'Awesome! All the jurors are Toons!'
 WitnessToonPrepareBattleThree = 'Hurry, touch the witness stand to get evidence.\x07Press the Delete key to throw the evidence at the lawyers, or at the defense pan.'
 WitnessToonCongratulations = "You did it!  Thank you for a spectacular defense!\x07Here, take these papers the Chief Justice left behind.\x07With it you'll be able to summon Cogs from your Cog Gallery page."
-WitnessToonLastPromotion = "\x07Wow, you've reached level %s on your Cog Suit!\x07Cogs don't get promoted higher than that.\x07You can't upgrade your Cog Suit anymore, but you can certainly keep working for the Resistance!"
-WitnessToonHPBoost = "\x07You've done a lot of work for the Resistance.\x07The Toon Council has decided to give you another Laff point. Congratulations!"
-WitnessToonMaxed = '\x07I see that you have a level %s Cog Suit. Very impressive!\x07On behalf of the Toon Council, thank you for coming back to defend more Toons!'
+WitnessToonLastPromotion = "Wow, you've reached level %s on your Cog Suit!\x07Cogs don't get promoted higher than that.\x07You can't upgrade your Cog Suit anymore, but you can certainly keep working for the Resistance!"
+WitnessToonHPBoost = "You've done a lot of work for the Resistance.\x07The Toon Council has decided to give you another Laff point. Congratulations!"
+WitnessToonMaxed = 'I see that you have a level %s Cog Suit. Very impressive!\x07On behalf of the Toon Council, thank you for coming back to defend more Toons!'
 WitnessToonBonus = 'Wonderful! All the lawyers are stunned. Your evidence weight is %s times heavier for %s seconds'
 WitnessToonJuryWeightBonusSingular = {6: 'This is a tough case. You seated %d Toon juror, so your evidence has a bonus weight of %d.',
  7: 'This is a very tough case. You seated %d Toon juror, so your evidence has a bonus weight of %d.',
@@ -7782,50 +7629,50 @@ BoardingTimeWarning = 'Boarding the elevator in '
 BoardingMore = 'more'
 BoardingGoShow = 'Going to\n%s in '
 BoardingGoPreShow = 'Confirming...'
-BossbotBossName = 'C.E.O.'
-BossbotRTWelcome = 'Hello Toons! Welcome to the New C.E.O!'
-BossbotRTRemoveSuit = 'Cog Suits...'
+BossbotBossName = 'Darth Noah'
+BossbotRTWelcome = "Hello Toons! Welcome to Darth Noah's Lair!"
+BossbotRTRemoveSuit = 'Cog suits...'
 BossbotRTFightWaiter = 'You know the drill.'
-BossbotRTWearWaiter = "Good Job Toons!"
-BossbotBossPreTwo1 = "WHERES MY HAMBURGER?"
-BossbotBossPreTwo2 = 'WHERES MY HEADBUTT GUY?'
-BossbotRTServeFood1 = 'Okay, Your the new Cook now.'
-BossbotRTServeFood2 = 'If you serve a cog one time, AND I MEAN ONLY, one time, it will explode.'
-BossbotPhase3Speech1 = "What's happening here?!"
-BossbotPhase3Speech2 = 'These waiters are COMEDY WORLD!!'
-BossbotPhase3Speech3 = 'What are you just standing there for? Get them!!'
-BossbotPhase4Speech1 = 'Grr! Why me?'
-BossbotPhase4Speech2 = "I'll just end them to Jupiter!"
-BossbotRTPhase4Speech1 = 'Oh No! Not Jupiter!'
-BossbotRTPhase4Speech2 = 'By the way, use Bottles to attack him.'
+BossbotRTWearWaiter = "Good Job Toons! You defeated the Waiters!"
+BossbotBossPreTwo1 = "Hello, Cogs. I would like to order."
+BossbotBossPreTwo2 = 'Serve my waiters, with no mayo please.'
+BossbotRTServeFood1 = "Well, it looks like you're the new waiter."
+BossbotRTServeFood2 = 'Serve the Cogs 4 times with them, and they will explode.'
+BossbotPhase3Speech1 = "I SPECIFICALLY SAID NO MAYO ON THE BURGERS!!!!!!!"
+BossbotPhase3Speech2 = 'WHY! DO THE HAMBURGERS! HAVE! MAYO!??!?!'
+BossbotPhase3Speech3 = 'Eliminate them from this office!!!'
+BossbotPhase4Speech1 = 'OH that does it! I had enough!'
+BossbotPhase4Speech2 = "This battle ends here! And now!! I'll send you straight to Jupiter!"
+BossbotRTPhase4Speech1 = "Oh no, he's very angry now..."
+BossbotRTPhase4Speech2 = 'Listen, we have no time to talk, finish him with anything you got! I know you can do it!'
 BossbotPitcherLeave = 'Leave Bottle'
 BossbotPitcherLeaving = 'Leaving Bottle'
 BossbotPitcherAdvice = 'Use the left and right keys to rotate.\nHold down Ctrl increase power.\nRelease Ctrl to fire.'
 BossbotGolfSpotLeave = 'Leave Golf Ball'
 BossbotGolfSpotLeaving = 'Leaving Golf Ball'
 BossbotGolfSpotAdvice = 'Use the left and right keys to rotate.\nCtrl to fire.'
-BossbotRewardSpeech1 = "What! How did I fail?"
-BossbotRewardSpeech2 = 'NOOOOOOOOO!'
+BossbotRewardSpeech1 = "WHAT! NO! NOT THIS!"
+BossbotRewardSpeech2 = 'YOU STINK!!!!!!!'
 BossbotRTCongratulations = "You did it!  You've demoted the C.E.O.!\x07Here, take these pink slips the C.E.O. left behind.\x07With it you'll be able to fire Cogs in a battle."
 BossbotRTHPBoost = "\x07You've done a lot of work for the Resistance.\x07The Toon Council has decided to give you another Laff point. Congratulations!"
 BossbotRTMaxed = '\x07I see that you have a level %s Cog Suit. Very impressive!\x07On behalf of the Toon Council, thank you for coming back to defend more Toons!'
 BossbotRTLastPromotion = "\x07Wow, you've reached level %s on your Cog Suit!\x07Cogs don't get promoted higher than that.\x07You can't upgrade your Cog Suit anymore, but you can certainly keep working for the Resistance!"
 BossRTKeyReward = '\x07By the way, thanks to your exquisite performance, the Toon Council has decided to offer to you a Cog Nation Crate key!\x07Using this, you will be able to open the crates you have earned in the cog factories.'
-GolfAreaAttackTaunt = 'STRIKE!!!'
-OvertimeAttackTaunts = ["It's time for Ravenge.", "Enrage Time!"]
-ElevatorBossBotBoss = 'Bossbot Clubhouse'
-ElevatorBossBotCourse0 = 'The Front Three'
-ElevatorBossBotCourse1 = 'The Middle Six'
-ElevatorBossBotCourse2 = 'The Back Nine'
-ElevatorCashBotBoss = 'Cashbot Vault'
-ElevatorCashBotMint0 = 'Coin Mint'
-ElevatorCashBotMint1 = 'Dollar Mint'
-ElevatorCashBotMint2 = 'Bullion Mint'
-ElevatorSellBotBoss = 'Sellbot Towers'
-ElevatorSellBotFactory0 = 'Front Entrance'
-ElevatorSellBotFactory1 = 'Side Entrance'
-ElevatorSellBotFactory2 = 'Megacorp Entrance'
-ElevatorLawBotBoss = 'Lawbot Courthouse'
+GolfAreaAttackTaunt = 'AHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'
+OvertimeAttackTaunts = ["You asked for it, time to disable room A.", "You have nothing, room B is going bye bye!"]
+ElevatorBossBotBoss = "Darth Noah's House"
+ElevatorBossBotCourse0 = 'Easy Room'
+ElevatorBossBotCourse1 = 'Medium Room'
+ElevatorBossBotCourse2 = 'Hard Maze'
+ElevatorCashBotBoss = 'Carebot Kindness'
+ElevatorCashBotMint0 = 'Cheap Mint'
+ElevatorCashBotMint1 = 'Expensive Mint'
+ElevatorCashBotMint2 = 'Finance Mint'
+ElevatorSellBotBoss = 'Fashionbot Designers Mall'
+ElevatorSellBotFactory0 = 'Factory Entrance'
+ElevatorSellBotFactory1 = 'Back Entrance'
+ElevatorSellBotFactory2 = 'Master Mode Entrance'
+ElevatorLawBotBoss = 'DefenderBot Room'
 ElevatorLawBotCourse0 = 'Office A'
 ElevatorLawBotCourse1 = 'Office B'
 ElevatorLawBotCourse2 = 'Office C'
@@ -8240,7 +8087,7 @@ SendCogBossTaunts = {
   '',
   '',
   "",
-  'I ',
+  '',
   ''
  ]
 }
@@ -8249,7 +8096,7 @@ VPDeathTaunt = ""
 DirectedAttackBossTaunts = {
  's': [
   "",
-  "K",
+  "",
   "",
   ""
  ],
@@ -8274,7 +8121,7 @@ VPSpinMessages = [
 ]
 JumpBossTaunts = {
  's': [
-  "T",
+  "",
   '',
   "",
   ''

@@ -1,0 +1,16 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x188443C8>}
+__handleAvatarChooserDone: 100000080, 'Duck', ('fsl', 'ms', 'm', 'm', (0.34, 0.82, 0.95, 1.0), (1.0, 1.0, 1.0, 1.0), (0.34, 0.82, 0.95, 1.0), (0.34, 0.82, 0.95, 1.0), 18, 1, 12, 1, 1, 10), 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+__handleAvatarChooserDone: 100000044, 'Noob', ('rll', 'ss', 's', 'm', (0.28, 0.32, 0.72, 1.0), (1.0, 1.0, 1.0, 1.0), (0.28, 0.32, 0.72, 1.0), (0.28, 0.32, 0.72, 1.0), 1, 0, 1, 0, 6, 27), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna

@@ -16,7 +16,7 @@ import math
 
 class DistributedCashbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FSM):
     notify = DirectNotifyGlobal.directNotify.newCategory('DistributedCashbotBossAI')
-    maxGoons = 10
+    maxGoons = 15
     BossName = "CFO"
 
     def __init__(self, air):

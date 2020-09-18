@@ -622,3 +622,169 @@
 {"_time": "2020-09-13 16:55:30Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002074, "_2": ""}
 {"_time": "2020-09-13 16:55:34Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001123, "_2": "1300|20|s|3"}
 {"_time": "2020-09-13 16:55:34Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001124, "_2": ""}
+{"_time": "2020-09-13 16:55:41Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001583, "_2": "5300|27|s|3"}
+{"_time": "2020-09-13 16:55:41Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001584, "_2": ""}
+{"_time": "2020-09-13 16:55:47Eastern Daylight Time", "type": "client-connected", "sender": "Client:1000000001", "remote_address": "127.0.0.1:58956", "local_address": "127.0.0.1:7199"}
+{"_time": "2020-09-13 16:55:47Eastern Daylight Time", "type": "accountLogin", "sender": "AIR:1000000", "_1": 1000000001, "_2": 100000014, "_3": "jedi"}
+{"_time": "2020-09-13 16:55:53Eastern Daylight Time", "type": "avatarChosen", "sender": "AIR:1000000", "_1": 100000070, "_2": 100000014}
+{"_time": "2020-09-13 16:56:03Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002898, "_2": "3200|17|s|4"}
+{"_time": "2020-09-13 16:56:07Eastern Daylight Time", "type": "questTier", "sender": "AIR:401000000", "_1": 100000070, "_2": "50"}
+{"_time": "2020-09-13 16:56:17Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001337, "_2": "5100|16|c|2"}
+{"_time": "2020-09-13 16:56:17Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001338, "_2": ""}
+{"_time": "2020-09-13 16:56:26Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "run", "_6": null}
+{"_time": "2020-09-13 16:56:29Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003645, "_2": "9300|21|l|1"}
+{"_time": "2020-09-13 16:56:29Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003646, "_2": ""}
+{"_time": "2020-09-13 16:56:29Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "unlimitedgags", "_6": "Toggled unlimited gags ON for Cat"}
+{"_time": "2020-09-13 16:56:30Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000248, "_2": ""}
+{"_time": "2020-09-13 16:56:31Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000618, "_2": "2300|22|c|2"}
+{"_time": "2020-09-13 16:56:31Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000619, "_2": ""}
+{"_time": "2020-09-13 16:56:31Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000259, "_2": "2100|52|c|1"}
+{"_time": "2020-09-13 16:56:33Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002839, "_2": "3200|25|m|4"}
+{"_time": "2020-09-13 16:56:33Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002840, "_2": ""}
+{"_time": "2020-09-13 16:56:34Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000782, "_2": ""}
+{"_time": "2020-09-13 16:56:50Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002410, "_2": "4300|45|s|4"}
+{"_time": "2020-09-13 16:56:50Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002411, "_2": ""}
+{"_time": "2020-09-13 16:57:05Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000952, "_2": "1200|19|m|3"}
+{"_time": "2020-09-13 16:57:05Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000953, "_2": ""}
+{"_time": "2020-09-13 16:57:05Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003592, "_2": ""}
+{"_time": "2020-09-13 16:57:15Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003280, "_2": "9100|39|l|4"}
+{"_time": "2020-09-13 16:57:15Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003281, "_2": ""}
+{"_time": "2020-09-13 16:57:18Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003361, "_2": "9200|41|m|1"}
+{"_time": "2020-09-13 16:57:19Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003362, "_2": ""}
+{"_time": "2020-09-13 16:57:21Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003233, "_2": "9100|27|c|1"}
+{"_time": "2020-09-13 16:57:21Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003234, "_2": ""}
+{"_time": "2020-09-13 16:57:26Eastern Daylight Time", "type": "bossBattle", "sender": "AIR:401000000", "_1": 401004168, "_2": "c|BattleOne|[100000070]|unspecified"}
+{"_time": "2020-09-13 16:57:30Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "u"}
+{"_time": "2020-09-13 16:57:32Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000474, "_2": ""}
+{"_time": "2020-09-13 16:57:33Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003044, "_2": "3300|24|l|4"}
+{"_time": "2020-09-13 16:57:33Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003045, "_2": ""}
+{"_time": "2020-09-13 16:57:34Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003462, "_2": "9200|12|m|4"}
+{"_time": "2020-09-13 16:57:34Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003463, "_2": ""}
+{"_time": "2020-09-13 16:57:38Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002700, "_2": "3100|44|c|4"}
+{"_time": "2020-09-13 16:57:38Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002701, "_2": ""}
+{"_time": "2020-09-13 16:57:43Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002191, "_2": "4200|17|c|3"}
+{"_time": "2020-09-13 16:57:43Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002192, "_2": ""}
+{"_time": "2020-09-13 16:57:56Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002875, "_2": ""}
+{"_time": "2020-09-13 16:57:59Eastern Daylight Time", "type": "bossBattle", "sender": "AIR:401000000", "_1": 401004168, "_2": "c|Victory|[100000070]|unspecified"}
+{"_time": "2020-09-13 16:57:59Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "Killceo", "_6": "Killed CEO."}
+{"_time": "2020-09-13 16:58:01Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000970, "_2": "1200|23|m|2"}
+{"_time": "2020-09-13 16:58:01Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000971, "_2": ""}
+{"_time": "2020-09-13 16:58:02Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003432, "_2": "9200|10|m|5"}
+{"_time": "2020-09-13 16:58:02Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003433, "_2": ""}
+{"_time": "2020-09-13 16:58:08Eastern Daylight Time", "type": "cogSuit", "sender": "AIR:401000000", "_1": 100000070, "_2": "0|7|19"}
+{"_time": "2020-09-13 16:58:12Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000153, "_2": "2100|11|l|1"}
+{"_time": "2020-09-13 16:58:17Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001613, "_2": "5300|21|s|3"}
+{"_time": "2020-09-13 16:58:17Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001614, "_2": ""}
+{"_time": "2020-09-13 16:58:18Eastern Daylight Time", "type": "client-disconnected", "sender": "Client:1000000001"}
+{"_time": "2020-09-13 16:58:18Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 100000070, "_2": ""}
+{"_time": "2020-09-13 16:58:27Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001964, "_2": "4100|25|c|3"}
+{"_time": "2020-09-13 16:58:27Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001965, "_2": ""}
+{"_time": "2020-09-13 16:58:46Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003580, "_2": ""}
+{"_time": "2020-09-13 16:58:48Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002156, "_2": "4200|22|l|4"}
+{"_time": "2020-09-13 16:58:48Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002157, "_2": ""}
+{"_time": "2020-09-13 16:58:49Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002913, "_2": ""}
+{"_time": "2020-09-13 16:58:56Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000405, "_2": "2200|14|m|1"}
+{"_time": "2020-09-13 16:59:02Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000305, "_2": "2100|63|c|4"}
+{"_time": "2020-09-13 16:59:03Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003510, "_2": "9200|15|m|1"}
+{"_time": "2020-09-13 16:59:03Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003511, "_2": ""}
+{"_time": "2020-09-13 16:59:07Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001021, "_2": "1300|31|s|3"}
+{"_time": "2020-09-13 16:59:07Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001022, "_2": ""}
+{"_time": "2020-09-13 16:59:07Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003222, "_2": ""}
+{"_time": "2020-09-13 16:59:09Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002732, "_2": "3200|37|s|5"}
+{"_time": "2020-09-13 16:59:09Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002733, "_2": ""}
+{"_time": "2020-09-13 16:59:28Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001153, "_2": "1300|26|m|3"}
+{"_time": "2020-09-13 16:59:28Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001154, "_2": ""}
+{"_time": "2020-09-13 16:59:29Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001566, "_2": ""}
+{"_time": "2020-09-13 16:59:29Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003209, "_2": "9100|20|c|1"}
+{"_time": "2020-09-13 16:59:29Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003210, "_2": ""}
+{"_time": "2020-09-13 16:59:40Eastern Daylight Time", "type": "client-connected", "sender": "Client:1000000002", "remote_address": "127.0.0.1:59010", "local_address": "127.0.0.1:7199"}
+{"_time": "2020-09-13 16:59:40Eastern Daylight Time", "type": "accountLogin", "sender": "AIR:1000000", "_1": 1000000002, "_2": 100000014, "_3": "jedi"}
+{"_time": "2020-09-13 16:59:41Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003257, "_2": "9100|33|l|4"}
+{"_time": "2020-09-13 16:59:44Eastern Daylight Time", "type": "avatarChosen", "sender": "AIR:1000000", "_1": 100000070, "_2": 100000014}
+{"_time": "2020-09-13 16:59:52Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002892, "_2": "3200|28|s|5"}
+{"_time": "2020-09-13 16:59:52Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002893, "_2": ""}
+{"_time": "2020-09-13 16:59:53Eastern Daylight Time", "type": "questTier", "sender": "AIR:401000000", "_1": 100000070, "_2": "50"}
+{"_time": "2020-09-13 16:59:54Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000322, "_2": "2100|66|c|3"}
+{"_time": "2020-09-13 16:59:54Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000323, "_2": ""}
+{"_time": "2020-09-13 17:00:02Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "run", "_6": null}
+{"_time": "2020-09-13 17:00:04Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002180, "_2": "4200|33|s|4"}
+{"_time": "2020-09-13 17:00:06Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "unlimitedgags", "_6": "Toggled unlimited gags ON for Cat"}
+{"_time": "2020-09-13 17:00:07Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000218, "_2": "2100|38|c|2"}
+{"_time": "2020-09-13 17:00:11Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000194, "_2": "2100|26|l|2"}
+{"_time": "2020-09-13 17:00:11Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000195, "_2": ""}
+{"_time": "2020-09-13 17:00:11Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "ghost", "_6": "Ghost mode is enabled."}
+{"_time": "2020-09-13 17:00:17Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003561, "_2": "9300|2|l|1"}
+{"_time": "2020-09-13 17:00:17Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003562, "_2": ""}
+{"_time": "2020-09-13 17:00:31Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002961, "_2": ""}
+{"_time": "2020-09-13 17:00:38Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "ghost", "_6": "Ghost mode is disabled."}
+{"_time": "2020-09-13 17:00:56Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002966, "_2": "3300|29|l|5"}
+{"_time": "2020-09-13 17:00:56Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002967, "_2": ""}
+{"_time": "2020-09-13 17:01:01Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002306, "_2": ""}
+{"_time": "2020-09-13 17:01:11Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001508, "_2": "5200|18|s|3"}
+{"_time": "2020-09-13 17:01:11Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001509, "_2": ""}
+{"_time": "2020-09-13 17:01:19Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001992, "_2": "4100|38|c|3"}
+{"_time": "2020-09-13 17:01:19Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001993, "_2": ""}
+{"_time": "2020-09-13 17:01:34Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003492, "_2": "9200|59|m|4"}
+{"_time": "2020-09-13 17:01:34Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003493, "_2": ""}
+{"_time": "2020-09-13 17:01:53Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000158, "_2": "2100|16|l|3"}
+{"_time": "2020-09-13 17:01:53Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000159, "_2": ""}
+{"_time": "2020-09-13 17:01:56Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002628, "_2": "3100|34|c|3"}
+{"_time": "2020-09-13 17:01:56Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002629, "_2": ""}
+{"_time": "2020-09-13 17:02:05Eastern Daylight Time", "type": "bossBattle", "sender": "AIR:401000000", "_1": 401004401, "_2": "l|BattleOne|[100000070]|1323"}
+{"_time": "2020-09-13 17:02:06Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001367, "_2": "5100|21|c|2"}
+{"_time": "2020-09-13 17:02:06Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001368, "_2": ""}
+{"_time": "2020-09-13 17:02:07Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002138, "_2": "4200|16|l|3"}
+{"_time": "2020-09-13 17:02:07Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002139, "_2": ""}
+{"_time": "2020-09-13 17:02:16Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001810, "_2": "4100|18|m|4"}
+{"_time": "2020-09-13 17:02:16Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001811, "_2": ""}
+{"_time": "2020-09-13 17:02:17Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "I'm blowing you up to the Moon!"}
+{"_time": "2020-09-13 17:02:36Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001081, "_2": "1300|11|m|2"}
+{"_time": "2020-09-13 17:02:36Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001082, "_2": ""}
+{"_time": "2020-09-13 17:02:51Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003268, "_2": "9100|34|l|4"}
+{"_time": "2020-09-13 17:02:51Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003269, "_2": ""}
+{"_time": "2020-09-13 17:02:53Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001578, "_2": ""}
+{"_time": "2020-09-13 17:02:58Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002394, "_2": ""}
+{"_time": "2020-09-13 17:03:05Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000568, "_2": "2300|14|c|3"}
+{"_time": "2020-09-13 17:03:06Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000188, "_2": "2100|25|c|1"}
+{"_time": "2020-09-13 17:03:06Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000189, "_2": ""}
+{"_time": "2020-09-13 17:03:25Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002527, "_2": "3100|11|c|5"}
+{"_time": "2020-09-13 17:03:26Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002528, "_2": ""}
+{"_time": "2020-09-13 17:03:28Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001361, "_2": "5100|20|m|3"}
+{"_time": "2020-09-13 17:03:28Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001362, "_2": ""}
+{"_time": "2020-09-13 17:03:32Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000823, "_2": "1100|19|c|3"}
+{"_time": "2020-09-13 17:03:32Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000824, "_2": ""}
+{"_time": "2020-09-13 17:03:34Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002640, "_2": "3100|36|c|4"}
+{"_time": "2020-09-13 17:03:34Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002641, "_2": ""}
+{"_time": "2020-09-13 17:03:37Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002539, "_2": "3100|12|m|4"}
+{"_time": "2020-09-13 17:03:37Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401002540, "_2": ""}
+{"_time": "2020-09-13 17:03:49Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003456, "_2": "9200|37|m|4"}
+{"_time": "2020-09-13 17:03:49Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003457, "_2": ""}
+{"_time": "2020-09-13 17:03:59Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001822, "_2": "4100|22|c|5"}
+{"_time": "2020-09-13 17:03:59Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001823, "_2": ""}
+{"_time": "2020-09-13 17:04:05Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000450, "_2": "2200|28|s|1"}
+{"_time": "2020-09-13 17:04:05Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000451, "_2": ""}
+{"_time": "2020-09-13 17:04:07Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001998, "_2": "4100|39|m|5"}
+{"_time": "2020-09-13 17:04:07Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001999, "_2": ""}
+{"_time": "2020-09-13 17:04:17Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "skipcj", "_6": null}
+{"_time": "2020-09-13 17:04:19Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "Hp 228", "_6": "Set your HP to: 228"}
+{"_time": "2020-09-13 17:04:48Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001307, "_2": "5100|10|s|5"}
+{"_time": "2020-09-13 17:04:48Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001308, "_2": ""}
+{"_time": "2020-09-13 17:05:02Eastern Daylight Time", "type": "lawbotBossSettings", "sender": "AIR:401000000", "_1": 401004401, "_2": "l|8|22|8|10|4"}
+{"_time": "2020-09-13 17:05:02Eastern Daylight Time", "type": "bossBattle", "sender": "AIR:401000000", "_1": 401004401, "_2": "l|BattleThree|[100000070]|1323"}
+{"_time": "2020-09-13 17:05:05Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000242, "_2": ""}
+{"_time": "2020-09-13 17:05:12Eastern Daylight Time", "type": "chat-said", "sender": "AIR:1000000", "_1": 100000070, "_2": "555"}
+{"_time": "2020-09-13 17:05:20Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000976, "_2": "1200|24|m|3"}
+{"_time": "2020-09-13 17:05:20Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000977, "_2": ""}
+{"_time": "2020-09-13 17:05:23Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003020, "_2": "3300|11|l|5"}
+{"_time": "2020-09-13 17:05:23Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003021, "_2": ""}
+{"_time": "2020-09-13 17:05:32Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000176, "_2": "2100|21|c|2"}
+{"_time": "2020-09-13 17:05:32Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401000177, "_2": ""}
+{"_time": "2020-09-13 17:05:32Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001472, "_2": "5200|12|m|4"}
+{"_time": "2020-09-13 17:05:32Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001473, "_2": ""}
+{"_time": "2020-09-13 17:05:36Eastern Daylight Time", "type": "b3Info", "sender": "AIR:401000000", "_1": 401004401, "_2": "0|0.56|1|1|0|8|22|8|10|4|0|2|[208.0]|{100000070: 1}"}
+{"_time": "2020-09-13 17:05:36Eastern Daylight Time", "type": "bossBattle", "sender": "AIR:401000000", "_1": 401004401, "_2": "l|Victory|[100000070]|1323"}
+{"_time": "2020-09-13 17:05:36Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "killcj", "_6": "Killed CJ."}
+{"_time": "2020-09-13 17:05:37Eastern Daylight Time", "type": "magic-word", "sender": "AIR:401000000", "_1": 100000070, "_2": 700, "_3": 100000070, "_4": 700, "_5": "Hp 228", "_6": "Set your HP to: 228"}
+{"_time": "2020-09-13 17:05:50Eastern Daylight Time", "type": "cogSuit", "sender": "AIR:401000000", "_1": 100000070, "_2": "1|7|19"}
+{"_time": "2020-09-13 17:06:01Eastern Daylight Time", "type": "client-disconnected", "sender": "Client:1000000002"}
+{"_time": "2020-09-13 17:06:01Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 100000070, "_2": ""}

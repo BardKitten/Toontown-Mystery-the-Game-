@@ -49,5 +49,5 @@ suitProperties = {'f': (4.0 / cSize, SuitDNA.corpPolyColor, ['gladhander'], '', 
                   'ms': (4.75 / aSize, SuitDNA.salesPolyColor, ['numbercruncher'], 'halloween_name-dropper.jpg', 6.7),
                   'tf': (5.25 / aSize, SuitDNA.salesPolyColor, ['twoface'], 'middleman.jpg', 6.95),
                   'm': (5.75 / aSize, SuitDNA.salesPolyColor, ['yesman'], 'blood-sucker.jpg', 7.61),
-                  'mh': (7.0 / aSize, SuitDNA.salesPolyColor, ['yesman'], '', 8.95),
+                  'mh': (7.0 / aSize, SuitDNA.salesPolyColor, ['yesman', 'glasses_shades'], '', 8.95),
                   }

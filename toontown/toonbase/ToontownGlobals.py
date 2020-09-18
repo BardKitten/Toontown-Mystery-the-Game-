@@ -6,7 +6,7 @@ MapHotkey = 'alt'
 CogHQCameraFov = 60.0
 BossBattleCameraFov = 72.0
 MakeAToonCameraFov = 48.0
-CogdoFov = 56.9
+CogdoFov = 45.0
 VPElevatorFov = 53.0
 CFOElevatorFov = 43.0
 CJElevatorFov = 59.0
@@ -101,9 +101,16 @@ MaxQuestCarryLimit = 4
 GravityValue = 32.174
 MaxCogSuitLevel = 20 - 1
 CogSuitHPLevels = (9 - 1,
+ 10 - 1,
+ 11 - 1,
+ 12 - 1,
+ 13 - 1,
  14 - 1,
+ 15 - 1,
  16 - 1,
+ 17 - 1,
  18 - 1,
+ 19 - 1,
  20 - 1)
 setInterfaceFont(TTLocalizer.InterfaceFont)
 setSignFont(TTLocalizer.SignFont)
@@ -1161,56 +1168,56 @@ LawbotBossLawyerToPanTime = 2.5
 LawbotBossLawyerChanceToAttack = 50
 LawbotBossLawyerHeal = 1
 LawbotBossLawyerStunTime = 20
-LawbotBossDifficultySettings = [(38,
+LawbotBossDifficultySettings = [(95,
+  1,
+  2,
+  1,
+  0,
+  0),
+ (90,
+  2,
+  3,
+  1,
+  0,
+  0),
+ (85,
+  3,
   4,
-  8,
   1,
   0,
   0),
- (36,
+ (80,
+  4,
   5,
-  8,
-  1,
-  0,
-  0),
- (34,
-  5,
-  8,
-  1,
-  0,
-  0),
- (32,
-  6,
-  8,
   2,
   0,
   0),
- (30,
+ (75,
+  5,
   6,
-  8,
   2,
   0,
   0),
- (28,
+ (70,
+  6,
   7,
-  8,
   3,
   0,
   0),
- (26,
+ (65,
   7,
-  9,
+  8,
   3,
   1,
   1),
- (24,
+ (60,
   8,
   9,
   4,
   1,
   1),
- (22,
-  8,
+ (50,
+  9,
   10,
   4,
   1,
@@ -1342,8 +1349,8 @@ LawbotBossChairRow1PosA = (59.3, -18.2, 14.05)
 LawbotBossChairRow2PosB = (75.1, 48, 28.2)
 LawbotBossChairRow2PosA = (75.1, -18.2, 28.2)
 LawbotBossCannonBallMax = 24
-LawbotBossJuryBoxStartPos = (94, -8, 5)
-LawbotBossJuryBoxRelativeEndPos = (30, 0, 12.645)
+LawbotBossJuryBoxStartPos = (0, 0, 0)
+LawbotBossJuryBoxRelativeEndPos = (0, 0, 0)
 LawbotBossJuryBoxMoveTime = 70
 LawbotBossJurorsForBalancedScale = 6
 LawbotBossDamagePerJuror = 100
@@ -1356,7 +1363,7 @@ LawbotBossWitnessEpiloguePosHpr = (-3,
  180,
  0,
  0)
-LawbotBossChanceForTaunt = 20
+LawbotBossChanceForTaunt = 100
 LawbotBossBonusWaitTime = 10
 LawbotBossBonusDuration = 45
 LawbotBossBonusToonup = 30
@@ -1461,9 +1468,9 @@ BossbotElevCamPosHpr = (0,
  0,
  0)
 BossbotFoodModelScale = 1
-BossbotNumFoodToExplode = 1
-BossbotBossServingDuration = 500
-BossbotPrepareBattleThreeDuration = 5
+BossbotNumFoodToExplode = 4
+BossbotBossServingDuration = 850
+BossbotPrepareBattleThreeDuration = 20
 WaiterBattleAPosHpr = (20,
  -400,
  0,
@@ -1497,36 +1504,36 @@ DinerBattleBPosHpr = (-20,
 BossbotBossMaxDamage = 1000
 BossbotMaxSpeedDamage = 30
 BossbotSpeedRecoverRate = 20
-BossbotBossDifficultySettings = [(8,
-  4,
+BossbotBossDifficultySettings = [(6,
+  8,
   11,
   3,
-  30,
-  25),
- (9,
-  5,
-  12,
-  6,
-  28,
-  26),
- (10,
-  6,
-  11,
-  7,
-  26,
-  27),
+  15,
+  10),
  (8,
   8,
   12,
+  6,
+  15,
+  10),
+ (10,
   8,
-  24,
-  28),
- (13,
-  5,
+  11,
+  7,
+  15,
+  10),
+ (12,
+  8,
+  12,
+  8,
+  15,
+  10),
+ (14,
+  8,
   12,
   9,
-  22,
-  29)]
+  15,
+  10)]
 BossbotRollSpeedMax = 22
 BossbotRollSpeedMin = 7.5
 BossbotTurnSpeedMax = 60

@@ -1,0 +1,386 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x174343C8>}
+__handleAvatarChooserDone: 100000070, 'Cat', ('csl', 'ms', 'm', 'm', (0.3, 0.3, 0.35, 1.0), (0.28, 0.32, 0.72, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 3
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(0, 6, 1.5)
+### newVec3 =  LVector3f(0, 6, 0)
+### newVec3 =  LVector3f(0, 6, 0.375)
+### newVec3 =  LVector3f(0, 6, 0)
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(0, 6, 1.5)
+### newVec3 =  LVector3f(0, 6, 0)
+### newVec3 =  LVector3f(0, 6, 0.375)
+### newVec3 =  LVector3f(0, 6, 0)
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+spec = {'parentEntId': 10002, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(0, 6, 1.5)
+### newVec3 =  LVector3f(0, 6, 0)
+### newVec3 =  LVector3f(0, 6, 0.375)
+### newVec3 =  LVector3f(0, 6, 0)
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+spec = {'parentEntId': 10005, 'pos': LPoint3f(0, 0, 0)}
+h = None
+chooseFireOpenShot <function avatarBehindShot at 0x0F76D8B0>
+chooseFireOpenShot <function allGroupLowShot at 0x0F76D4B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+### newVec3 =  LVector3f(-1.99998, 6.3, 1.5)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0.375)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0)
+### newVec3 =  LVector3f(-1.99998, 6.3, 1.5)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0.375)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0)
+hit! 0.725557804108
+hit! 0.88100284338
+hit! 0.726607978344
+hit! 0.77451634407
+hit! 0.286435246468
+hit! 0.945243775845
+hit! 0.342409342527
+--not hard enough: 0.0311622414738
+hit! 0.119359388947
+hit! 0.898294687271
+hit! 0.695796847343
+hit! 0.533697903156
+hit! 0.477692872286
+hit! 0.675994694233
+hit! 0.797537505627
+hit! 0.723462164402
+hit! 0.964504182339
+hit! 0.946494102478
+hit! 0.974238812923
+hit! 0.984435677528
+hit! 0.465780436993
+hit! 0.242155045271
+hit! 0.636387109756
+hit! 0.914094150066
+hit! 0.558476865292
+hit! 0.776066184044
+hit! 0.874257147312
+hit! 0.802080333233
+hit! 0.790367424488
+hit! 0.89877641201
+hit! 0.877369105816
+hit! 0.96786826849
+hit! 0.978840172291
+hit! 0.900482177734
+hit! 0.982471346855
+hit! 0.850771248341
+hit! 0.954490959644
+hit! 0.873353302479
+hit! 0.83007723093
+hit! 0.986154675484
+hit! 0.461864769459
+hit! 0.720681488514
+hit! 0.373525321484
+hit! 0.869802951813
+hit! 0.599166274071
+hit! 0.879504144192
+hit! 0.768100976944
+hit! 0.346061825752
+hit! 0.922811746597
+hit! 0.797722816467
+hit! 0.725551903248
+hit! 0.988784134388
+hit! 0.71501749754
+hit! 0.897685647011
+hit! 0.506854116917
+hit! 0.988847374916
+hit! 0.651277244091
+hit! 0.861502707005
+hit! 0.928216695786
+hit! 0.964284896851
+--not hard enough: -0.00958133023232
+hit! 0.953539729118
+hit! 0.664829730988
+hit! 0.968625426292
+hit! 0.949760437012
+hit! 0.993815660477
+hit! 0.723811864853
+hit! 0.62029337883
+hit! 0.846938073635
+hit! 0.961672306061
+hit! 0.998955249786
+hit! 0.958279252052
+hit! 0.736561834812
+hit! 0.174155235291
+hit! 0.299843966961
+hit! 0.284545898438
+hit! 0.969696819782
+hit! 0.464101433754
+hit! 0.624061584473
+hit! 0.99502658844
+hit! 0.71716940403
+hit! 0.712767839432
+hit! 0.457142472267
+hit! 0.923610329628
+hit! 0.901423096657
+hit! 0.284610241652
+hit! 0.838722407818
+hit! 0.672683477402
+hit! 0.983676195145
+hit! 0.940754950047
+hit! 0.494436234236
+hit! 0.35406050086
+hit! 0.667648911476
+hit! 0.570165514946
+hit! 0.917427957058
+hit! 0.906250059605
+hit! 0.815640211105
+hit! 0.97276109457
+hit! 0.544820547104
+hit! 0.250555485487
+hit! 0.892659783363
+hit! 0.897772431374
+hit! 0.969548881054
+hit! 0.909303426743
+hit! 0.883054733276
+hit! 0.602390289307
+hit! 0.582903862
+hit! 0.67190015316
+hit! 0.942988693714
+--not hard enough: 0.39573892951
+--not hard enough: 0.0815259367228
+hit! 0.724874138832
+hit! 0.875904381275
+hit! 0.816459476948
+hit! 0.809802532196
+hit! 0.785357117653
+hit! 0.994910478592
+hit! 0.1726282686
+hit! 0.938796103001
+hit! 0.556658506393
+hit! 0.453730762005
+--not hard enough: 0.269525647163
+hit! 0.735396921635
+hit! 0.653495788574
+hit! 0.895520031452
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 11.3, 1.5)
+### newVec3 =  LVector3f(-2, 11.3, 0)
+### newVec3 =  LVector3f(-2, 11.3, 0.375)
+### newVec3 =  LVector3f(-2, 11.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+chooseFireOpenShot <function avatarBehindShot at 0x0F76D8B0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x0F76DCF0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+chooseFireOpenShot <function allGroupLowShot at 0x0F76D4B0>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x0F76DD30>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x0F76D770>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x0F76D630>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarBehindShot at 0x0F76D8B0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x0F76DCF0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+chooseFireOpenShot <function avatarBehindShot at 0x0F76D8B0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x0F76DCF0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x0F76D770>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x0F76D630>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 11.3, 1.5)
+### newVec3 =  LVector3f(2, 11.3, 0)
+### newVec3 =  LVector3f(2, 11.3, 0.375)
+### newVec3 =  LVector3f(2, 11.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+chooseFireOpenShot <function allGroupLowShot at 0x0F76D4B0>
+chooseFireOpenShot <function allGroupLowShot at 0x0F76D4B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 11.3, 1.5)
+### newVec3 =  LVector3f(2, 11.3, 0)
+### newVec3 =  LVector3f(2, 11.3, 0.375)
+### newVec3 =  LVector3f(2, 11.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 5.3, 1.5)
+### newVec3 =  LVector3f(2, 5.3, 0)
+### newVec3 =  LVector3f(2, 5.3, 0.375)
+### newVec3 =  LVector3f(2, 5.3, 0)
+### newVec3 =  LVector3f(0, 5, 1.5)
+### newVec3 =  LVector3f(0, 5, 0)
+### newVec3 =  LVector3f(0, 5, 0.375)
+### newVec3 =  LVector3f(0, 5, 0)
+### newVec3 =  LVector3f(2, 10.3, 1.5)
+### newVec3 =  LVector3f(2, 10.3, 0)
+### newVec3 =  LVector3f(2, 10.3, 0.375)
+### newVec3 =  LVector3f(2, 10.3, 0)
+### newVec3 =  LVector3f(2, 5.3, 1.5)
+### newVec3 =  LVector3f(2, 5.3, 0)
+### newVec3 =  LVector3f(2, 5.3, 0.375)
+### newVec3 =  LVector3f(2, 5.3, 0)

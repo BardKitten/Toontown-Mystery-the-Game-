@@ -39,8 +39,8 @@ class DistributedBanquetTable(DistributedObject.DistributedObject, FSM.FSM, Banq
     else:
         BASELINE_KEY_RATE = 6
     UPDATE_KEY_PRESS_RATE_TASK = 'BanquetTableUpdateKeyPressRateTask'
-    YELLOW_POWER_THRESHOLD = 0.75
-    RED_POWER_THRESHOLD = 0.97
+    YELLOW_POWER_THRESHOLD = 4
+    RED_POWER_THRESHOLD = 5
 
     def __init__(self, cr):
         DistributedObject.DistributedObject.__init__(self, cr)

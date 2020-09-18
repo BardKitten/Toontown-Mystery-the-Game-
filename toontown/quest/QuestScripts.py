@@ -90,7 +90,7 @@ LAFFMETER 0 15
 LOCAL_CHAT_CONFIRM npc QuestScript101_10 "CFReversed"
 FUNCTION npc "normalEyes"
 FUNCTION npc "blinkEyes"
-LAFFMETER 15 15
+LAFFMETER 70 70
 WRTREPARENTTO laffMeter bottomLeft
 WAIT 0.5
 LERP_POS laffMeter 0.153 0.0 0.13 0.6

@@ -10,7 +10,7 @@ from toontown.quest import TrackChoiceGui
 from toontown.toonbase import TTLocalizer
 
 
-ChoiceTimeout = 20
+ChoiceTimeout = 45
 
 
 class DistributedNPCToon(DistributedNPCToonBase):
