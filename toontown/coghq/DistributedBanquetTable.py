@@ -63,7 +63,7 @@ class DistributedBanquetTable(DistributedObject.DistributedObject, FSM.FSM, Banq
         self.changeSeq = 0
         self.lastChangeSeq = 0
         self.pitcherAdviceLabel = None
-        self.fireLength = 100
+        self.fireLength = 500
         self.fireTrack = None
         self.hitObject = None
         self.setupPowerBar()
