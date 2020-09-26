@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 # Toontown Mystery
+=======
+>>>>>>> Stashed changes
 There is a Mystery to where you log into a original Toontown Game that you don't know what to expect.
 Random Textures.
 Random challenges.
@@ -30,6 +33,7 @@ Level 19 1420 HP
 Level 20 1600 HP
 
 INSTRUCTIONS: 
+<<<<<<< Updated upstream
 1. Click where it says code, or the green thing that shows on your screen, and click download zip.
 
 2. A pop up should occur, select where you want the file to be.
@@ -62,6 +66,11 @@ INSTRUCTIONS:
 15. Enjoy the game! If it works for you!!
 
 
+=======
+
+
+
+>>>>>>> Stashed changes
 
 Useful commands:
 
