@@ -114,6 +114,8 @@ m = (('speak', 'speak', 5),
  ('throw-object', 'throw-object', 5))
 mh = (('magic1', 'magic1', 5),
  ('throw-paper', 'throw-paper', 5),
+ ('throw-object', 'throw-object', 5),
+ ('speak', 'speak', 5),
  ('pickpocket', 'pickpocket', 5),
  ('smile', 'smile', 5),
  ('song-and-dance', 'song-and-dance', 8))

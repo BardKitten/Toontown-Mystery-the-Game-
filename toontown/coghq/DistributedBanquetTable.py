@@ -29,7 +29,7 @@ class DistributedBanquetTable(DistributedObject.DistributedObject, FSM.FSM, Banq
     pitcherMinH = -360
     pitcherMaxH = 360
     rotateSpeed = 90
-    waterPowerSpeed = base.config.GetDouble('water-power-speed', 60)
+    waterPowerSpeed = base.config.GetDouble('water-power-speed', 35)
     waterPowerExponent = base.config.GetDouble('water-power-exponent', 5)
     useNewAnimations = True
     TugOfWarControls = False
@@ -39,9 +39,8 @@ class DistributedBanquetTable(DistributedObject.DistributedObject, FSM.FSM, Banq
     else:
         BASELINE_KEY_RATE = 6
     UPDATE_KEY_PRESS_RATE_TASK = 'BanquetTableUpdateKeyPressRateTask'
-    YELLOW_POWER_THRESHOLD = 4
-    RED_POWER_THRESHOLD = 5
-
+    YELLOW_POWER_THRESHOLD = 0.75
+    RED_POWER_THRESHOLD = 0.97
     def __init__(self, cr):
         DistributedObject.DistributedObject.__init__(self, cr)
         FSM.FSM.__init__(self, 'DistributedBanquetTable')
@@ -64,7 +63,7 @@ class DistributedBanquetTable(DistributedObject.DistributedObject, FSM.FSM, Banq
         self.changeSeq = 0
         self.lastChangeSeq = 0
         self.pitcherAdviceLabel = None
-        self.fireLength = 250
+        self.fireLength = 100
         self.fireTrack = None
         self.hitObject = None
         self.setupPowerBar()

@@ -148,9 +148,9 @@ CREnteringToontown = 'Entering...'
 DialogSpecial = 'ooo'
 DialogExclamation = '!'
 DialogQuestion = '?'
-DialogLength1 = 6
-DialogLength2 = 12
-DialogLength3 = 20
+DialogLength1 = 12
+DialogLength2 = 24
+DialogLength3 = 40
 GlobalSpeedChatName = 'SpeedChat'
 SCMenuPromotion = 'PROMOTIONAL'
 SCMenuEmotions = 'EMOTIONS'
@@ -347,7 +347,7 @@ EmoteFuncDict = {'Wave': 0,
  'Rage': 25}
 SuitBrushOffs = {'f': ["My boss is going to dislike me!"],
  'p': ["I'm orange for a reason"],
- 'ym': ["I'm a Mini version of Amanda Rose."],
+ 'ym': ["I'm a Yellow Backstabber!"],
  None: ["I'm bored!",
         "I am leaving, bye.",
         'Bye bye!',
@@ -377,7 +377,7 @@ SuitFaceoffTaunts = {'b': ['I am scary haha.',
        "Plankton?",
        "I hope I can past that test.",
        "1924?"],
- 'ms': ["You're grounded!",
+ 'ms': ["Don't think about it, don't you!",
         "I'm even scarier than Name Dropper and Bloodsucker combined.",
         "I got my name from a famous scary show.",
         "This is how we do it boys.",
@@ -385,8 +385,8 @@ SuitFaceoffTaunts = {'b': ['I am scary haha.',
         'Boo!',
         "Not scary enough?",
         "I'm the Scary Dropper!",
-        'Give me the papers.',
-        'Sign here please.',
+        'Wanna have a sad time?',
+        'Do you think you can not be spooked?',
         'Okay, insurance is not scary enough.'],
  'hh': ["Doctor! I'm a doctor!",
         "Do you have your medical bills?",
@@ -408,8 +408,8 @@ SuitFaceoffTaunts = {'b': ['I am scary haha.',
          "I'm going to make mozzarella outta ya.",
          "My cheese is 100% from Cow!",
          'Make sure you add cake with my head!',
-         "Watch out, I'm a whiz at this game.",
-         'Padawans = Toons = Cheese time!'],
+         "Would you like some cheese with your slice?",
+         "I'm hungry."],
  'cr': ['ATTACK!',
         "Boooo.",
         'Prepare for destruction!',

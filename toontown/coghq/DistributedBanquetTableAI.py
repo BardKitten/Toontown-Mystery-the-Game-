@@ -24,9 +24,9 @@ class DistributedBanquetTableAI(DistributedObjectAI.DistributedObjectAI, FSM.FSM
             eatingDuration = diffSettings[5]
             hungryDuration += random.uniform(-4, 4)
             eatingDuration += random.uniform(-5, 5)
-            level = random.choice([8, 9, 10, 11, 12])
+            level = random.choice([5, 6, 7, 8, 9, 10, 11, 12])
             if type(dinerLevel) == type(0):
-                level = random.choice([8, 9, 10, 11, 12])
+                level = random.choice([5, 6, 7, 8, 9, 10, 11, 12])
             else:
                 level = random.choice(dinerLevel)
             dept = random.choice(['s', 'm', 'l', 'c'])
