@@ -30,7 +30,7 @@ Level 19 1420 HP
 Level 20 1600 HP
 
 INSTRUCTIONS: 
-1. [Install git my clicking me](https://github.com/git-for-windows/git/releases/download/v2.28.0.windows.1/Git-2.28.0-64-bit.exe)
+1. [Install git by clicking me](https://github.com/git-for-windows/git/releases/download/v2.28.0.windows.1/Git-2.28.0-64-bit.exe)
 
 2. [Download this launcher by clicking me](https://cdn.discordapp.com/attachments/759468039447773205/759481548323029002/Download_TT_mystery.bat)
 
