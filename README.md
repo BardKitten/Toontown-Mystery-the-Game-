@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
 # Toontown Mystery
-=======
->>>>>>> Stashed changes
 There is a Mystery to where you log into a original Toontown Game that you don't know what to expect.
 Random Textures.
 Random challenges.
@@ -33,25 +30,15 @@ Level 19 1420 HP
 Level 20 1600 HP
 
 INSTRUCTIONS: 
-<<<<<<< Updated upstream
-1. Click where it says code, or the green thing that shows on your screen, and click download zip.
+1. install Git here https://git-scm.com/
 
-2. A pop up should occur, select where you want the file to be.
+2. [Download this launcher](https://cdn.discordapp.com/attachments/759468039447773205/759481548323029002/Download_TT_mystery.bat)
 
-3. After it's downloaded, right click on the file, go to open with, click windows explorer.
 
-4. Find where it says extract all, and click on it. There should be a pop up that says,
-   "Files will be extracted to this folder."
+3. Drag the launcher in your desktop
 
-5. Click extract. Then you wait.
 
-6. When you're done extracting, go to the downloads, or whereever you extracted it to.
-
-7. There should be a file that looks like a folder. Click on it.
-
-8. Click on it again.
-
-9. There should be a bunch of folders in it and such.
+4. Run the launcher, then it should create a file called Toontown-Mystery-the-game. Open the folder
 
 10. Install Panda3D-1.10.0, which is an installation in the source, click on it.
 
@@ -66,11 +53,6 @@ INSTRUCTIONS:
 15. Enjoy the game! If it works for you!!
 
 
-=======
-
-
-
->>>>>>> Stashed changes
 
 Useful commands:
 
