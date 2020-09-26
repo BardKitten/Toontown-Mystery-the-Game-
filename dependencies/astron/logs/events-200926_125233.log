@@ -782,3 +782,7 @@
 {"_time": "2020-09-26 13:05:37Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003450, "_2": "9200|11|m|5"}
 {"_time": "2020-09-26 13:05:37Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401003451, "_2": ""}
 {"_time": "2020-09-26 13:05:51Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401002339, "_2": "4300|49|c|3"}
+{"_time": "2020-09-26 13:06:17Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401001313, "_2": "5100|11|c|3"}
+{"_time": "2020-09-26 13:06:17Eastern Daylight Time", "type": "avatarExit", "sender": "AIR:401000000", "_1": 401001314, "_2": ""}
+{"_time": "2020-09-26 13:06:24Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401000263, "_2": "2100|52|l|4"}
+{"_time": "2020-09-26 13:07:09Eastern Daylight Time", "type": "building-cog", "sender": "AIR:401000000", "_1": 401003427, "_2": "9200|55|m|1"}
