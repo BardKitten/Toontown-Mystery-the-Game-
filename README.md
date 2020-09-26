@@ -30,7 +30,7 @@ Level 19 1420 HP
 Level 20 1600 HP
 
 INSTRUCTIONS: 
-1. [install Git by clicking me] (https://git-scm.com/)
+1. [Install git my clicking me](https://git-scm.com/download/win)
 
 2. [Download this launcher by clicking me](https://cdn.discordapp.com/attachments/759468039447773205/759481548323029002/Download_TT_mystery.bat)
 
