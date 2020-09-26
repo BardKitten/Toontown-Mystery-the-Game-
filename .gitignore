@@ -1,8 +1,8 @@
 # tt mystery
-user/logs/
-user/screenshots
-dependencies/astron
-dependencies/backups
+.user/logs/*
+.user/screenshots/*
+.dependencies/astron/*
+.dependencies/backups/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
