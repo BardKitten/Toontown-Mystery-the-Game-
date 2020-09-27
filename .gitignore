@@ -1,5 +1,5 @@
 # tt mystery
-.user/logs/*
+*.log
 .user/screenshots/*
 .dependencies/astron/*
 .dependencies/backups/*
