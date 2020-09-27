@@ -3,6 +3,7 @@
 .user/screenshots/*
 .dependencies/astron/*
 .dependencies/backups/*
+.dependencies/astron/config/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
