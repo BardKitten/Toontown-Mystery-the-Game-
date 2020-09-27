@@ -1,7 +1,4 @@
 # tt mystery
 *.log
 .user/screenshots/*
-*.yaml
-.dependencies/backups/*
-.dependencies/astron/config/*
-dependencies/backups/
+
