@@ -2,7 +2,7 @@ daemon:
     name: Client Agent #2
 
 general:
-    eventlogger: 25.57.238.215:7198
+    eventlogger: 127.0.0.1:7198
     dc_files:
         - ../dclass/stride.dc
 
@@ -28,11 +28,11 @@ uberdogs:
       anonymous: false
 
 messagedirector:
-    connect: 25.57.238.215:7100
+    connect: 127.0.0.1:7100
 
 roles:
     - type: clientagent
-      bind: 25.57.238.215:7399
+      bind: 0.0.0.0:7399
       version: "stride-dev"
       client:
         relocate: true

@@ -2,12 +2,12 @@ daemon:
     name: Production Cluster
 
 general:
-    eventlogger: 25.57.238.215:7198
+    eventlogger: 127.0.0.1:7198
     dc_files:
         - ../dclass/stride.dc
 
 messagedirector:
-    bind: 25.57.238.215:7100
+    bind: 127.0.0.1:7100
 
 roles:
     - type: stateserver
@@ -20,7 +20,7 @@ roles:
         max: 399999999
       backend:
         type: mongodb
-        server: mongodb://25.57.238.215:27017/stride
+        server: mongodb://127.0.0.1:27017/stride
 
     - type: dbss
       database: 4003

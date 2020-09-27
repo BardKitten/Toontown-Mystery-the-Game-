@@ -2,12 +2,12 @@ daemon:
     name: Developer Cluster
 
 general:
-    eventlogger: 25.57.238.215:7198
+    eventlogger: 127.0.0.1:7198
     dc_files:
         - ../dclass/stride.dc
 
 messagedirector:
-    bind: 25.57.238.215:7100
+    bind: 127.0.0.1:7100
 
 uberdogs:
     - class: ClientServicesManager
@@ -32,7 +32,7 @@ uberdogs:
 
 roles:
     - type: clientagent
-      bind: 25.57.238.215:7199
+      bind: 0.0.0.0:7199
       version: "tts-dev"
       client:
        relocate: true
@@ -60,5 +60,5 @@ roles:
           max: 399999999
 
     - type: eventlogger
-      bind: 25.57.238.215:7198
+      bind: 127.0.0.1:7198
       output: ../logs/events-%y%m%d_%H%M%S.log
