@@ -40,17 +40,17 @@ INSTRUCTIONS:
 
 4. Run the launcher, then it should create a file called Toontown-Mystery-the-game. Open the folder
 
-10. Install Panda3D-1.10.0, which is an installation in the source, click on it.
+5. Install Panda3D-1.10.0, which is an installation in the source, click on it.
 
-11. Click on dev.
+6. Click on dev.
 
-12. Click on win32.
+7. Click on win32.
 
-13. SINGLEPLAYER: Click Astron, Uberdog, AI, Startgame, in the start-game, press 1, enter, then type a username, enter.
+8. SINGLEPLAYER: Click Astron, Uberdog, AI, Startgame, in the start-game, press 1, enter, then type a username, enter.
 
-14. MULTIPLAYER: Click start-game, press 3, enter, type in the mini-server, enter, then type a username, enter.
+9. MULTIPLAYER: Click start-game, press 3, enter, type in the mini-server, enter, then type a username, enter.
 
-15. Enjoy the game! If it works for you!!
+10. Enjoy the game! If it works for you!!
 
 
 

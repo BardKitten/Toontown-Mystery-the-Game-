@@ -3,5 +3,5 @@ daemon:
 
 roles:
     - type: eventlogger
-      bind: 127.0.0.1:7198
+      bind: 25.57.238.215:7198
       output: ../logs/events-%y%m%d_%H%M%S.log

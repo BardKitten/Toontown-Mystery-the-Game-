@@ -2,7 +2,7 @@ daemon:
     name: Client Agent #3
 
 general:
-    eventlogger: 127.0.0.1:7198
+    eventlogger: 25.57.238.215:7198
     dc_files:
         - ../dclass/stride.dc
 
@@ -32,7 +32,7 @@ messagedirector:
 
 roles:
     - type: clientagent
-      bind: 0.0.0.0:7499
+      bind: 25.57.238.215:7499
       version: "stride-dev"
       client:
         relocate: true
