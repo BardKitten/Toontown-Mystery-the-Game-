@@ -4,4 +4,4 @@
 *.yaml
 .dependencies/backups/*
 .dependencies/astron/config/*
-
+dependencies/backups/
