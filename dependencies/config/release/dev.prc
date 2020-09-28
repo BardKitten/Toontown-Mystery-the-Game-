@@ -20,7 +20,7 @@ model-path /
 
 # Server:
 server-version tts-dev
-min-access-level 300
+min-access-level 800
 accountdb-type developer
 shard-low-pop 50
 shard-mid-pop 100
