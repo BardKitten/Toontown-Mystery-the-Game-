@@ -100,7 +100,8 @@ MaxCarryLimit = 150
 MaxQuestCarryLimit = 4
 GravityValue = 32.174
 MaxCogSuitLevel = 20 - 1
-CogSuitHPLevels = (9 - 1,
+CogSuitHPLevels = (8 - 1,
+ 9 - 1,
  10 - 1,
  11 - 1,
  12 - 1,

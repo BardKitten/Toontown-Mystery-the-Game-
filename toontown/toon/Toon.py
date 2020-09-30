@@ -336,7 +336,7 @@ def loadDialog():
     catDialogueFiles = ('AV_cat_short', 'AV_cat_med', 'AV_cat_long', 'AV_cat_question', 'AV_cat_exclaim', 'AV_cat_howl')
     global CatDialogueArray
     for file in catDialogueFiles:
-        CatDialogueArray.append(base.loadSfx(loadPath + file + '.ogg'))
+        CatDialogueArray.append(base.loadSfx(loadPath + file + '.mp3'))
 
     horseDialogueFiles = ('AV_horse_short', 'AV_horse_med', 'AV_horse_long', 'AV_horse_question', 'AV_horse_exclaim', 'AV_horse_howl')
     global HorseDialogueArray

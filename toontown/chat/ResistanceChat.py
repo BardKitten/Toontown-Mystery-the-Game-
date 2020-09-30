@@ -96,13 +96,13 @@ def decodeId(textId):
 
 
 def validateId(textId):
-    if textId < 0:
-        return 0
+    if textId < 3:
+        return 3
     menuIndex, itemIndex = decodeId(textId)
     if menuIndex not in resistanceDict:
-        return 0
+        return 3
     if itemIndex >= len(resistanceDict[menuIndex]['values']):
-        return 0
+        return 3
     return 3
 
 
