@@ -88,12 +88,10 @@ class BossCog(Avatar.Avatar):
         self.birdsSfx = loader.loadSfx('phase_4/audio/sfx/SZ_TC_bird1.ogg')
         self.dizzyAlert = loader.loadSfx('phase_5/audio/sfx/AA_sound_aoogah.ogg')
         self.grunt = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_grunt.ogg')
-        self.exclaim = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_exclaim.ogg')
         self.murmur = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_murmur.ogg')
         self.statement = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_statement.ogg')
         self.question = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_question.ogg')
         self.dialogArray = [self.grunt,
-         self.exclaim,
          self.murmur,
          self.statement,
          self.question,
