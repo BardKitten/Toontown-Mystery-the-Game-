@@ -2,13 +2,12 @@ from direct.directnotify import DirectNotifyGlobal
 from direct.interval.IntervalGlobal import *
 import random
 
-import BattleParticles
-from BattleProps import *
-from BattleSounds import *
-import MovieCamera
-import MovieUtil
-from otp.nametag.NametagConstants import *
-from otp.nametag import NametagGlobals
+from toontown.battle import BattleParticles
+from toontown.battle.BattleProps import *
+from toontown.battle.BattleSounds import *
+from toontown.battle import MovieCamera
+from toontown.battle import MovieUtil
+from toontown.nametag.NametagGlobals import *
 from toontown.toon import NPCToons
 from toontown.toonbase import TTLocalizer
 from toontown.toonbase import ToontownBattleGlobals
@@ -211,19 +210,26 @@ def __doSmooch(attack, hp = 0):
 def __doToonsHit(attack, level, hp):
     track = __doSprinkle(attack, 'toons', hp)
     pbpText = attack['playByPlayText']
-    pbpTrack = pbpText.getShowInterval(TTLocalizer.MovieNPCSOSToonsHit, track.getDuration())
+    if hp == 1:
+        text = TTLocalizer.MovieNPCSOSToonsHitS
+    else:
+        text = TTLocalizer.MovieNPCSOSToonsHitP % hp
+    pbpTrack = pbpText.getShowInterval(text, track.getDuration())
     return (track, pbpTrack)
 
 
 def __doCogsMiss(attack, level, hp):
     track = __doSprinkle(attack, 'suits', hp)
     pbpText = attack['playByPlayText']
-    pbpTrack = pbpText.getShowInterval(TTLocalizer.MovieNPCSOSCogsMiss, track.getDuration())
+    if hp == 1:
+        text = TTLocalizer.MovieNPCSOSCogsMissS
+    else:
+        text = TTLocalizer.MovieNPCSOSCogsMissP % hp
+    pbpTrack = pbpText.getShowInterval(text, track.getDuration())
     return (track, pbpTrack)
 
 
 def __doRestockGags(attack, level, hp):
-    track = __doSmooch(attack, hp)
     pbpText = attack['playByPlayText']
     if level == ToontownBattleGlobals.HEAL_TRACK:
         text = TTLocalizer.MovieNPCSOSHeal
@@ -241,6 +247,7 @@ def __doRestockGags(attack, level, hp):
         text = TTLocalizer.MovieNPCSOSDrop
     elif level == -1:
         text = TTLocalizer.MovieNPCSOSAll
+    track = __doUnite(attack, hp, index)
     pbpTrack = pbpText.getShowInterval(TTLocalizer.MovieNPCSOSRestockGags % text, track.getDuration())
     return (track, pbpTrack)
 
