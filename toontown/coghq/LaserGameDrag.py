@@ -7,7 +7,7 @@ class LaserGameDrag(LaserGameBase.LaserGameBase):
 
     def __init__(self, funcSuccess, funcFail, funcSendGrid, funcSetGrid):
         LaserGameBase.LaserGameBase.__init__(self, funcSuccess, funcFail, funcSendGrid, funcSetGrid)
-        self.setGridSize(6, 6)
+        self.setGridSize(18, 18)
         self.blankGrid()
         self.symbolList = [16, 13, 17]
 
@@ -37,7 +37,7 @@ class LaserGameDrag(LaserGameBase.LaserGameBase):
         for symbol in self.symbolList:
             finished = 0
             while finished == 0:
-                numTris = 4
+                numTris = 12
                 tris = 0
                 sanity = 1000
                 if numTris >= 1:
@@ -49,7 +49,7 @@ class LaserGameDrag(LaserGameBase.LaserGameBase):
                             self.gridData[column][row] = symbol
                             tris += 1
                             continue
-                if self.checkFor3(symbol):
+                if self.checkFor12(symbol):
                     self.clearIndex(symbol)
                     finished = 0
                 else:
@@ -66,7 +66,7 @@ class LaserGameDrag(LaserGameBase.LaserGameBase):
                 else:
                     pass
         for index in self.symbolList:
-            if self.checkFor3(index):
+            if self.checkFor12(index):
                 self.clearIndex(index)
         if self.checkForWin():
             self.win()
@@ -79,7 +79,7 @@ class LaserGameDrag(LaserGameBase.LaserGameBase):
             for posY in xrange(0, self.gridNumY):
                 if self.gridData[posX][posY] == index:
                     numInARow += 1
-                    if numInARow >= 3:
+                    if numInARow >= 12:
                         return 1
                 else:
                     numInARow = 0
@@ -90,7 +90,7 @@ class LaserGameDrag(LaserGameBase.LaserGameBase):
             for posX in xrange(0, self.gridNumX):
                 if self.gridData[posX][posY] == index:
                     numInARow += 1
-                    if numInARow >= 3:
+                    if numInARow >= 12:
                         return 1
                 else:
                     numInARow = 0

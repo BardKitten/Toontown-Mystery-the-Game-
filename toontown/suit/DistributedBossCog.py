@@ -935,7 +935,7 @@ class DistributedBossCog(DistributedAvatar.DistributedAvatar, BossCog.BossCog):
 
     def loadEnvironment(self):
         self.elevatorMusic = base.loadMusic('phase_7/audio/bgm/tt_elevator.mp3')
-        self.stingMusic = base.loadMusic('phase_4/audio/bgm/MG_TwoDGame.ogg')
+        self.stingMusic = base.loadMusic('phase_10/audio/bgm/suit_intro.mp3')
         self.battleOneMusic = base.loadMusic('phase_9/audio/bgm/CFO_round_1.ogg')
         self.battleThreeMusic = base.loadMusic('phase_10/audio/bgm/encntr_boss_bg.mp3')
         self.epilogueMusic = base.loadMusic('phase_9/audio/bgm/encntr_toon_winning.ogg')

@@ -4290,8 +4290,8 @@ def maxHp(maxHp):
     """
     Modify the invoker's max HP.
     """
-    if not 70 <= maxHp <= ToontownGlobals.MaxHpLimit:
-        return 'HP must be in range (70-%d).' % ToontownGlobals.MaxHpLimit
+    if not 1 <= maxHp <= ToontownGlobals.MaxHpLimit:
+        return 'HP must be in range (1-%d).' % ToontownGlobals.MaxHpLimit
     invoker = spellbook.getTarget()
     invoker.b_setHp(maxHp)
     invoker.b_setMaxHp(maxHp)
@@ -4334,8 +4334,6 @@ def maxToon(missingTrack=None):
                      'squirt', 'drop').index(missingTrack)
         except:
             return 'Missing Gag track is invalid!'
-        if index in (4, 5):
-            return 'You are required to have Throw and Squirt.'
         gagTracks[index] = 0
     target.b_setTrackAccess(gagTracks)
     target.b_setMaxCarry(150)
@@ -4373,7 +4371,7 @@ def maxToon(missingTrack=None):
             CogDisguiseGlobals.PartsPerSuitBitmasks[3]   # Sellbot
         ]
     )
-    target.b_setCogLevels([19] * 4)
+    target.b_setCogLevels([24] * 4)
     target.b_setCogTypes([7, 7, 7, 7])
 
     # Max their Cog gallery:
@@ -4447,8 +4445,8 @@ def sos(count, name):
     Modifies the target's specified SOS card count.
     """
     target = spellbook.getTarget()
-    if not 0 <= count <= 100:
-        return 'Your SOS count must be in range (0-100).'
+    if not 0 <= count <= 200:
+        return 'Your SOS count must be in range (0-200).'
     for npcId, npcName in TTLocalizer.NPCToonNames.items():
         if name.lower() == npcName.lower():
             if npcId not in NPCToons.npcFriends:
@@ -4464,12 +4462,12 @@ def sos(count, name):
     return "%s was given %d %s SOS cards." % (target.getName(), count, name)
 
 @magicWord(category=CATEGORY_PROGRAMMER, types=[int])
-def unites(value=32767):
+def unites(value=999):
     """
     Restock all resistance messages.
     """
     target = spellbook.getTarget()
-    value = min(value, 32767)
+    value = min(value, 999)
     target.restockAllResistanceMessages(value)
     return 'Restocked %d unites for %s!' % (value, target.getName())
 

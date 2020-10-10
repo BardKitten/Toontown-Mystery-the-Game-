@@ -2,7 +2,7 @@ id: 100000034
 class: DistributedToon
 fields:
   setName: ("Toontown Time")
-  setFriendsList: ([100000070, 100000082, 100000017, 100000118])
+  setFriendsList: ([100000082, 100000017, 100000118])
   setDISLid: (100000033)
   setWishName: ("")
   setWishNameState: ("")

@@ -53,7 +53,7 @@ Levels = [
  [0, 20, 150, 1500, 5000, 10000, 20000]
 ]
 regMaxSkill = 20000
-UberSkill = 1000
+UberSkill = 1500
 MaxSkill = UberSkill + regMaxSkill
 ExperienceCap = 1750
 

@@ -2,7 +2,7 @@ id: 100000191
 class: DistributedToon
 fields:
   setName: ("Chocolate Coated Lights")
-  setFriendsList: ([100000187, 100000070, 100000193])
+  setFriendsList: ([100000187, 100000193])
   setDISLid: (100000190)
   setWishName: ("")
   setWishNameState: ("")

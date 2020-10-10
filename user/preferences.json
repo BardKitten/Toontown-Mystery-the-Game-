@@ -50,7 +50,8 @@
     "100000231": true,
     "100000232": true,
     "100000234": true,
-    "100000235": true
+    "100000235": true,
+    "100000237": true
   },
   "acceptingNonFriendWhispers": {
     "100000001": true,
@@ -103,7 +104,8 @@
     "100000231": true,
     "100000232": true,
     "100000234": true,
-    "100000235": true
+    "100000235": true,
+    "100000237": true
   },
   "acceptingTeleport": {
     "100000001": true,
@@ -156,10 +158,11 @@
     "100000231": true,
     "100000232": true,
     "100000234": true,
-    "100000235": true
+    "100000235": true,
+    "100000237": true
   },
   "cogInterface": true,
-  "fov": 65.99403381347656,
+  "fov": 52.0,
   "fpsMeter": true,
   "fullscreen": false,
   "language": "English",

@@ -18,8 +18,8 @@ from otp.ai.MagicWordGlobal import *
 class DistributedSellbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FSM):
     notify = DirectNotifyGlobal.directNotify.newCategory('DistributedSellbotBossAI')
     limitHitCount = 6
-    hitCountDamage = 20
-    numPies = ToontownGlobals.FullPies
+    hitCountDamage = 15
+    numPies = 15
     BossName = "VP"
 
     def __init__(self, air):
@@ -122,7 +122,7 @@ class DistributedSellbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
     def __doAreaAttack(self):
         self.b_setAttackCode(ToontownGlobals.BossCogAreaAttack)
         if self.recoverRate:
-            newRecoverRate = min(200, self.recoverRate * 1.2)
+            newRecoverRate = min(200, self.recoverRate * 2.0)
         else:
             newRecoverRate = 2
         now = globalClock.getFrameTime()

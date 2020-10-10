@@ -2,7 +2,7 @@ id: 100000154
 class: DistributedToon
 fields:
   setName: ("Big Chungus")
-  setFriendsList: ([100000070])
+  setFriendsList: ([])
   setDISLid: (100000153)
   setWishName: ("")
   setWishNameState: ("")

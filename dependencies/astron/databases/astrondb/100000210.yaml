@@ -2,7 +2,7 @@ id: 100000210
 class: DistributedToon
 fields:
   setName: ("Thunderzapper")
-  setFriendsList: ([100000187, 100000181, 100000070])
+  setFriendsList: ([100000187, 100000181])
   setDISLid: (100000175)
   setWishName: ("")
   setWishNameState: ("")

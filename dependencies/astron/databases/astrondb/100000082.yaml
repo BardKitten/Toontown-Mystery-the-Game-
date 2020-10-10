@@ -2,7 +2,7 @@ id: 100000082
 class: DistributedToon
 fields:
   setName: ("Spooky McBones")
-  setFriendsList: ([100000070, 100000034, 100000087, 100000023, 100000091])
+  setFriendsList: ([100000034, 100000087, 100000023, 100000091])
   setDISLid: (100000081)
   setWishName: ("")
   setWishNameState: ("")

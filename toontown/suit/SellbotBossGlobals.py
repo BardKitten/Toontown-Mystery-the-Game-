@@ -13,7 +13,7 @@ PieDamageMult = 1.0
 PieDamageMultNerfed = 2.0
 AttackMult = 1.0
 AttackMultNerfed = 0.5
-HitCountDamage = 40
+HitCountDamage = 15
 HitCountDamageNerfed = 50
 BarrelDefs = {
  8000: {'type': DistributedHealBarrelAI,

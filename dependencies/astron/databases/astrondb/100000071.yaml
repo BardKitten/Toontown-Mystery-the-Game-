@@ -11,6 +11,7 @@ fields:
   setSlot1Garden: (<0000>)
   setSlot2ToonId: (100000232)
   setSlot2Garden: (<0000>)
-  setSlot3ToonId: (100000070)
+  setSlot3ToonId: (0)
+  setSlot3Garden: (<0000>)
   setSlot4ToonId: (100000047)
   setSlot5ToonId: (100000143)

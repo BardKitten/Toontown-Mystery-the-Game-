@@ -10,7 +10,7 @@ class LaserGameBase:
         self.funcFail = funcFail
         self.funcSendGrid = funcSendGrid
         self.funcSetGrid = funcSetGrid
-        self.setGridSize(2, 2)
+        self.setGridSize(50, 50)
         self.blankGrid()
         self.finshed = 0
 

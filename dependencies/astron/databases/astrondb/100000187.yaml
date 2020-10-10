@@ -2,7 +2,7 @@ id: 100000187
 class: DistributedToon
 fields:
   setName: ("King")
-  setFriendsList: ([100000070, 100000191, 100000193, 100000196, 100000181, 100000140, 100000209, 100000210])
+  setFriendsList: ([100000191, 100000193, 100000196, 100000181, 100000140, 100000209, 100000210])
   setDISLid: (100000186)
   setWishName: ("")
   setWishNameState: ("")
@@ -114,6 +114,6 @@ fields:
   setBuffs: ([])
   setRedeemedCodes: ([])
   setEmblems: ([0, 0])
-  setTrueFriends: ([100000070])
+  setTrueFriends: ([])
   setEPP: ([])
   setStats: ([945, 184, 172, 9600, 21600, 0, 6, 3, 1, 5, 1, 2, 0, 7, 0, 0, 0, 0, 15, 0, 25, 0])

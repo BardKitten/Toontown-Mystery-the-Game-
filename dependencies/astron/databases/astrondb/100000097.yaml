@@ -2,7 +2,7 @@ id: 100000097
 class: DistributedToon
 fields:
   setName: ("Captain Duck")
-  setFriendsList: ([100000070, 100000118, 100000023, 100000181])
+  setFriendsList: ([100000118, 100000023, 100000181])
   setDISLid: (100000029)
   setWishName: ("")
   setWishNameState: ("")

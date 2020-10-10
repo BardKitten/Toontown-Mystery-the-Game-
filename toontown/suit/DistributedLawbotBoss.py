@@ -1354,21 +1354,21 @@ class DistributedLawbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
 
         track = Track(
             (0, Parallel(self.podium.posInterval(5, finalPodiumPos), self.reflectedPodium.posInterval(5, finalReflectedPodiumPos), self.posInterval(5, finalBossPos), Func(self.loop, 'Ff_speech'), Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro0, CFSpeech))),
-            (5, Parallel(base.camera.posInterval(6, (-2.8, 5.6, 19.3), blendType='easeInOut'), self.posInterval(16, ToontownGlobals.LawbotBossBattleOnePosHpr[:3]))),
-            (5.6, Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro1, CFSpeech)),
+            (5, Parallel(base.camera.posInterval(5, (-2.8, 5.6, 19.3), blendType='easeInOut'), self.posInterval(16, ToontownGlobals.LawbotBossBattleOnePosHpr[:3]))),
+            (8.5, Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro1, CFSpeech)),
             (11, Parallel(Func(self.play, 'Ff_lookRt'), base.camera.posInterval(3, (-2.8, -50.6, 19.3), blendType='easeInOut'))),
-            (11.5, Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro2, CFSpeech)),
-            (13, self.actorInterval('Ff_lookRt', playRate=-1)),
-            (15, Sequence(Func(base.camera.reparentTo, self.witnessToon), Func(base.camera.setPosHpr, 0, 8, 2, 180, 10, 0))),
-            (15.5, Sequence(Func(self.clearChat), Func(self.witnessToon.setChatAbsolute, TTLocalizer.LawbotBossTempIntro3, CFSpeech))),
-            (20, Sequence(Func(self.loop, 'Ff_speech'), Func(self.witnessToon.clearChat), Func(base.camera.reparentTo, render), Func(base.camera.setPosHpr, -2.4, -90.6, 19.5, 0, 0, 0))),
-            (21, Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro4, CFSpeech)),
-            (25, Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro5, CFSpeech)),
+            (12.5, Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro2, CFSpeech)),
+            (15, self.actorInterval('Ff_lookRt', playRate=-1)),
+            (17, Sequence(Func(base.camera.reparentTo, self.witnessToon), Func(base.camera.setPosHpr, 0, 8, 2, 180, 10, 0))),
+            (17.5, Sequence(Func(self.clearChat), Func(self.witnessToon.setChatAbsolute, TTLocalizer.LawbotBossTempIntro3, CFSpeech))),
+            (21, Sequence(Func(self.loop, 'Ff_speech'), Func(self.witnessToon.clearChat), Func(base.camera.reparentTo, render), Func(base.camera.setPosHpr, -2.4, -90.6, 19.5, 0, 0, 0))),
+            (23, Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro4, CFSpeech)),
+            (26, Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro5, CFSpeech)),
             (29, Sequence(Func(self.loop, 'Ff_neutral'), Func(self.clearChat), self.loseCogSuits(self.toonsA + self.toonsB, render, (-2.798, -70, 10, 180, 0, 0)))),
-            (32, Sequence(self.toonNormalEyes(self.involvedToons), Func(self.loop, 'Ff_neutral'), Func(base.camera.reparentTo, render), Func(base.camera.setPosHpr, -2.4, -96.6, 4.5, 0, 20, 0))),
-            (33, Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro6, CFSpeech)),
-            (39, Sequence(Func(self.setChatAbsolute, TTLocalizer.BossCogAttackToons, CFSpeech), base.camera.posHprInterval(0.5, (-2.7, -90, 0), (0, 39.7, 8.3), blendType='easeInOut'))),
-            (42, Sequence()))
+            (33, Sequence(self.toonNormalEyes(self.involvedToons), Func(self.loop, 'Ff_neutral'), Func(base.camera.reparentTo, render), Func(base.camera.setPosHpr, -2.4, -96.6, 4.5, 0, 20, 0))),
+            (36, Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro6, CFSpeech)),
+            (40, Sequence(Func(self.setChatAbsolute, TTLocalizer.BossCogAttackToons, CFSpeech), base.camera.posHprInterval(3.0, (-2.7, -90, 0), (0, 39.7, 8.3), blendType='easeInOut'))),
+            (45, Sequence()))
 
         return Sequence(
             Func(self.stickToonsToFloor),

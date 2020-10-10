@@ -8,7 +8,7 @@ import BattleParticles
 import BattleProps
 from toontown.toonbase import TTLocalizer
 notify = DirectNotifyGlobal.directNotify.newCategory('MovieUtil')
-SUIT_LOSE_DURATION = 6.0
+SUIT_LOSE_DURATION = 8.5
 SUIT_LOSE_REVIVE_DURATION = 6.0
 SUIT_LURE_DISTANCE = 2.6
 SUIT_LURE_DOLLAR_DISTANCE = 5.1

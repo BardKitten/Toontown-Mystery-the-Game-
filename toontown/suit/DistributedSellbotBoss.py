@@ -317,53 +317,52 @@ class DistributedSellbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
             (9, IndirectInterval(dooberTrack, 0, 9)),
             (10, Sequence(
                 Func(self.clearChat),
-                camera.posHprInterval(5, (-0.3, -105.1, 5.4), (0, 0, 0), blendType='easeInOut'))),
+                camera.posHprInterval(5, (-0.0, -52.0, 20.0), (0, 0, 0), blendType='easeInOut'))),
             (12, Func(self.setChatAbsolute, doobersAway, CFSpeech)),
-            (16, Parallel(
+            (18, Parallel(
                 Func(self.clearChat),
                 camera.posHprInterval(4, (-25, -99, 10), (-14, 10, 0), blendType='easeInOut'),
                 IndirectInterval(dooberTrack, 14),
                 IndirectInterval(toonTrack, 30))),
-            (18, Func(self.setChatAbsolute, welcomeToons, CFSpeech)),
-            (22, Func(self.setChatAbsolute, promoteToons, CFSpeech)),
-            (22.2, Sequence(
+            (21, Func(self.setChatAbsolute, welcomeToons, CFSpeech)),
+            (24, Func(self.setChatAbsolute, promoteToons, CFSpeech)),
+            (24.5, Sequence(
                 Func(self.cagedToon.nametag3d.setScale, 2),
                 Func(self.cagedToon.setChatAbsolute, interruptBoss, CFSpeech),
                 ActorInterval(self.cagedToon, 'wave'),
                 Func(self.cagedToon.loop, 'neutral'))),
-            (25, Sequence(
+            (27, Sequence(
                 Func(self.clearChat),
                 Func(self.cagedToon.clearChat),
                 Func(camera.setPosHpr, -12, -15, 27, -151, -15, 0),
                 ActorInterval(self, 'Ff_lookRt'))),
-            (27, Sequence(
+            (29, Sequence(
                 Func(self.cagedToon.setChatAbsolute, rescueQuery, CFSpeech),
                 Func(camera.setPosHpr, -12, 48, 94, -26, 20, 0),
                 ActorInterval(self.cagedToon, 'wave'),
                 Func(self.cagedToon.loop, 'neutral'))),
-            (31, Sequence(
+            (32, Sequence(
                 camera.posHprInterval(1, (-20, -35, 10), (-88, 25, 0), blendType='easeOut'),
                 Func(self.setChatAbsolute, discoverToons, CFSpeech),
                 Func(self.cagedToon.nametag3d.setScale, 1),
                 Func(self.cagedToon.clearChat),
                 ActorInterval(self, 'turn2Fb'))),
-            (35, Sequence(
+            (36, Sequence(
                 Func(self.clearChat),
                 self.loseCogSuits(self.toonsA, self.battleANode, (0, 18, 5, -180, 0, 0)),
                 self.loseCogSuits(self.toonsB, self.battleBNode, (0, 18, 5, -180, 0, 0)))),
-            (38, Sequence(
+            (40, Sequence(
+			    Wait (2.0),
                 self.toonNormalEyes(self.involvedToons),
-                camera.posHprInterval(1, (-23.4, -145.6, 44.0), (-10.0, -12.5, 0), blendType='easeInOut'),
+                Func(camera.setPosHpr, -23.4, -145.6, 44.0, -10.0, -12.5, 0),
                 Func(self.loop, 'Fb_neutral'),
                 Func(self.rampA.request, 'retract'),
                 Func(self.rampB.request, 'retract'),
                 Parallel(self.backupToonsToBattlePosition(self.toonsA, self.battleANode),
                          self.backupToonsToBattlePosition(self.toonsB, self.battleBNode),
                          Sequence(
-                             Wait(3),
-                             camera.posHprInterval(1, (-25, -35, 20.5), (-90, 0, 0), blendType='easeOut'),
-                             Func(self.setChatAbsolute, attackToons, CFSpeech),
-                             Wait(3))))))
+                             Wait(2),
+                             Func(self.setChatAbsolute, attackToons, CFSpeech))))))
         track.append(dialogTrack)
         return Sequence(Func(self.stickToonsToFloor), track, Func(self.unstickToons), name=self.uniqueName('Introduction'))
 
