@@ -171,8 +171,8 @@ class DistributedBossbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
         planeNode.setCollideMask(ToontownGlobals.PieBitmask)
         self.geom.attachNewNode(planeNode)
         self.geom.reparentTo(render)
-        self.promotionMusic = base.loadMusic('phase_9/audio/bgm/encntr_head_suit_theme.ogg')
-        self.betweenPhaseMusic = base.loadMusic('phase_9/audio/bgm/encntr_suit_winning.mp3')
+        self.promotionMusic = base.loadMusic('phase_12/audio/bgm/CEO_intro.mp3')
+        self.betweenPhaseMusic = base.loadMusic('phase_7/audio/bgm/encntr_suit_winning_indoor.ogg')
         self.battleOneMusic = base.loadMusic('phase_12/audio/bgm/CEO_round_1.mp3')
         self.phaseTwoMusic = base.loadMusic('phase_12/audio/bgm/CEO_round_2.mp3')
         self.battleThreeMusic = base.loadMusic('phase_12/audio/bgm/CEO_round_3.mp3')
@@ -329,8 +329,16 @@ class DistributedBossbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
             Func(camera.reparentTo, render),
             Func(camera.setPos, rToon, 0, 22, 6),
             Func(camera.setHpr, 0, 0, 0),
-            Func(rToon.setChatAbsolute, TTL.BossbotRTWearWaiter, CFSpeech),
-            Wait(3.0),
+            Func(rToon.setChatAbsolute, TTL.BossbotRTWearWaiter1, CFSpeech),
+            Wait(5.0),
+            Func(rToon.setChatAbsolute, TTL.BossbotRTWearWaiter2, CFSpeech),
+            Wait(5.0),
+            Func(rToon.setChatAbsolute, TTL.BossbotRTWearWaiter3, CFSpeech),
+            Wait(5.0),
+            Func(rToon.setChatAbsolute, TTL.BossbotRTWearWaiter4, CFSpeech),
+            Wait(5.0),
+            Func(rToon.setChatAbsolute, TTL.BossbotRTWearWaiter5, CFSpeech),
+            Wait(5.0),
             self.wearCogSuits(self.toonsA + self.toonsB, render, None, waiter=True),
             Func(rToon.clearChat),
             Func(self.setPosHpr, bossPos, Point3(0, 0, 0)),
@@ -346,9 +354,17 @@ class DistributedBossbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
             Func(self.setPos, bossEndPos),
             Func(self.clearChat),
             Func(rToon.setChatAbsolute, TTL.BossbotRTServeFood1, CFSpeech),
-            Wait(3.0),
+            Wait(6.0),
             Func(rToon.setChatAbsolute, TTL.BossbotRTServeFood2, CFSpeech),
-            Wait(1.0),
+            Wait(6.0),
+            Func(rToon.setChatAbsolute, TTL.BossbotRTServeFood3, CFSpeech),
+            Wait(6.0),
+            Func(rToon.setChatAbsolute, TTL.BossbotRTServeFood4, CFSpeech),
+            Wait(6.0),
+            Func(rToon.setChatAbsolute, TTL.BossbotRTServeFood5, CFSpeech),
+            Wait(6.0),
+            Func(rToon.setChatAbsolute, TTL.BossbotRTServeFood6, CFSpeech),
+            Wait(3.0),
             LerpHprInterval(self.banquetDoor, 2, Point3(120, 0, 0)),
             Sequence(
                 Func(rToon.suit.loop, 'walk'),
@@ -642,6 +658,12 @@ class DistributedBossbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
             Func(rToon.setChatAbsolute, TTL.BossbotRTPhase4Speech1, CFSpeech),
             Wait(4.0),
             Func(rToon.setChatAbsolute, TTL.BossbotRTPhase4Speech2, CFSpeech),
+            Wait(4.0),
+            Func(rToon.setChatAbsolute, TTL.BossbotRTPhase4Speech3, CFSpeech),
+            Wait(4.0),
+            Func(rToon.setChatAbsolute, TTL.BossbotRTPhase4Speech4, CFSpeech),
+            Wait(4.0),
+            Func(rToon.setChatAbsolute, TTL.BossbotRTPhase4Speech5, CFSpeech),
             Wait(4.0),
             Func(self.__hideResistanceToon),
             Func(camera.reparentTo, self),

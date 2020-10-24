@@ -111,13 +111,13 @@ GlobalStreetNames = {20000: ('to', 'on', 'Tutorial Terrace'),
  12500: ('to the', 'in the', 'Carebot Waiting Vault'),
  12600: ('to the', 'in the', 'Carebot Interior'),
  12700: ('to the', 'in the', 'Carebot Final Room'),
- 13000: ('to the', 'in the', 'Chickenbot Fried Chicken'),
- 13100: ('to the', 'in the', 'Fried Chicken Order In'),
- 13200: ('to the', 'in the', "CHICKEN ROOM"),
- 13300: ('to the', 'in the', 'Chicken Waiting Room'),
- 13400: ('to the', 'in the', 'Chicken Drive Thru'),
- 13500: ('to the', 'in the', 'Chicken Dine In'),
- 13600: ('to the', 'in the', 'Chicken Pay')}
+ 13000: ('to the', 'in the', 'Courtbot Court Room'),
+ 13100: ('to the', 'in the', 'Law Room'),
+ 13200: ('to the', 'in the', "Court Room"),
+ 13300: ('to the', 'in the', 'Warehouse'),
+ 13400: ('to the', 'in the', 'Judge Office'),
+ 13500: ('to the', 'in the', 'Jail'),
+ 13600: ('to the', 'in the', 'Law Enforcers Room')}
 DonaldsDock = ('to', 'in', lDonaldsDock)
 ToontownCentral = ('to', 'in', lToontownCentral)
 TheBrrrgh = ('to', 'in', lTheBrrrgh)
@@ -127,10 +127,10 @@ OutdoorZone = ('to', 'in', lOutdoorZone)
 FunnyFarm = ('to the', 'in the', 'Funny Farm')
 GoofySpeedway = ('to', 'in', lGoofySpeedway)
 DonaldsDreamland = ('to', 'in', lDonaldsDreamland)
-BossbotHQ = ('to', 'in', 'Pizza HQ')
+BossbotHQ = ('to', 'in', 'Castle HQ')
 SellbotHQ = ('to', 'in', 'Fashionbot HQ')
 CashbotHQ = ('to', 'in', 'Medicial HQ')
-LawbotHQ = ('to', 'in', 'Chicken HQ')
+LawbotHQ = ('to', 'in', 'Trial Court HQ')
 Tutorial = ('to the', 'in the', 'Toon-torial')
 MyEstate = ('to', 'in', 'your house')
 GolfZone = ('to', 'in', lGolfZone)
@@ -1868,24 +1868,24 @@ ChatGarblerMonkey = ['ooh', 'ooo', 'ahh']
 ChatGarblerBear = ['growl', 'grrr']
 ChatGarblerPig = ['oink', 'oik', 'snort']
 ChatGarblerDefault = ['blah']
-Bossbot = 'Pizzabot'
-Lawbot = 'Chickenbot'
+Bossbot = 'Royalbot'
+Lawbot = 'Courtbot'
 Cashbot = 'Carebot'
 Sellbot = 'Fashionbot'
-BossbotS = 'a Pizzabot'
-LawbotS = 'a Chickenbot'
+BossbotS = 'a Royalbot'
+LawbotS = 'a Courtbot'
 CashbotS = 'a Fashionbot'
 SellbotS = 'a Carebot'
-BossbotP = 'Pizzabots'
-LawbotP = 'Chickenbots'
+BossbotP = 'Royalbots'
+LawbotP = 'Courtbots'
 CashbotP = 'Carebots'
 SellbotP = 'Fashionbots'
-BossbotSkelS = 'a Pizzabot Droid'
-LawbotSkelS = 'a Chickenbot Droid'
+BossbotSkelS = 'a Royalbot Droid'
+LawbotSkelS = 'a Courtbot Droid'
 CashbotSkelS = 'a Carebot Droid'
 SellbotSkelS = 'a Fashionbot Droid'
-BossbotSkelP = 'Pizzabot Droids'
-LawbotSkelP = 'Chickenbot Droids'
+BossbotSkelP = 'Royalbot Droids'
+LawbotSkelP = 'Courtbot Droids'
 CashbotSkelP = 'Carebot Droids'
 SellbotSkelP = 'Fashionbot Droids'
 SkeleRevivePostFix = ' v%s.0'
@@ -2202,10 +2202,10 @@ MovieNPCSOSCogsMiss = 'Cogs Always Miss!'
 MovieNPCSOSRestockGags = 'Restocking %s gags!'
 MovieNPCSOSHeal = 'Heal'
 MovieNPCSOSTrap = 'Trap'
-MovieNPCSOSLure = 'Lure'
-MovieNPCSOSSound = 'Sound'
-MovieNPCSOSThrow = 'Throw'
-MovieNPCSOSSquirt = 'Squirt'
+MovieNPCSOSLure = 'Stun'
+MovieNPCSOSSound = 'Instruments'
+MovieNPCSOSThrow = 'Dessert'
+MovieNPCSOSSquirt = 'Water'
 MovieNPCSOSDrop = 'Drop'
 MovieNPCSOSAll = 'All'
 MoviePetSOSTrickFail = 'Sigh...'
@@ -2448,7 +2448,7 @@ SuitAttackTaunts = {'Audit': ["Can we check this?",
                "Do you need to calculate this?"],
  'Canned': ['Can you throw this into the trash?',
             'Throw the can, can, can, today!',
-            "Your going to get hit by this can!",
+            "You're going to get hit by this can!",
             'Want to throw a can for you?',
             "Can up time!",
             "I'm going to throw this can on you."],
@@ -6612,8 +6612,8 @@ TIP_KARTING = 6
 TIP_GOLF = 7
 TipTitle = 'TOON TIP:'
 TipDict = {TIP_NONE: ('',),
- TIP_GENERAL: ('The Pizzabots go up to level 20.',
-               'The Chickenbots go up to level 18.',
+ TIP_GENERAL: ('The Royalbots go up to level 20.',
+               'The Courtbots go up to level 18.',
                'Carebots go up to level 16.',
                'Fashionbots go up to 15.',
                'If you need any guidence, ask Master Cool Cat.',
@@ -6624,14 +6624,14 @@ TipDict = {TIP_NONE: ('',),
                '~fires gets you pinkslips.',
                "The Cog facilities are random, don't expect them to be easy.",
                'There is a chance for 2.0s and 3.0s to be in facilities, be aware!',
-               'The gags have been balenced, but the Cogs have been balenced too.',
+               'The gags have been balanced, but the Cogs have been balanced too.',
                'The game has been modified so well that you can experience a new game.'),
- TIP_STREET: ('There are four types of Cogs: Chickenbots, Carebots, Fashionbots, and Pizzabots.'),
+ TIP_STREET: ('There are four types of Cogs: Royalbots, Carebots, Fashionbots, and Courtbots.'),
  TIP_MINIGAME: ('THERE IS NOTHING TO SEE HERE!!!!!!!!!!!!!!!!!!!!!!!!!!'),
  TIP_COGHQ: ('You must complete your Fashionbot Disguise before visiting the Fashion Designer.',
              'You must complete your Carebot Disguise before visiting the C.F.O.',
-             'You must complete your Pizzabot Disguise before visiting Darth Noah.',
-             'You must complete your Chickenbot Disguise before visiting the Chief.',
+             'You must complete your Royalbot Disguise before visiting KingShine.',
+             'You must complete your Courtbot Disguise before visiting the Chief.',
              "The bosses have their own challenge, enjoy them. ^-^"),
  TIP_ESTATE: ("DOODLES ARE THE BEST! GO BUY ONE OR YOU'RE A HEARTLESS DOODLE HATER!!!!!!!!!!!!!!!!!! >:("),
  TIP_KARTING: ("Buy a kart, get out there, AND RACE!"),
@@ -7082,11 +7082,14 @@ TrickOrTreatMsg = 'You have already\nfound this treat!'
 WinterCarolingMsg = 'You have already been caroling here!'
 LawbotBossTempIntro0 = "Welcome, Cogs! It's a pleasure to meet you."
 LawbotBossTempIntro1 = "You see here, we have new guests on the elevator and I'm coming."
-LawbotBossTempIntro2 = "Hey you, jurier, you tell me if those are toons or not."
-LawbotBossTempIntro3 = "Yes. Those are Toons."
-LawbotBossTempIntro4 = 'Thank you kind jurier.'
-LawbotBossTempIntro5 = "NOW TIME TO GET RID OF YOUR DISGUISES!"
-LawbotBossTempIntro6 = "You can't fool me, I got my help, now I get rid of you."
+LawbotBossTempIntro2 = "I am still coming."
+LawbotBossTempIntro3 = 'Ok, I am here.'
+LawbotBossTempIntro4 = "Oh, welcome, new Cogs."
+LawbotBossTempIntro5 = "I see you're here for the new grand, eh?"
+LawbotBossTempIntro6 = "Wait a minute, you look funny..."
+LawbotBossTempIntro7 = "And you smell funny..."
+LawbotBossTempIntro8 = "Wait a minute, you're Toons!"
+LawbotBossTempIntro9 = "Get them!"
 LawbotBossTempJury1 = 'Okay Cogs, End this!'
 LawbotBossHowToGetEvidence = 'Touch the witness stand to get evidence.'
 LawbotBossTrialChat1 = 'Court is now in session'
@@ -7630,22 +7633,33 @@ BoardingTimeWarning = 'Boarding the elevator in '
 BoardingMore = 'more'
 BoardingGoShow = 'Going to\n%s in '
 BoardingGoPreShow = 'Confirming...'
-BossbotBossName = 'Darth Noah'
+BossbotBossName = 'KingShine'
 BossbotRTWelcome = "Hello Toons! Welcome to Darth Noah's Lair!"
 BossbotRTRemoveSuit = 'Cog suits...'
 BossbotRTFightWaiter = 'You know the drill.'
-BossbotRTWearWaiter = "Good Job Toons! You defeated the Waiters!"
+BossbotRTWearWaiter1 = "Good Job Toons! You defeated the Waiters!"
+BossbotRTWearWaiter2 = "Now be aware, the King is inside these chambers."
+BossbotRTWearWaiter3 = "The King is very strict, given orders by his Queen."
+BossbotRTWearWaiter4 = "We cannot fail, because if we do, we will get kicked out."
+BossbotRTWearWaiter5 = "Now let's listen to see what he has to say."
 BossbotBossPreTwo1 = "Hello, Cogs. I would like to order."
-BossbotBossPreTwo2 = 'Serve my waiters, with no mayo please.'
+BossbotBossPreTwo2 = 'Serve my waiters cakes, with no mayo please.'
 BossbotRTServeFood1 = "Well, it looks like you're the new waiter."
-BossbotRTServeFood2 = 'Serve the Cogs 4 times with them, and they will explode.'
-BossbotPhase3Speech1 = "I SPECIFICALLY SAID NO MAYO ON THE BURGERS!!!!!!!"
-BossbotPhase3Speech2 = 'WHY! DO THE HAMBURGERS! HAVE! MAYO!??!?!'
+BossbotRTServeFood2 = "So, my friend Marco baked me some cake."
+BossbotRTServeFood3 = "They contain a special ingredient called Mayonnaise."
+BossbotRTServeFood4 = "Serve a Cog with two cakes in a row, and they will explode."
+BossbotRTServeFood5 = "But keep in mind, if they get angry, then you will have to restart that Cog."
+BossbotRTServeFood6 = 'Alright, I said enough, now get out there!'
+BossbotPhase3Speech1 = "I SPECIFICALLY SAID NO MAYO ON THE CAKES!!!!!!!"
+BossbotPhase3Speech2 = 'WHY! DO THE CAKES! HAVE! MAYO!??!?!'
 BossbotPhase3Speech3 = 'Eliminate them from this office!!!'
 BossbotPhase4Speech1 = 'OH that does it! I had enough!'
-BossbotPhase4Speech2 = "This battle ends here! And now!! I'll send you straight to Jupiter!"
+BossbotPhase4Speech2 = "This battle ends here! And now!! I'll send you straight to the Cog HQS!"
 BossbotRTPhase4Speech1 = "Oh no, he's very angry now..."
 BossbotRTPhase4Speech2 = 'Listen, we have no time to talk, finish him with anything you got! I know you can do it!'
+BossbotRTPhase4Speech3 = 'Use the seltzer bottles to damage him.'
+BossbotRTPhase4Speech4 = 'Or use Golf balls to slow him down.'
+BossbotRTPhase4Speech5 = 'This will take some skill, so good luck Toons!'
 BossbotPitcherLeave = 'Leave Bottle'
 BossbotPitcherLeaving = 'Leaving Bottle'
 BossbotPitcherAdvice = 'Use the left and right keys to rotate.\nHold down Ctrl increase power.\nRelease Ctrl to fire.'
@@ -8096,29 +8110,29 @@ VPRampMessage = ""
 VPDeathTaunt = ""
 DirectedAttackBossTaunts = {
  's': [
-  "",
-  "",
-  "",
-  ""
+  "Oof.",
+  "Take this.",
+  "Don't come any closer, Toon.",
+  "Do you realize who you're going against?"
  ],
  'm': [
-  "",
-  '',
-  '',
-  ''
+  "These gears will stop you.",
+  'Get, away, from, me.',
+  'Do not come any closer.',
+  'Booo. Go away.'
  ],
  'c': [
-  '',
-  "",
-  '',
-  ""
+  'You ruined my banquet, now you will pay!',
+  "Scram.",
+  'Hey, get away from that table!',
+  "Oof."
  ]
 }
 VPSpinMessages = [
- "",
- "",
- '',
- ""
+ "Let's shake these ideas on!",
+ "Shake it off.",
+ 'Let me get these gears off my head.',
+ "Get away from me!"
 ]
 JumpBossTaunts = {
  's': [
@@ -8131,25 +8145,23 @@ JumpBossTaunts = {
   ""
  ],
  'm': [
-  "",
-  '',
-  '',
-  ""
+  "I warned you to get away from the cranes!",
+  "I warned you to get away from the cranes!"
  ]
 }
 CEOSpeech = [
- "",
- '',
- '',
- "",
- '',
- '',
- '',
- '',
- '',
- '',
- '',
- '',
+ "Now, let's begin.",
+ 'The Cakes that we provide has no mayo, so it is guarantee safe.',
+ "Hm? I hear explosions, but I can't see them.",
+ "The Queen will be very proud on our creation.",
+ 'Hey, you over there, hurry up and serve these Cogs or else!',
+ 'We call our quote the BEP, standing for Boris Entertainment Productions.',
+ 'Time is ticking, better serve that cake.',
+ 'Thanks to Chris Degaldo, our castle interior looks way better.',
+ "That's right, keep going, keep going.",
+ "You're almost there, just a little bit more.",
+ 'Nice, more cakes are coming, I cannot wait for the results!',
+ 'I think we are done, let me check my notebook papers.',
  ""
 ] # Len of words + 10
 

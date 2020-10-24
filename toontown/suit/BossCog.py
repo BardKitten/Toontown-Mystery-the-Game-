@@ -73,6 +73,7 @@ class BossCog(Avatar.Avatar):
             self.initializeDropShadow()
             if base.wantNametags:
                 self.initializeNametag3d()
+                self.setBlend(frameBlend = config.GetBool('smooth-frames', True))
 
     def generateBossCog(self):
         self.throwSfx = loader.loadSfx('phase_9/audio/sfx/CHQ_VP_frisbee_gears.ogg')
