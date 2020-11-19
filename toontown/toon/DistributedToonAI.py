@@ -4445,8 +4445,8 @@ def sos(count, name):
     Modifies the target's specified SOS card count.
     """
     target = spellbook.getTarget()
-    if not 0 <= count <= 200:
-        return 'Your SOS count must be in range (0-200).'
+    if not 0 <= count <= 100:
+        return 'Your SOS count must be in range (0-100).'
     for npcId, npcName in TTLocalizer.NPCToonNames.items():
         if name.lower() == npcName.lower():
             if npcId not in NPCToons.npcFriends:

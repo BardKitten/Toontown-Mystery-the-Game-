@@ -8110,29 +8110,29 @@ VPRampMessage = ""
 VPDeathTaunt = ""
 DirectedAttackBossTaunts = {
  's': [
-  "Oof.",
-  "Take this.",
-  "Don't come any closer, Toon.",
-  "Do you realize who you're going against?"
+  "",
+  "",
+  "",
+  ""
  ],
  'm': [
-  "These gears will stop you.",
-  'Get, away, from, me.',
-  'Do not come any closer.',
-  'Booo. Go away.'
+  "",
+  '',
+  '',
+  ''
  ],
  'c': [
-  'You ruined my banquet, now you will pay!',
-  "Scram.",
-  'Hey, get away from that table!',
-  "Oof."
+  '',
+  "",
+  '',
+  ""
  ]
 }
 VPSpinMessages = [
- "Let's shake these ideas on!",
- "Shake it off.",
- 'Let me get these gears off my head.',
- "Get away from me!"
+ "",
+ "",
+ '',
+ ""
 ]
 JumpBossTaunts = {
  's': [
@@ -8145,23 +8145,23 @@ JumpBossTaunts = {
   ""
  ],
  'm': [
-  "I warned you to get away from the cranes!",
-  "I warned you to get away from the cranes!"
+  "",
+  ""
  ]
 }
 CEOSpeech = [
- "Now, let's begin.",
- 'The Cakes that we provide has no mayo, so it is guarantee safe.',
- "Hm? I hear explosions, but I can't see them.",
- "The Queen will be very proud on our creation.",
- 'Hey, you over there, hurry up and serve these Cogs or else!',
- 'We call our quote the BEP, standing for Boris Entertainment Productions.',
- 'Time is ticking, better serve that cake.',
- 'Thanks to Chris Degaldo, our castle interior looks way better.',
- "That's right, keep going, keep going.",
- "You're almost there, just a little bit more.",
- 'Nice, more cakes are coming, I cannot wait for the results!',
- 'I think we are done, let me check my notebook papers.',
+ "",
+ '',
+ "",
+ "",
+ '',
+ '',
+ '',
+ '',
+ "",
+ "",
+ '',
+ '',
  ""
 ] # Len of words + 10
 
