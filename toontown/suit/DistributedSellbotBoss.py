@@ -317,7 +317,7 @@ class DistributedSellbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
             (9, IndirectInterval(dooberTrack, 0, 9)),
             (10, Sequence(
                 Func(self.clearChat),
-                camera.posHprInterval(5, (-2.8, -60.0, 10), (0, 0, 0), blendType='easeInOut'))),
+                camera.posHprInterval(5, (0, -80.0, 0), (0, 13, 0), blendType='easeInOut'))),
             (12, Func(self.setChatAbsolute, doobersAway, CFSpeech)),
             (18, Parallel(
                 Func(self.clearChat),
