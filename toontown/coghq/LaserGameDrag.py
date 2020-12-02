@@ -33,11 +33,11 @@ class LaserGameDrag(LaserGameBase.LaserGameBase):
                 tile = 0
                 self.gridData[column][row] = tile
         for column in xrange(0, self.gridNumX):
-            self.gridData[column][self.gridNumY - 1] = 12
+            self.gridData[column][self.gridNumY - 1] = 3
         for symbol in self.symbolList:
             finished = 0
             while finished == 0:
-                numTris = 12
+                numTris = 3
                 tris = 0
                 sanity = 1000
                 if numTris >= 1:
@@ -79,7 +79,7 @@ class LaserGameDrag(LaserGameBase.LaserGameBase):
             for posY in xrange(0, self.gridNumY):
                 if self.gridData[posX][posY] == index:
                     numInARow += 1
-                    if numInARow >= 12:
+                    if numInARow >= 3:
                         return 1
                 else:
                     numInARow = 0
@@ -90,7 +90,7 @@ class LaserGameDrag(LaserGameBase.LaserGameBase):
             for posX in xrange(0, self.gridNumX):
                 if self.gridData[posX][posY] == index:
                     numInARow += 1
-                    if numInARow >= 12:
+                    if numInARow >= 3:
                         return 1
                 else:
                     numInARow = 0
