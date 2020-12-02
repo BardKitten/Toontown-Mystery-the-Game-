@@ -129,7 +129,7 @@ GoofySpeedway = ('to', 'in', lGoofySpeedway)
 DonaldsDreamland = ('to', 'in', lDonaldsDreamland)
 BossbotHQ = ('to', 'in', 'Castle HQ')
 SellbotHQ = ('to', 'in', 'Fashionbot HQ')
-CashbotHQ = ('to', 'in', 'Medicial HQ')
+CashbotHQ = ('to', 'in', 'Medical HQ')
 LawbotHQ = ('to', 'in', 'Trial Court HQ')
 Tutorial = ('to the', 'in the', 'Toon-torial')
 MyEstate = ('to', 'in', 'your house')
@@ -142,7 +142,7 @@ SellbotSideEntrance = 'Side Entrance'
 Office = 'Office'
 FactoryNames = {11500: 'Fashionbot Designers Room',
  11600: 'Fashionbot Cog Hard Mode',
- 13300: 'Defenderbot Cog Office'}
+ 13300: 'Courtbot Cog Office'}
 FactoryTypeLeg = 'Leg'
 FactoryTypeArm = 'Arm'
 FactoryTypeTorso = 'Torso'
