@@ -795,11 +795,7 @@ class DistributedLawbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FSM
 
     def __makeLawyers(self):
         self.__resetLawyers()
-        lawCogChoices = ['b',
-         'dt',
-         'ac',
-         'bs',
-         'sd',
+        lawCogChoices = ['sd',
          'le',
          'bw']
         for i in xrange(self.numLawyers):

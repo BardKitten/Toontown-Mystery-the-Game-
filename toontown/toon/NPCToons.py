@@ -861,10 +861,10 @@ NPCToonDict = {
  7022: (-1, lnames[7022], ('mss', 'sd', 's', 'f', 24, 0, 24, 24, 3, 1, 0, 0, 0, 13), 'f', 0, NPC_REGULAR),
  7023: (-1, lnames[7023], ('pss', 'sd', 'l', 'f', 9, 0, 9, 9, 0, 8, 0, 0, 11, 0), 'f', 0, NPC_REGULAR),
  10001: (10000, lnames[10001], 'r', 'f', 0, NPC_LAFF_RESTOCK),
- 10002: (-1, lnames[10002], ('sls', 'ss', 'm', 'm', 15, 0, 15, 15, 111, 27, 97, 27, 41, 27), 'm', 0, NPC_REGULAR),
+ 10002: (-1, lnames[10002], ('csl', 'ss', 'm', 'f', 6, 6, 6, 6, 99, 29, 50, 30, 4, 30), 'f', 0, NPC_REGULAR),
  11001: (11000, lnames[11001], 'r', 'm', 0, NPC_LAFF_RESTOCK),
  12001: (12000, lnames[12001], 'r', 'm', 0, NPC_LAFF_RESTOCK),
- 12002: (-1, lnames[12002], ('pls', 'ls', 'l', 'f', 3, 0, 3, 3, 111, 27, 97, 27, 45, 27), 'f', 0, NPC_REGULAR),
+ 12002: (-1, lnames[12002], ('csl', 'ms', 'm', 'f', 18, 18, 18, 18, 111, 28, 98, 28, 1, 29), 'f', 0, NPC_REGULAR),
  13001: (13000, lnames[13001], 'r', 'f', 0, NPC_LAFF_RESTOCK),
  13002: (-1, lnames[13002], ('bss', 'ss', 'm', 'm', 19, 0, 19, 19, 0, 3, 0, 3, 1, 16), 'm', 0, NPC_REGULAR)
 }
@@ -915,9 +915,9 @@ def getBuildingTitle(zoneId):
 
 
 HQnpcFriends = {
- 2001: (ToontownBattleGlobals.HEAL_TRACK, 6, ToontownGlobals.MaxHpLimit, 5),
- 2132: (ToontownBattleGlobals.HEAL_TRACK, 5, 100, 4),
- 2121: (ToontownBattleGlobals.HEAL_TRACK, 3, 55, 3),
+ 2001: (ToontownBattleGlobals.HEAL_TRACK, 6, 495, 5),
+ 2132: (ToontownBattleGlobals.HEAL_TRACK, 5, ToontownGlobals.MaxHpLimit, 4),
+ 2121: (ToontownBattleGlobals.HEAL_TRACK, 3, 100, 3),
  2011: (ToontownBattleGlobals.TRAP_TRACK, 6, 365, 5),
  3007: (ToontownBattleGlobals.TRAP_TRACK, 4, 320, 4),
  1001: (ToontownBattleGlobals.TRAP_TRACK, 3, 195, 3),
@@ -947,18 +947,18 @@ HQnpcFriends = {
 }
 
 FOnpcFriends = {
- 7012: (ToontownBattleGlobals.HEAL_TRACK, 3, 10, 0),
- 7013: (ToontownBattleGlobals.HEAL_TRACK, 3, 20, 1),
- 7014: (ToontownBattleGlobals.HEAL_TRACK, 3, 30, 2),
- 7015: (ToontownBattleGlobals.DROP_TRACK, 1, 20, 0),
- 7016: (ToontownBattleGlobals.DROP_TRACK, 2, 35, 1),
- 7017: (ToontownBattleGlobals.DROP_TRACK, 3, 50, 2),
- 7018: (ToontownBattleGlobals.SOUND_TRACK, 1, 10, 0),
- 7019: (ToontownBattleGlobals.SOUND_TRACK, 3, 20, 1),
- 7020: (ToontownBattleGlobals.SOUND_TRACK, 4, 30, 2),
- 7021: (ToontownBattleGlobals.LURE_TRACK, 1, 0, 0),
- 7022: (ToontownBattleGlobals.LURE_TRACK, 1, 0, 1),
- 7023: (ToontownBattleGlobals.LURE_TRACK, 3, 0, 2)
+ 7012: (ToontownBattleGlobals.HEAL_TRACK, 6, ToontownGlobals.MaxHpLimit, 6),
+ 7013: (ToontownBattleGlobals.TRAP_TRACK, 6, 600, 6),
+ 7014: (ToontownBattleGlobals.SOUND_TRACK, 6, 220, 6),
+ 7015: (ToontownBattleGlobals.THROW_TRACK, 6, 70, 3),
+ 7016: (ToontownBattleGlobals.THROW_TRACK, 6, 135, 4),
+ 7017: (ToontownBattleGlobals.THROW_TRACK, 6, 185, 5),
+ 7018: (ToontownBattleGlobals.THROW_TRACK, 6, 345, 6),
+ 7019: (ToontownBattleGlobals.SQUIRT_TRACK, 6, 55, 3),
+ 7020: (ToontownBattleGlobals.SQUIRT_TRACK, 6, 115, 4),
+ 7021: (ToontownBattleGlobals.SQUIRT_TRACK, 6, 150, 5),
+ 7022: (ToontownBattleGlobals.SQUIRT_TRACK, 6, 285, 6),
+ 7023: (ToontownBattleGlobals.DROP_TRACK, 6, 560, 6)
 }
 
 disabledSosCards = ConfigVariableList('disable-sos-card')

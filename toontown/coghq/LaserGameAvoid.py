@@ -8,7 +8,7 @@ from toontown.coghq import LaserGameBase
 class LaserGameAvoid(LaserGameBase.LaserGameBase):
     def __init__(self, funcSuccess, funcFail, funcSendGrid, funcSetGrid):
         LaserGameBase.LaserGameBase.__init__(self, funcSuccess, funcFail, funcSendGrid, funcSetGrid)
-        self.setGridSize(20, 20)
+        self.setGridSize(10, 10)
         self.blankGrid()
         self.cycleName = simbase.air.trueUniqueName('AvoidGame')
 

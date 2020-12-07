@@ -49,7 +49,7 @@ class LaserGameDrag(LaserGameBase.LaserGameBase):
                             self.gridData[column][row] = symbol
                             tris += 1
                             continue
-                if self.checkFor12(symbol):
+                if self.checkFor3(symbol):
                     self.clearIndex(symbol)
                     finished = 0
                 else:
@@ -66,7 +66,7 @@ class LaserGameDrag(LaserGameBase.LaserGameBase):
                 else:
                     pass
         for index in self.symbolList:
-            if self.checkFor12(index):
+            if self.checkFor3(index):
                 self.clearIndex(index)
         if self.checkForWin():
             self.win()

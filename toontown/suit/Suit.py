@@ -73,10 +73,11 @@ hh = (('quick-jump', 'jump', 6),
  ('magic3', 'magic3', 5),
  ('throw-object', 'throw-object', 5),
  ('throw-paper', 'throw-paper', 5))
-cr = (('pickpocket', 'pickpocket', 5), ('magic1', 'magic1', 5), ('throw-paper', 'throw-paper', 5), ('glower', 'glower', 5))
+cr = (('pickpocket', 'pickpocket', 5), ('speak', 'speak', 5), ('magic1', 'magic1', 5), ('throw-paper', 'throw-paper', 5), ('glower', 'glower', 5))
 tbc = (('cigar-smoke', 'cigar-smoke', 8),
  ('glower', 'glower', 5),
  ('magic1', 'magic1', 5),
+ ('effort', 'effort', 6),
  ('song-and-dance', 'song-and-dance', 8),
  ('smile', 'smile', 5))
 cc = (('speak', 'speak', 5),
@@ -93,7 +94,7 @@ nd = (('smile', 'smile', 5),
  ('magic1', 'magic1', 5),
  ('smile', 'smile', 5),
  ('magic2', 'magic2', 5))
-gh = (('speak', 'speak', 5), ('roll-o-dex', 'roll-o-dex', 5), ('magic2', 'magic2', 5), ('stomp', 'stomp', 5), ('throw-paper', 'throw-paper', 5))
+gh = (('speak', 'speak', 5), ('effort', 'speak', 5), ('roll-o-dex', 'roll-o-dex', 5), ('magic2', 'magic2', 5), ('stomp', 'stomp', 5), ('throw-paper', 'throw-paper', 5))
 ms = (('smile', 'smile', 5),
  ('throw-object', 'throw-object', 5),
  ('throw-paper', 'throw-paper', 5),
@@ -129,8 +130,8 @@ tw = (('throw-paper', 'throw-paper', 5),
 bc = (('phone', 'phone', 5), ('roll-o-dex', 'roll-o-dex', 5))
 nc = (('phone', 'phone', 5), ('glower', 'glower', 5), ('magic1', 'magic1', 5), ('throw-object', 'throw-object', 5),  ('throw-paper', 'throw-paper', 5))
 mb = (('pickpocket', 'pickpocket', 5), ('magic1', 'magic1', 5), ('throw-object', 'throw-object', 5), ('golf-club-swing', 'golf-club-swing', 5))
-ls = (('roll-o-dex', 'roll-o-dex', 5), ('throw-paper', 'throw-paper', 5), ('throw-object', 'throw-object', 5), ('magic2', 'magic2', 5), ('hold-pencil', 'hold-pencil', 5))
-rb = (('pickpocket', 'pickpocket', 5), ('cigar-smoke', 'cigar-smoke', 8), ('magic1', 'magic1', 5), ('song-and-dance', 'song-and-dance', 8))
+ls = (('roll-o-dex', 'roll-o-dex', 5), ('speak', 'speak', 5), ('effort', 'effort', 5), ('throw-paper', 'throw-paper', 5), ('throw-object', 'throw-object', 5), ('magic2', 'magic2', 5), ('hold-pencil', 'hold-pencil', 5))
+rb = (('pickpocket', 'pickpocket', 5), ('glower', 'glower', 5), ('pen-squirt', 'fountain-pen', 7), ('magic1', 'magic1', 5), ('rubber-stamp', 'rubber-stamp', 5))
 bf = (('pickpocket', 'pickpocket', 5),
  ('rubber-stamp', 'rubber-stamp', 5),
  ('shredder', 'shredder', 3.5),

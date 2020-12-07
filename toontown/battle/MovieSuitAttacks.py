@@ -1963,12 +1963,12 @@ def doEvilEye(attack):
     eyeHoldDuration = 1.1
     moveDuration = 1.1
     suitSplicedAnims = []
-    suitSplicedAnims.append(['glower',
+    suitSplicedAnims.append(['effort',
      0.01,
      0.01,
      suitHoldStart])
-    suitSplicedAnims.extend(getSplicedLerpAnims('glower', suitHoldDuration, 1.1, startTime=suitHoldStart))
-    suitSplicedAnims.append(['glower', 0.01, suitHoldStop])
+    suitSplicedAnims.extend(getSplicedLerpAnims('effort', suitHoldDuration, 1.1, startTime=suitHoldStart))
+    suitSplicedAnims.append(['effort', 0.01, suitHoldStop])
     suitTrack = getSuitTrack(attack, splicedAnims=suitSplicedAnims)
     eyeAppearTrack = Sequence(Wait(suitHoldStart), Func(__showProp, eye, suit, posPoints[0], posPoints[1]), LerpScaleInterval(eye, suitHoldDuration, Point3(11, 11, 11)), Wait(eyeHoldDuration * 0.3), LerpHprInterval(eye, 0.02, Point3(205, 40, 0)), Wait(eyeHoldDuration * 0.7), Func(battle.movie.needRestoreRenderProp, eye), Func(eye.wrtReparentTo, battle))
     toonFace = __toonFacePoint(toon, parent=battle)
@@ -1982,9 +1982,9 @@ def doEvilEye(attack):
     damageAnims = [['duck',
       0.01,
       0.01,
-      1.4], ['cringe', 0.01, 0.3]]
+      1.4], ['slip-backward', 0.01, 0.3]]
     toonTrack = getToonTrack(attack, splicedDamageAnims=damageAnims, damageDelay=damageDelay, dodgeDelay=dodgeDelay, dodgeAnimNames=['duck'], showDamageExtraTime=1.7, showMissedExtraTime=1.7)
-    soundTrack = getSoundTrack('SA_evil_eye.ogg', delay=1.3, node=suit)
+    soundTrack = getSoundTrack('SA_magic_orb.mp3', delay=0.5, node=suit)
     return Parallel(suitTrack, toonTrack, eyePropTrack, soundTrack)
 
 
