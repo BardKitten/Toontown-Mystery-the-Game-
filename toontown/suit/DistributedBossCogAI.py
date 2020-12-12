@@ -339,9 +339,9 @@ class DistributedBossCogAI(DistributedAvatarAI.DistributedAvatarAI):
         random.shuffle(toons)
         numToons = min(len(toons), 8)
         if numToons < 4:
-            numToonsB = numToons / 2
+            numToonsB = numToons / 8
         else:
-            numToonsB = (numToons + random.choice([0, 1])) / 2
+            numToonsB = (numToons + random.choice([0, 1])) / 8
         self.toonsA = toons[numToonsB:numToons]
         self.toonsB = toons[:numToonsB]
         self.looseToons += toons[numToons:]

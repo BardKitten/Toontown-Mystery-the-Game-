@@ -4253,7 +4253,7 @@ class DistributedToonAI(DistributedPlayerAI.DistributedPlayerAI, DistributedSmoo
         self.d_setStats(self.stats)
 
 @magicWord(category=CATEGORY_PROGRAMMER, types=[str, int, int])
-def cheesyEffect(value, hood=0, expire=0):
+def setCE(value, hood=0, expire=0):
     """
     Modify the target's cheesy effect.
     """
@@ -4472,7 +4472,7 @@ def unites(value=999):
     return 'Restocked %d unites for %s!' % (value, target.getName())
 
 @magicWord(category=CATEGORY_PROGRAMMER, types=[int])
-def fires(count):
+def pinkslips(count):
     """
     Modifies the target's pink slip count.
     """
@@ -4947,8 +4947,6 @@ def track(command, track, value=None):
     if (command.lower() not in ('add',)) and (not trackAccess[index]):
         return "You don't have that track!"
     if command.lower() == 'remove':
-        if index in (4, 5):
-            return "You can't remove throw and squirt!"
         trackAccess[index] = 0
         invoker.b_setTrackAccess(trackAccess)
         return 'Removed the %s track!' % track
@@ -4956,7 +4954,7 @@ def track(command, track, value=None):
         trackAccess[index] = 1
         invoker.b_setTrackAccess(trackAccess)
         return 'Added the %s track!' % track
-    if command.lower() == 'experience':
+    if command.lower() == 'exp':
         if value is None:
             return 'You must provide an experience value.'
         if not 0 <= value <= Experience.MaxSkill:
