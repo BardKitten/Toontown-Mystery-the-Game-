@@ -4391,7 +4391,7 @@ CagedToonDrop = ["HURRY UP YOU LAME TOONS!!",
  "HURRY UP!!",
  "YOU CAN'T DO IT! YOUR GONNA FAIL!",
  "YOU CAN'T DO IT! YOUR GONNA FAIL!"]
-CagedToonPrepareBattleTwo = "Help Me! The Boss is getting stronger!\x07Go on and defeat his next set of Cogs.\x07But before you do, I must say this.\x07Just remember, your going to fail!"
+CagedToonPrepareBattleTwo = "Help Me! The Boss is getting stronger!\x07Go on and defeat his next set of Cogs.\x07But before you do, I must say this.\x07Just remember, you're going to fail!"
 CagedToonPrepareBattleThree = "What you must do is throw a bunch of pies at the Boss.\x07But don't worry, I got pies that you can use.\x07Just jump up to my cage, and you can get cakes.\x07But there is a limit of 30 cakes. So you will need to jump back after you run out to restock.\x07Good Luck Toons!"
 BossBattleNeedMorePies = 'Get pies you lame Toon!'
 BossBattleHowToGetPies = 'ARE YOU NEW OR SOMETHING!??!?!??!?!'
