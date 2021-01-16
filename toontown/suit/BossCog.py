@@ -87,16 +87,17 @@ class BossCog(Avatar.Avatar):
         self.downSfx = loader.loadSfx('phase_9/audio/sfx/CHQ_VP_collapse.ogg')
         self.reelSfx = loader.loadSfx('phase_9/audio/sfx/CHQ_VP_reeling_backwards.ogg')
         self.birdsSfx = loader.loadSfx('phase_4/audio/sfx/SZ_TC_bird1.ogg')
-        self.dizzyAlert = loader.loadSfx('phase_5/audio/sfx/AA_sound_aoogah.ogg')
-        self.grunt = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_grunt.ogg')
-        self.murmur = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_murmur.ogg')
-        self.statement = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_statement.ogg')
-        self.question = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_question.ogg')
+        self.dizzyAlert = loader.loadSfx('phase_5/audio/sfx/lightning_2.ogg')
+        self.exclaim = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_exclaim.mp3')
+        self.grunt = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_grunt.mp3')
+        self.murmur = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_murmur.mp3')
+        self.statement = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_statement.mp3')
+        self.question = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_question.mp3')
         self.dialogArray = [self.grunt,
          self.murmur,
          self.statement,
          self.question,
-         self.statement,
+         self.exclaim,
          self.statement]
         dna = self.style
         filePrefix = ModelDict[dna.dept]

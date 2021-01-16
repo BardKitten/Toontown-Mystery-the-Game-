@@ -346,7 +346,7 @@ EmoteFuncDict = {'Wave': 0,
  'Laugh': 24,
  'Rage': 25}
 SuitBrushOffs = {'f': ["My boss is going to dislike me!"],
- 'p': ["I'm orange for a reason"],
+ 'p': ["I'm orange for a reason."],
  'rb': ["Back off supporter, or else."],
  'ls': ["I trusted you, go away."],
  'mh': ["I'm busy right now, call back later."],

@@ -8129,43 +8129,43 @@ VPRampMessage = ""
 VPDeathTaunt = ""
 DirectedAttackBossTaunts = {
  's': [
-  "",
-  "",
-  "",
-  ""
+  "Take this for design!",
+  "Don't you get away from me, you need design!",
+  "Going without design eh?",
+  "I'm right here for you, Toon!"
  ],
  'm': [
-  "",
-  '',
-  '',
-  ''
+  "Get tested!",
+  'I am a professional, let me take care of you.',
+  "You look like you're diagnosed with School-ness, let me take care of that.",
+  'Follow guidelines.'
  ],
  'c': [
-  '',
-  "",
-  '',
-  ""
+  'You get away from that table!',
+  "Swing!",
+  'Golf puttz.',
+  "You're grinding my machines, Toon!"
  ]
 }
 VPSpinMessages = [
- "",
- "",
- '',
- ""
+ "Now let's see, where were we?",
+ "All non-fashion must go!",
+ 'Go away.',
+ "The Fashion Designer taught me a lot about you."
 ]
 JumpBossTaunts = {
  's': [
-  "",
-  '',
-  "",
-  ''
+  "Jump one, drop one.",
+  'Stop!',
+  "Blackpink, in your area!",
+  'I am sending you right to the backstage!'
  ],
  'l': [
-  ""
+  "I had enough of you!"
  ],
  'm': [
-  "",
-  ""
+  "I warned you to get away from the cranes!",
+  "Step away from the crane this instant!"
  ]
 }
 CEOSpeech = [

@@ -1,5 +1,5 @@
 # Window settings:
-window-title Toontown Mystery 3.0
+window-title Toontown Mystery
 win-origin -1 -1
 icon-filename phase_3/etc/icon.ico
 cursor-filename phase_3/etc/toonmono.cur

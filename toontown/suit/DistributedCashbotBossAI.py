@@ -143,19 +143,11 @@ class DistributedCashbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
         return
 
     def doNextAttack(self, task):
-        if random.random() <= 0.2:
-            self.b_setAttackCode(ToontownGlobals.BossCogAreaAttack)
-            taskMgr.doMethodLater(7.36, self.__reviveGoons, self.uniqueName('reviveGoons'))
-        else:
-            self.__doDirectedAttack()
-            if self.heldObject == None and not self.waitingForHelmet:
-                self.waitForNextHelmet()
+        self.__doDirectedAttack()
+        if self.heldObject == None and not self.waitingForHelmet:
+            self.waitForNextHelmet()
+        return
     
-    def __reviveGoons(self, task):
-        for goon in self.goons:
-            if goon.state == 'Stunned':
-                goon.request('Recovery')
-
     def __doDirectedAttack(self):
         if self.toonsToAttack:
             toonId = self.toonsToAttack.pop(0)
