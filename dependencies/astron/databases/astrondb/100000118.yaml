@@ -2,7 +2,7 @@ id: 100000118
 class: DistributedToon
 fields:
   setName: ("The Murray")
-  setFriendsList: ([100000034, 100000063, 100000120, 100000097, 100000023, 100000047, 100000115, 100000125])
+  setFriendsList: ([100000034, 100000063, 100000120, 100000097, 100000023, 100000115, 100000125])
   setDISLid: (100000081)
   setWishName: ("")
   setWishNameState: ("")

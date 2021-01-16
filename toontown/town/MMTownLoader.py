@@ -7,8 +7,8 @@ class MMTownLoader(TownLoader.TownLoader):
     def __init__(self, hood, parentFSM, doneEvent):
         TownLoader.TownLoader.__init__(self, hood, parentFSM, doneEvent)
         self.streetClass = MMStreet.MMStreet
-        self.musicFile = 'phase_6/audio/bgm/MM_SZ.ogg'
-        self.activityMusicFile = 'phase_6/audio/bgm/MM_SZ_activity.ogg'
+        self.musicFile = 'phase_6/audio/bgm/MM_SZ.mp3'
+        self.activityMusicFile = 'phase_6/audio/bgm/MM_SZ_activity.mp3'
         self.townStorageDNAFile = 'phase_6/dna/storage_MM_town.pdna'
 
     def load(self, zoneId):

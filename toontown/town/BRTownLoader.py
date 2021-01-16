@@ -8,8 +8,8 @@ class BRTownLoader(TownLoader.TownLoader):
     def __init__(self, hood, parentFSM, doneEvent):
         TownLoader.TownLoader.__init__(self, hood, parentFSM, doneEvent)
         self.streetClass = BRStreet.BRStreet
-        self.musicFile = 'phase_8/audio/bgm/TB_SZ.ogg'
-        self.activityMusicFile = 'phase_8/audio/bgm/TB_SZ_activity.ogg'
+        self.musicFile = 'phase_8/audio/bgm/TB_SZ.mp3'
+        self.activityMusicFile = 'phase_8/audio/bgm/TB_SZ_activity.mp3'
         self.townStorageDNAFile = 'phase_8/dna/storage_BR_town.pdna'
 
     def load(self, zoneId):

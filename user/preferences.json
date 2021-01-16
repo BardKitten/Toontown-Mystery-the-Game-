@@ -53,7 +53,10 @@
     "100000235": true,
     "100000237": true,
     "100000238": true,
-    "100000254": true
+    "100000254": true,
+    "100000261": true,
+    "100000262": true,
+    "100000263": true
   },
   "acceptingNonFriendWhispers": {
     "100000001": true,
@@ -109,7 +112,10 @@
     "100000235": true,
     "100000237": true,
     "100000238": true,
-    "100000254": true
+    "100000254": true,
+    "100000261": true,
+    "100000262": true,
+    "100000263": true
   },
   "acceptingTeleport": {
     "100000001": true,
@@ -165,7 +171,10 @@
     "100000235": true,
     "100000237": true,
     "100000238": true,
-    "100000254": true
+    "100000254": true,
+    "100000261": true,
+    "100000262": true,
+    "100000263": true
   },
   "cogInterface": true,
   "fov": 52.0,
@@ -173,7 +182,7 @@
   "fullscreen": false,
   "language": "English",
   "loadDisplay": "pandagl",
-  "musicVol": 0.7050144958496094,
+  "musicVol": 0.0,
   "preferredShard": "Master Cool Cat's Server",
   "res": [
     640,

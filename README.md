@@ -35,27 +35,23 @@ Level 24 2600 HP
 Level 25 3000 HP
 
 INSTRUCTIONS: 
-1. [Install git by clicking me](https://github.com/git-for-windows/git/releases/download/v2.28.0.windows.1/Git-2.28.0-64-bit.exe)
+1. Download the game on my source thing, that I will paste in the description on my trailer video.
 
-2. [Download this launcher by clicking me](https://cdn.discordapp.com/attachments/759468039447773205/759481548323029002/Download_TT_mystery.bat)
+2. Extract the game file, however you wanna do that.
 
+3. Click on the folder after extracting, NOT THE ZIP file.
 
-3. Drag the launcher in your desktop
+4. Install Panda3D-1.10.0, which is an installation in the source, click on it.
 
+5. Click on dev.
 
-4. Run the launcher, then it should create a file called Toontown-Mystery-the-game. Open the folder
+6. Click on win32.
 
-5. Install Panda3D-1.10.0, which is an installation in the source, click on it.
+7. SINGLEPLAYER: Click Astron, Uberdog, AI, Startgame, in the start-game, press 1, enter, then type a username, enter.
 
-6. Click on dev.
+8. MULTIPLAYER: Click start-game, press 3, enter, type in the mini-server, enter, then type a username, enter. (I will give out the game server.)
 
-7. Click on win32.
-
-8. SINGLEPLAYER: Click Astron, Uberdog, AI, Startgame, in the start-game, press 1, enter, then type a username, enter.
-
-9. MULTIPLAYER: Click start-game, press 3, enter, type in the mini-server, enter, then type a username, enter.
-
-10. Enjoy the game! If it works for you!!
+9. Enjoy the game! If it works for you!!
 
 
 
@@ -63,11 +59,11 @@ Useful commands:
 
 ~maxtoon
 
-~unites
+~unites (or insert any number) Example: ~unites 50
 
-~fires 255 (or insert any number)
+~pinkslips 255 (or insert any number) Example: ~pinkslips 100
 
-~sos (select an sos name)
+~sos (select an sos name and insert number) Example: ~sos 100 barnacle bessie
 
 ~unlimitedgags
 

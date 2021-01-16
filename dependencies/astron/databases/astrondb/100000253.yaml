@@ -2,7 +2,7 @@ id: 100000253
 class: DistributedToon
 fields:
   setName: ("Funnybunnykk")
-  setFriendsList: ([100000254])
+  setFriendsList: ([])
   setDISLid: (100000252)
   setWishName: ("")
   setWishNameState: ("")
