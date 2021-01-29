@@ -1,6 +1,6 @@
 @echo off
 git fetch 
-@echo Fetched
+echo Fetched
 git pull --force
-@echo Pulled from git
+echo Pulled from git
 pause
