@@ -10,7 +10,7 @@ Play to find out! :D
 
 
 # Installation
-* Download the game on my source thing, that I will paste in the description on my trailer video.
+* Clone or (download) [https://github.com/Toontown-Mystery/Toontown-Mystery/archive/master.zip] the repository
 
 * Extract the game file, however you wanna do that.
 
