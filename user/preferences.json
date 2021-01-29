@@ -1,9 +1,4 @@
 {
-<<<<<<< HEAD
-  "cogInterface": true,
-  "fov": 52.0,
-  "fpsMeter": false,
-=======
   "acceptingNewFriends": {
     "100000001": true,
     "100000005": true,
@@ -184,14 +179,14 @@
   "cogInterface": true,
   "fov": 52.0,
   "fpsMeter": true,
->>>>>>> parent of 82f2a10e... Stuff
   "fullscreen": false,
   "language": "English",
   "loadDisplay": "pandagl",
-  "musicVol": 1.0,
+  "musicVol": 0.0,
+  "preferredShard": "Master Cool Cat's Server",
   "res": [
-    1280,
-    720
+    640,
+    480
   ],
   "sfxVol": 1.0,
   "speedchatPlus": true,
