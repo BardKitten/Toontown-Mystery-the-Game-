@@ -3,3 +3,8 @@
 .user/screenshots/*
 
 *.json
+dependencies/backups/block-info/401000001_1200.json
+dependencies/backups/block-info/401000001_1300.json
+dependencies/backups/block-info/401000001_2200.json
+dependencies/backups/block-info/401000001_3200.json
+dependencies/backups/block-info/401000001_4100.json
