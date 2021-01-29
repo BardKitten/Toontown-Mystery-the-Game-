@@ -1,0 +1,19 @@
+{
+  "cogInterface": true,
+  "fov": 52.0,
+  "fpsMeter": false,
+  "fullscreen": false,
+  "language": "English",
+  "loadDisplay": "pandagl",
+  "musicVol": 1.0,
+  "res": [
+    1280,
+    720
+  ],
+  "sfxVol": 1.0,
+  "speedchatPlus": true,
+  "talk2speech": false,
+  "toonChatSounds": true,
+  "tpTransition": true,
+  "trueFriends": true
+}
