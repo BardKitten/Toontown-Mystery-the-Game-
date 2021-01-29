@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"32": {"becameSuitTime": 1611890553.288, "savedBy": null, "track": "s", "numFloors": "0", "difficulty": "1", "state": "cogdo", "block": "32"}, "30": {"becameSuitTime": 1611890437.018, "savedBy": null, "track": "s", "numFloors": "1", "difficulty": "2", "state": "suit", "block": "30"}}
+=======
+{"48": {"becameSuitTime": 1610810215.668, "savedBy": null, "track": "s", "numFloors": "3", "difficulty": "2", "state": "suit", "block": "48"}, "33": {"becameSuitTime": 1610809803.03, "savedBy": null, "track": "s", "numFloors": "0", "difficulty": "2", "state": "cogdo", "block": "33"}, "14": {"becameSuitTime": 1610809813.3, "savedBy": null, "track": "l", "numFloors": "1", "difficulty": "1", "state": "suit", "block": "14"}}
+>>>>>>> parent of 82f2a10e... Stuff
