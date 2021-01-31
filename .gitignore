@@ -1,8 +1,11 @@
 # tt mystery
 *.log
-.user/screenshots/*
-.dependencies/backups/block-info/*
-
+.user/screenshots/
+.dependencies/backups/block-info/
+*.pyc
+dependencies/astron/databases/astrondb/
+dependencies/backups/block-info/
+*.pyc 
 
 
 # Byte-compiled / optimized / DLL files
