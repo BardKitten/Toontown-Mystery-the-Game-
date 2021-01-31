@@ -73,3 +73,9 @@ Play to find out! :D
 ~run
 
 ~ghost
+
+# Credits
+* Toontown Stride - Source code
+* Master Cool Cat - Toontown Mystery
+* 2Epik4u - Some github stuff
+
