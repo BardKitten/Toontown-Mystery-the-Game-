@@ -4,6 +4,7 @@
 .dependencies/backups/block-info/
 *.pyc
 dependencies/astron/databases/astrondb/
+dependencies/backups/block-info/
 
 
 # Byte-compiled / optimized / DLL files
