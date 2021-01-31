@@ -77,5 +77,5 @@ Play to find out! :D
 # Credits
 * Toontown Stride - Source code
 * Master Cool Cat - Toontown Mystery
-* 2Epik4u - Some github stuff
+* 2Epik4u - Some github stuff and server hosting
 

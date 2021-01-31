@@ -5,10 +5,8 @@ title Toontown Mystery Game Launcher
 echo Press 1 if you want to play, or press 3 if you want to play Miniserver.
 echo.
 echo #1 - Localhost
-echo #2 - Dev Server
 echo #3 - Custom
-echo #4 - Local RemoteDB
-echo #5 - Prod Server
+echo #5 - Offical server
 echo.
 
 :selection
@@ -18,12 +16,8 @@ set /P INPUT=Selection:
 
 if %INPUT%==1 (
     set TTS_GAMESERVER=127.0.0.1
-) else if %INPUT%==2 (
-    set TTS_GAMESERVER=127.0.0.1
-) else if %INPUT%==4 (
-    set TTS_GAMESERVER=127.0.0.1
 ) else if %INPUT%==5 (
-    SET TTS_GAMESERVER=lw2.ez-webz.com:7198
+    SET TTS_GAMESERVER=52.146.35.215
 ) else if %INPUT%==3 (
     echo.
     set /P TTS_GAMESERVER=Gameserver: 

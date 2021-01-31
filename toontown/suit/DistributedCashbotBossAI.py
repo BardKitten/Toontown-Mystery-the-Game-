@@ -486,7 +486,7 @@ class DistributedCashbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
 
 
 @magicWord(category=CATEGORY_ADMINISTRATOR)
-def restartCraneRound():
+def rcr():
     """
     Restarts the crane round in the CFO.
     """
