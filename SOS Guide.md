@@ -1,26 +1,26 @@
-New Names:
+# New Names:
 
-Drop:
-Cuddles
-Doctor Mcmouse
-Chris
+# Drop:
+* Cuddles
+* Doctor Mcmouse
+* Chris
 
-Sound:
-Lizzy
-FOG DOG
-Baby Cool Cat
+# Sound:
+* Lizzy
+* FOG DOG
+* Baby Cool Cat
 
-Lure:
-Classic Noah
-Rozie
-LILY THE FAT NOOB
+# Lure:
+* Classic Noah
+* Rozie
+* LILY THE FAT NOOB
 
-Trap:
-Hudson
-Chloe
-Sophia
+# Trap:
+* Hudson
+* Chloe
+* Sophia
 
-Toonup:
-Miss Marma
-Ezmerelda
-Sweet
+# Toonup:
+* Miss Marma
+* Ezmerelda
+* Sweet

@@ -8,54 +8,57 @@ You don't know what to expect.
 ALL THE NEW TOONTOWN MYSTERY!
 Play to find out! :D
 
-Level 1 10 HP
-Level 2 15 HP
-Level 3 25 HP
-Level 4 40 HP
-Level 5 60 HP
-Level 6 90 HP
-Level 7 130 HP
-Level 8 180 HP
-Level 9 240 HP
-Level 10 310 HP
-Level 11 390 HP
-Level 12 480 HP
-Level 13 580 HP
-Level 14 690 HP
-Level 15 810 HP
-Level 16 940 HP
-Level 17 1090 HP
-Level 18 1250 HP
-Level 19 1420 HP
-Level 20 1600 HP
-Level 21 1800 HP
-Level 22 2000 HP
-Level 23 2250 HP
-Level 24 2600 HP
-Level 25 3000 HP
 
-INSTRUCTIONS: 
-1. Download the game on my source thing, that I will paste in the description on my trailer video.
+# Installation
+* Clone or [Download](https://github.com/Toontown-Mystery/Toontown-Mystery/archive/master.zip) the repository
 
-2. Extract the game file, however you wanna do that.
+* Extract the game file, however you wanna do that.
 
-3. Click on the folder after extracting, NOT THE ZIP file.
+* Click on the folder after extracting, NOT THE ZIP file.
 
-4. Install Panda3D-1.10.0, which is an installation in the source, click on it.
+* Install Panda3D-1.10.0, which is an installation in the source, click on it.
 
-5. Click on dev.
+* Click on dev.
 
-6. Click on win32.
+* Click on win32.
 
-7. SINGLEPLAYER: Click Astron, Uberdog, AI, Startgame, in the start-game, press 1, enter, then type a username, enter.
+* SINGLEPLAYER: Click Astron, Uberdog, AI, Startgame, in the start-game, press 1, enter, then type a username, enter.
 
-8. MULTIPLAYER: Click start-game, press 3, enter, type in the mini-server, enter, then type a username, enter. (I will give out the game server.)
+* MULTIPLAYER: Click start-game, press 3, enter, type in the mini-server, enter, then type a username, enter. (I will give out the game server.)
 
-9. Enjoy the game! If it works for you!!
+* Enjoy the game! If it works for you!!
+
+# Levels
+* Level 1 10 HP
+* Level 2 15 HP
+* Level 3 25 HP
+* Level 4 40 HP
+* Level 5 60 HP
+* Level 6 90 HP
+* Level 7 130 HP
+* Level 8 180 HP
+* Level 9 240 HP
+* Level 10 310 HP
+* Level 11 390 HP
+* Level 12 480 HP
+* Level 13 580 HP
+* Level 14 690 HP
+* Level 15 810 HP
+* Level 16 940 HP
+* Level 17 1090 HP
+* Level 18 1250 HP
+* Level 19 1420 HP
+* Level 20 1600 HP
+* Level 21 1800 HP
+* Level 22 2000 HP
+* Level 23 2250 HP
+* Level 24 2600 HP
+* Level 25 3000 HP
 
 
 
-Useful commands:
+
+# Useful commands:
 
 ~maxtoon
 
@@ -70,3 +73,9 @@ Useful commands:
 ~run
 
 ~ghost
+
+# Credits
+* Toontown Stride - Source code
+* Master Cool Cat - Toontown Mystery
+* 2Epik4u - Some github stuff and server hosting
+
