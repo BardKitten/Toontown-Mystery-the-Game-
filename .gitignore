@@ -153,3 +153,5 @@ dependencies/backups/block-info/401000001_3100.json
 dependencies/backups/block-info/401000001_1300.json
 dependencies/backups/block-info/401000001_1200.json
 dependencies/backups/block-info/401000001_1100.json
+*.pyc
+*.json
