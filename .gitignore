@@ -1,6 +1,7 @@
 # tt mystery
 *.log
 .user/screenshots/*
+.dependencies/backups/block-info/*
 
 
 
