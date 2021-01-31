@@ -899,6 +899,25 @@ class DistributedLawbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FSM
     def calcAndSetBattleDifficulty(self):
         self.toonLevels = self.getToonDifficulty()
         self.b_setBattleDifficulty(self.toonLevels)
+		
+@magicWord(category=CATEGORY_ADMINISTRATOR)
+def rsc():
+    """
+    Restarts the scale round in the CJ.
+    """
+    invoker = spellbook.getInvoker()
+    boss = None
+    for do in simbase.air.doId2do.values():
+        if isinstance(do, DistributedLawbotBossAI):
+            if invoker.doId in do.involvedToons:
+                boss = do
+                break
+    if not boss:
+        return "You aren't in a CJ!"
+    boss.exitIntroduction()
+    boss.b_setState('PrepareBattleThree')
+    boss.b_setState('BattleThree')
+    return 'Restarting the crane round...'
 
 
 @magicWord(category=CATEGORY_ADMINISTRATOR)

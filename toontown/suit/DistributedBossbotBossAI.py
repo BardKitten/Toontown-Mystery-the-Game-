@@ -919,6 +919,26 @@ def getCEO(toon):
                 return object
     
     return None
+	
+@magicWord(category=CATEGORY_ADMINISTRATOR)
+def rsr():
+    """
+    Restarts the seltzer round in the CEO.
+    """
+    invoker = spellbook.getInvoker()
+    boss = None
+    for do in simbase.air.doId2do.values():
+        if isinstance(do, DistributedBossbotBossAI):
+            if invoker.doId in do.involvedToons:
+                boss = do
+                break
+    if not boss:
+        return "You aren't in a CEO!"
+    boss.exitIntroduction()
+    boss.b_setState('PrepareBattleThree')
+    boss.b_setState('BattleThree')
+    return 'Restarting the seltzer round...'
+
 
 @magicWord(category=CATEGORY_ADMINISTRATOR)
 def skipCEOBanquet():

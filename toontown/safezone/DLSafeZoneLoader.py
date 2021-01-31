@@ -7,6 +7,6 @@ class DLSafeZoneLoader(SafeZoneLoader.SafeZoneLoader):
         SafeZoneLoader.SafeZoneLoader.__init__(self, hood, parentFSM, doneEvent)
         self.playgroundClass = Playground.Playground
         self.musicFile = 'phase_8/audio/bgm/DL_nbrhood.ogg'
-        self.activityMusicFile = 'phase_8/audio/bgm/DL_SZ_activity.ogg'
+        self.activityMusicFile = 'phase_8/audio/bgm/DL_SZ_activity.mp3'
         self.dnaFile = 'phase_8/dna/donalds_dreamland_sz.pdna'
         self.safeZoneStorageDNAFile = 'phase_8/dna/storage_DL_sz.pdna'

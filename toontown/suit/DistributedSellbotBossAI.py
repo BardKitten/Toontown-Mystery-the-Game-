@@ -402,6 +402,26 @@ def getVP(invoker):
                 return do
 
 @magicWord(category=CATEGORY_ADMINISTRATOR)
+def rpr():
+    """
+    Restarts the crane round in the CFO.
+    """
+    invoker = spellbook.getInvoker()
+    boss = None
+    for do in simbase.air.doId2do.values():
+        if isinstance(do, DistributedSellbotBossAI):
+            if invoker.doId in do.involvedToons:
+                boss = do
+                break
+    if not boss:
+        return "You aren't in a VP!"
+    boss.exitIntroduction()
+    boss.b_setState('PrepareBattleThree')
+    boss.b_setState('BattleThree')
+    return 'Restarting the pie round...'
+
+
+@magicWord(category=CATEGORY_ADMINISTRATOR)
 def secondVP():
     """
     Skips to the second round of the VP.
