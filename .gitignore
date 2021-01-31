@@ -2,7 +2,7 @@
 *.log
 .user/screenshots/*
 .dependencies/backups/block-info/*
-
+*.pyc
 
 
 # Byte-compiled / optimized / DLL files
