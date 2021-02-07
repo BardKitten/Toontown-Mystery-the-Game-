@@ -404,7 +404,7 @@ def getVP(invoker):
 @magicWord(category=CATEGORY_ADMINISTRATOR)
 def rpr():
     """
-    Restarts the crane round in the CFO.
+    Restarts the pie round in the VP.
     """
     invoker = spellbook.getInvoker()
     boss = None
