@@ -6,6 +6,23 @@
 dependencies/astron/databases/astrondb/
 dependencies/backups/block-info/
 *.pyc 
+*.pyc
+*.pyo
+*.fzn
+pandac/
+*.dis
+*.log
+screenshots/
+sign/
+whitelist/
+news/
+Library/
+*.buildings
+*.trackRecords
+*.DS_Store
+backups/
+settings.json
+errorCode
 
 
 # Byte-compiled / optimized / DLL files
