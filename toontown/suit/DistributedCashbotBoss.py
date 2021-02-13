@@ -66,8 +66,6 @@ class DistributedCashbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
         shieldNodePath = self.pelvis.attachNewNode(shieldNode)
         self.heldObject = None
         self.bossDamage = 0
-        self.battleOneMusic = base.loadMusic('phase_9/audio/bgm/CFO_round_1.ogg')
-        self.intermissionMusic = base.loadMusic('phase_9/audio/bgm/CBHQ_Boss_intermission.ogg')
         self.loadEnvironment()
         self.__makeResistanceToon()
         self.physicsMgr = PhysicsManager()
@@ -214,6 +212,10 @@ class DistributedCashbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
         planeNode.addSolid(plane)
         planeNode.setCollideMask(ToontownGlobals.PieBitmask)
         self.geom.attachNewNode(planeNode)
+        self.promotionMusic = base.loadMusic('phase_10/audio/bgm/CFO_intro.mp3')
+        self.battleOneMusic = base.loadMusic('phase_10/audio/bgm/CFO_round_1.mp3')
+        self.intermissionMusic = base.loadMusic('phase_10/audio/bgm/CFO_intermission.mp3')
+        self.battleThreeMusic = base.loadMusic('phase_10/audio/bgm/encntr_boss_bg.mp3')
         self.geom.reparentTo(render)
 
     def unloadEnvironment(self):

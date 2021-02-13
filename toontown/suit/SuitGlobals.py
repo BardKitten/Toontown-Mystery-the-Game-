@@ -35,7 +35,7 @@ suitProperties = {'f': (4.0 / cSize, VBase4(1.0, 0, 0, 1.0), ['gladhander'], '',
                   # Cashbots
                   'sc': (2.0 / cSize, VBase4(1.0, 1.0, 0, 1.0), ['coldcaller'], 'conartist.jpg', 3.37),
                   'pp': (3.55 / bSize, VBase4(1.0, 0.6, 0.5, 1.0), ['loanshark'], '', 5.26),
-                  'tw': (4.5 / aSize, VBase4(0, 1.0, 0, 1.0), ['numbercruncher'], 'name-dropper.jpg', 5.41),
+                  'tw': (4.5 / aSize, VBase4(0, 1.0, 0, 1.0), ['yesman'], 'janet_lady.jpg', 5.41),
                   'bc': (4.4 / bSize, VBase4(1, 0.6, 0, 1.0), ['movershaker'], '', 5.95),
                   'nc': (5.25 / aSize, VBase4(1.0, 0, 0, 1.0), ['numbercruncher'], '', 7.22),
                   'mb': (5.3 / aSize, VBase4(0, 1.0, 0, 1.0), ['twoface'], 'law-keeper.jpg', 6.97),

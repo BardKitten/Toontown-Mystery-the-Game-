@@ -66,8 +66,8 @@ class DistributedBossbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
         self.toonupsGranted = []
         self.doneOvertimeOneAttack = False
         self.doneOvertimeTwoAttack = False
-        self.overtimeOneTime = simbase.air.config.GetInt('overtime-one-time', 2000)
-        self.battleFourDuration = simbase.air.config.GetInt('battle-four-duration', 3000)
+        self.overtimeOneTime = simbase.air.config.GetInt('overtime-one-time', 180)
+        self.battleFourDuration = simbase.air.config.GetInt('battle-four-duration', 300)
         self.overtimeOneStart = float(self.overtimeOneTime) / self.battleFourDuration
         self.moveAttackAllowed = True
 
@@ -100,8 +100,8 @@ class DistributedBossbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
     def generateSuits(self, battleNumber):
         if battleNumber == 1:
             weakenedValue = ((1, 1),
-             (1, 1),
-             (1, 1),
+             (2, 2),
+             (2, 2),
              (1, 1),
              (1, 1, 1, 1, 1))
             listVersion = list(SuitBuildingGlobals.SuitBuildingInfo)
@@ -628,7 +628,7 @@ class DistributedBossbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
         attackCode = -1
         optionalParam = None
         if self.movingToTable:
-            self.waitForNextAttack(5)
+            self.waitForNextAttack(2)
         elif self.attackCode == ToontownGlobals.BossCogDizzyNow:
             attackCode = ToontownGlobals.BossCogRecoverDizzyAttack
         elif self.getBattleFourTime() > self.overtimeOneStart and not self.doneOvertimeOneAttack:
@@ -902,9 +902,9 @@ class DistributedBossbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
     def getDamageMultiplier(self):
         mult = 1.0
         if self.doneOvertimeOneAttack and not self.doneOvertimeTwoAttack:
-            mult = 1.25
+            mult = 2.5
         if self.getBattleFourTime() > 1.0:
-            mult = self.getBattleFourTime() + 1
+            mult = self.getBattleFourTime() + 50
         return mult
 
     def toggleMove(self):
@@ -923,7 +923,7 @@ def getCEO(toon):
 @magicWord(category=CATEGORY_ADMINISTRATOR)
 def rsr():
     """
-    Restarts the seltzer round in the CEO.
+    Restarts to the final round of the CEO.
     """
     invoker = spellbook.getInvoker()
     boss = None

@@ -17,7 +17,7 @@ DefaultCameraFar = 800.0
 DefaultCameraNear = 1.0
 AICollisionPriority = 10
 AICollMovePriority = 8
-MaxFriends = 200
+MaxFriends = 500
 MaxBackCatalog = 48
 MaxCustomMessages = 25
 SPInvalid = 0
@@ -59,8 +59,8 @@ CEName2Id = {
  'snowman': CESnowMan,
  'greentoon': CEGreenToon
 }
-BigToonScale = 1.5
-SmallToonScale = 0.5
+BigToonScale = 3.2
+SmallToonScale = 0.1
 DisconnectNone = 0
 DisconnectBookExit = 1
 DisconnectCloseWindow = 2
