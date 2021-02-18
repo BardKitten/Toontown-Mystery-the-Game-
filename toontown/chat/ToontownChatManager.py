@@ -100,9 +100,9 @@ class ToontownChatManager(ChatManager.ChatManager):
         if self.noTrueFriends == None:
             buttons = loader.loadModel('phase_3/models/gui/dialog_box_buttons_gui')
             okButtonImage = (buttons.find('**/ChtBx_OKBtn_UP'), buttons.find('**/ChtBx_OKBtn_DN'), buttons.find('**/ChtBx_OKBtn_Rllvr'))
-            self.noTrueFriends = DirectFrame(parent=aspect2dp, pos=(0.0, 0.1, 0.2), relief=None, image=DGG.getDefaultDialogGeom(), image_color=OTPGlobals.GlobalDialogColor, image_scale=(1.4, 1.0, 1.1), text=OTPLocalizer.NoTrueFriends, text_wordwrap=20, textMayChange=0, text_scale=0.06, text_pos=(0, 0.3))
+            self.noTrueFriends = DirectFrame(parent=aspect2dp, pos=(0.0, 0.1, 0.2), relief=None, image=DGG.getDefaultDialogGeom(), image_color=OTPGlobals.GlobalDialogColor, image_scale=(2.8, 2.0, 2.2), text=OTPLocalizer.NoTrueFriends, text_wordwrap=20, textMayChange=0, text_scale=0.06, text_pos=(0, 0.3))
             DirectLabel(parent=self.noTrueFriends, relief=None, pos=(0, 0, 0.4), text=OTPLocalizer.NoTrueFriendsTitle, textMayChange=0, text_scale=0.08)
-            DirectButton(self.noTrueFriends, image=okButtonImage, relief=None, text=OTPLocalizer.NoTrueFriendsOK, text_scale=0.05, text_pos=(0.0, -0.1), textMayChange=0, pos=(0.0, 0.0, -0.4), command=self.__handleNoTrueFriendsOK)
+            DirectButton(self.noTrueFriends, image=okButtonImage, relief=None, text=OTPLocalizer.NoTrueFriendsOK, text_scale=0.35, text_pos=(0.0, -0.1), textMayChange=0, pos=(0.0, 0.0, -0.4), command=self.__handleNoTrueFriendsOK)
             buttons.removeNode()
         self.noTrueFriends.show()
         return

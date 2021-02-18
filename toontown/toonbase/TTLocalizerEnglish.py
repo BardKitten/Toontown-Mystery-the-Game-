@@ -3857,13 +3857,13 @@ BattleGlobalAvPropStringsPlural = (('Feathers',
   'Safes',
   'Grand Pianos',
   'Oceanliners'))
-BattleGlobalAvTrackAccStrings = ('Medium',
+BattleGlobalAvTrackAccStrings = ('Awful',
  'Perfect',
  'Low',
- 'High',
+ 'Low',
+ 'Awful',
  'Medium',
- 'High',
- 'Low')
+ 'Awful')
 BattleGlobalLureAccLow = 'Low'
 BattleGlobalLureAccMedium = 'Medium'
 AttackMissed = 'MISSED'
@@ -4379,14 +4379,14 @@ CashbotBossName = 'Doctor Elvis'
 LawbotBossName = 'Chief Office Master'
 BossbotBossName = 'Chief Justice'
 BossCogNameWithDept = '%(name)s\n%(dept)s'
-BossCogPromoteDoobers = 'Welcome all new %s.   You are now going to be promoted to be the Fashion Designers. Congratulations!'
-BossCogDoobersAway = {'s': "Give anyone who doesn't have design some."}
-BossCogWelcomeToons = 'Welcome new Fashion Designers!'
+BossCogPromoteDoobers = 'Alright, %s.   We failed last time, we cannot fail this time.'
+BossCogDoobersAway = {'s': "Get more Fashionbots on the board."}
+BossCogWelcomeToons = 'Ah yes, the promoted guests.'
 BossCogPromoteToons = "I see that you new %s. need some design, let's go and..."
 CagedToonInterruptBoss = "Hey! Over Here!"
-CagedToonRescueQuery = "Hi. If you're such a great design. Come rescue me Toons."
-BossCogDiscoverToons = 'What? Toons? In disguise?!'
-BossCogAttackToons = "Attack them!!"
+CagedToonRescueQuery = "I know you're Toons, so care to rescue me?"
+BossCogDiscoverToons = 'I fell for it again? How???'
+BossCogAttackToons = "Show em who's boss Cogs!"
 CagedToonDrop = ["HURRY UP YOU LAME TOONS!!",
  "HURRY UP!!",
  "YOU CAN'T DO IT! YOUR GONNA FAIL!",
@@ -4434,19 +4434,19 @@ ResistanceToonLastPromotion = "\x07Wow, you've reached level %s on your Cog suit
 ResistanceToonHPBoost = "\x07You've done a lot of work for the Resistance.\x07The Toon Council has decided to give you another Laff point. Congratulations!"
 ResistanceToonMaxed = '\x07I see you progressed in this new %s Fighter suit.. Good Job!\x07On this day forth, you will now be helping us protect Jedi from the Jedi council.!'
 CashbotBossCogAttack = 'Finish Them!!'
-ResistanceToonWelcome = "Yay! You Made it Toons, now let's go to the School House before the Doctor sees us."
-ResistanceToonTooLate = "Blast it! The Doctor is here, we're too late!"
+ResistanceToonWelcome = "Alright guys, the Highschool is much harder, so we need to be extra careful."
+ResistanceToonTooLate = "Bruh, you gotta be kidding... not again."
 CashbotBossDiscoverToons1 = "What is this?"
 CashbotBossDiscoverToons2 = "I knew something was fishy about you Cogs. You're all Toons!"
-ResistanceToonKeepHimBusy = "Fight the Cogs while I set up a trap!"
+ResistanceToonKeepHimBusy = "Welp, here I go again."
 ResistanceToonWatchThis = 'Watch this!'
 CashbotBossGetAwayFromThat = 'Hey!  You get away from that crane!'
-ResistanceToonCraneInstructions1 = 'Get ready for my Trap C.F.O!'
-ResistanceToonCraneInstructions2 = 'You see, we have a powerful weapon.'
-ResistanceToonCraneInstructions3 = "We got Cranes!"
-ResistanceToonCraneInstructions4 = 'Now what you must do is...'
-ResistanceToonGetaway = "WHAT! I WASN'T FINISHED YET!"
-ResistanceToonRunaway = "Get out there and fight the Boss, I know you can do it!"
+ResistanceToonCraneInstructions1 = 'Well, I have nothing much to say.'
+ResistanceToonCraneInstructions2 = 'Use cranes, do not die, be careful, he enrages fast.'
+ResistanceToonCraneInstructions3 = "Ya I got nothing much."
+ResistanceToonCraneInstructions4 = 'O- I remember no-'
+ResistanceToonGetaway = "UGH! NOT THIS AGAIN!"
+ResistanceToonRunaway = "Nope, not saying it again."
 CashbotCraneLeave = 'Leave Crane'
 CashbotCraneAdvice = 'HURRY UP!'
 CashbotMagnetAdvice = 'DO YOU NOT KNOW HOW TO CRANE YOU TOON???????'
@@ -7102,11 +7102,11 @@ WinterCarolingMsg = 'You have already been caroling here!'
 LawbotBossTempIntro0 = "Welcome, Cogs! It's a pleasure to meet you."
 LawbotBossTempIntro1 = "You see here, we have new guests on the elevator and I'm coming."
 LawbotBossTempIntro2 = "I am still coming."
-LawbotBossTempIntro3 = 'Ok, I am here.'
-LawbotBossTempIntro4 = "Oh, welcome, new Cogs."
-LawbotBossTempIntro5 = "I see you're here for the new grand, eh?"
-LawbotBossTempIntro6 = "Wait a minute, you look funny..."
-LawbotBossTempIntro7 = "And you smell funny..."
+LawbotBossTempIntro3 = 'Ok, I am here. Once again.'
+LawbotBossTempIntro4 = "So, as I was saying last time, there is a grand court."
+LawbotBossTempIntro5 = "Oh whatever, this is just ridiculous."
+LawbotBossTempIntro6 = "Hmm, I smell something Toony here..."
+LawbotBossTempIntro7 = "Wait, no, it can't be..."
 LawbotBossTempIntro8 = "Wait a minute, you're Toons!"
 LawbotBossTempIntro9 = "Get them!"
 LawbotBossTempJury1 = 'Okay Cogs, End this!'
@@ -7656,24 +7656,24 @@ BossbotBossName = 'KingShine'
 BossbotRTWelcome = "Hello Toons! Welcome to KingShine's Lair!"
 BossbotRTRemoveSuit = 'Cog suits...'
 BossbotRTFightWaiter = 'You know the drill.'
-BossbotRTWearWaiter1 = "Good Job Toons! You defeated the Waiters!"
-BossbotRTWearWaiter2 = "Now be aware, the King is inside these chambers."
-BossbotRTWearWaiter3 = "The King is very strict, given orders by his Queen."
-BossbotRTWearWaiter4 = "We cannot fail, because if we do, we will get kicked out."
+BossbotRTWearWaiter1 = "Good Job Toons! You defeated the difficult waiters!"
+BossbotRTWearWaiter2 = "Look, I know I said last time that there wouldn't be trouble."
+BossbotRTWearWaiter3 = "However, due to the king's orders, we are in trouble."
+BossbotRTWearWaiter4 = "Luckily, I do have an idea, but we will need to be slick."
 BossbotRTWearWaiter5 = "Now let's listen to see what he has to say."
-BossbotBossPreTwo1 = "Hello, Cogs. I would like to order."
-BossbotBossPreTwo2 = 'Serve my waiters cakes, with no mayo please.'
-BossbotRTServeFood1 = "Well, it looks like you're the new waiter."
-BossbotRTServeFood2 = "So, my friend Marco baked me some cake."
-BossbotRTServeFood3 = "They contain a special ingredient called Mayonnaise."
-BossbotRTServeFood4 = "Serve a Cog with two cakes in a row, and they will explode."
-BossbotRTServeFood5 = "But keep in mind, if they get angry, then you will have to restart that Cog."
+BossbotBossPreTwo1 = "Haha, you think you're so smart, huh?"
+BossbotBossPreTwo2 = 'I reduced the clock, so you have less time! Haha!'
+BossbotRTServeFood1 = "He may have put less time, but there is one exception."
+BossbotRTServeFood2 = "Yes, same plot as before, cake."
+BossbotRTServeFood3 = "However, the cake is so powerful, it will kill a Cog very fast and at an instance."
+BossbotRTServeFood4 = "Serve a cog with one cake, and it will go bye bye before you know it."
+BossbotRTServeFood5 = "But be aware, there are a lot of Cogs."
 BossbotRTServeFood6 = 'Alright, I said enough, now get out there!'
-BossbotPhase3Speech1 = "I SPECIFICALLY SAID NO MAYO ON THE CAKES!!!!!!!"
-BossbotPhase3Speech2 = 'WHY! DO THE CAKES! HAVE! MAYO!??!?!'
-BossbotPhase3Speech3 = 'Eliminate them from this office!!!'
-BossbotPhase4Speech1 = 'OH that does it! I had enough!'
-BossbotPhase4Speech2 = "This battle ends here! And now!! I'll send you straight to the Cog HQS!"
+BossbotPhase3Speech1 = "What, I put in less time, how are these Cogs gone!?"
+BossbotPhase3Speech2 = "Ugh! I don't believe this! Not again!"
+BossbotPhase3Speech3 = 'What are you guys doing?! Get them!'
+BossbotPhase4Speech1 = 'I had enough...'
+BossbotPhase4Speech2 = "You want to make me miserable? So be it, I'll be the winning order NOW."
 BossbotRTPhase4Speech1 = "Oh no, he's very angry now..."
 BossbotRTPhase4Speech2 = 'Listen, we have no time to talk, finish him with anything you got! I know you can do it!'
 BossbotRTPhase4Speech3 = 'Use the seltzer bottles to damage him.'
