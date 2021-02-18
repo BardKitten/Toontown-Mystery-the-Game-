@@ -595,21 +595,6 @@ BossCogAttackTimes = {BossCogElectricFence: 0,
  BossCogGolfAreaAttack: 7,
  BossCogGearDirectedAttack: 4.84,
  BossCogOvertimeAttack: 5}
-<<<<<<< HEAD
-BossCogDamageLevels = {BossCogElectricFence: 50,
- BossCogSwatLeft: 100,
- BossCogSwatRight: 100,
- BossCogAreaAttack: 150,
- BossCogFrontAttack: 125,
- BossCogRecoverDizzyAttack: 150,
- BossCogDirectedAttack: 125,
- BossCogStrafeAttack: 100,
- BossCogGoonZap: 5,
- BossCogSlowDirectedAttack: 50,
- BossCogGavelStomp: 125,
- BossCogGavelHandle: 25,
- BossCogLawyerAttack: 75,
-=======
 BossCogDamageLevels = {BossCogElectricFence: 10,
  BossCogSwatLeft: 40,
  BossCogSwatRight: 40,
@@ -623,7 +608,6 @@ BossCogDamageLevels = {BossCogElectricFence: 10,
  BossCogGavelStomp: 50,
  BossCogGavelHandle: 10,
  BossCogLawyerAttack: 30,
->>>>>>> 6b9c5bdc086b6f2266eab2cc2b56d7a5ccabfe33
  BossCogMoveAttack: 50,
  BossCogGolfAttack: 50,
  BossCogGolfAreaAttack: 65,
@@ -1547,8 +1531,8 @@ BossbotElevCamPosHpr = (0,
  0,
  0)
 BossbotFoodModelScale = 1
-BossbotNumFoodToExplode = 1
-BossbotBossServingDuration = 400
+BossbotNumFoodToExplode = 2
+BossbotBossServingDuration = 850
 BossbotPrepareBattleThreeDuration = 20
 WaiterBattleAPosHpr = (20,
  -400,
@@ -1587,32 +1571,32 @@ BossbotBossDifficultySettings = [(6,
   6,
   8,
   3,
-  6,
-  6),
+  28,
+  20),
  (8,
   7,
   9,
   6,
-  6,
-  6),
+  26,
+  20),
  (10,
   7,
   10,
   7,
-  6,
-  6),
+  24,
+  20),
  (12,
   8,
   11,
   8,
-  6,
-  6),
+  22,
+  20),
  (14,
   8,
   12,
   9,
-  6,
-  6)]
+  20,
+  20)]
 BossbotRollSpeedMax = 22
 BossbotRollSpeedMin = 7.5
 BossbotTurnSpeedMax = 60

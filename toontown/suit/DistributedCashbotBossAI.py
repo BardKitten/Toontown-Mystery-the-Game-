@@ -16,7 +16,7 @@ import math
 
 class DistributedCashbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FSM):
     notify = DirectNotifyGlobal.directNotify.newCategory('DistributedCashbotBossAI')
-    maxGoons = 20
+    maxGoons = 15
     BossName = "CFO"
 
     def __init__(self, air):
@@ -181,17 +181,13 @@ class DistributedCashbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
         fpos = self.scene.getRelativePoint(self, Point3(v[0] + dx, v[1] + dy, 0))
         if goon.strength <= 40:
             style = ToontownGlobals.ToontownCentral
-<<<<<<< HEAD
-            healAmount = 10
-=======
             healAmount = 20
->>>>>>> 6b9c5bdc086b6f2266eab2cc2b56d7a5ccabfe33
         elif goon.strength <= 75:
             style = random.choice([ToontownGlobals.DonaldsDock, ToontownGlobals.DaisyGardens, ToontownGlobals.MinniesMelodyland])
-            healAmount = 6
+            healAmount = 12
         else:
             style = random.choice([ToontownGlobals.TheBrrrgh, ToontownGlobals.DonaldsDreamland])
-            healAmount = 1
+            healAmount = 6
         if self.recycledTreasures:
             treasure = self.recycledTreasures.pop(0)
             treasure.d_setGrab(0)
@@ -266,10 +262,10 @@ class DistributedCashbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
             self.goons.append(goon)
         if self.getBattleThreeTime() > 1.0:
             goon.STUN_TIME = 3
-            goon.b_setupGoon(velocity=2, hFov=90, attackRadius=20, strength=250, scale=3.3)
+            goon.b_setupGoon(velocity=2, hFov=90, attackRadius=20, strength=200, scale=3.3)
         else:
             goon.STUN_TIME = self.progressValue(8, 5)
-            goon.b_setupGoon(velocity=self.progressRandomValue(3, 7), hFov=self.progressRandomValue(70, 80), attackRadius=self.progressRandomValue(6, 10), strength=int(self.progressRandomValue(30, 151)), scale=self.progressRandomValue(1.0, 2.4))
+            goon.b_setupGoon(velocity=self.progressRandomValue(3, 7), hFov=self.progressRandomValue(70, 80), attackRadius=self.progressRandomValue(6, 10), strength=int(self.progressRandomValue(30, 101)), scale=self.progressRandomValue(1.0, 2.4))
         goon.request(side)
         return
 

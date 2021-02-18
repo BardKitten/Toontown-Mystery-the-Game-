@@ -17,9 +17,9 @@ from otp.ai.MagicWordGlobal import *
 
 class DistributedSellbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FSM):
     notify = DirectNotifyGlobal.directNotify.newCategory('DistributedSellbotBossAI')
-    limitHitCount = 3
+    limitHitCount = 6
     hitCountDamage = 15
-    numPies = 20
+    numPies = 30
     BossName = "VP"
 
     def __init__(self, air):

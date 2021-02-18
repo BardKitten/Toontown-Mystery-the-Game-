@@ -24,10 +24,10 @@ from toontown.toonbase import ToontownGlobals
 class DistributedBossbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FSM):
     notify = DirectNotifyGlobal.directNotify.newCategory('DistributedBossbotBossAI')
     maxToonLevels = 77
-    toonUpLevels = [2,
-     4,
-     6,
-     8]
+    toonUpLevels = [5,
+     10,
+     15,
+     20]
     BossName = "CEO"
 
     def __init__(self, air):
@@ -66,8 +66,8 @@ class DistributedBossbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
         self.toonupsGranted = []
         self.doneOvertimeOneAttack = False
         self.doneOvertimeTwoAttack = False
-        self.overtimeOneTime = simbase.air.config.GetInt('overtime-one-time', 90)
-        self.battleFourDuration = simbase.air.config.GetInt('battle-four-duration', 180)
+        self.overtimeOneTime = simbase.air.config.GetInt('overtime-one-time', 180)
+        self.battleFourDuration = simbase.air.config.GetInt('battle-four-duration', 300)
         self.overtimeOneStart = float(self.overtimeOneTime) / self.battleFourDuration
         self.moveAttackAllowed = True
 
@@ -355,7 +355,7 @@ class DistributedBossbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
                 suit = self.__genSuitObject(self.zoneId, 2, 'c', 2, 0)
             else:
                 suitType = 8
-                suitLevel = 30
+                suitLevel = 25
                 suit = self.__genSuitObject(self.zoneId, suitType, 'c', suitLevel, 1)
             active.append(suit)
 
@@ -408,7 +408,7 @@ class DistributedBossbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
         self.resetBattles()
         self.setupBattleFourObjects()
         self.battleFourStart = globalClock.getFrameTime()
-        self.waitForNextAttack(3)
+        self.waitForNextAttack(5)
 
     def exitBattleFour(self):
         self.recordCeoInfo()

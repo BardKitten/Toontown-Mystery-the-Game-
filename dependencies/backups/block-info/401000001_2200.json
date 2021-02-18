@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"48": {"becameSuitTime": 1613521806.568, "savedBy": null, "track": "s", "numFloors": "2", "difficulty": "2", "state": "suit", "block": "48"}, "44": {"becameSuitTime": 1613521527.192, "savedBy": null, "track": "m", "numFloors": "3", "difficulty": "2", "state": "suit", "block": "44"}, "28": {"becameSuitTime": 1613521625.708, "savedBy": null, "track": "s", "numFloors": "3", "difficulty": "3", "state": "suit", "block": "28"}}
-=======
-{"48": {"becameSuitTime": 1613193390.388, "savedBy": null, "track": "s", "numFloors": "0", "difficulty": "1", "state": "cogdo", "block": "48"}, "17": {"becameSuitTime": 1613193414.744, "savedBy": null, "track": "s", "numFloors": "3", "difficulty": "3", "state": "suit", "block": "17"}, "34": {"becameSuitTime": 1613193923.609, "savedBy": null, "track": "l", "numFloors": "2", "difficulty": "1", "state": "suit", "block": "34"}}
->>>>>>> 6b9c5bdc086b6f2266eab2cc2b56d7a5ccabfe33
+{}
