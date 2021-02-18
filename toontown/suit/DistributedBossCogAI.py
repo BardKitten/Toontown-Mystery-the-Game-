@@ -47,7 +47,11 @@ class DistributedBossCogAI(DistributedAvatarAI.DistributedAvatarAI):
          'Victory']
         self.bossDamage = 0
         self.battleThreeStart = 0
+<<<<<<< HEAD
         self.battleThreeDuration = 600
+=======
+        self.battleThreeDuration = 1200
+>>>>>>> 6b9c5bdc086b6f2266eab2cc2b56d7a5ccabfe33
         self.attackCode = None
         self.attackAvId = 0
         self.hitCount = 0
