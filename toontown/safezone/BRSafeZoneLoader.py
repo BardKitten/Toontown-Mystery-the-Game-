@@ -7,7 +7,7 @@ class BRSafeZoneLoader(SafeZoneLoader.SafeZoneLoader):
         SafeZoneLoader.SafeZoneLoader.__init__(self, hood, parentFSM, doneEvent)
         self.playgroundClass = BRPlayground.BRPlayground
         self.musicFile = 'phase_8/audio/bgm/TB_nbrhood.ogg'
-        self.activityMusicFile = 'phase_8/audio/bgm/TB_SZ_activity.mp3'
+        self.activityMusicFile = 'phase_8/audio/bgm/TB_SZ_activity.ogg'
         self.dnaFile = 'phase_8/dna/the_burrrgh_sz.pdna'
         self.safeZoneStorageDNAFile = 'phase_8/dna/storage_BR_sz.pdna'
 

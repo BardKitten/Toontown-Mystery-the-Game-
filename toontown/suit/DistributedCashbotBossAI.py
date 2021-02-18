@@ -179,10 +179,10 @@ class DistributedCashbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
         dx = radius * math.cos(angle)
         dy = radius * math.sin(angle)
         fpos = self.scene.getRelativePoint(self, Point3(v[0] + dx, v[1] + dy, 0))
-        if goon.strength <= 10:
+        if goon.strength <= 40:
             style = ToontownGlobals.ToontownCentral
             healAmount = 20
-        elif goon.strength <= 15:
+        elif goon.strength <= 75:
             style = random.choice([ToontownGlobals.DonaldsDock, ToontownGlobals.DaisyGardens, ToontownGlobals.MinniesMelodyland])
             healAmount = 12
         else:

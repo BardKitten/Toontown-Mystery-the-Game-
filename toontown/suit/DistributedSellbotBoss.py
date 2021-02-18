@@ -554,7 +554,7 @@ class DistributedSellbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
         self.rope.setTexture(self.cage.findTexture('hq_chain'))
         self.rope.setTransparency(1)
         self.promotionMusic = base.loadMusic('phase_9/audio/bgm/VP_intro.mp3')
-        self.betweenBattleMusic = base.loadMusic('phase_7/audio/bgm/VP_run_away.mp3')
+        self.betweenBattleMusic = base.loadMusic('phase_9/audio/bgm/VP_run_away.mp3')
         self.battleOneMusic = base.loadMusic('phase_9/audio/bgm/VP_round_one.mp3')
         self.battleTwoMusic = base.loadMusic('phase_9/audio/bgm/VP_round_2.mp3')
         self.battleThreeMusic = base.loadMusic('phase_9/audio/bgm/VP_Pie_Round.mp3')
