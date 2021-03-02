@@ -56,7 +56,9 @@
     "100000254": true,
     "100000261": true,
     "100000262": true,
-    "100000263": true
+    "100000263": true,
+    "100000266": true,
+    "100000270": true
   },
   "acceptingNonFriendWhispers": {
     "100000001": true,
@@ -115,7 +117,9 @@
     "100000254": true,
     "100000261": true,
     "100000262": true,
-    "100000263": true
+    "100000263": true,
+    "100000266": true,
+    "100000270": true
   },
   "acceptingTeleport": {
     "100000001": true,
@@ -174,7 +178,9 @@
     "100000254": true,
     "100000261": true,
     "100000262": true,
-    "100000263": true
+    "100000263": true,
+    "100000266": true,
+    "100000270": true
   },
   "cogInterface": true,
   "fov": 52.0,
@@ -182,7 +188,7 @@
   "fullscreen": false,
   "language": "English",
   "loadDisplay": "pandagl",
-  "musicVol": 0.5627407836914062,
+  "musicVol": 0.0,
   "preferredShard": "Mysteryville",
   "res": [
     640,
