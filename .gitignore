@@ -155,21 +155,17 @@ dmypy.json
 *.log
 *.pyc
 *.log
-dependencies/backups/block-info/401000001_3300.json
-dependencies/backups/block-info/401000001_9300.json
-dependencies/backups/block-info/401000001_9200.json
-dependencies/backups/block-info/401000001_9100.json
-dependencies/backups/block-info/401000001_5300.json
-dependencies/backups/block-info/401000001_5200.json
-dependencies/backups/block-info/401000001_5100.json
-dependencies/backups/block-info/401000001_4300.json
-dependencies/backups/block-info/401000001_4200.json
-dependencies/backups/block-info/401000001_4100.json
-dependencies/backups/block-info/401000001_3300.json
-dependencies/backups/block-info/401000001_3200.json
-dependencies/backups/block-info/401000001_3100.json
-dependencies/backups/block-info/401000001_1300.json
-dependencies/backups/block-info/401000001_1200.json
-dependencies/backups/block-info/401000001_1100.json
+
+dependencies/backups/
+
 *.pyc
 *.json
+<<<<<<< Updated upstream
+=======
+user/preferences.json
+*.pyc
+*.pyc
+*.pyc
+*.db
+dependencies/backups/block-info/401000001_5200.json
+>>>>>>> Stashed changes
