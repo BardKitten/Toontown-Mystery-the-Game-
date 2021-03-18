@@ -1,5 +1,5 @@
 # Window settings:
-window-title Toontown Mystery
+window-title Toontown Stride
 win-origin -1 -1
 icon-filename phase_3/etc/icon.ico
 cursor-filename phase_3/etc/toonmono.cur
@@ -77,16 +77,16 @@ want-game-tables #t
 
 # Cog headquarters:
 want-cog-headquarters #t
-want-fashionbot-headquarters #t
-want-carebot-headquarters #t
-want-jurybot-headquarters #t
-want-defenderbot-headquarters #t
+want-sellbot-headquarters #t
+want-cashbot-headquarters #t
+want-lawbot-headquarters #t
+want-bossbot-headquarters #t
 
 # Cog battles:
 base-xp-multiplier 1.0
 
 # SOS toons:
-sos-card-reward 3
+sos-card-reward 2
 
 # CogDominiums (Field Offices):
 want-emblems #t
@@ -108,5 +108,5 @@ want-dev #f
 want-pstats 0
 
 # Temporary:
-smooth-lag 0.0
+smooth-lag 0.4
 want-old-fireworks #t
