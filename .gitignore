@@ -5,6 +5,7 @@
 *.pyc
 dependencies/astron/databases/astrondb/
 dependencies/backups/block-info/
+*.pyc
 *.pyc 
 *.pyc
 *.pyo
