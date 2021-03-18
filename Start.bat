@@ -94,4 +94,3 @@ if %INPUT%==2 (
 pause
 
 goto launcher
-
