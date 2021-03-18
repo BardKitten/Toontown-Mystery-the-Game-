@@ -16,15 +16,7 @@ Play to find out! :D
 
 * Click on the folder after extracting, NOT THE ZIP file.
 
-* Install Panda3D-1.10.0, which is an installation in the source, click on it.
-
-* Click on dev.
-
-* Click on win32.
-
-* SINGLEPLAYER: Click Astron, Uberdog, AI, Startgame, in the start-game, press 1, enter, then type a username, enter.
-
-* MULTIPLAYER: Click start-game, press 3, enter, type in the mini-server, enter, then type a username, enter. (I will give out the game server.)
+* Run start.bat
 
 * Enjoy the game! If it works for you!!
 
