@@ -160,12 +160,10 @@ dependencies/backups/
 
 *.pyc
 *.json
-<<<<<<< Updated upstream
-=======
+
 user/preferences.json
 *.pyc
 *.pyc
 *.pyc
 *.db
 dependencies/backups/block-info/401000001_5200.json
->>>>>>> Stashed changes
