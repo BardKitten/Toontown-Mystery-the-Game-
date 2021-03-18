@@ -179,3 +179,10 @@ user/preferences.json
 *.pyc
 *.pyc
 *.pyc
+user/preferences.json
+dependencies/astron/databases/account-bridge.db
+dependencies/astron/databases/astrondb/info.yaml
+dependencies/astron/databases/account-bridge.db
+dependencies/astron/databases/astrondb/info.yaml
+dependencies/config/general.prc
+user/preferences.json
